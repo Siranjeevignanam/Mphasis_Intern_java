@@ -143,10 +143,8 @@ public class collectionsnew {
 	
 	public static void getTotPrice(List<orders> l1)
 	{
-		DoubleSummaryStatistics totPrice=l1.stream().collect(
-				Collectors.summarizingInt(l1::getPrice));
-		
-		System.out.println("Total Salary:"+totPrice.getSum());
+		DoubleSummaryStatistics tot=l1.stream().collect(Collectors.summarizingDouble(orders::getPrice));
+		System.out.println("Total price:"+tot.getSum());
 	}
 	public static void main(String[] args) {
 		List<orders> l1=new ArrayList<orders>();
@@ -170,6 +168,8 @@ public class collectionsnew {
 		collectionsnew.firstandlast(l1);
 		System.out.println("\n");
 		collectionsnew.getMaxPrice(l1);
+		System.out.println("\n");
+		collectionsnew.getTotPrice(l1);
 		
 	}
 
