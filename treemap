@@ -1,0 +1,42 @@
+package dayeight;
+
+import java.util.Iterator;
+import java.util.Map.Entry;
+import java.util.TreeMap;
+
+public class treemap {
+public static void main(String[] args) {
+	TreeMap<Integer,String> t1=new TreeMap<>();
+	 
+	 t1.put(7, "MS");
+	 t1.put(1, "KL");
+	 t1.put(25, "SD");
+	 t1.put(15, "BK");
+	 t1.put(17, "RP");
+	 t1.put(17, "ABD");
+	 t1.put(7, "SG");
+	 t1.put(19, "DK");
+	 
+	 System.out.println(t1.size());
+	 
+	 Iterator<Entry<Integer,String>> itr=t1.entrySet().iterator();
+while(itr.hasNext())
+{
+	Entry<Integer,String> et=itr.next();
+	System.out.println("Key:"+et.getKey()+" Value:"+et.getValue());
+}
+
+System.out.println("\n");
+for(Integer i:t1.keySet())
+{
+	System.out.println(i);
+}
+System.out.println("\n");
+for(String k:t1.values())
+{
+	System.out.println(k);
+}
+System.out.println("\n");
+t1.forEach((k,v)->System.out.println(k+" "+v));
+}
+}
