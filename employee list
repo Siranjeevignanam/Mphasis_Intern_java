@@ -1,0 +1,244 @@
+package dayeight;
+
+import java.util.ArrayList;
+import java.util.Comparator;
+import java.util.DoubleSummaryStatistics;
+import java.util.List;
+import java.util.Map;
+import java.util.Optional;
+import java.util.stream.Collectors;
+
+
+class emp {
+	private int id;
+	private String name;
+	private int age;
+	private String gender;
+	private String department;
+	private int doj;
+	private double salary;
+	
+	
+	
+	public int getId() {
+		return id;
+	}
+
+	public void setId(int id) {
+		this.id = id;
+	}
+	
+	
+
+	public String getName() {
+		return name;
+	}
+
+	public void setName(String name) {
+		this.name = name;
+	}
+
+	
+	
+	public int getAge() {
+		return age;
+	}
+
+	public void setAge(int age) {
+		this.age = age;
+	}
+
+	
+	
+	public String getGender() {
+		return gender;
+	}
+
+	public void setGender(String gender) {
+		this.gender = gender;
+	}
+
+	
+	
+	public String getDepartment() {
+		return department;
+	}
+
+	public void setDepartment(String department) {
+		this.department = department;
+	}
+	
+	
+
+	public int getDoj() {
+		return doj;
+	}
+
+	public void setDoj(int doj) {
+		this.doj = doj;
+	}
+
+	
+	
+	public double getSalary() {
+		return salary;
+	}
+
+	public void setSalary(double salary) {
+		this.salary = salary;
+	}
+
+	
+	public emp(int id, String name, int age, String gender, String department, int doj, double salary) {
+		super();
+		this.id = id;
+		this.name = name;
+		this.age = age;
+		this.gender = gender;
+		this.department = department;
+		this.doj = doj;
+		this.salary = salary;
+	}
+
+	@Override
+	public String toString() {
+		return "emp [id=" + id + ", name=" + name + ", age=" + age + ", gender=" + gender + ", department=" + department
+				+ ", doj=" + doj + ", salary=" + salary + "]";
+	}
+	public emp()
+	{
+		
+	}
+
+
+}
+
+public class employees
+
+//1.) Find out count of male and female employee
+//2.)print all the departments
+//3.))average age of male and female
+//4.))name of employees after 2015
+//5.))Count number of employees from each dept
+//6.))avg salary of each dept
+//7.))oldest employee
+//8.))avg and total salary of company
+//9.))Employees from each department
+//10.))Most experienced employee
+{
+	
+	public static void genderCount(List<emp> elist)
+	{
+		Map<String,Long> result=elist.stream().
+				collect(Collectors.groupingBy(emp::getGender,Collectors.counting()));
+		System.out.println(result);
+	}
+	
+	public static void deptName(List<emp> elist)
+	{
+		elist.stream().map(emp::getDepartment).distinct()
+		.forEach(dpt->System.out.println(dpt));
+	}
+	public static void getAverageAge(List <emp> elist)
+	{
+		Map<String,Double> avgData=elist.stream().collect(Collectors.groupingBy(emp::getGender,Collectors.averagingInt(emp::getAge)));
+		System.out.println(avgData);
+	}
+	
+	public static void empName(List<emp> elist)
+	{
+		elist.stream().filter(e->e.getDoj()>2015)
+		.map(emp::getName).forEach(System.out::println);
+	}
+	
+	public static void deptCount(List<emp> elist)
+	{
+		Map<String,Long> res=elist.stream().
+				collect(Collectors.groupingBy(emp::getDepartment,Collectors.counting()));
+		System.out.println(res);
+	}
+	public static void getAvgSalary(List<emp> elist)
+	{
+		Map<String,Double> result=elist.stream().collect(Collectors.
+				groupingBy(emp::getDepartment,Collectors.averagingDouble(emp::getSalary)));
+		result.forEach((k,v)->System.out.println(k+" -->"+v));
+	}
+	
+	public static void getOldEmp(List<emp> elist)
+	{
+		Optional<emp> oldemp=elist.stream().max(Comparator.comparing(emp::getAge));
+		emp edata=oldemp.get();
+		System.out.println("Name:"+edata.getName()+" Age:"+edata.getAge()+" Department:"+edata.getDepartment()+"Salay:"+edata.getSalary());
+	}
+	
+	public static void getAvgTotSal(List<emp> elist)
+	{
+		DoubleSummaryStatistics salResult=elist.stream().collect(
+				Collectors.summarizingDouble(emp::getSalary));
+		System.out.println("Avergae Salary:"+salResult.getAverage());
+		System.out.println("Total Salary:"+salResult.getSum());
+	}
+	
+	public static void listEmp(List<emp> elist)
+	{
+		Map<String,List<emp>> elistDpt= elist.stream().
+				collect(Collectors.groupingBy(emp::getDepartment));
+		for(String k:elistDpt.keySet())
+		{
+			System.out.println("Departments:"+k);
+			List<emp> e=elistDpt.get(k);
+			for(emp dt:e)
+			{
+				System.out.println(dt);
+			}
+		}
+	}
+		public static void seniorEmp(List<emp> elist)
+		{
+			Optional<emp> seniorEmp=elist.stream().sorted(Comparator.comparing(emp::getDoj)).findFirst();
+			emp ed=seniorEmp.get();
+			System.out.println("Senior employee:");
+			
+			System.out.println("Name:"+ed.getName());
+			System.out.println("Id:"+ed.getId());
+			System.out.println("Age:"+ed.getAge());
+			System.out.println("Department:"+ed.getDepartment());
+		}
+
+	
+	public static void main(String[] args) 
+	{
+		List<emp> elist=new ArrayList<emp>();
+		
+		elist.add(new emp(111,"Siranjeevi",32,"Male","HR",2011,25000.0));
+		elist.add(new emp(122,"Guhan",25,"Male","Sales",2015,13500.0));
+		elist.add(new emp(133,"Sooraj Krishna",29,"Male","HR",2014,18000.0));
+		elist.add(new emp(144,"Kavin",28,"Male","Finance",2012,32500.0));
+		elist.add(new emp(155,"Shibu George",27,"Male","HR",2011,10500.0));
+		elist.add(new emp(166,"Hemananth",43,"Male","Security",2014,2000.0));
+		elist.add(new emp(188,"Srija",35,"Female","Accounts",2013,29500.0));
+		elist.add(new emp(199,"Swetha",31,"Female","Marketing",2016,25500.0));
+		elist.add(new emp(222,"Priya",31,"Female","Product",2015,35000.0));
+		elist.add(new emp(233,"Parveen",24,"Female","Finance",2014,16500.0));
+		elist.add(new emp(244,"Subiksha",38,"Female","Transport",2011,20500.0));
+		elist.add(new emp(255,"Thanushree",27,"Female","Accounts",2016,21000.0));
+		elist.add(new emp(266,"Ajay Kumar",25,"Male","HR",2017,15000.0));
+		elist.add(new emp(277,"Kishore",27,"Male","Finance",2018,27000.0));
+		elist.add(new emp(288,"Akhil",24,"Male","Marketing",2019,25050.0));
+		elist.add(new emp(299,"Dhanush",23,"Male","Transport",2021,23200.0));
+		elist.add(new emp(322,"Tharun",26,"Male","HR",2011,29000.0));
+		elist.add(new emp(333,"Birundha",29,"Female","Accounts",2021,29500.0));
+		
+		employees.genderCount(elist);
+		employees.deptName(elist);
+		employees.getAverageAge(elist);
+		employees.empName(elist);
+		employees.deptCount(elist);
+		employees.getAvgSalary(elist);
+		employees.getOldEmp(elist);
+		employees.getAvgTotSal(elist);
+		employees.listEmp(elist);
+		employees.seniorEmp(elist);
+	}
+	
+}
