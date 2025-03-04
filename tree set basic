@@ -1,0 +1,38 @@
+package dayeight;
+
+import java.util.Iterator;
+import java.util.TreeSet;
+
+import javax.xml.crypto.Data;
+
+public class treeset {
+	public static void main(String[] args) {
+		//collection =new TreeSet();
+		//Set =new TreeSet();
+		
+		TreeSet<String >d1=new TreeSet<>();
+		d1.add("Java");
+		d1.add("Python");
+		d1.add("C");
+		d1.add("C++");
+		d1.add("Digital electronics");
+		d1.add("Java");
+		d1.add("PYTHON");
+		d1.add("Embedded Systems");
+		d1.add("EmbeddedSystems");
+		
+		System.out.println(d1);
+		System.out.println(d1.reversed());
+		System.out.println("\n");
+		Iterator i1=d1.iterator();
+		while(i1.hasNext())
+		{
+			System.out.println(i1.next());
+		}
+		System.out.println("\n");
+		d1.forEach(dt->System.out.println(dt));
+		System.out.println("\n");
+		System.out.println(d1.subSet("C","Embedded Systems"));
+}
+
+}
