@@ -1,9 +1,11 @@
 package dayeight;
 
+import java.util.Collections;
 import java.util.HashSet;
 import java.util.Objects;
+import java.util.TreeSet;
 
-class Book
+class Book implements Comparable<Book>
 {
 	private int id;
 	
@@ -72,23 +74,30 @@ class Book
 		return Objects.equals(author, other.author) && id == other.id && Objects.equals(name, other.name)
 				&& price == other.price;
 	}
+	@Override
+	public int compareTo(Book o) {
+		return this.price-o.price;
+	}
 	
 }
 public class newsets {
 	public static void main(String[] args) {
 		
-		HashSet<Book> b1=new HashSet<>();
+		TreeSet<Book> b1=new TreeSet<>();
 		b1.add(new Book("Java","Guhan",213,150));
-		b1.add(new Book("VLSI","Hemananth",215,180));
+		b1.add(new Book("VLSI","hemananth",215,180));
 		b1.add(new Book("Advanced Java","Kavin",221,170));
-		b1.add(new Book("Java OOPS","Siranjeevi",251,230));
+		b1.add(new Book("Java OOPS","siranjeevi",251,230));
 		b1.add(new Book("Computer graphics","Sooraj Krishna",252,250));
-		b1.add(new Book("Photography","Shibu George",605,520));
+		b1.add(new Book("Photography","shibu George",605,520));
 		b1.add(new Book("Forest","Kishore",224,200));
 		
 		b1.forEach(bt->System.out.println(bt.getName()+" "+bt.getId()+" "+bt.getAuthor()+" "+bt.getPrice()));
 	System.out.println("\n");
 	
+	
+	
+	System.out.println("\n"); 
 		b1.parallelStream().
 	filter(bk->bk.getPrice()<200).forEach(bk->System.out.println(bk.getName()+" "+bk.getId()+" "+bk.getAuthor()+" "+bk.getPrice()));
 		System.out.println("\n");
@@ -96,6 +105,8 @@ public class newsets {
 		b1.parallelStream().
 		filter(bk->bk.getPrice()>=200 && bk.getPrice()<=300).forEach(bk->System.out.println(bk.getName()+" "+bk.getId()+" "+bk.getAuthor()+" "+bk.getPrice()));
 	
+
+		
 	}
 
 }
