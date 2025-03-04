@@ -1,0 +1,179 @@
+package dayeight;
+
+import java.util.ArrayList;
+import java.util.Comparator;
+import java.util.DoubleSummaryStatistics;
+import java.util.List;
+import java.util.Map;
+import java.util.Optional;
+import java.util.stream.Collectors;
+
+
+
+
+class orders
+{
+	private String orderName;
+	private int orderId;
+	private int price;
+	private int date;
+	private int quantity;
+	private String category;
+	private String city;
+	
+	
+	public orders(String orderName, int orderId, 
+			int price, int date, int quantity,
+			String category, String city) {
+	
+		this.orderName = orderName;
+		this.orderId = orderId;
+		this.price = price;
+		this.date = date;
+		this.quantity = quantity;
+		this.category = category;
+		this.city = city;
+	}
+	
+	public String getOrderName() {
+		return orderName;
+	}
+	public void setOrderName(String orderName) {
+		this.orderName = orderName;
+	}
+	public int getOrderId() {
+		return orderId;
+	}
+	public void setOrderId(int orderId) {
+		this.orderId = orderId;
+	}
+	public int getPrice() {
+		return price;
+	}
+	public void setPrice(int price) {
+		this.price = price;
+	}
+	public int getDate() {
+		return date;
+	}
+	public void setDate(int date) {
+		this.date = date;
+	}
+	public int getQuantity() {
+		return quantity;
+	}
+	public void setQuantity(int quantity) {
+		this.quantity = quantity;
+	}
+	public String getCategory() {
+		return category;
+	}
+	public void setCategory(String category) {
+		this.category = category;
+	}
+	public String getCity() {
+		return city;
+	}
+	public void setCity(String city) {
+		this.city = city;
+	}
+	
+	@Override
+	public String toString() {
+		return "orders [orderName=" + orderName + ", orderId=" + orderId + ", price=" + price + ", date=" + date
+				+ ", quantity=" + quantity + ", category=" + category + ", city=" + city + "]";
+	}
+
+//order from each category
+	
+	
+	
+}
+
+//dress,accessories,education,sport,groceries,food
+
+public class collectionsnew {
+	
+	public static void orderList(List<orders> l1)
+	{
+		System.out.println("Items based on categories:");
+		Map<String,List<orders>> ordrCat= l1.stream().
+				collect(Collectors.groupingBy(orders::getCategory));
+		for(String k:ordrCat.keySet())
+		{
+			System.out.println("Categories:"+k);
+			List<orders> o=ordrCat.get(k);
+			for(orders dt:o)
+			{
+				System.out.println(dt);
+			}
+		}
+	}
+	
+	public static void firstandlast(List<orders> l1)
+	
+	{
+		
+		Optional<orders> fandl=l1.stream().sorted(Comparator.comparing(orders::getDate)).findFirst();
+		orders od=fandl.get();
+		System.out.println("First buy:");
+		System.out.println("Name:"+od.getOrderName());
+		System.out.println("Id:"+od.getOrderId());
+		System.out.println("Category:"+od.getCategory());
+		System.out.println("Year"+od.getDate());
+		
+		
+	}
+	
+	public static void getMaxPrice(List<orders> l1)
+	{
+		System.out.println("Maximum price:");
+		Optional<orders> maxPrice=l1.stream().max(Comparator.comparing(orders::getPrice));
+		orders od=maxPrice.get();
+		System.out.println("Name:"+od.getOrderName()+" Id:"+od.getOrderId()+" Category:"+od.getCategory()+" Price:"+od.getPrice());
+	}
+	
+	public static void getMinPriceandTotal(List<orders> l1)
+	{
+		System.out.println("Minimum price:");
+		Optional<orders> maxPrice=l1.stream().min(Comparator.comparing(orders::getPrice));
+		orders od=maxPrice.get();
+		System.out.println("Name:"+od.getOrderName()+" Id:"+od.getOrderId()+" Category:"+od.getCategory()+" Price:"+od.getPrice());
+	}
+	
+	public static void getTotPrice(List<orders> l1)
+	{
+		DoubleSummaryStatistics totPrice=l1.stream().collect(
+				Collectors.summarizingInt(l1::getPrice));
+		
+		System.out.println("Total Salary:"+totPrice.getSum());
+	}
+	public static void main(String[] args) {
+		List<orders> l1=new ArrayList<orders>();
+		l1.add(new orders("Shirt",123,2400,2017,2,"Dress","Chennai"));
+		l1.add(new orders("Chain",456,400,2019,1,"Accessories","Coimbatore"));
+		l1.add(new orders("Bat",789,2000,2024,4,"Sport","HYderabad"));
+		l1.add(new orders("Java Book",910,1200,2025,2,"Education","Chennai"));
+		l1.add(new orders("T-Shirt",190,2000,2017,3,"Dress","Delhi"));
+		l1.add(new orders("Pant",231,240,2018,1,"Dress","Banglore"));
+		l1.add(new orders("Notebook",321,25,2021,1,"Education","Chennai"));
+		l1.add(new orders("Ring",251,500,2015,3,"Accessories","Coimbatore"));
+		l1.add(new orders("Ball",252,30,2020,1,"Sport","Jaipur"));
+		l1.add(new orders("Biriyani",1200,2020,2017,5,"Food","Cochin"));
+		l1.add(new orders("Stumps",400,2025,2017,3,"Sport","Banglore"));
+		l1.add(new orders("Noodles",400,2019,2017,4,"Food","Mysore"));
+		l1.add(new orders("Oil",213,90,2016,3,"Groceries","Cochin"));
+		l1.add(new orders("Milk",281,250,2022,4,"Groceries","Pune"));
+		
+		collectionsnew.orderList(l1);
+		System.out.println("\n");
+		collectionsnew.firstandlast(l1);
+		System.out.println("\n");
+		collectionsnew.getMaxPrice(l1);
+		
+	}
+
+}
+
+
+
