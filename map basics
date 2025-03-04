@@ -1,0 +1,36 @@
+package dayeight;
+
+import java.util.HashMap;
+import java.util.Map;
+import java.util.Iterator;
+import java.util.LinkedHashMap;
+import java.util.Map.Entry;
+
+public class maps {
+
+	public static void main(String[] args) {
+		//Map m1=new HashMap<>();
+		
+		LinkedHashMap m1=new LinkedHashMap<>();
+		
+		
+		m1.put("Java",17);
+		m1.put(23,19);
+		m1.put(23,"TwoThree");
+		m1.put('a',"Tree");
+		m1.put(27,'t');
+		m1.put('b',19);
+		m1.put("Mphasis",'s');
+		
+		System.out.println(m1);
+		
+		Iterator<Entry> itr=m1.entrySet().iterator();
+		
+		while(itr.hasNext())
+		{
+			Entry et=itr.next();
+			System.out.println(et.getKey()+"-->"+et.getValue());
+		}
+		
+	}
+}
