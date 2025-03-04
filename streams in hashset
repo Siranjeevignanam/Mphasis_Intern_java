@@ -1,0 +1,101 @@
+package dayeight;
+
+import java.util.HashSet;
+import java.util.Objects;
+
+class Book
+{
+	private int id;
+	
+	private String name;
+	private int price;
+	private String author;
+	
+////////////////////////////////
+	public int getId()
+	{
+		return id;
+	}
+	public void setId(int id) {
+		this.id = id;
+	}
+////////////////////////////////
+	public String getName() {
+		return name;
+	}
+	public void setName(String name) {
+		this.name = name;
+	}
+////////////////////////////////
+	public int getPrice() {
+		return price;
+	}
+	public void setPrice(int price) {
+		this.price = price;
+	}
+////////////////////////////////
+	public String getAuthor() {
+		return author;
+	}
+	public void setAuthor(String author) {
+		this.author = author;
+	}
+	
+	public String toString()
+	{
+		return "Book:"+name+ " Author:"+author+" Id"+id+" Price:"+price;
+	}
+	public Book(String name,String author,int id,int price)
+	{
+		this.name=name;
+		this.author=author;
+		this.price=price;
+		this.id=id;
+	}
+	public Book()
+	{
+		
+	}
+////////////////////////////////to avoid duplicates hashcode and equals
+	public int hashCode() {
+		return Objects.hash(author, id, name, price);
+	}
+	@Override
+	public boolean equals(Object obj) {
+		if (this == obj)
+			return true;
+		if (obj == null)
+			return false;
+		if (getClass() != obj.getClass())
+			return false;
+		Book other = (Book) obj;
+		return Objects.equals(author, other.author) && id == other.id && Objects.equals(name, other.name)
+				&& price == other.price;
+	}
+	
+}
+public class newsets {
+	public static void main(String[] args) {
+		
+		HashSet<Book> b1=new HashSet<>();
+		b1.add(new Book("Java","Guhan",213,150));
+		b1.add(new Book("VLSI","Hemananth",215,180));
+		b1.add(new Book("Advanced Java","Kavin",221,170));
+		b1.add(new Book("Java OOPS","Siranjeevi",251,230));
+		b1.add(new Book("Computer graphics","Sooraj Krishna",252,250));
+		b1.add(new Book("Photography","Shibu George",605,520));
+		b1.add(new Book("Forest","Kishore",224,200));
+		
+		b1.forEach(bt->System.out.println(bt.getName()+" "+bt.getId()+" "+bt.getAuthor()+" "+bt.getPrice()));
+	System.out.println("\n");
+	
+		b1.parallelStream().
+	filter(bk->bk.getPrice()<200).forEach(bk->System.out.println(bk.getName()+" "+bk.getId()+" "+bk.getAuthor()+" "+bk.getPrice()));
+		System.out.println("\n");
+		
+		b1.parallelStream().
+		filter(bk->bk.getPrice()>=200 && bk.getPrice()<=300).forEach(bk->System.out.println(bk.getName()+" "+bk.getId()+" "+bk.getAuthor()+" "+bk.getPrice()));
+	
+	}
+
+}
