@@ -146,6 +146,14 @@ public class collectionsnew {
 		DoubleSummaryStatistics tot=l1.stream().collect(Collectors.summarizingDouble(orders::getPrice));
 		System.out.println("Total price:"+tot.getSum());
 	}
+	
+	public static void getAveragePrice(List <orders> l1)
+	{
+		Map<Integer,Double> avgPrice=l1.stream().collect(Collectors.groupingBy(orders::getDate,Collectors.averagingDouble(orders::getPrice)));
+		System.out.println(avgPrice);
+	}
+	
+	
 	public static void main(String[] args) {
 		List<orders> l1=new ArrayList<orders>();
 		l1.add(new orders("Shirt",123,2400,2017,2,"Dress","Chennai"));
@@ -170,6 +178,8 @@ public class collectionsnew {
 		collectionsnew.getMaxPrice(l1);
 		System.out.println("\n");
 		collectionsnew.getTotPrice(l1);
+		System.out.println("\n");
+    	 collectionsnew.getAveragePrice(l1);
 		
 	}
 
