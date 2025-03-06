@@ -1,0 +1,78 @@
+package com.junits;
+
+
+
+public class listExample {
+	private int empid;
+	private String empname;
+	private int date;
+	private int salary;
+	private String dep;
+	
+	
+	public listExample(int empid, String empname, int date, int salary, String dep) {
+		super();
+		this.empid = empid;
+		this.empname = empname;
+		this.date = date;
+		this.salary = salary;
+		this.dep = dep;
+	}
+	
+	public listExample()
+	{
+		
+	}
+	public int getEmpid() {
+		return empid;
+	}
+	public void setEmpid(int empid) {
+		this.empid = empid;
+	}
+	public String getEmpname() {
+		return empname;
+	}
+	public void setEmpname(String empname) {
+		this.empname = empname;
+	}
+	public int getDate() {
+		return date;
+	}
+	public void setDate(int date) {
+		this.date = date;
+	}
+	public int getSalary() {
+		return salary;
+	}
+	public void setSalary(int salary) {
+		this.salary = salary;
+		
+		if(salary==0)
+		{
+			throw new IllegalArgumentException("Salary can't be zero");
+			
+		}
+		else
+		{
+			if(salary<5000)
+			{
+				throw new IllegalArgumentException("Salary is low");
+				
+			}
+			else if(salary>=5000)
+			{
+				throw new IllegalArgumentException("Salary is high");
+				
+			}
+		}
+	}
+	public String getDep() {
+		return dep;
+	}
+	public void setDep(String dep) {
+		this.dep = dep;
+	}
+	
+	
+
+}
