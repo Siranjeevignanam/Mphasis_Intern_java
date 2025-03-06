@@ -1,0 +1,106 @@
+package com.junits;
+
+import java.util.Arrays;
+import java.util.List;
+
+import org.junit.After;
+import org.junit.AfterClass;
+import org.junit.Before;
+import org.junit.BeforeClass;
+import org.junit.Test;
+
+import org.hamcrest.collection.IsEmptyCollection;
+import static org.hamcrest.CoreMatchers.hasItems;
+import static org.hamcrest.CoreMatchers.is;
+import static org.junit.Assert.assertEquals;
+import static org.junit.Assert.assertThat;
+import static org.junit.Assert.assertThrows;
+
+
+public class listTest {
+	public void empCollect()
+	{
+		List<listExample> l1=Arrays.asList(
+				new listExample(7,"MS",2014,7500,"Management"),
+				new listExample(17,"RP",2018,4500,"Skill devlopement"),
+				new listExample(27,"AR",2016,6500,"HR"),
+				new listExample(47,"DJ",2008,2500,"Sports"),
+				new listExample(77,"SG",2009,9500,"Transport")
+				);
+		
+	}
+	listExample obj;
+	@BeforeClass
+	public static void beforeClass() 
+	{
+		System.out.println("BEFORE ALL TEST CASES ONLY ONE TIME");
+	
+	
+	}
+	
+	@AfterClass
+	public static void afterClass() 
+	{
+		System.out.println("AFTER ALL TEST CASES ONLY ONE TIME");
+	
+	
+	}
+@Before
+	public void setUp()
+	{
+		System.out.println("EXECUTES EVERY TEST METHOD BEFORE EXECUTION");
+	obj=new listExample();
+	}
+@After
+	public void setDown()
+	{
+		System.out.println("EXECUTES EVERY TESTING METHOD AFTER EXECUTION");
+	obj=null;
+	}
+
+	
+	@Test
+	public void testSalaryZero()
+	
+	{
+		
+			Throwable exception=assertThrows(IllegalArgumentException.class,()->{
+				listExample obj=new listExample();
+				obj.setSalary(0);
+				
+			});
+			assertEquals("Salary can't be zero",exception.getMessage());
+			System.out.println(exception.getMessage());
+			System.out.println("\n");
+		}
+	@Test
+	
+	public void testLowSalary()
+	{
+		Throwable exception=assertThrows(IllegalArgumentException.class,()->{
+			listExample obj=new listExample();
+			obj.setSalary(2000);
+			
+		});
+		assertEquals("Salary is low",exception.getMessage());
+		System.out.println(exception.getMessage());
+		System.out.println("\n");
+		
+	}
+
+	@Test
+	
+	public void testHighSalary()
+	{
+		Throwable exception=assertThrows(IllegalArgumentException.class,()->{
+			listExample obj=new listExample();
+			obj.setSalary(7000);
+			
+		});
+		assertEquals("Salary is high",exception.getMessage());
+		System.out.println(exception.getMessage());
+		System.out.println("\n");
+	}
+	
+	
+}
