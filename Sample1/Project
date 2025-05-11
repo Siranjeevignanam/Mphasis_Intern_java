@@ -1,0 +1,82 @@
+package sam_main;
+
+
+import com.mongodb.client.*;
+import org.bson.Document;
+
+import java.io.*;
+import java.nio.file.*;
+import java.time.*;
+import java.time.format.DateTimeFormatter; //javap -verbose MongoToPojoTextWriter.class | findstr "major"
+
+import java.util.*;
+
+public class Project {
+
+    public static void main(String[] args) throws IOException {
+        String uri = "mongodb://localhost:27017"; // Adjust if needed
+        try (MongoClient mongoClient = MongoClients.create(uri)) {
+            MongoDatabase db = mongoClient.getDatabase("Customer");
+            MongoCollection<Document> collection = db.getCollection("Transaction");
+
+            FindIterable<Document> records = collection.find();
+
+            Map<String, List<String>> groupedByDate = new HashMap<>();
+            DateTimeFormatter dateFormatter = DateTimeFormatter.ofPattern("dd-MM-yyyy");
+
+            for (Document doc : records) {
+                Customer customer = new Customer(
+                        doc.getString("customer_id"),
+                        doc.getString("customer_name"),
+                        doc.getString("email"),
+                        doc.getString("mobile"),
+                        doc.getString("address")
+                );
+
+                Transaction transaction = new Transaction(
+                        doc.getString("transaction_id"),
+                        doc.get("amount", Number.class).doubleValue(),
+                        doc.getString("receiver"),
+                        doc.getString("timestamp"),
+                        doc.getString("status")
+                );
+
+                String dateKey = LocalDate.parse(transaction.timestamp().substring(0, 10))
+                        .format(dateFormatter);
+
+                String line = String.join(" | ",
+                        customer.customerId(),
+                        customer.customerName(),
+                        customer.email(),
+                        customer.mobile(),
+                        customer.address(),
+                        transaction.transactionId(),
+                        String.valueOf(transaction.amount()),
+                        transaction.receiver(),
+                        transaction.timestamp(),
+                        transaction.status()
+                );
+
+                groupedByDate.computeIfAbsent(dateKey, k -> new ArrayList<>()).add(line);
+            }
+
+            // Write to text files
+            for (Map.Entry<String, List<String>> entry : groupedByDate.entrySet()) {
+                String filename = entry.getKey() + ".txt";
+                Path filePath = Paths.get(filename);
+
+                try (BufferedWriter writer = Files.newBufferedWriter(filePath)) {
+                    writer.write("CustomerID | CustomerName | Email | Mobile | Address | TransactionID | Amount | Receiver | Timestamp | Status");
+                    writer.newLine();
+                    for (String line : entry.getValue()) {
+                        writer.write(line);
+                        writer.newLine();
+                    }
+                }
+            }
+
+            System.out.println("Data exported successfully into text files by date.");
+        }
+    }
+}
+
