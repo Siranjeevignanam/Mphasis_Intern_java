@@ -1,0 +1,10 @@
+package sam_main;
+
+public record Customer(
+	    String customerId,
+	    String customerName,
+	    String email,
+	    String mobile,
+	    String address
+	) {}
+
