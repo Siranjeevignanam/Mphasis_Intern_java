@@ -1,0 +1,65 @@
+package sample3;
+
+import com.github.javafaker.Faker;
+import com.google.gson.Gson;
+import com.google.gson.GsonBuilder;
+
+import java.util.*;
+
+public class newFaker {
+
+    static class Transaction {
+        String customer_id;
+        String customer_name;
+        String mobile;
+        String email;
+        String address;
+        String transaction_id;
+        String timestamp;
+        double amount;
+        String receiver;
+        String status;
+
+        public Transaction(String customer_id, String customer_name, String mobile, String email,
+                           String address, String transaction_id, String timestamp, double amount,
+                           String receiver, String status) {
+            this.customer_id = customer_id;
+            this.customer_name = customer_name;
+            this.mobile = mobile;
+            this.email = email;
+            this.address = address;
+            this.transaction_id = transaction_id;
+            this.timestamp = timestamp;
+            this.amount = amount;
+            this.receiver = receiver;
+            this.status = status;
+        }
+        
+    }
+
+    public static void main(String[] args) {
+        Faker faker = new Faker();
+        List<Transaction> transactions = new ArrayList<>();
+        Random random = new Random();
+
+        for (int i = 0; i < 25; i++) {
+            String customerId = UUID.randomUUID().toString();
+            String customerName = faker.name().fullName();
+            String mobile = faker.phoneNumber().cellPhone();
+            String email = faker.internet().emailAddress();
+            String address = faker.address().fullAddress();
+            String transactionId = UUID.randomUUID().toString();
+            String timestamp = faker.date().past(365, java.util.concurrent.TimeUnit.DAYS).toInstant().toString();
+            double amount = Math.round((50 + random.nextDouble() * 9500) * 100.0) / 100.0;  // Between 50 and 9550
+            String receiver = faker.name().fullName();
+            String status = random.nextBoolean() ? "SUCCESS" : "FAILED";
+
+            transactions.add(new Transaction(customerId, customerName, mobile, email,
+                    address, transactionId, timestamp, amount, receiver, status));
+        }
+
+        Gson gson = new GsonBuilder().setPrettyPrinting().create();
+        String jsonOutput = gson.toJson(transactions);
+        System.out.println(jsonOutput);
+    }
+}
