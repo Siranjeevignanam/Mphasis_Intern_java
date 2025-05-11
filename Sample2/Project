@@ -1,0 +1,87 @@
+package sam_project2;
+
+import com.mongodb.client.*;
+import org.bson.Document;
+
+import java.io.*;
+import java.nio.file.*;
+import java.time.*;
+import java.time.format.DateTimeFormatter;
+
+public class Project {
+
+    public static void main(String[] args) {
+        String connectionString = "mongodb://localhost:27017"; // Use your Mongo URI
+        String databaseName = "yourDatabase";
+        String collectionName = "yourCollection";
+
+        DateTimeFormatter inputFormatter = DateTimeFormatter.ISO_DATE_TIME;
+        DateTimeFormatter fileNameFormatter = DateTimeFormatter.ofPattern("dd-MM-yyyy");
+
+        try (MongoClient mongoClient = MongoClients.create(connectionString)) {
+            MongoDatabase database = mongoClient.getDatabase(databaseName);
+            MongoCollection<Document> collection = database.getCollection(collectionName);
+
+            for (Document doc : collection.find()) {
+
+                // Extract and format the date
+                String timestampStr = doc.getString("timestamp");
+                LocalDate date = OffsetDateTime.parse(timestampStr, inputFormatter).toLocalDate();
+                String fileName = fileNameFormatter.format(date) + ".txt";
+
+                // Prepare POJOs
+                Customer customer = new Customer(
+                    doc.getString("customer_id"),
+                    doc.getString("customer_name"),
+                    doc.getString("mobile"),
+                    doc.getString("email"),
+                    doc.getString("address")
+                );
+
+                Transaction transaction = new Transaction(
+                    doc.getString("transaction_id"),
+                    timestampStr,
+                    doc.getDouble("amount"),
+                    doc.getString("receiver"),
+                    doc.getString("status")
+                );
+
+                // Prepare content
+                String content = String.format("""
+                        Customer ID: %s
+                        Name: %s
+                        Mobile: %s
+                        Email: %s
+                        Address: %s
+                        Transaction ID: %s
+                        Timestamp: %s
+                        Amount: %.2f
+                        Receiver: %s
+                        Status: %s
+                        -----------------------------
+                        """,
+                        customer.customerId(),
+                        customer.customerName(),
+                        customer.mobile(),
+                        customer.email(),
+                        customer.address(),
+                        transaction.transactionId(),
+                        transaction.timestamp(),
+                        transaction.amount(),
+                        transaction.receiver(),
+                        transaction.status()
+                );
+
+                // Write to file named after the date
+                Path filePath = Paths.get(fileName);
+                Files.writeString(filePath, content, StandardOpenOption.CREATE, StandardOpenOption.APPEND);
+            }
+
+            System.out.println("Data written to date-based text files.");
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+    }
+
+    
+}
