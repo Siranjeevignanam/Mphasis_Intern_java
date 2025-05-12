@@ -1,0 +1,132 @@
+Customer ID: CUST147140
+Name: Miss Jolanda Klocko
+Mobile: chet.king@gmail.com
+Email: 1-808-009-9032
+Address: 764 Goodwin Place, Purdystad, NM 71894-3228
+Transaction ID: TXN612417319
+Timestamp: Morris Nicolas Sr.
+Amount: 6179.54
+Receiver: Mon Dec 09 19:57:07 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST952639
+Name: Rodolfo Becker
+Mobile: clinton.cummerata@hotmail.com
+Email: (419) 573-2310
+Address: Suite 418 7036 Meg Station, Kristown, ND 94564-1582
+Transaction ID: TXN665031385
+Timestamp: Ruby Bode
+Amount: 9699.49
+Receiver: Mon Dec 09 05:31:13 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST258316
+Name: Heriberto Ziemann
+Mobile: lyndia.gottlieb@hotmail.com
+Email: 530.955.5956
+Address: Apt. 554 382 Kasha Mews, Andersontown, AZ 04926-0374
+Transaction ID: TXN457003288
+Timestamp: Petrina Crooks
+Amount: 8231.72
+Receiver: Tue Dec 10 01:14:22 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST408587
+Name: Sunni Kulas
+Mobile: noma.thompson@gmail.com
+Email: (161) 057-8674
+Address: Apt. 016 840 Howell Squares, Port Malvinaport, ID 87489-0752
+Transaction ID: TXN818964422
+Timestamp: Earl Dach
+Amount: 4185.00
+Receiver: Mon Dec 09 14:59:13 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST147140
+Name: Miss Jolanda Klocko
+Mobile: chet.king@gmail.com
+Email: 1-808-009-9032
+Address: 764 Goodwin Place, Purdystad, NM 71894-3228
+Transaction ID: TXN612417319
+Timestamp: Morris Nicolas Sr.
+Amount: 6179.54
+Receiver: Mon Dec 09 19:57:07 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST952639
+Name: Rodolfo Becker
+Mobile: clinton.cummerata@hotmail.com
+Email: (419) 573-2310
+Address: Suite 418 7036 Meg Station, Kristown, ND 94564-1582
+Transaction ID: TXN665031385
+Timestamp: Ruby Bode
+Amount: 9699.49
+Receiver: Mon Dec 09 05:31:13 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST258316
+Name: Heriberto Ziemann
+Mobile: lyndia.gottlieb@hotmail.com
+Email: 530.955.5956
+Address: Apt. 554 382 Kasha Mews, Andersontown, AZ 04926-0374
+Transaction ID: TXN457003288
+Timestamp: Petrina Crooks
+Amount: 8231.72
+Receiver: Tue Dec 10 01:14:22 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST408587
+Name: Sunni Kulas
+Mobile: noma.thompson@gmail.com
+Email: (161) 057-8674
+Address: Apt. 016 840 Howell Squares, Port Malvinaport, ID 87489-0752
+Transaction ID: TXN818964422
+Timestamp: Earl Dach
+Amount: 4185.00
+Receiver: Mon Dec 09 14:59:13 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST147140
+Name: Miss Jolanda Klocko
+Mobile: chet.king@gmail.com
+Email: 1-808-009-9032
+Address: 764 Goodwin Place, Purdystad, NM 71894-3228
+Transaction ID: TXN612417319
+Timestamp: Morris Nicolas Sr.
+Amount: 6179.54
+Receiver: Mon Dec 09 19:57:07 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST952639
+Name: Rodolfo Becker
+Mobile: clinton.cummerata@hotmail.com
+Email: (419) 573-2310
+Address: Suite 418 7036 Meg Station, Kristown, ND 94564-1582
+Transaction ID: TXN665031385
+Timestamp: Ruby Bode
+Amount: 9699.49
+Receiver: Mon Dec 09 05:31:13 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST258316
+Name: Heriberto Ziemann
+Mobile: lyndia.gottlieb@hotmail.com
+Email: 530.955.5956
+Address: Apt. 554 382 Kasha Mews, Andersontown, AZ 04926-0374
+Transaction ID: TXN457003288
+Timestamp: Petrina Crooks
+Amount: 8231.72
+Receiver: Tue Dec 10 01:14:22 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST408587
+Name: Sunni Kulas
+Mobile: noma.thompson@gmail.com
+Email: (161) 057-8674
+Address: Apt. 016 840 Howell Squares, Port Malvinaport, ID 87489-0752
+Transaction ID: TXN818964422
+Timestamp: Earl Dach
+Amount: 4185.00
+Receiver: Mon Dec 09 14:59:13 IST 2024
+Status: Failed
+-----------------------------

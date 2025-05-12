@@ -1,0 +1,66 @@
+Customer ID: CUST212696
+Name: Mr. Alma Kassulke
+Mobile: paul.legros@gmail.com
+Email: 706.212.8135
+Address: Apt. 616 3210 Maggio Loop, New Mauricioborough, WA 93154-4522
+Transaction ID: TXN809817824
+Timestamp: Marget Kautzer PhD
+Amount: 1960.77
+Receiver: Mon Jun 17 23:09:05 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST251227
+Name: Pam Dach DDS
+Mobile: lucilla.wilkinson@hotmail.com
+Email: 1-683-624-1806
+Address: 9384 Reyes Ferry, Darinhaven, WV 55714-4813
+Transaction ID: TXN262729537
+Timestamp: Felix Crona DVM
+Amount: 3716.12
+Receiver: Mon Jun 17 21:46:54 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST212696
+Name: Mr. Alma Kassulke
+Mobile: paul.legros@gmail.com
+Email: 706.212.8135
+Address: Apt. 616 3210 Maggio Loop, New Mauricioborough, WA 93154-4522
+Transaction ID: TXN809817824
+Timestamp: Marget Kautzer PhD
+Amount: 1960.77
+Receiver: Mon Jun 17 23:09:05 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST251227
+Name: Pam Dach DDS
+Mobile: lucilla.wilkinson@hotmail.com
+Email: 1-683-624-1806
+Address: 9384 Reyes Ferry, Darinhaven, WV 55714-4813
+Transaction ID: TXN262729537
+Timestamp: Felix Crona DVM
+Amount: 3716.12
+Receiver: Mon Jun 17 21:46:54 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST212696
+Name: Mr. Alma Kassulke
+Mobile: paul.legros@gmail.com
+Email: 706.212.8135
+Address: Apt. 616 3210 Maggio Loop, New Mauricioborough, WA 93154-4522
+Transaction ID: TXN809817824
+Timestamp: Marget Kautzer PhD
+Amount: 1960.77
+Receiver: Mon Jun 17 23:09:05 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST251227
+Name: Pam Dach DDS
+Mobile: lucilla.wilkinson@hotmail.com
+Email: 1-683-624-1806
+Address: 9384 Reyes Ferry, Darinhaven, WV 55714-4813
+Transaction ID: TXN262729537
+Timestamp: Felix Crona DVM
+Amount: 3716.12
+Receiver: Mon Jun 17 21:46:54 IST 2024
+Status: Success
+-----------------------------

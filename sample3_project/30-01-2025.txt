@@ -1,0 +1,33 @@
+Customer ID: CUST551573
+Name: Dr. Elmer Beatty
+Mobile: willie.boehm@gmail.com
+Email: 1-052-209-1653
+Address: 3565 Marcelo Inlet, Paulinestad, WV 43263-7760
+Transaction ID: TXN935686513
+Timestamp: Abraham Zemlak IV
+Amount: 186.30
+Receiver: Thu Jan 30 19:09:32 IST 2025
+Status: Success
+-----------------------------
+Customer ID: CUST551573
+Name: Dr. Elmer Beatty
+Mobile: willie.boehm@gmail.com
+Email: 1-052-209-1653
+Address: 3565 Marcelo Inlet, Paulinestad, WV 43263-7760
+Transaction ID: TXN935686513
+Timestamp: Abraham Zemlak IV
+Amount: 186.30
+Receiver: Thu Jan 30 19:09:32 IST 2025
+Status: Success
+-----------------------------
+Customer ID: CUST551573
+Name: Dr. Elmer Beatty
+Mobile: willie.boehm@gmail.com
+Email: 1-052-209-1653
+Address: 3565 Marcelo Inlet, Paulinestad, WV 43263-7760
+Transaction ID: TXN935686513
+Timestamp: Abraham Zemlak IV
+Amount: 186.30
+Receiver: Thu Jan 30 19:09:32 IST 2025
+Status: Success
+-----------------------------

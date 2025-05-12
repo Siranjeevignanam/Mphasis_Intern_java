@@ -1,0 +1,66 @@
+Customer ID: CUST340597
+Name: Earnest Yost
+Mobile: anjelica.feeney@yahoo.com
+Email: (327) 024-2854
+Address: Suite 109 1531 Hollis Common, North Vickeychester, PA 64303-3580
+Transaction ID: TXN751895313
+Timestamp: Joella Cronin
+Amount: 7672.64
+Receiver: Thu Oct 31 10:38:12 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST113311
+Name: Elwanda Kuhlman
+Mobile: joe.huel@gmail.com
+Email: 851-056-6965
+Address: 3822 Latosha Wall, Effertzport, MN 29570
+Transaction ID: TXN239405965
+Timestamp: Clora Tillman I
+Amount: 1119.79
+Receiver: Thu Oct 31 11:01:00 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST340597
+Name: Earnest Yost
+Mobile: anjelica.feeney@yahoo.com
+Email: (327) 024-2854
+Address: Suite 109 1531 Hollis Common, North Vickeychester, PA 64303-3580
+Transaction ID: TXN751895313
+Timestamp: Joella Cronin
+Amount: 7672.64
+Receiver: Thu Oct 31 10:38:12 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST113311
+Name: Elwanda Kuhlman
+Mobile: joe.huel@gmail.com
+Email: 851-056-6965
+Address: 3822 Latosha Wall, Effertzport, MN 29570
+Transaction ID: TXN239405965
+Timestamp: Clora Tillman I
+Amount: 1119.79
+Receiver: Thu Oct 31 11:01:00 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST340597
+Name: Earnest Yost
+Mobile: anjelica.feeney@yahoo.com
+Email: (327) 024-2854
+Address: Suite 109 1531 Hollis Common, North Vickeychester, PA 64303-3580
+Transaction ID: TXN751895313
+Timestamp: Joella Cronin
+Amount: 7672.64
+Receiver: Thu Oct 31 10:38:12 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST113311
+Name: Elwanda Kuhlman
+Mobile: joe.huel@gmail.com
+Email: 851-056-6965
+Address: 3822 Latosha Wall, Effertzport, MN 29570
+Transaction ID: TXN239405965
+Timestamp: Clora Tillman I
+Amount: 1119.79
+Receiver: Thu Oct 31 11:01:00 IST 2024
+Status: Failed
+-----------------------------

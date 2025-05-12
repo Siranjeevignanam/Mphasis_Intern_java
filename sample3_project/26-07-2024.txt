@@ -1,0 +1,66 @@
+Customer ID: CUST448951
+Name: Zoraida Quigley DDS
+Mobile: floy.dach@hotmail.com
+Email: 1-100-029-6859
+Address: 8816 Kemmer Meadow, Charissestad, IA 99034-1798
+Transaction ID: TXN350324793
+Timestamp: Nick Little
+Amount: 8289.29
+Receiver: Sat Jul 27 00:18:05 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST559899
+Name: Kimberly Frami
+Mobile: van.bayer@yahoo.com
+Email: (702) 865-7161
+Address: Apt. 824 02504 Ebert Parks, Shaunnaburgh, NV 58490-9717
+Transaction ID: TXN693447974
+Timestamp: Cornell Hermiston
+Amount: 5999.13
+Receiver: Sat Jul 27 04:33:41 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST448951
+Name: Zoraida Quigley DDS
+Mobile: floy.dach@hotmail.com
+Email: 1-100-029-6859
+Address: 8816 Kemmer Meadow, Charissestad, IA 99034-1798
+Transaction ID: TXN350324793
+Timestamp: Nick Little
+Amount: 8289.29
+Receiver: Sat Jul 27 00:18:05 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST559899
+Name: Kimberly Frami
+Mobile: van.bayer@yahoo.com
+Email: (702) 865-7161
+Address: Apt. 824 02504 Ebert Parks, Shaunnaburgh, NV 58490-9717
+Transaction ID: TXN693447974
+Timestamp: Cornell Hermiston
+Amount: 5999.13
+Receiver: Sat Jul 27 04:33:41 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST448951
+Name: Zoraida Quigley DDS
+Mobile: floy.dach@hotmail.com
+Email: 1-100-029-6859
+Address: 8816 Kemmer Meadow, Charissestad, IA 99034-1798
+Transaction ID: TXN350324793
+Timestamp: Nick Little
+Amount: 8289.29
+Receiver: Sat Jul 27 00:18:05 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST559899
+Name: Kimberly Frami
+Mobile: van.bayer@yahoo.com
+Email: (702) 865-7161
+Address: Apt. 824 02504 Ebert Parks, Shaunnaburgh, NV 58490-9717
+Transaction ID: TXN693447974
+Timestamp: Cornell Hermiston
+Amount: 5999.13
+Receiver: Sat Jul 27 04:33:41 IST 2024
+Status: Success
+-----------------------------

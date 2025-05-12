@@ -1,0 +1,33 @@
+Customer ID: CUST363705
+Name: Miss Jeffry Langworth
+Mobile: alphonso.robel@hotmail.com
+Email: 953.007.2471
+Address: Apt. 116 785 Purdy Lodge, South Fannie, KS 01692-2045
+Transaction ID: TXN108004059
+Timestamp: Tyrone McCullough
+Amount: 6198.07
+Receiver: Thu Sep 19 05:27:52 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST363705
+Name: Miss Jeffry Langworth
+Mobile: alphonso.robel@hotmail.com
+Email: 953.007.2471
+Address: Apt. 116 785 Purdy Lodge, South Fannie, KS 01692-2045
+Transaction ID: TXN108004059
+Timestamp: Tyrone McCullough
+Amount: 6198.07
+Receiver: Thu Sep 19 05:27:52 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST363705
+Name: Miss Jeffry Langworth
+Mobile: alphonso.robel@hotmail.com
+Email: 953.007.2471
+Address: Apt. 116 785 Purdy Lodge, South Fannie, KS 01692-2045
+Transaction ID: TXN108004059
+Timestamp: Tyrone McCullough
+Amount: 6198.07
+Receiver: Thu Sep 19 05:27:52 IST 2024
+Status: Failed
+-----------------------------

@@ -1,0 +1,165 @@
+Customer ID: CUST917801
+Name: Cliff Runte
+Mobile: hortensia.wintheiser@hotmail.com
+Email: 781.541.4060
+Address: Suite 984 41137 Charolette Walk, O'Harastad, AR 76975-1828
+Transaction ID: TXN638304150
+Timestamp: Mrs. Julia Hoppe
+Amount: 2987.64
+Receiver: Fri Nov 08 02:25:12 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST307630
+Name: Woodrow Buckridge
+Mobile: aracely.cormier@yahoo.com
+Email: 165-702-0189
+Address: 097 Ambrose Summit, Port Truman, OR 25931
+Transaction ID: TXN165576177
+Timestamp: Sung Brown
+Amount: 3413.43
+Receiver: Thu Nov 07 18:38:56 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST620511
+Name: Dewey Zboncak
+Mobile: sidney.zieme@gmail.com
+Email: 740.835.1304
+Address: 591 Nickolas Cape, Port Johnson, WA 83070
+Transaction ID: TXN155242741
+Timestamp: Herman Murazik
+Amount: 7827.82
+Receiver: Thu Nov 07 21:22:43 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST893994
+Name: Antone Jacobs
+Mobile: ronald.sawayn@hotmail.com
+Email: 1-214-547-2348
+Address: Suite 324 845 Windler Spring, Clydeburgh, NM 18887
+Transaction ID: TXN533613945
+Timestamp: Digna Waters
+Amount: 2739.91
+Receiver: Thu Nov 07 05:55:49 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST878002
+Name: Keneth Will
+Mobile: david.torphy@gmail.com
+Email: 237-507-3690
+Address: 237 Bogisich Locks, South Eugeniochester, WA 44336
+Transaction ID: TXN715786625
+Timestamp: Rina Batz
+Amount: 7544.75
+Receiver: Thu Nov 07 14:57:47 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST917801
+Name: Cliff Runte
+Mobile: hortensia.wintheiser@hotmail.com
+Email: 781.541.4060
+Address: Suite 984 41137 Charolette Walk, O'Harastad, AR 76975-1828
+Transaction ID: TXN638304150
+Timestamp: Mrs. Julia Hoppe
+Amount: 2987.64
+Receiver: Fri Nov 08 02:25:12 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST307630
+Name: Woodrow Buckridge
+Mobile: aracely.cormier@yahoo.com
+Email: 165-702-0189
+Address: 097 Ambrose Summit, Port Truman, OR 25931
+Transaction ID: TXN165576177
+Timestamp: Sung Brown
+Amount: 3413.43
+Receiver: Thu Nov 07 18:38:56 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST620511
+Name: Dewey Zboncak
+Mobile: sidney.zieme@gmail.com
+Email: 740.835.1304
+Address: 591 Nickolas Cape, Port Johnson, WA 83070
+Transaction ID: TXN155242741
+Timestamp: Herman Murazik
+Amount: 7827.82
+Receiver: Thu Nov 07 21:22:43 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST893994
+Name: Antone Jacobs
+Mobile: ronald.sawayn@hotmail.com
+Email: 1-214-547-2348
+Address: Suite 324 845 Windler Spring, Clydeburgh, NM 18887
+Transaction ID: TXN533613945
+Timestamp: Digna Waters
+Amount: 2739.91
+Receiver: Thu Nov 07 05:55:49 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST878002
+Name: Keneth Will
+Mobile: david.torphy@gmail.com
+Email: 237-507-3690
+Address: 237 Bogisich Locks, South Eugeniochester, WA 44336
+Transaction ID: TXN715786625
+Timestamp: Rina Batz
+Amount: 7544.75
+Receiver: Thu Nov 07 14:57:47 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST917801
+Name: Cliff Runte
+Mobile: hortensia.wintheiser@hotmail.com
+Email: 781.541.4060
+Address: Suite 984 41137 Charolette Walk, O'Harastad, AR 76975-1828
+Transaction ID: TXN638304150
+Timestamp: Mrs. Julia Hoppe
+Amount: 2987.64
+Receiver: Fri Nov 08 02:25:12 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST307630
+Name: Woodrow Buckridge
+Mobile: aracely.cormier@yahoo.com
+Email: 165-702-0189
+Address: 097 Ambrose Summit, Port Truman, OR 25931
+Transaction ID: TXN165576177
+Timestamp: Sung Brown
+Amount: 3413.43
+Receiver: Thu Nov 07 18:38:56 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST620511
+Name: Dewey Zboncak
+Mobile: sidney.zieme@gmail.com
+Email: 740.835.1304
+Address: 591 Nickolas Cape, Port Johnson, WA 83070
+Transaction ID: TXN155242741
+Timestamp: Herman Murazik
+Amount: 7827.82
+Receiver: Thu Nov 07 21:22:43 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST893994
+Name: Antone Jacobs
+Mobile: ronald.sawayn@hotmail.com
+Email: 1-214-547-2348
+Address: Suite 324 845 Windler Spring, Clydeburgh, NM 18887
+Transaction ID: TXN533613945
+Timestamp: Digna Waters
+Amount: 2739.91
+Receiver: Thu Nov 07 05:55:49 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST878002
+Name: Keneth Will
+Mobile: david.torphy@gmail.com
+Email: 237-507-3690
+Address: 237 Bogisich Locks, South Eugeniochester, WA 44336
+Transaction ID: TXN715786625
+Timestamp: Rina Batz
+Amount: 7544.75
+Receiver: Thu Nov 07 14:57:47 IST 2024
+Status: Success
+-----------------------------

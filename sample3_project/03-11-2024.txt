@@ -1,0 +1,33 @@
+Customer ID: CUST397075
+Name: Wei Kuhic
+Mobile: layla.spinka@yahoo.com
+Email: (083) 914-3311
+Address: 52402 Calvin Spurs, Kareenberg, NJ 05849-1045
+Transaction ID: TXN198371843
+Timestamp: Despina Hagenes IV
+Amount: 6594.52
+Receiver: Sun Nov 03 21:37:39 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST397075
+Name: Wei Kuhic
+Mobile: layla.spinka@yahoo.com
+Email: (083) 914-3311
+Address: 52402 Calvin Spurs, Kareenberg, NJ 05849-1045
+Transaction ID: TXN198371843
+Timestamp: Despina Hagenes IV
+Amount: 6594.52
+Receiver: Sun Nov 03 21:37:39 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST397075
+Name: Wei Kuhic
+Mobile: layla.spinka@yahoo.com
+Email: (083) 914-3311
+Address: 52402 Calvin Spurs, Kareenberg, NJ 05849-1045
+Transaction ID: TXN198371843
+Timestamp: Despina Hagenes IV
+Amount: 6594.52
+Receiver: Sun Nov 03 21:37:39 IST 2024
+Status: Success
+-----------------------------

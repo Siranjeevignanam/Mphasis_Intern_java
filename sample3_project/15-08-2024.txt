@@ -1,0 +1,132 @@
+Customer ID: CUST539295
+Name: Catherina Buckridge
+Mobile: jamal.krajcik@gmail.com
+Email: 771.660.3872
+Address: Apt. 000 581 Thompson Ridge, East Gennieburgh, WY 96273
+Transaction ID: TXN845587074
+Timestamp: Monty Pacocha
+Amount: 6578.32
+Receiver: Thu Aug 15 11:57:13 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST767479
+Name: Christinia Schoen V
+Mobile: randy.moen@yahoo.com
+Email: 1-122-943-8695
+Address: 7534 Kihn Glens, Myrticeview, WA 40196-5944
+Transaction ID: TXN339761325
+Timestamp: Rueben Rau
+Amount: 6247.49
+Receiver: Fri Aug 16 00:25:04 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST623121
+Name: Alpha McLaughlin III
+Mobile: milan.kilback@hotmail.com
+Email: 1-776-322-5731
+Address: 14433 Elicia Cliff, East Keneth, ME 72903
+Transaction ID: TXN844456763
+Timestamp: Rusty VonRueden
+Amount: 6635.40
+Receiver: Fri Aug 16 02:56:47 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST678047
+Name: Miquel Rosenbaum
+Mobile: alissa.adams@gmail.com
+Email: 369-507-5253
+Address: Apt. 719 09350 Carter Extensions, Kimiport, WV 00289-8767
+Transaction ID: TXN613615564
+Timestamp: Mariette Beer
+Amount: 9457.77
+Receiver: Thu Aug 15 08:58:57 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST539295
+Name: Catherina Buckridge
+Mobile: jamal.krajcik@gmail.com
+Email: 771.660.3872
+Address: Apt. 000 581 Thompson Ridge, East Gennieburgh, WY 96273
+Transaction ID: TXN845587074
+Timestamp: Monty Pacocha
+Amount: 6578.32
+Receiver: Thu Aug 15 11:57:13 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST767479
+Name: Christinia Schoen V
+Mobile: randy.moen@yahoo.com
+Email: 1-122-943-8695
+Address: 7534 Kihn Glens, Myrticeview, WA 40196-5944
+Transaction ID: TXN339761325
+Timestamp: Rueben Rau
+Amount: 6247.49
+Receiver: Fri Aug 16 00:25:04 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST623121
+Name: Alpha McLaughlin III
+Mobile: milan.kilback@hotmail.com
+Email: 1-776-322-5731
+Address: 14433 Elicia Cliff, East Keneth, ME 72903
+Transaction ID: TXN844456763
+Timestamp: Rusty VonRueden
+Amount: 6635.40
+Receiver: Fri Aug 16 02:56:47 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST678047
+Name: Miquel Rosenbaum
+Mobile: alissa.adams@gmail.com
+Email: 369-507-5253
+Address: Apt. 719 09350 Carter Extensions, Kimiport, WV 00289-8767
+Transaction ID: TXN613615564
+Timestamp: Mariette Beer
+Amount: 9457.77
+Receiver: Thu Aug 15 08:58:57 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST539295
+Name: Catherina Buckridge
+Mobile: jamal.krajcik@gmail.com
+Email: 771.660.3872
+Address: Apt. 000 581 Thompson Ridge, East Gennieburgh, WY 96273
+Transaction ID: TXN845587074
+Timestamp: Monty Pacocha
+Amount: 6578.32
+Receiver: Thu Aug 15 11:57:13 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST767479
+Name: Christinia Schoen V
+Mobile: randy.moen@yahoo.com
+Email: 1-122-943-8695
+Address: 7534 Kihn Glens, Myrticeview, WA 40196-5944
+Transaction ID: TXN339761325
+Timestamp: Rueben Rau
+Amount: 6247.49
+Receiver: Fri Aug 16 00:25:04 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST623121
+Name: Alpha McLaughlin III
+Mobile: milan.kilback@hotmail.com
+Email: 1-776-322-5731
+Address: 14433 Elicia Cliff, East Keneth, ME 72903
+Transaction ID: TXN844456763
+Timestamp: Rusty VonRueden
+Amount: 6635.40
+Receiver: Fri Aug 16 02:56:47 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST678047
+Name: Miquel Rosenbaum
+Mobile: alissa.adams@gmail.com
+Email: 369-507-5253
+Address: Apt. 719 09350 Carter Extensions, Kimiport, WV 00289-8767
+Transaction ID: TXN613615564
+Timestamp: Mariette Beer
+Amount: 9457.77
+Receiver: Thu Aug 15 08:58:57 IST 2024
+Status: Success
+-----------------------------

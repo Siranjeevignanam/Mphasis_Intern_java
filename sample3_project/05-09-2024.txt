@@ -1,0 +1,33 @@
+Customer ID: CUST302931
+Name: Mrs. Shantelle Mosciski
+Mobile: tawanna.kautzer@yahoo.com
+Email: 122-625-6555
+Address: 3928 Lorena Point, Abdulmouth, UT 50777
+Transaction ID: TXN292975860
+Timestamp: Maile Block
+Amount: 2911.05
+Receiver: Thu Sep 05 09:32:04 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST302931
+Name: Mrs. Shantelle Mosciski
+Mobile: tawanna.kautzer@yahoo.com
+Email: 122-625-6555
+Address: 3928 Lorena Point, Abdulmouth, UT 50777
+Transaction ID: TXN292975860
+Timestamp: Maile Block
+Amount: 2911.05
+Receiver: Thu Sep 05 09:32:04 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST302931
+Name: Mrs. Shantelle Mosciski
+Mobile: tawanna.kautzer@yahoo.com
+Email: 122-625-6555
+Address: 3928 Lorena Point, Abdulmouth, UT 50777
+Transaction ID: TXN292975860
+Timestamp: Maile Block
+Amount: 2911.05
+Receiver: Thu Sep 05 09:32:04 IST 2024
+Status: Failed
+-----------------------------

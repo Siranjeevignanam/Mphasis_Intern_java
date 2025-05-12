@@ -1,0 +1,99 @@
+Customer ID: CUST378569
+Name: Xenia Leuschke
+Mobile: bernie.toy@yahoo.com
+Email: 359-676-9298
+Address: 347 Serena Centers, Muellerstad, IA 78678-3567
+Transaction ID: TXN233809868
+Timestamp: Allen Jast V
+Amount: 2184.36
+Receiver: Thu Apr 17 02:58:37 IST 2025
+Status: Success
+-----------------------------
+Customer ID: CUST701529
+Name: Mrs. Barton Effertz
+Mobile: romeo.lesch@gmail.com
+Email: 1-965-084-9934
+Address: Apt. 083 62798 Vernia Trafficway, Leschmouth, WI 38247
+Transaction ID: TXN375686112
+Timestamp: Darcel Harber
+Amount: 5619.09
+Receiver: Wed Apr 16 21:54:58 IST 2025
+Status: Failed
+-----------------------------
+Customer ID: CUST729027
+Name: Shawnna Vandervort
+Mobile: leigh.lehner@gmail.com
+Email: (559) 451-8696
+Address: 12079 Shaun Fords, Cruickshankview, DE 43282-8008
+Transaction ID: TXN853033429
+Timestamp: Reagan Hintz
+Amount: 7433.65
+Receiver: Wed Apr 16 06:13:35 IST 2025
+Status: Success
+-----------------------------
+Customer ID: CUST378569
+Name: Xenia Leuschke
+Mobile: bernie.toy@yahoo.com
+Email: 359-676-9298
+Address: 347 Serena Centers, Muellerstad, IA 78678-3567
+Transaction ID: TXN233809868
+Timestamp: Allen Jast V
+Amount: 2184.36
+Receiver: Thu Apr 17 02:58:37 IST 2025
+Status: Success
+-----------------------------
+Customer ID: CUST701529
+Name: Mrs. Barton Effertz
+Mobile: romeo.lesch@gmail.com
+Email: 1-965-084-9934
+Address: Apt. 083 62798 Vernia Trafficway, Leschmouth, WI 38247
+Transaction ID: TXN375686112
+Timestamp: Darcel Harber
+Amount: 5619.09
+Receiver: Wed Apr 16 21:54:58 IST 2025
+Status: Failed
+-----------------------------
+Customer ID: CUST729027
+Name: Shawnna Vandervort
+Mobile: leigh.lehner@gmail.com
+Email: (559) 451-8696
+Address: 12079 Shaun Fords, Cruickshankview, DE 43282-8008
+Transaction ID: TXN853033429
+Timestamp: Reagan Hintz
+Amount: 7433.65
+Receiver: Wed Apr 16 06:13:35 IST 2025
+Status: Success
+-----------------------------
+Customer ID: CUST378569
+Name: Xenia Leuschke
+Mobile: bernie.toy@yahoo.com
+Email: 359-676-9298
+Address: 347 Serena Centers, Muellerstad, IA 78678-3567
+Transaction ID: TXN233809868
+Timestamp: Allen Jast V
+Amount: 2184.36
+Receiver: Thu Apr 17 02:58:37 IST 2025
+Status: Success
+-----------------------------
+Customer ID: CUST701529
+Name: Mrs. Barton Effertz
+Mobile: romeo.lesch@gmail.com
+Email: 1-965-084-9934
+Address: Apt. 083 62798 Vernia Trafficway, Leschmouth, WI 38247
+Transaction ID: TXN375686112
+Timestamp: Darcel Harber
+Amount: 5619.09
+Receiver: Wed Apr 16 21:54:58 IST 2025
+Status: Failed
+-----------------------------
+Customer ID: CUST729027
+Name: Shawnna Vandervort
+Mobile: leigh.lehner@gmail.com
+Email: (559) 451-8696
+Address: 12079 Shaun Fords, Cruickshankview, DE 43282-8008
+Transaction ID: TXN853033429
+Timestamp: Reagan Hintz
+Amount: 7433.65
+Receiver: Wed Apr 16 06:13:35 IST 2025
+Status: Success
+-----------------------------

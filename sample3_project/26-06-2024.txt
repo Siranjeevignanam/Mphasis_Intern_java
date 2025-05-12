@@ -1,0 +1,33 @@
+Customer ID: CUST654412
+Name: Isiah Swift
+Mobile: hunter.macejkovic@hotmail.com
+Email: 1-339-900-1318
+Address: 834 Ziemann Ridges, West Jeffchester, MD 79038-7274
+Transaction ID: TXN974530819
+Timestamp: Dr. Erasmo Emard
+Amount: 9453.47
+Receiver: Wed Jun 26 13:24:41 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST654412
+Name: Isiah Swift
+Mobile: hunter.macejkovic@hotmail.com
+Email: 1-339-900-1318
+Address: 834 Ziemann Ridges, West Jeffchester, MD 79038-7274
+Transaction ID: TXN974530819
+Timestamp: Dr. Erasmo Emard
+Amount: 9453.47
+Receiver: Wed Jun 26 13:24:41 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST654412
+Name: Isiah Swift
+Mobile: hunter.macejkovic@hotmail.com
+Email: 1-339-900-1318
+Address: 834 Ziemann Ridges, West Jeffchester, MD 79038-7274
+Transaction ID: TXN974530819
+Timestamp: Dr. Erasmo Emard
+Amount: 9453.47
+Receiver: Wed Jun 26 13:24:41 IST 2024
+Status: Success
+-----------------------------

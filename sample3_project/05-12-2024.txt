@@ -1,0 +1,33 @@
+Customer ID: CUST307182
+Name: Taunya Osinski
+Mobile: krystina.klocko@gmail.com
+Email: 855-155-0453
+Address: 39883 Cremin Summit, Lake Hiltonchester, WA 64476-5842
+Transaction ID: TXN893714607
+Timestamp: Loren Leannon
+Amount: 9109.91
+Receiver: Fri Dec 06 00:25:09 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST307182
+Name: Taunya Osinski
+Mobile: krystina.klocko@gmail.com
+Email: 855-155-0453
+Address: 39883 Cremin Summit, Lake Hiltonchester, WA 64476-5842
+Transaction ID: TXN893714607
+Timestamp: Loren Leannon
+Amount: 9109.91
+Receiver: Fri Dec 06 00:25:09 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST307182
+Name: Taunya Osinski
+Mobile: krystina.klocko@gmail.com
+Email: 855-155-0453
+Address: 39883 Cremin Summit, Lake Hiltonchester, WA 64476-5842
+Transaction ID: TXN893714607
+Timestamp: Loren Leannon
+Amount: 9109.91
+Receiver: Fri Dec 06 00:25:09 IST 2024
+Status: Success
+-----------------------------

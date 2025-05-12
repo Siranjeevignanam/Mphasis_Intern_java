@@ -1,0 +1,33 @@
+Customer ID: CUST507987
+Name: Nicolle Cummerata
+Mobile: earlene.sawayn@yahoo.com
+Email: (088) 424-6874
+Address: Suite 640 831 Blaine Circle, West Porscheview, MN 61464
+Transaction ID: TXN101935953
+Timestamp: Freida Hessel II
+Amount: 5928.83
+Receiver: Fri Jan 17 21:49:17 IST 2025
+Status: Success
+-----------------------------
+Customer ID: CUST507987
+Name: Nicolle Cummerata
+Mobile: earlene.sawayn@yahoo.com
+Email: (088) 424-6874
+Address: Suite 640 831 Blaine Circle, West Porscheview, MN 61464
+Transaction ID: TXN101935953
+Timestamp: Freida Hessel II
+Amount: 5928.83
+Receiver: Fri Jan 17 21:49:17 IST 2025
+Status: Success
+-----------------------------
+Customer ID: CUST507987
+Name: Nicolle Cummerata
+Mobile: earlene.sawayn@yahoo.com
+Email: (088) 424-6874
+Address: Suite 640 831 Blaine Circle, West Porscheview, MN 61464
+Transaction ID: TXN101935953
+Timestamp: Freida Hessel II
+Amount: 5928.83
+Receiver: Fri Jan 17 21:49:17 IST 2025
+Status: Success
+-----------------------------

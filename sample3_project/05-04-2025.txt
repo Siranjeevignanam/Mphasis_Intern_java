@@ -1,0 +1,66 @@
+Customer ID: CUST740660
+Name: Antonina Turcotte
+Mobile: shawnee.klein@yahoo.com
+Email: (491) 003-1551
+Address: Suite 758 211 Bernhard Summit, Aufderharberg, KS 76557-3515
+Transaction ID: TXN116437082
+Timestamp: Celine Jacobs
+Amount: 3161.13
+Receiver: Sat Apr 05 19:02:22 IST 2025
+Status: Failed
+-----------------------------
+Customer ID: CUST171673
+Name: Romelia Corkery MD
+Mobile: jed.murazik@hotmail.com
+Email: 809.876.3987
+Address: 8797 MacGyver Lodge, Nickieshire, MN 32092
+Transaction ID: TXN509777793
+Timestamp: Kris Gaylord DDS
+Amount: 1792.98
+Receiver: Sat Apr 05 22:21:31 IST 2025
+Status: Success
+-----------------------------
+Customer ID: CUST740660
+Name: Antonina Turcotte
+Mobile: shawnee.klein@yahoo.com
+Email: (491) 003-1551
+Address: Suite 758 211 Bernhard Summit, Aufderharberg, KS 76557-3515
+Transaction ID: TXN116437082
+Timestamp: Celine Jacobs
+Amount: 3161.13
+Receiver: Sat Apr 05 19:02:22 IST 2025
+Status: Failed
+-----------------------------
+Customer ID: CUST171673
+Name: Romelia Corkery MD
+Mobile: jed.murazik@hotmail.com
+Email: 809.876.3987
+Address: 8797 MacGyver Lodge, Nickieshire, MN 32092
+Transaction ID: TXN509777793
+Timestamp: Kris Gaylord DDS
+Amount: 1792.98
+Receiver: Sat Apr 05 22:21:31 IST 2025
+Status: Success
+-----------------------------
+Customer ID: CUST740660
+Name: Antonina Turcotte
+Mobile: shawnee.klein@yahoo.com
+Email: (491) 003-1551
+Address: Suite 758 211 Bernhard Summit, Aufderharberg, KS 76557-3515
+Transaction ID: TXN116437082
+Timestamp: Celine Jacobs
+Amount: 3161.13
+Receiver: Sat Apr 05 19:02:22 IST 2025
+Status: Failed
+-----------------------------
+Customer ID: CUST171673
+Name: Romelia Corkery MD
+Mobile: jed.murazik@hotmail.com
+Email: 809.876.3987
+Address: 8797 MacGyver Lodge, Nickieshire, MN 32092
+Transaction ID: TXN509777793
+Timestamp: Kris Gaylord DDS
+Amount: 1792.98
+Receiver: Sat Apr 05 22:21:31 IST 2025
+Status: Success
+-----------------------------

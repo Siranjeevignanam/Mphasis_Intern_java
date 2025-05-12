@@ -1,0 +1,101 @@
+Customer ID: CUST343565
+Name: Reed Stanton
+Mobile: rusty.farrell@gmail.com
+Email: 847-018-7724
+Address: Apt. 025 32563 Ashlee Cove, Dominquebury, ME 17025
+Transaction ID: TXN253445003
+Timestamp: Voncile Zieme
+Amount: 9796.59
+Receiver: Thu Jan 02 00:39:22 IST 2025
+Status: Success
+-----------------------------
+Customer ID: CUST194190
+Name: Kelly Batz
+Mobile: barbera.mitchell@gmail.com
+Email: 1-964-764-4843
+Address: Suite 477 25494 Kathaleen Skyway, Huelsburgh, MS 50219-7654
+Transaction ID: TXN936928692
+Timestamp: Tawny Little
+Amount: 3968.15
+Receiver: Wed Jan 01 22:13:34 IST 2025
+Status: Failed
+-----------------------------
+Customer ID: CUST692159
+Name: Delmar Macejkovic
+Mobile: kandra.kunde@yahoo.com
+Email: (442) 778-0316
+Address: Suite 406 3918 Gene Neck, Ankundingfort, AL 38415
+Transaction ID: TXN566119641
+Timestamp: Evan Bechtelar Sr.
+Amount: 8248.23
+Receiver: Wed Jan 01 10:42:40 IST 2025
+Status: Success
+-----------------------------
+
+
+Customer ID: CUST343565
+Name: Reed Stanton
+Mobile: rusty.farrell@gmail.com
+Email: 847-018-7724
+Address: Apt. 025 32563 Ashlee Cove, Dominquebury, ME 17025
+Transaction ID: TXN253445003
+Timestamp: Voncile Zieme
+Amount: 9796.59
+Receiver: Thu Jan 02 00:39:22 IST 2025
+Status: Success
+-----------------------------
+Customer ID: CUST194190
+Name: Kelly Batz
+Mobile: barbera.mitchell@gmail.com
+Email: 1-964-764-4843
+Address: Suite 477 25494 Kathaleen Skyway, Huelsburgh, MS 50219-7654
+Transaction ID: TXN936928692
+Timestamp: Tawny Little
+Amount: 3968.15
+Receiver: Wed Jan 01 22:13:34 IST 2025
+Status: Failed
+-----------------------------
+Customer ID: CUST692159
+Name: Delmar Macejkovic
+Mobile: kandra.kunde@yahoo.com
+Email: (442) 778-0316
+Address: Suite 406 3918 Gene Neck, Ankundingfort, AL 38415
+Transaction ID: TXN566119641
+Timestamp: Evan Bechtelar Sr.
+Amount: 8248.23
+Receiver: Wed Jan 01 10:42:40 IST 2025
+Status: Success
+-----------------------------
+Customer ID: CUST343565
+Name: Reed Stanton
+Mobile: rusty.farrell@gmail.com
+Email: 847-018-7724
+Address: Apt. 025 32563 Ashlee Cove, Dominquebury, ME 17025
+Transaction ID: TXN253445003
+Timestamp: Voncile Zieme
+Amount: 9796.59
+Receiver: Thu Jan 02 00:39:22 IST 2025
+Status: Success
+-----------------------------
+Customer ID: CUST194190
+Name: Kelly Batz
+Mobile: barbera.mitchell@gmail.com
+Email: 1-964-764-4843
+Address: Suite 477 25494 Kathaleen Skyway, Huelsburgh, MS 50219-7654
+Transaction ID: TXN936928692
+Timestamp: Tawny Little
+Amount: 3968.15
+Receiver: Wed Jan 01 22:13:34 IST 2025
+Status: Failed
+-----------------------------
+Customer ID: CUST692159
+Name: Delmar Macejkovic
+Mobile: kandra.kunde@yahoo.com
+Email: (442) 778-0316
+Address: Suite 406 3918 Gene Neck, Ankundingfort, AL 38415
+Transaction ID: TXN566119641
+Timestamp: Evan Bechtelar Sr.
+Amount: 8248.23
+Receiver: Wed Jan 01 10:42:40 IST 2025
+Status: Success
+-----------------------------

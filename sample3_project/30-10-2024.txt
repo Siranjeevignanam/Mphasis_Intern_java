@@ -1,0 +1,132 @@
+Customer ID: CUST781678
+Name: Ali Kreiger
+Mobile: bobby.dach@hotmail.com
+Email: 1-730-768-2144
+Address: 3962 Rowe Square, North Kina, NV 89649
+Transaction ID: TXN927862465
+Timestamp: Cierra Abbott
+Amount: 551.57
+Receiver: Wed Oct 30 10:02:16 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST834292
+Name: Katina Prosacco
+Mobile: deandrea.white@yahoo.com
+Email: 353.999.0830
+Address: Suite 247 23023 Mayer Causeway, South Claritaside, AR 77880-2440
+Transaction ID: TXN774920748
+Timestamp: Deon Berge
+Amount: 4905.21
+Receiver: Wed Oct 30 14:00:38 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST100378
+Name: Mui Koepp
+Mobile: dwight.nikolaus@yahoo.com
+Email: 1-060-684-5121
+Address: Apt. 834 283 Gerald Ville, Doylebury, NV 57547
+Transaction ID: TXN308466623
+Timestamp: Madeline Koss III
+Amount: 848.26
+Receiver: Wed Oct 30 23:29:14 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST684453
+Name: Katy Cormier
+Mobile: raeann.robel@gmail.com
+Email: 1-610-258-5670
+Address: 533 Reid Neck, Lake Elroyport, MT 38157
+Transaction ID: TXN445814881
+Timestamp: Miss Liza Kihn
+Amount: 5683.64
+Receiver: Thu Oct 31 05:12:38 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST781678
+Name: Ali Kreiger
+Mobile: bobby.dach@hotmail.com
+Email: 1-730-768-2144
+Address: 3962 Rowe Square, North Kina, NV 89649
+Transaction ID: TXN927862465
+Timestamp: Cierra Abbott
+Amount: 551.57
+Receiver: Wed Oct 30 10:02:16 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST834292
+Name: Katina Prosacco
+Mobile: deandrea.white@yahoo.com
+Email: 353.999.0830
+Address: Suite 247 23023 Mayer Causeway, South Claritaside, AR 77880-2440
+Transaction ID: TXN774920748
+Timestamp: Deon Berge
+Amount: 4905.21
+Receiver: Wed Oct 30 14:00:38 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST100378
+Name: Mui Koepp
+Mobile: dwight.nikolaus@yahoo.com
+Email: 1-060-684-5121
+Address: Apt. 834 283 Gerald Ville, Doylebury, NV 57547
+Transaction ID: TXN308466623
+Timestamp: Madeline Koss III
+Amount: 848.26
+Receiver: Wed Oct 30 23:29:14 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST684453
+Name: Katy Cormier
+Mobile: raeann.robel@gmail.com
+Email: 1-610-258-5670
+Address: 533 Reid Neck, Lake Elroyport, MT 38157
+Transaction ID: TXN445814881
+Timestamp: Miss Liza Kihn
+Amount: 5683.64
+Receiver: Thu Oct 31 05:12:38 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST781678
+Name: Ali Kreiger
+Mobile: bobby.dach@hotmail.com
+Email: 1-730-768-2144
+Address: 3962 Rowe Square, North Kina, NV 89649
+Transaction ID: TXN927862465
+Timestamp: Cierra Abbott
+Amount: 551.57
+Receiver: Wed Oct 30 10:02:16 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST834292
+Name: Katina Prosacco
+Mobile: deandrea.white@yahoo.com
+Email: 353.999.0830
+Address: Suite 247 23023 Mayer Causeway, South Claritaside, AR 77880-2440
+Transaction ID: TXN774920748
+Timestamp: Deon Berge
+Amount: 4905.21
+Receiver: Wed Oct 30 14:00:38 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST100378
+Name: Mui Koepp
+Mobile: dwight.nikolaus@yahoo.com
+Email: 1-060-684-5121
+Address: Apt. 834 283 Gerald Ville, Doylebury, NV 57547
+Transaction ID: TXN308466623
+Timestamp: Madeline Koss III
+Amount: 848.26
+Receiver: Wed Oct 30 23:29:14 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST684453
+Name: Katy Cormier
+Mobile: raeann.robel@gmail.com
+Email: 1-610-258-5670
+Address: 533 Reid Neck, Lake Elroyport, MT 38157
+Transaction ID: TXN445814881
+Timestamp: Miss Liza Kihn
+Amount: 5683.64
+Receiver: Thu Oct 31 05:12:38 IST 2024
+Status: Success
+-----------------------------

@@ -1,0 +1,33 @@
+Customer ID: CUST849988
+Name: Cedrick O'Kon
+Mobile: zachary.fadel@hotmail.com
+Email: (304) 097-1926
+Address: 447 Becker Lakes, McClureville, NC 38179-3504
+Transaction ID: TXN261440606
+Timestamp: Ronny Donnelly
+Amount: 5375.53
+Receiver: Sun Dec 01 07:01:14 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST849988
+Name: Cedrick O'Kon
+Mobile: zachary.fadel@hotmail.com
+Email: (304) 097-1926
+Address: 447 Becker Lakes, McClureville, NC 38179-3504
+Transaction ID: TXN261440606
+Timestamp: Ronny Donnelly
+Amount: 5375.53
+Receiver: Sun Dec 01 07:01:14 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST849988
+Name: Cedrick O'Kon
+Mobile: zachary.fadel@hotmail.com
+Email: (304) 097-1926
+Address: 447 Becker Lakes, McClureville, NC 38179-3504
+Transaction ID: TXN261440606
+Timestamp: Ronny Donnelly
+Amount: 5375.53
+Receiver: Sun Dec 01 07:01:14 IST 2024
+Status: Success
+-----------------------------

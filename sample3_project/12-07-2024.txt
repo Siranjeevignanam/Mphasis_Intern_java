@@ -1,0 +1,99 @@
+Customer ID: CUST795536
+Name: Shad Kerluke Jr.
+Mobile: rod.kerluke@yahoo.com
+Email: (633) 185-2530
+Address: Apt. 386 54571 Gislason Station, Gonzalotown, NH 35531-4422
+Transaction ID: TXN472422021
+Timestamp: Donald Reichert
+Amount: 5815.09
+Receiver: Fri Jul 12 08:48:25 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST938195
+Name: Elouise Bauch IV
+Mobile: brendon.stanton@gmail.com
+Email: (874) 481-5184
+Address: Apt. 206 761 Isiah Crest, North Marcelenemouth, NE 21461
+Transaction ID: TXN680732637
+Timestamp: Marcelino Beatty
+Amount: 7184.22
+Receiver: Fri Jul 12 07:40:40 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST436551
+Name: August Smith
+Mobile: chanelle.roberts@hotmail.com
+Email: 964-413-6989
+Address: Apt. 242 7864 Eddie Mountain, Jamelfort, OR 79741-7678
+Transaction ID: TXN694496848
+Timestamp: Stefany Gerhold
+Amount: 1652.36
+Receiver: Fri Jul 12 08:15:57 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST795536
+Name: Shad Kerluke Jr.
+Mobile: rod.kerluke@yahoo.com
+Email: (633) 185-2530
+Address: Apt. 386 54571 Gislason Station, Gonzalotown, NH 35531-4422
+Transaction ID: TXN472422021
+Timestamp: Donald Reichert
+Amount: 5815.09
+Receiver: Fri Jul 12 08:48:25 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST938195
+Name: Elouise Bauch IV
+Mobile: brendon.stanton@gmail.com
+Email: (874) 481-5184
+Address: Apt. 206 761 Isiah Crest, North Marcelenemouth, NE 21461
+Transaction ID: TXN680732637
+Timestamp: Marcelino Beatty
+Amount: 7184.22
+Receiver: Fri Jul 12 07:40:40 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST436551
+Name: August Smith
+Mobile: chanelle.roberts@hotmail.com
+Email: 964-413-6989
+Address: Apt. 242 7864 Eddie Mountain, Jamelfort, OR 79741-7678
+Transaction ID: TXN694496848
+Timestamp: Stefany Gerhold
+Amount: 1652.36
+Receiver: Fri Jul 12 08:15:57 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST795536
+Name: Shad Kerluke Jr.
+Mobile: rod.kerluke@yahoo.com
+Email: (633) 185-2530
+Address: Apt. 386 54571 Gislason Station, Gonzalotown, NH 35531-4422
+Transaction ID: TXN472422021
+Timestamp: Donald Reichert
+Amount: 5815.09
+Receiver: Fri Jul 12 08:48:25 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST938195
+Name: Elouise Bauch IV
+Mobile: brendon.stanton@gmail.com
+Email: (874) 481-5184
+Address: Apt. 206 761 Isiah Crest, North Marcelenemouth, NE 21461
+Transaction ID: TXN680732637
+Timestamp: Marcelino Beatty
+Amount: 7184.22
+Receiver: Fri Jul 12 07:40:40 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST436551
+Name: August Smith
+Mobile: chanelle.roberts@hotmail.com
+Email: 964-413-6989
+Address: Apt. 242 7864 Eddie Mountain, Jamelfort, OR 79741-7678
+Transaction ID: TXN694496848
+Timestamp: Stefany Gerhold
+Amount: 1652.36
+Receiver: Fri Jul 12 08:15:57 IST 2024
+Status: Failed
+-----------------------------

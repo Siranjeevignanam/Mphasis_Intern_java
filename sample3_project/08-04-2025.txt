@@ -1,0 +1,66 @@
+Customer ID: CUST106916
+Name: Nedra Daniel
+Mobile: forest.kovacek@gmail.com
+Email: 236.619.9434
+Address: 565 Douglas Manor, East Alfred, MA 72303
+Transaction ID: TXN324722767
+Timestamp: Cheryll Boehm
+Amount: 1768.40
+Receiver: Tue Apr 08 19:48:56 IST 2025
+Status: Success
+-----------------------------
+Customer ID: CUST502913
+Name: Brendan DuBuque
+Mobile: vena.hilll@yahoo.com
+Email: 136.843.2407
+Address: Apt. 979 2009 Tanika Manors, Port Justineburgh, UT 29935
+Transaction ID: TXN831230537
+Timestamp: Lacy Roberts
+Amount: 1434.79
+Receiver: Tue Apr 08 10:17:36 IST 2025
+Status: Failed
+-----------------------------
+Customer ID: CUST106916
+Name: Nedra Daniel
+Mobile: forest.kovacek@gmail.com
+Email: 236.619.9434
+Address: 565 Douglas Manor, East Alfred, MA 72303
+Transaction ID: TXN324722767
+Timestamp: Cheryll Boehm
+Amount: 1768.40
+Receiver: Tue Apr 08 19:48:56 IST 2025
+Status: Success
+-----------------------------
+Customer ID: CUST502913
+Name: Brendan DuBuque
+Mobile: vena.hilll@yahoo.com
+Email: 136.843.2407
+Address: Apt. 979 2009 Tanika Manors, Port Justineburgh, UT 29935
+Transaction ID: TXN831230537
+Timestamp: Lacy Roberts
+Amount: 1434.79
+Receiver: Tue Apr 08 10:17:36 IST 2025
+Status: Failed
+-----------------------------
+Customer ID: CUST106916
+Name: Nedra Daniel
+Mobile: forest.kovacek@gmail.com
+Email: 236.619.9434
+Address: 565 Douglas Manor, East Alfred, MA 72303
+Transaction ID: TXN324722767
+Timestamp: Cheryll Boehm
+Amount: 1768.40
+Receiver: Tue Apr 08 19:48:56 IST 2025
+Status: Success
+-----------------------------
+Customer ID: CUST502913
+Name: Brendan DuBuque
+Mobile: vena.hilll@yahoo.com
+Email: 136.843.2407
+Address: Apt. 979 2009 Tanika Manors, Port Justineburgh, UT 29935
+Transaction ID: TXN831230537
+Timestamp: Lacy Roberts
+Amount: 1434.79
+Receiver: Tue Apr 08 10:17:36 IST 2025
+Status: Failed
+-----------------------------

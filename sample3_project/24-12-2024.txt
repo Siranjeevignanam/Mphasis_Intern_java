@@ -1,0 +1,66 @@
+Customer ID: CUST383570
+Name: Miss Frederic West
+Mobile: dick.stehr@yahoo.com
+Email: 616.443.8391
+Address: 44714 Mira Mill, Gottliebchester, AK 61559
+Transaction ID: TXN957886551
+Timestamp: Margurite Prosacco
+Amount: 8298.75
+Receiver: Wed Dec 25 03:12:30 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST281081
+Name: Woodrow Hodkiewicz V
+Mobile: nelson.veum@hotmail.com
+Email: 1-850-940-3622
+Address: Suite 458 55677 Milo Station, West Gabrielland, ID 32358-1996
+Transaction ID: TXN464154228
+Timestamp: Nicky Rohan
+Amount: 5836.12
+Receiver: Tue Dec 24 14:03:47 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST383570
+Name: Miss Frederic West
+Mobile: dick.stehr@yahoo.com
+Email: 616.443.8391
+Address: 44714 Mira Mill, Gottliebchester, AK 61559
+Transaction ID: TXN957886551
+Timestamp: Margurite Prosacco
+Amount: 8298.75
+Receiver: Wed Dec 25 03:12:30 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST281081
+Name: Woodrow Hodkiewicz V
+Mobile: nelson.veum@hotmail.com
+Email: 1-850-940-3622
+Address: Suite 458 55677 Milo Station, West Gabrielland, ID 32358-1996
+Transaction ID: TXN464154228
+Timestamp: Nicky Rohan
+Amount: 5836.12
+Receiver: Tue Dec 24 14:03:47 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST383570
+Name: Miss Frederic West
+Mobile: dick.stehr@yahoo.com
+Email: 616.443.8391
+Address: 44714 Mira Mill, Gottliebchester, AK 61559
+Transaction ID: TXN957886551
+Timestamp: Margurite Prosacco
+Amount: 8298.75
+Receiver: Wed Dec 25 03:12:30 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST281081
+Name: Woodrow Hodkiewicz V
+Mobile: nelson.veum@hotmail.com
+Email: 1-850-940-3622
+Address: Suite 458 55677 Milo Station, West Gabrielland, ID 32358-1996
+Transaction ID: TXN464154228
+Timestamp: Nicky Rohan
+Amount: 5836.12
+Receiver: Tue Dec 24 14:03:47 IST 2024
+Status: Success
+-----------------------------

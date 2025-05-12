@@ -1,0 +1,99 @@
+Customer ID: CUST440123
+Name: Florinda Russel
+Mobile: laverna.brown@gmail.com
+Email: (420) 255-0996
+Address: Apt. 154 1330 Mayert Valleys, Port Elvinburgh, TX 65117
+Transaction ID: TXN167422293
+Timestamp: Shandi Streich
+Amount: 5870.86
+Receiver: Mon Nov 25 05:23:43 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST422075
+Name: Landon Mohr
+Mobile: jina.klocko@hotmail.com
+Email: (699) 618-8243
+Address: Apt. 921 6572 Albert Points, Petramouth, WI 60542
+Transaction ID: TXN518171473
+Timestamp: Denna Crona
+Amount: 1221.94
+Receiver: Mon Nov 25 05:21:50 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST888793
+Name: Clifford McCullough
+Mobile: robin.cruickshank@hotmail.com
+Email: 1-919-610-8039
+Address: 438 Tamera Freeway, Port Jamey, WY 99529-8363
+Transaction ID: TXN526368254
+Timestamp: Ms. Forrest Buckridge
+Amount: 6426.99
+Receiver: Sun Nov 24 23:35:31 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST440123
+Name: Florinda Russel
+Mobile: laverna.brown@gmail.com
+Email: (420) 255-0996
+Address: Apt. 154 1330 Mayert Valleys, Port Elvinburgh, TX 65117
+Transaction ID: TXN167422293
+Timestamp: Shandi Streich
+Amount: 5870.86
+Receiver: Mon Nov 25 05:23:43 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST422075
+Name: Landon Mohr
+Mobile: jina.klocko@hotmail.com
+Email: (699) 618-8243
+Address: Apt. 921 6572 Albert Points, Petramouth, WI 60542
+Transaction ID: TXN518171473
+Timestamp: Denna Crona
+Amount: 1221.94
+Receiver: Mon Nov 25 05:21:50 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST888793
+Name: Clifford McCullough
+Mobile: robin.cruickshank@hotmail.com
+Email: 1-919-610-8039
+Address: 438 Tamera Freeway, Port Jamey, WY 99529-8363
+Transaction ID: TXN526368254
+Timestamp: Ms. Forrest Buckridge
+Amount: 6426.99
+Receiver: Sun Nov 24 23:35:31 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST440123
+Name: Florinda Russel
+Mobile: laverna.brown@gmail.com
+Email: (420) 255-0996
+Address: Apt. 154 1330 Mayert Valleys, Port Elvinburgh, TX 65117
+Transaction ID: TXN167422293
+Timestamp: Shandi Streich
+Amount: 5870.86
+Receiver: Mon Nov 25 05:23:43 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST422075
+Name: Landon Mohr
+Mobile: jina.klocko@hotmail.com
+Email: (699) 618-8243
+Address: Apt. 921 6572 Albert Points, Petramouth, WI 60542
+Transaction ID: TXN518171473
+Timestamp: Denna Crona
+Amount: 1221.94
+Receiver: Mon Nov 25 05:21:50 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST888793
+Name: Clifford McCullough
+Mobile: robin.cruickshank@hotmail.com
+Email: 1-919-610-8039
+Address: 438 Tamera Freeway, Port Jamey, WY 99529-8363
+Transaction ID: TXN526368254
+Timestamp: Ms. Forrest Buckridge
+Amount: 6426.99
+Receiver: Sun Nov 24 23:35:31 IST 2024
+Status: Success
+-----------------------------

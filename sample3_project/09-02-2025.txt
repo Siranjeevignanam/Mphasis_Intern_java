@@ -1,0 +1,66 @@
+Customer ID: CUST385513
+Name: Wyatt Deckow
+Mobile: susy.beer@yahoo.com
+Email: 1-955-864-8951
+Address: Suite 062 240 Lamont Trail, Rowemouth, CA 38800
+Transaction ID: TXN540605003
+Timestamp: Dr. Laraine Bogisich
+Amount: 4163.09
+Receiver: Sun Feb 09 12:28:46 IST 2025
+Status: Success
+-----------------------------
+Customer ID: CUST134815
+Name: Willy Rice V
+Mobile: carmen.reinger@hotmail.com
+Email: 820-591-3783
+Address: 6149 Sanford Ville, Howeborough, RI 38621
+Transaction ID: TXN932424206
+Timestamp: Karlyn Hackett
+Amount: 402.04
+Receiver: Sun Feb 09 10:33:34 IST 2025
+Status: Success
+-----------------------------
+Customer ID: CUST385513
+Name: Wyatt Deckow
+Mobile: susy.beer@yahoo.com
+Email: 1-955-864-8951
+Address: Suite 062 240 Lamont Trail, Rowemouth, CA 38800
+Transaction ID: TXN540605003
+Timestamp: Dr. Laraine Bogisich
+Amount: 4163.09
+Receiver: Sun Feb 09 12:28:46 IST 2025
+Status: Success
+-----------------------------
+Customer ID: CUST134815
+Name: Willy Rice V
+Mobile: carmen.reinger@hotmail.com
+Email: 820-591-3783
+Address: 6149 Sanford Ville, Howeborough, RI 38621
+Transaction ID: TXN932424206
+Timestamp: Karlyn Hackett
+Amount: 402.04
+Receiver: Sun Feb 09 10:33:34 IST 2025
+Status: Success
+-----------------------------
+Customer ID: CUST385513
+Name: Wyatt Deckow
+Mobile: susy.beer@yahoo.com
+Email: 1-955-864-8951
+Address: Suite 062 240 Lamont Trail, Rowemouth, CA 38800
+Transaction ID: TXN540605003
+Timestamp: Dr. Laraine Bogisich
+Amount: 4163.09
+Receiver: Sun Feb 09 12:28:46 IST 2025
+Status: Success
+-----------------------------
+Customer ID: CUST134815
+Name: Willy Rice V
+Mobile: carmen.reinger@hotmail.com
+Email: 820-591-3783
+Address: 6149 Sanford Ville, Howeborough, RI 38621
+Transaction ID: TXN932424206
+Timestamp: Karlyn Hackett
+Amount: 402.04
+Receiver: Sun Feb 09 10:33:34 IST 2025
+Status: Success
+-----------------------------

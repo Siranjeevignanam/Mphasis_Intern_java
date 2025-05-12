@@ -1,0 +1,66 @@
+Customer ID: CUST211786
+Name: Ms. Stephenie Pagac
+Mobile: richie.hauck@yahoo.com
+Email: 093.512.0320
+Address: 478 Miller Divide, Virginamouth, LA 98947-6191
+Transaction ID: TXN960298036
+Timestamp: Carl Friesen II
+Amount: 3708.51
+Receiver: Wed Aug 07 17:44:08 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST531458
+Name: Christena Hamill
+Mobile: quintin.wolff@yahoo.com
+Email: 863-030-8460
+Address: 07397 Lowell Run, Johnsonville, CO 69313
+Transaction ID: TXN476724879
+Timestamp: Hayden Jast
+Amount: 7518.73
+Receiver: Thu Aug 08 03:41:47 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST211786
+Name: Ms. Stephenie Pagac
+Mobile: richie.hauck@yahoo.com
+Email: 093.512.0320
+Address: 478 Miller Divide, Virginamouth, LA 98947-6191
+Transaction ID: TXN960298036
+Timestamp: Carl Friesen II
+Amount: 3708.51
+Receiver: Wed Aug 07 17:44:08 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST531458
+Name: Christena Hamill
+Mobile: quintin.wolff@yahoo.com
+Email: 863-030-8460
+Address: 07397 Lowell Run, Johnsonville, CO 69313
+Transaction ID: TXN476724879
+Timestamp: Hayden Jast
+Amount: 7518.73
+Receiver: Thu Aug 08 03:41:47 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST211786
+Name: Ms. Stephenie Pagac
+Mobile: richie.hauck@yahoo.com
+Email: 093.512.0320
+Address: 478 Miller Divide, Virginamouth, LA 98947-6191
+Transaction ID: TXN960298036
+Timestamp: Carl Friesen II
+Amount: 3708.51
+Receiver: Wed Aug 07 17:44:08 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST531458
+Name: Christena Hamill
+Mobile: quintin.wolff@yahoo.com
+Email: 863-030-8460
+Address: 07397 Lowell Run, Johnsonville, CO 69313
+Transaction ID: TXN476724879
+Timestamp: Hayden Jast
+Amount: 7518.73
+Receiver: Thu Aug 08 03:41:47 IST 2024
+Status: Failed
+-----------------------------

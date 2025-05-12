@@ -1,0 +1,33 @@
+Customer ID: CUST412842
+Name: Margurite Padberg
+Mobile: major.howe@yahoo.com
+Email: 257-360-0461
+Address: 904 Bauch Plains, Lake Hiramberg, IN 21139
+Transaction ID: TXN847522455
+Timestamp: Mauro Mueller
+Amount: 9471.57
+Receiver: Mon Feb 24 17:02:39 IST 2025
+Status: Failed
+-----------------------------
+Customer ID: CUST412842
+Name: Margurite Padberg
+Mobile: major.howe@yahoo.com
+Email: 257-360-0461
+Address: 904 Bauch Plains, Lake Hiramberg, IN 21139
+Transaction ID: TXN847522455
+Timestamp: Mauro Mueller
+Amount: 9471.57
+Receiver: Mon Feb 24 17:02:39 IST 2025
+Status: Failed
+-----------------------------
+Customer ID: CUST412842
+Name: Margurite Padberg
+Mobile: major.howe@yahoo.com
+Email: 257-360-0461
+Address: 904 Bauch Plains, Lake Hiramberg, IN 21139
+Transaction ID: TXN847522455
+Timestamp: Mauro Mueller
+Amount: 9471.57
+Receiver: Mon Feb 24 17:02:39 IST 2025
+Status: Failed
+-----------------------------

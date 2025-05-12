@@ -1,0 +1,66 @@
+Customer ID: CUST537702
+Name: Gene Murazik
+Mobile: edwin.lind@hotmail.com
+Email: 1-185-983-1711
+Address: Apt. 180 9793 Boyer Summit, South Denitaside, VT 20452
+Transaction ID: TXN658992321
+Timestamp: Mr. Janett Hansen
+Amount: 7571.31
+Receiver: Thu Aug 22 23:14:32 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST408860
+Name: Marlon Rogahn
+Mobile: annamarie.jacobson@gmail.com
+Email: (731) 760-3162
+Address: Suite 497 53048 Doyle Brook, New Miquelborough, GA 35405
+Transaction ID: TXN216134942
+Timestamp: Mrs. Edie D'Amore
+Amount: 5186.47
+Receiver: Thu Aug 22 19:00:49 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST537702
+Name: Gene Murazik
+Mobile: edwin.lind@hotmail.com
+Email: 1-185-983-1711
+Address: Apt. 180 9793 Boyer Summit, South Denitaside, VT 20452
+Transaction ID: TXN658992321
+Timestamp: Mr. Janett Hansen
+Amount: 7571.31
+Receiver: Thu Aug 22 23:14:32 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST408860
+Name: Marlon Rogahn
+Mobile: annamarie.jacobson@gmail.com
+Email: (731) 760-3162
+Address: Suite 497 53048 Doyle Brook, New Miquelborough, GA 35405
+Transaction ID: TXN216134942
+Timestamp: Mrs. Edie D'Amore
+Amount: 5186.47
+Receiver: Thu Aug 22 19:00:49 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST537702
+Name: Gene Murazik
+Mobile: edwin.lind@hotmail.com
+Email: 1-185-983-1711
+Address: Apt. 180 9793 Boyer Summit, South Denitaside, VT 20452
+Transaction ID: TXN658992321
+Timestamp: Mr. Janett Hansen
+Amount: 7571.31
+Receiver: Thu Aug 22 23:14:32 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST408860
+Name: Marlon Rogahn
+Mobile: annamarie.jacobson@gmail.com
+Email: (731) 760-3162
+Address: Suite 497 53048 Doyle Brook, New Miquelborough, GA 35405
+Transaction ID: TXN216134942
+Timestamp: Mrs. Edie D'Amore
+Amount: 5186.47
+Receiver: Thu Aug 22 19:00:49 IST 2024
+Status: Failed
+-----------------------------

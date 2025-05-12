@@ -1,0 +1,66 @@
+Customer ID: CUST381688
+Name: Waldo Franecki IV
+Mobile: barrett.lueilwitz@gmail.com
+Email: (069) 371-0706
+Address: 6651 Renner Plaza, Hintzport, AL 55376
+Transaction ID: TXN316609251
+Timestamp: Valarie Gleason
+Amount: 361.34
+Receiver: Wed Sep 04 03:12:33 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST294282
+Name: Earlie Baumbach
+Mobile: casimira.abbott@yahoo.com
+Email: (122) 434-3098
+Address: 093 Shirley Unions, Lakendrafort, AR 59519
+Transaction ID: TXN633199705
+Timestamp: Louis Robel Sr.
+Amount: 9509.12
+Receiver: Tue Sep 03 11:05:40 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST381688
+Name: Waldo Franecki IV
+Mobile: barrett.lueilwitz@gmail.com
+Email: (069) 371-0706
+Address: 6651 Renner Plaza, Hintzport, AL 55376
+Transaction ID: TXN316609251
+Timestamp: Valarie Gleason
+Amount: 361.34
+Receiver: Wed Sep 04 03:12:33 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST294282
+Name: Earlie Baumbach
+Mobile: casimira.abbott@yahoo.com
+Email: (122) 434-3098
+Address: 093 Shirley Unions, Lakendrafort, AR 59519
+Transaction ID: TXN633199705
+Timestamp: Louis Robel Sr.
+Amount: 9509.12
+Receiver: Tue Sep 03 11:05:40 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST381688
+Name: Waldo Franecki IV
+Mobile: barrett.lueilwitz@gmail.com
+Email: (069) 371-0706
+Address: 6651 Renner Plaza, Hintzport, AL 55376
+Transaction ID: TXN316609251
+Timestamp: Valarie Gleason
+Amount: 361.34
+Receiver: Wed Sep 04 03:12:33 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST294282
+Name: Earlie Baumbach
+Mobile: casimira.abbott@yahoo.com
+Email: (122) 434-3098
+Address: 093 Shirley Unions, Lakendrafort, AR 59519
+Transaction ID: TXN633199705
+Timestamp: Louis Robel Sr.
+Amount: 9509.12
+Receiver: Tue Sep 03 11:05:40 IST 2024
+Status: Success
+-----------------------------

@@ -1,0 +1,66 @@
+Customer ID: CUST545419
+Name: Edmond DuBuque
+Mobile: kenneth.auer@yahoo.com
+Email: (504) 708-6852
+Address: Suite 850 200 Reuben Estate, East Tinaville, VA 31303
+Transaction ID: TXN913298699
+Timestamp: Matthew Wintheiser IV
+Amount: 2708.12
+Receiver: Mon Mar 17 23:30:20 IST 2025
+Status: Failed
+-----------------------------
+Customer ID: CUST160128
+Name: Michele Koch I
+Mobile: winford.spencer@yahoo.com
+Email: 1-575-010-6601
+Address: 5267 Young Throughway, New Shanita, MO 77729-2446
+Transaction ID: TXN568659185
+Timestamp: Rusty Kunze
+Amount: 3482.20
+Receiver: Tue Mar 18 05:04:29 IST 2025
+Status: Failed
+-----------------------------
+Customer ID: CUST545419
+Name: Edmond DuBuque
+Mobile: kenneth.auer@yahoo.com
+Email: (504) 708-6852
+Address: Suite 850 200 Reuben Estate, East Tinaville, VA 31303
+Transaction ID: TXN913298699
+Timestamp: Matthew Wintheiser IV
+Amount: 2708.12
+Receiver: Mon Mar 17 23:30:20 IST 2025
+Status: Failed
+-----------------------------
+Customer ID: CUST160128
+Name: Michele Koch I
+Mobile: winford.spencer@yahoo.com
+Email: 1-575-010-6601
+Address: 5267 Young Throughway, New Shanita, MO 77729-2446
+Transaction ID: TXN568659185
+Timestamp: Rusty Kunze
+Amount: 3482.20
+Receiver: Tue Mar 18 05:04:29 IST 2025
+Status: Failed
+-----------------------------
+Customer ID: CUST545419
+Name: Edmond DuBuque
+Mobile: kenneth.auer@yahoo.com
+Email: (504) 708-6852
+Address: Suite 850 200 Reuben Estate, East Tinaville, VA 31303
+Transaction ID: TXN913298699
+Timestamp: Matthew Wintheiser IV
+Amount: 2708.12
+Receiver: Mon Mar 17 23:30:20 IST 2025
+Status: Failed
+-----------------------------
+Customer ID: CUST160128
+Name: Michele Koch I
+Mobile: winford.spencer@yahoo.com
+Email: 1-575-010-6601
+Address: 5267 Young Throughway, New Shanita, MO 77729-2446
+Transaction ID: TXN568659185
+Timestamp: Rusty Kunze
+Amount: 3482.20
+Receiver: Tue Mar 18 05:04:29 IST 2025
+Status: Failed
+-----------------------------

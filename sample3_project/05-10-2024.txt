@@ -1,0 +1,66 @@
+Customer ID: CUST306141
+Name: Francie Lemke
+Mobile: meredith.fritsch@gmail.com
+Email: 1-949-345-4340
+Address: 580 Torp Orchard, West Ferdinand, RI 64347-4639
+Transaction ID: TXN174223601
+Timestamp: Ms. Rafael Buckridge
+Amount: 4607.06
+Receiver: Sun Oct 06 03:15:29 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST825689
+Name: Daniell Hammes
+Mobile: deloise.kessler@hotmail.com
+Email: 1-809-161-9550
+Address: 25466 Upton Island, Lake Hugoton, NH 68789
+Transaction ID: TXN258049388
+Timestamp: Leigh Abshire
+Amount: 9982.42
+Receiver: Sun Oct 06 03:08:00 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST306141
+Name: Francie Lemke
+Mobile: meredith.fritsch@gmail.com
+Email: 1-949-345-4340
+Address: 580 Torp Orchard, West Ferdinand, RI 64347-4639
+Transaction ID: TXN174223601
+Timestamp: Ms. Rafael Buckridge
+Amount: 4607.06
+Receiver: Sun Oct 06 03:15:29 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST825689
+Name: Daniell Hammes
+Mobile: deloise.kessler@hotmail.com
+Email: 1-809-161-9550
+Address: 25466 Upton Island, Lake Hugoton, NH 68789
+Transaction ID: TXN258049388
+Timestamp: Leigh Abshire
+Amount: 9982.42
+Receiver: Sun Oct 06 03:08:00 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST306141
+Name: Francie Lemke
+Mobile: meredith.fritsch@gmail.com
+Email: 1-949-345-4340
+Address: 580 Torp Orchard, West Ferdinand, RI 64347-4639
+Transaction ID: TXN174223601
+Timestamp: Ms. Rafael Buckridge
+Amount: 4607.06
+Receiver: Sun Oct 06 03:15:29 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST825689
+Name: Daniell Hammes
+Mobile: deloise.kessler@hotmail.com
+Email: 1-809-161-9550
+Address: 25466 Upton Island, Lake Hugoton, NH 68789
+Transaction ID: TXN258049388
+Timestamp: Leigh Abshire
+Amount: 9982.42
+Receiver: Sun Oct 06 03:08:00 IST 2024
+Status: Failed
+-----------------------------

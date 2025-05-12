@@ -1,0 +1,132 @@
+Customer ID: CUST699815
+Name: Kendrick Bernier
+Mobile: brandon.dibbert@hotmail.com
+Email: 404-687-6880
+Address: 83300 Ellamae Burg, South Jamey, VA 69844-6687
+Transaction ID: TXN347828832
+Timestamp: Julio Tromp Sr.
+Amount: 9920.63
+Receiver: Tue Oct 01 19:07:05 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST567550
+Name: Ellena Marquardt III
+Mobile: ellis.kerluke@yahoo.com
+Email: 1-924-230-9306
+Address: 075 Chad Ford, Murphyport, IN 95270-9463
+Transaction ID: TXN169122857
+Timestamp: Brendon Wuckert
+Amount: 789.55
+Receiver: Tue Oct 01 15:53:56 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST232169
+Name: Jeramy Steuber
+Mobile: perla.gutmann@yahoo.com
+Email: (025) 576-2215
+Address: 346 Marcos Harbor, Tishside, ID 67726
+Transaction ID: TXN561816302
+Timestamp: Clarita Watsica
+Amount: 2773.64
+Receiver: Tue Oct 01 13:41:57 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST454909
+Name: Dr. Buck Ernser
+Mobile: rolanda.braun@hotmail.com
+Email: 383-126-9837
+Address: Suite 079 64776 Mitch Green, South Daniell, MD 04702-9955
+Transaction ID: TXN950009442
+Timestamp: Mrs. Salvador King
+Amount: 3812.48
+Receiver: Tue Oct 01 19:00:08 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST699815
+Name: Kendrick Bernier
+Mobile: brandon.dibbert@hotmail.com
+Email: 404-687-6880
+Address: 83300 Ellamae Burg, South Jamey, VA 69844-6687
+Transaction ID: TXN347828832
+Timestamp: Julio Tromp Sr.
+Amount: 9920.63
+Receiver: Tue Oct 01 19:07:05 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST567550
+Name: Ellena Marquardt III
+Mobile: ellis.kerluke@yahoo.com
+Email: 1-924-230-9306
+Address: 075 Chad Ford, Murphyport, IN 95270-9463
+Transaction ID: TXN169122857
+Timestamp: Brendon Wuckert
+Amount: 789.55
+Receiver: Tue Oct 01 15:53:56 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST232169
+Name: Jeramy Steuber
+Mobile: perla.gutmann@yahoo.com
+Email: (025) 576-2215
+Address: 346 Marcos Harbor, Tishside, ID 67726
+Transaction ID: TXN561816302
+Timestamp: Clarita Watsica
+Amount: 2773.64
+Receiver: Tue Oct 01 13:41:57 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST454909
+Name: Dr. Buck Ernser
+Mobile: rolanda.braun@hotmail.com
+Email: 383-126-9837
+Address: Suite 079 64776 Mitch Green, South Daniell, MD 04702-9955
+Transaction ID: TXN950009442
+Timestamp: Mrs. Salvador King
+Amount: 3812.48
+Receiver: Tue Oct 01 19:00:08 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST699815
+Name: Kendrick Bernier
+Mobile: brandon.dibbert@hotmail.com
+Email: 404-687-6880
+Address: 83300 Ellamae Burg, South Jamey, VA 69844-6687
+Transaction ID: TXN347828832
+Timestamp: Julio Tromp Sr.
+Amount: 9920.63
+Receiver: Tue Oct 01 19:07:05 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST567550
+Name: Ellena Marquardt III
+Mobile: ellis.kerluke@yahoo.com
+Email: 1-924-230-9306
+Address: 075 Chad Ford, Murphyport, IN 95270-9463
+Transaction ID: TXN169122857
+Timestamp: Brendon Wuckert
+Amount: 789.55
+Receiver: Tue Oct 01 15:53:56 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST232169
+Name: Jeramy Steuber
+Mobile: perla.gutmann@yahoo.com
+Email: (025) 576-2215
+Address: 346 Marcos Harbor, Tishside, ID 67726
+Transaction ID: TXN561816302
+Timestamp: Clarita Watsica
+Amount: 2773.64
+Receiver: Tue Oct 01 13:41:57 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST454909
+Name: Dr. Buck Ernser
+Mobile: rolanda.braun@hotmail.com
+Email: 383-126-9837
+Address: Suite 079 64776 Mitch Green, South Daniell, MD 04702-9955
+Transaction ID: TXN950009442
+Timestamp: Mrs. Salvador King
+Amount: 3812.48
+Receiver: Tue Oct 01 19:00:08 IST 2024
+Status: Failed
+-----------------------------

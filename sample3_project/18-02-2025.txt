@@ -1,0 +1,165 @@
+Customer ID: CUST588186
+Name: Jefferson Smitham
+Mobile: tommy.heaney@gmail.com
+Email: 1-970-023-1237
+Address: 360 Jenkins Path, North Enaville, MS 57823
+Transaction ID: TXN259387822
+Timestamp: Donovan Rempel
+Amount: 3652.79
+Receiver: Wed Feb 19 00:39:18 IST 2025
+Status: Failed
+-----------------------------
+Customer ID: CUST220391
+Name: Berry Botsford
+Mobile: flo.muller@gmail.com
+Email: (938) 612-8418
+Address: Suite 454 96965 Leonardo Prairie, Wolfside, AZ 33949
+Transaction ID: TXN913273967
+Timestamp: Mauro Smitham
+Amount: 3132.05
+Receiver: Tue Feb 18 10:03:05 IST 2025
+Status: Failed
+-----------------------------
+Customer ID: CUST588647
+Name: Carter Nikolaus
+Mobile: jewel.thompson@yahoo.com
+Email: 1-140-975-1334
+Address: 658 Homenick Crossroad, Grimesfurt, MI 20583
+Transaction ID: TXN375461671
+Timestamp: Gwyn Turner
+Amount: 7742.24
+Receiver: Tue Feb 18 23:52:25 IST 2025
+Status: Success
+-----------------------------
+Customer ID: CUST900823
+Name: Mrs. Kenton Beatty
+Mobile: josefa.crona@yahoo.com
+Email: 1-544-016-6026
+Address: Apt. 895 84937 Nida Viaduct, Schillerfort, SD 98386-4274
+Transaction ID: TXN155240136
+Timestamp: Winifred Bauch
+Amount: 9027.32
+Receiver: Tue Feb 18 09:08:25 IST 2025
+Status: Failed
+-----------------------------
+Customer ID: CUST623933
+Name: Darwin Sipes
+Mobile: filiberto.batz@hotmail.com
+Email: (071) 795-6624
+Address: 14938 Farrell Plaza, New Lance, ND 62755
+Transaction ID: TXN326901621
+Timestamp: Raelene Champlin DVM
+Amount: 3496.66
+Receiver: Wed Feb 19 03:39:05 IST 2025
+Status: Failed
+-----------------------------
+Customer ID: CUST588186
+Name: Jefferson Smitham
+Mobile: tommy.heaney@gmail.com
+Email: 1-970-023-1237
+Address: 360 Jenkins Path, North Enaville, MS 57823
+Transaction ID: TXN259387822
+Timestamp: Donovan Rempel
+Amount: 3652.79
+Receiver: Wed Feb 19 00:39:18 IST 2025
+Status: Failed
+-----------------------------
+Customer ID: CUST220391
+Name: Berry Botsford
+Mobile: flo.muller@gmail.com
+Email: (938) 612-8418
+Address: Suite 454 96965 Leonardo Prairie, Wolfside, AZ 33949
+Transaction ID: TXN913273967
+Timestamp: Mauro Smitham
+Amount: 3132.05
+Receiver: Tue Feb 18 10:03:05 IST 2025
+Status: Failed
+-----------------------------
+Customer ID: CUST588647
+Name: Carter Nikolaus
+Mobile: jewel.thompson@yahoo.com
+Email: 1-140-975-1334
+Address: 658 Homenick Crossroad, Grimesfurt, MI 20583
+Transaction ID: TXN375461671
+Timestamp: Gwyn Turner
+Amount: 7742.24
+Receiver: Tue Feb 18 23:52:25 IST 2025
+Status: Success
+-----------------------------
+Customer ID: CUST900823
+Name: Mrs. Kenton Beatty
+Mobile: josefa.crona@yahoo.com
+Email: 1-544-016-6026
+Address: Apt. 895 84937 Nida Viaduct, Schillerfort, SD 98386-4274
+Transaction ID: TXN155240136
+Timestamp: Winifred Bauch
+Amount: 9027.32
+Receiver: Tue Feb 18 09:08:25 IST 2025
+Status: Failed
+-----------------------------
+Customer ID: CUST623933
+Name: Darwin Sipes
+Mobile: filiberto.batz@hotmail.com
+Email: (071) 795-6624
+Address: 14938 Farrell Plaza, New Lance, ND 62755
+Transaction ID: TXN326901621
+Timestamp: Raelene Champlin DVM
+Amount: 3496.66
+Receiver: Wed Feb 19 03:39:05 IST 2025
+Status: Failed
+-----------------------------
+Customer ID: CUST588186
+Name: Jefferson Smitham
+Mobile: tommy.heaney@gmail.com
+Email: 1-970-023-1237
+Address: 360 Jenkins Path, North Enaville, MS 57823
+Transaction ID: TXN259387822
+Timestamp: Donovan Rempel
+Amount: 3652.79
+Receiver: Wed Feb 19 00:39:18 IST 2025
+Status: Failed
+-----------------------------
+Customer ID: CUST220391
+Name: Berry Botsford
+Mobile: flo.muller@gmail.com
+Email: (938) 612-8418
+Address: Suite 454 96965 Leonardo Prairie, Wolfside, AZ 33949
+Transaction ID: TXN913273967
+Timestamp: Mauro Smitham
+Amount: 3132.05
+Receiver: Tue Feb 18 10:03:05 IST 2025
+Status: Failed
+-----------------------------
+Customer ID: CUST588647
+Name: Carter Nikolaus
+Mobile: jewel.thompson@yahoo.com
+Email: 1-140-975-1334
+Address: 658 Homenick Crossroad, Grimesfurt, MI 20583
+Transaction ID: TXN375461671
+Timestamp: Gwyn Turner
+Amount: 7742.24
+Receiver: Tue Feb 18 23:52:25 IST 2025
+Status: Success
+-----------------------------
+Customer ID: CUST900823
+Name: Mrs. Kenton Beatty
+Mobile: josefa.crona@yahoo.com
+Email: 1-544-016-6026
+Address: Apt. 895 84937 Nida Viaduct, Schillerfort, SD 98386-4274
+Transaction ID: TXN155240136
+Timestamp: Winifred Bauch
+Amount: 9027.32
+Receiver: Tue Feb 18 09:08:25 IST 2025
+Status: Failed
+-----------------------------
+Customer ID: CUST623933
+Name: Darwin Sipes
+Mobile: filiberto.batz@hotmail.com
+Email: (071) 795-6624
+Address: 14938 Farrell Plaza, New Lance, ND 62755
+Transaction ID: TXN326901621
+Timestamp: Raelene Champlin DVM
+Amount: 3496.66
+Receiver: Wed Feb 19 03:39:05 IST 2025
+Status: Failed
+-----------------------------

@@ -1,0 +1,165 @@
+Customer ID: CUST922930
+Name: Miss Jaime Pfeffer
+Mobile: reggie.lesch@hotmail.com
+Email: (732) 590-0639
+Address: Apt. 636 2924 Elyse Union, Marcellshire, WA 82542-1928
+Transaction ID: TXN485749897
+Timestamp: Neal Balistreri
+Amount: 7736.64
+Receiver: Fri Jun 28 10:15:53 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST434423
+Name: Debi Abshire
+Mobile: rodrick.sawayn@yahoo.com
+Email: 1-523-606-5493
+Address: Suite 102 102 Steuber Lake, New Budport, AL 92830
+Transaction ID: TXN213955803
+Timestamp: Miss Nicolas Fritsch
+Amount: 8214.10
+Receiver: Fri Jun 28 17:11:44 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST311879
+Name: Walker Beahan
+Mobile: kira.greenholt@gmail.com
+Email: 030-629-8179
+Address: Apt. 217 16002 Denny Views, Wilburnchester, KY 27282-3565
+Transaction ID: TXN584983325
+Timestamp: Coleen Streich
+Amount: 3420.37
+Receiver: Sat Jun 29 01:07:00 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST130962
+Name: Jimmie Fadel II
+Mobile: india.kshlerin@hotmail.com
+Email: (351) 239-0388
+Address: Apt. 062 4035 Phylis Crescent, Elvinside, NC 31671
+Transaction ID: TXN216469593
+Timestamp: Ghislaine Krajcik
+Amount: 9303.62
+Receiver: Fri Jun 28 14:44:05 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST492139
+Name: Quinton Kilback
+Mobile: marivel.hartmann@hotmail.com
+Email: 436-696-4118
+Address: 828 Roger Landing, West Monroe, MI 56504-5197
+Transaction ID: TXN816891933
+Timestamp: Dusty Weissnat
+Amount: 9539.54
+Receiver: Fri Jun 28 19:47:50 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST922930
+Name: Miss Jaime Pfeffer
+Mobile: reggie.lesch@hotmail.com
+Email: (732) 590-0639
+Address: Apt. 636 2924 Elyse Union, Marcellshire, WA 82542-1928
+Transaction ID: TXN485749897
+Timestamp: Neal Balistreri
+Amount: 7736.64
+Receiver: Fri Jun 28 10:15:53 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST434423
+Name: Debi Abshire
+Mobile: rodrick.sawayn@yahoo.com
+Email: 1-523-606-5493
+Address: Suite 102 102 Steuber Lake, New Budport, AL 92830
+Transaction ID: TXN213955803
+Timestamp: Miss Nicolas Fritsch
+Amount: 8214.10
+Receiver: Fri Jun 28 17:11:44 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST311879
+Name: Walker Beahan
+Mobile: kira.greenholt@gmail.com
+Email: 030-629-8179
+Address: Apt. 217 16002 Denny Views, Wilburnchester, KY 27282-3565
+Transaction ID: TXN584983325
+Timestamp: Coleen Streich
+Amount: 3420.37
+Receiver: Sat Jun 29 01:07:00 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST130962
+Name: Jimmie Fadel II
+Mobile: india.kshlerin@hotmail.com
+Email: (351) 239-0388
+Address: Apt. 062 4035 Phylis Crescent, Elvinside, NC 31671
+Transaction ID: TXN216469593
+Timestamp: Ghislaine Krajcik
+Amount: 9303.62
+Receiver: Fri Jun 28 14:44:05 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST492139
+Name: Quinton Kilback
+Mobile: marivel.hartmann@hotmail.com
+Email: 436-696-4118
+Address: 828 Roger Landing, West Monroe, MI 56504-5197
+Transaction ID: TXN816891933
+Timestamp: Dusty Weissnat
+Amount: 9539.54
+Receiver: Fri Jun 28 19:47:50 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST922930
+Name: Miss Jaime Pfeffer
+Mobile: reggie.lesch@hotmail.com
+Email: (732) 590-0639
+Address: Apt. 636 2924 Elyse Union, Marcellshire, WA 82542-1928
+Transaction ID: TXN485749897
+Timestamp: Neal Balistreri
+Amount: 7736.64
+Receiver: Fri Jun 28 10:15:53 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST434423
+Name: Debi Abshire
+Mobile: rodrick.sawayn@yahoo.com
+Email: 1-523-606-5493
+Address: Suite 102 102 Steuber Lake, New Budport, AL 92830
+Transaction ID: TXN213955803
+Timestamp: Miss Nicolas Fritsch
+Amount: 8214.10
+Receiver: Fri Jun 28 17:11:44 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST311879
+Name: Walker Beahan
+Mobile: kira.greenholt@gmail.com
+Email: 030-629-8179
+Address: Apt. 217 16002 Denny Views, Wilburnchester, KY 27282-3565
+Transaction ID: TXN584983325
+Timestamp: Coleen Streich
+Amount: 3420.37
+Receiver: Sat Jun 29 01:07:00 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST130962
+Name: Jimmie Fadel II
+Mobile: india.kshlerin@hotmail.com
+Email: (351) 239-0388
+Address: Apt. 062 4035 Phylis Crescent, Elvinside, NC 31671
+Transaction ID: TXN216469593
+Timestamp: Ghislaine Krajcik
+Amount: 9303.62
+Receiver: Fri Jun 28 14:44:05 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST492139
+Name: Quinton Kilback
+Mobile: marivel.hartmann@hotmail.com
+Email: 436-696-4118
+Address: 828 Roger Landing, West Monroe, MI 56504-5197
+Transaction ID: TXN816891933
+Timestamp: Dusty Weissnat
+Amount: 9539.54
+Receiver: Fri Jun 28 19:47:50 IST 2024
+Status: Failed
+-----------------------------

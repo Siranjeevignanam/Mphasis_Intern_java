@@ -1,0 +1,99 @@
+Customer ID: CUST752056
+Name: Miss Marylyn Bahringer
+Mobile: amber.fay@hotmail.com
+Email: 551.387.0996
+Address: 78278 Kertzmann Falls, Faheyburgh, SC 01859
+Transaction ID: TXN293997742
+Timestamp: Beatriz Rutherford I
+Amount: 2556.29
+Receiver: Tue Oct 29 10:07:06 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST306737
+Name: Lou Robel
+Mobile: lou.frami@hotmail.com
+Email: 246.364.7402
+Address: Suite 180 787 Tyree Unions, West Chanel, SD 57803-9812
+Transaction ID: TXN586658931
+Timestamp: Ronna Morissette
+Amount: 1780.47
+Receiver: Wed Oct 30 04:38:16 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST894983
+Name: Colette Funk III
+Mobile: charles.leuschke@hotmail.com
+Email: 1-062-771-1617
+Address: 7328 Lucy Skyway, Lavoneton, IL 53926
+Transaction ID: TXN537871554
+Timestamp: Terisa Reilly
+Amount: 1626.69
+Receiver: Tue Oct 29 12:25:06 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST752056
+Name: Miss Marylyn Bahringer
+Mobile: amber.fay@hotmail.com
+Email: 551.387.0996
+Address: 78278 Kertzmann Falls, Faheyburgh, SC 01859
+Transaction ID: TXN293997742
+Timestamp: Beatriz Rutherford I
+Amount: 2556.29
+Receiver: Tue Oct 29 10:07:06 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST306737
+Name: Lou Robel
+Mobile: lou.frami@hotmail.com
+Email: 246.364.7402
+Address: Suite 180 787 Tyree Unions, West Chanel, SD 57803-9812
+Transaction ID: TXN586658931
+Timestamp: Ronna Morissette
+Amount: 1780.47
+Receiver: Wed Oct 30 04:38:16 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST894983
+Name: Colette Funk III
+Mobile: charles.leuschke@hotmail.com
+Email: 1-062-771-1617
+Address: 7328 Lucy Skyway, Lavoneton, IL 53926
+Transaction ID: TXN537871554
+Timestamp: Terisa Reilly
+Amount: 1626.69
+Receiver: Tue Oct 29 12:25:06 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST752056
+Name: Miss Marylyn Bahringer
+Mobile: amber.fay@hotmail.com
+Email: 551.387.0996
+Address: 78278 Kertzmann Falls, Faheyburgh, SC 01859
+Transaction ID: TXN293997742
+Timestamp: Beatriz Rutherford I
+Amount: 2556.29
+Receiver: Tue Oct 29 10:07:06 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST306737
+Name: Lou Robel
+Mobile: lou.frami@hotmail.com
+Email: 246.364.7402
+Address: Suite 180 787 Tyree Unions, West Chanel, SD 57803-9812
+Transaction ID: TXN586658931
+Timestamp: Ronna Morissette
+Amount: 1780.47
+Receiver: Wed Oct 30 04:38:16 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST894983
+Name: Colette Funk III
+Mobile: charles.leuschke@hotmail.com
+Email: 1-062-771-1617
+Address: 7328 Lucy Skyway, Lavoneton, IL 53926
+Transaction ID: TXN537871554
+Timestamp: Terisa Reilly
+Amount: 1626.69
+Receiver: Tue Oct 29 12:25:06 IST 2024
+Status: Success
+-----------------------------

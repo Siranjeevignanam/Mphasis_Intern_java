@@ -1,0 +1,66 @@
+Customer ID: CUST740559
+Name: Felix Blanda
+Mobile: reuben.ledner@gmail.com
+Email: 695.023.6402
+Address: Apt. 078 538 Mraz Estates, Lake Leiahaven, MI 10145-1457
+Transaction ID: TXN170916655
+Timestamp: Salvatore Kris
+Amount: 6527.67
+Receiver: Tue Aug 27 13:57:55 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST927064
+Name: Dr. Wenona Zemlak
+Mobile: karyn.powlowski@hotmail.com
+Email: 1-799-167-8712
+Address: 72783 Schimmel Village, Rayfordfurt, MN 91927
+Transaction ID: TXN106920096
+Timestamp: Leonie Balistreri
+Amount: 9843.42
+Receiver: Wed Aug 28 04:40:36 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST740559
+Name: Felix Blanda
+Mobile: reuben.ledner@gmail.com
+Email: 695.023.6402
+Address: Apt. 078 538 Mraz Estates, Lake Leiahaven, MI 10145-1457
+Transaction ID: TXN170916655
+Timestamp: Salvatore Kris
+Amount: 6527.67
+Receiver: Tue Aug 27 13:57:55 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST927064
+Name: Dr. Wenona Zemlak
+Mobile: karyn.powlowski@hotmail.com
+Email: 1-799-167-8712
+Address: 72783 Schimmel Village, Rayfordfurt, MN 91927
+Transaction ID: TXN106920096
+Timestamp: Leonie Balistreri
+Amount: 9843.42
+Receiver: Wed Aug 28 04:40:36 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST740559
+Name: Felix Blanda
+Mobile: reuben.ledner@gmail.com
+Email: 695.023.6402
+Address: Apt. 078 538 Mraz Estates, Lake Leiahaven, MI 10145-1457
+Transaction ID: TXN170916655
+Timestamp: Salvatore Kris
+Amount: 6527.67
+Receiver: Tue Aug 27 13:57:55 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST927064
+Name: Dr. Wenona Zemlak
+Mobile: karyn.powlowski@hotmail.com
+Email: 1-799-167-8712
+Address: 72783 Schimmel Village, Rayfordfurt, MN 91927
+Transaction ID: TXN106920096
+Timestamp: Leonie Balistreri
+Amount: 9843.42
+Receiver: Wed Aug 28 04:40:36 IST 2024
+Status: Failed
+-----------------------------

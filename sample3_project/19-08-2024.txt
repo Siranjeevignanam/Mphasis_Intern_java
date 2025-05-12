@@ -1,0 +1,33 @@
+Customer ID: CUST642778
+Name: Santiago Krajcik DDS
+Mobile: tyler.jacobson@yahoo.com
+Email: (639) 110-7662
+Address: Suite 917 6096 Corey Stravenue, New Scottyburgh, VA 07246
+Transaction ID: TXN244399626
+Timestamp: Mrs. Rasheeda Schroeder
+Amount: 9946.19
+Receiver: Tue Aug 20 01:35:22 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST642778
+Name: Santiago Krajcik DDS
+Mobile: tyler.jacobson@yahoo.com
+Email: (639) 110-7662
+Address: Suite 917 6096 Corey Stravenue, New Scottyburgh, VA 07246
+Transaction ID: TXN244399626
+Timestamp: Mrs. Rasheeda Schroeder
+Amount: 9946.19
+Receiver: Tue Aug 20 01:35:22 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST642778
+Name: Santiago Krajcik DDS
+Mobile: tyler.jacobson@yahoo.com
+Email: (639) 110-7662
+Address: Suite 917 6096 Corey Stravenue, New Scottyburgh, VA 07246
+Transaction ID: TXN244399626
+Timestamp: Mrs. Rasheeda Schroeder
+Amount: 9946.19
+Receiver: Tue Aug 20 01:35:22 IST 2024
+Status: Failed
+-----------------------------

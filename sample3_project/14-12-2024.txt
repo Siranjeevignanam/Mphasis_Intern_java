@@ -1,0 +1,132 @@
+Customer ID: CUST652530
+Name: Theresia Bernhard
+Mobile: myung.beer@gmail.com
+Email: 191-588-3897
+Address: Suite 046 39221 Evalyn Station, Armstronghaven, AR 58105
+Transaction ID: TXN891070103
+Timestamp: Shakia Runolfsdottir
+Amount: 3082.09
+Receiver: Sat Dec 14 05:43:50 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST461130
+Name: Roni Kassulke DDS
+Mobile: suk.zemlak@gmail.com
+Email: (917) 440-6365
+Address: 111 Rebbecca Wells, Emardside, MA 05179
+Transaction ID: TXN178319972
+Timestamp: Keneth Walsh
+Amount: 6731.92
+Receiver: Sat Dec 14 17:00:38 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST258070
+Name: Etta Okuneva
+Mobile: rigoberto.adams@hotmail.com
+Email: 518-599-2716
+Address: 08653 Wally River, Wolfberg, VA 14867-8656
+Transaction ID: TXN420953831
+Timestamp: Dr. Malinda Dibbert
+Amount: 3466.74
+Receiver: Sat Dec 14 12:20:54 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST771070
+Name: Alysha Williamson II
+Mobile: rashad.blanda@gmail.com
+Email: 533-397-2347
+Address: 99426 Marlana Stravenue, Kossside, OH 18948
+Transaction ID: TXN983693257
+Timestamp: Alaine Sanford MD
+Amount: 5984.34
+Receiver: Sat Dec 14 21:18:49 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST652530
+Name: Theresia Bernhard
+Mobile: myung.beer@gmail.com
+Email: 191-588-3897
+Address: Suite 046 39221 Evalyn Station, Armstronghaven, AR 58105
+Transaction ID: TXN891070103
+Timestamp: Shakia Runolfsdottir
+Amount: 3082.09
+Receiver: Sat Dec 14 05:43:50 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST461130
+Name: Roni Kassulke DDS
+Mobile: suk.zemlak@gmail.com
+Email: (917) 440-6365
+Address: 111 Rebbecca Wells, Emardside, MA 05179
+Transaction ID: TXN178319972
+Timestamp: Keneth Walsh
+Amount: 6731.92
+Receiver: Sat Dec 14 17:00:38 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST258070
+Name: Etta Okuneva
+Mobile: rigoberto.adams@hotmail.com
+Email: 518-599-2716
+Address: 08653 Wally River, Wolfberg, VA 14867-8656
+Transaction ID: TXN420953831
+Timestamp: Dr. Malinda Dibbert
+Amount: 3466.74
+Receiver: Sat Dec 14 12:20:54 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST771070
+Name: Alysha Williamson II
+Mobile: rashad.blanda@gmail.com
+Email: 533-397-2347
+Address: 99426 Marlana Stravenue, Kossside, OH 18948
+Transaction ID: TXN983693257
+Timestamp: Alaine Sanford MD
+Amount: 5984.34
+Receiver: Sat Dec 14 21:18:49 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST652530
+Name: Theresia Bernhard
+Mobile: myung.beer@gmail.com
+Email: 191-588-3897
+Address: Suite 046 39221 Evalyn Station, Armstronghaven, AR 58105
+Transaction ID: TXN891070103
+Timestamp: Shakia Runolfsdottir
+Amount: 3082.09
+Receiver: Sat Dec 14 05:43:50 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST461130
+Name: Roni Kassulke DDS
+Mobile: suk.zemlak@gmail.com
+Email: (917) 440-6365
+Address: 111 Rebbecca Wells, Emardside, MA 05179
+Transaction ID: TXN178319972
+Timestamp: Keneth Walsh
+Amount: 6731.92
+Receiver: Sat Dec 14 17:00:38 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST258070
+Name: Etta Okuneva
+Mobile: rigoberto.adams@hotmail.com
+Email: 518-599-2716
+Address: 08653 Wally River, Wolfberg, VA 14867-8656
+Transaction ID: TXN420953831
+Timestamp: Dr. Malinda Dibbert
+Amount: 3466.74
+Receiver: Sat Dec 14 12:20:54 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST771070
+Name: Alysha Williamson II
+Mobile: rashad.blanda@gmail.com
+Email: 533-397-2347
+Address: 99426 Marlana Stravenue, Kossside, OH 18948
+Transaction ID: TXN983693257
+Timestamp: Alaine Sanford MD
+Amount: 5984.34
+Receiver: Sat Dec 14 21:18:49 IST 2024
+Status: Failed
+-----------------------------

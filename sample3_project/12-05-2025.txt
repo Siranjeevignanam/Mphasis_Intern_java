@@ -1,0 +1,33 @@
+Customer ID: CUST434957
+Name: Gita Fadel
+Mobile: solomon.lueilwitz@gmail.com
+Email: (467) 826-3000
+Address: Suite 103 820 Brendan Bridge, Cyrilstad, PA 15885-0201
+Transaction ID: TXN901213287
+Timestamp: Michal Larkin
+Amount: 1995.22
+Receiver: Mon May 12 08:38:23 IST 2025
+Status: Success
+-----------------------------
+Customer ID: CUST434957
+Name: Gita Fadel
+Mobile: solomon.lueilwitz@gmail.com
+Email: (467) 826-3000
+Address: Suite 103 820 Brendan Bridge, Cyrilstad, PA 15885-0201
+Transaction ID: TXN901213287
+Timestamp: Michal Larkin
+Amount: 1995.22
+Receiver: Mon May 12 08:38:23 IST 2025
+Status: Success
+-----------------------------
+Customer ID: CUST434957
+Name: Gita Fadel
+Mobile: solomon.lueilwitz@gmail.com
+Email: (467) 826-3000
+Address: Suite 103 820 Brendan Bridge, Cyrilstad, PA 15885-0201
+Transaction ID: TXN901213287
+Timestamp: Michal Larkin
+Amount: 1995.22
+Receiver: Mon May 12 08:38:23 IST 2025
+Status: Success
+-----------------------------

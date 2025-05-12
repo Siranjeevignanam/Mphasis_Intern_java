@@ -1,0 +1,33 @@
+Customer ID: CUST969300
+Name: Marylouise Yundt IV
+Mobile: jamar.murray@yahoo.com
+Email: 1-294-436-1588
+Address: Apt. 860 9809 Hand Junctions, New Andre, MO 59333-6040
+Transaction ID: TXN924471335
+Timestamp: Nicolle Huel
+Amount: 1888.25
+Receiver: Sun Sep 08 12:39:24 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST969300
+Name: Marylouise Yundt IV
+Mobile: jamar.murray@yahoo.com
+Email: 1-294-436-1588
+Address: Apt. 860 9809 Hand Junctions, New Andre, MO 59333-6040
+Transaction ID: TXN924471335
+Timestamp: Nicolle Huel
+Amount: 1888.25
+Receiver: Sun Sep 08 12:39:24 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST969300
+Name: Marylouise Yundt IV
+Mobile: jamar.murray@yahoo.com
+Email: 1-294-436-1588
+Address: Apt. 860 9809 Hand Junctions, New Andre, MO 59333-6040
+Transaction ID: TXN924471335
+Timestamp: Nicolle Huel
+Amount: 1888.25
+Receiver: Sun Sep 08 12:39:24 IST 2024
+Status: Failed
+-----------------------------

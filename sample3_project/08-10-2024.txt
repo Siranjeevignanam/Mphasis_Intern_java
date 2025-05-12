@@ -1,0 +1,165 @@
+Customer ID: CUST652171
+Name: Vaughn Rippin
+Mobile: derrick.bechtelar@gmail.com
+Email: 1-810-322-3922
+Address: 63038 Boyle Hills, West Santos, ND 22289-3705
+Transaction ID: TXN302452198
+Timestamp: Heath Cartwright
+Amount: 9152.09
+Receiver: Tue Oct 08 16:50:06 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST373112
+Name: Sammie Fadel
+Mobile: gerald.brakus@hotmail.com
+Email: (077) 289-4313
+Address: 8390 Weimann Shoals, Lehnerfort, ND 34366-8388
+Transaction ID: TXN660411458
+Timestamp: Rex Adams
+Amount: 9093.45
+Receiver: Tue Oct 08 08:04:30 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST664017
+Name: Malinda Konopelski
+Mobile: galen.luettgen@yahoo.com
+Email: 551.004.1976
+Address: 481 Jaskolski Centers, Port Patrickstad, OR 11004-4462
+Transaction ID: TXN133964148
+Timestamp: Bao Nikolaus Jr.
+Amount: 7625.75
+Receiver: Tue Oct 08 23:57:32 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST264686
+Name: Marlin Beatty
+Mobile: sterling.pfannerstill@gmail.com
+Email: 116-294-5621
+Address: 5166 Moore Stream, Raeannburgh, WI 15411-3861
+Transaction ID: TXN909545794
+Timestamp: Kelvin Kunze
+Amount: 7669.23
+Receiver: Tue Oct 08 12:41:00 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST980688
+Name: Georgiann Marks
+Mobile: palmer.johns@hotmail.com
+Email: 1-308-363-5761
+Address: Apt. 622 1415 Padberg Courts, Hoegerbury, KY 66311-0830
+Transaction ID: TXN536071521
+Timestamp: Reynalda Beier
+Amount: 1349.49
+Receiver: Tue Oct 08 12:14:08 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST652171
+Name: Vaughn Rippin
+Mobile: derrick.bechtelar@gmail.com
+Email: 1-810-322-3922
+Address: 63038 Boyle Hills, West Santos, ND 22289-3705
+Transaction ID: TXN302452198
+Timestamp: Heath Cartwright
+Amount: 9152.09
+Receiver: Tue Oct 08 16:50:06 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST373112
+Name: Sammie Fadel
+Mobile: gerald.brakus@hotmail.com
+Email: (077) 289-4313
+Address: 8390 Weimann Shoals, Lehnerfort, ND 34366-8388
+Transaction ID: TXN660411458
+Timestamp: Rex Adams
+Amount: 9093.45
+Receiver: Tue Oct 08 08:04:30 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST664017
+Name: Malinda Konopelski
+Mobile: galen.luettgen@yahoo.com
+Email: 551.004.1976
+Address: 481 Jaskolski Centers, Port Patrickstad, OR 11004-4462
+Transaction ID: TXN133964148
+Timestamp: Bao Nikolaus Jr.
+Amount: 7625.75
+Receiver: Tue Oct 08 23:57:32 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST264686
+Name: Marlin Beatty
+Mobile: sterling.pfannerstill@gmail.com
+Email: 116-294-5621
+Address: 5166 Moore Stream, Raeannburgh, WI 15411-3861
+Transaction ID: TXN909545794
+Timestamp: Kelvin Kunze
+Amount: 7669.23
+Receiver: Tue Oct 08 12:41:00 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST980688
+Name: Georgiann Marks
+Mobile: palmer.johns@hotmail.com
+Email: 1-308-363-5761
+Address: Apt. 622 1415 Padberg Courts, Hoegerbury, KY 66311-0830
+Transaction ID: TXN536071521
+Timestamp: Reynalda Beier
+Amount: 1349.49
+Receiver: Tue Oct 08 12:14:08 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST652171
+Name: Vaughn Rippin
+Mobile: derrick.bechtelar@gmail.com
+Email: 1-810-322-3922
+Address: 63038 Boyle Hills, West Santos, ND 22289-3705
+Transaction ID: TXN302452198
+Timestamp: Heath Cartwright
+Amount: 9152.09
+Receiver: Tue Oct 08 16:50:06 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST373112
+Name: Sammie Fadel
+Mobile: gerald.brakus@hotmail.com
+Email: (077) 289-4313
+Address: 8390 Weimann Shoals, Lehnerfort, ND 34366-8388
+Transaction ID: TXN660411458
+Timestamp: Rex Adams
+Amount: 9093.45
+Receiver: Tue Oct 08 08:04:30 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST664017
+Name: Malinda Konopelski
+Mobile: galen.luettgen@yahoo.com
+Email: 551.004.1976
+Address: 481 Jaskolski Centers, Port Patrickstad, OR 11004-4462
+Transaction ID: TXN133964148
+Timestamp: Bao Nikolaus Jr.
+Amount: 7625.75
+Receiver: Tue Oct 08 23:57:32 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST264686
+Name: Marlin Beatty
+Mobile: sterling.pfannerstill@gmail.com
+Email: 116-294-5621
+Address: 5166 Moore Stream, Raeannburgh, WI 15411-3861
+Transaction ID: TXN909545794
+Timestamp: Kelvin Kunze
+Amount: 7669.23
+Receiver: Tue Oct 08 12:41:00 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST980688
+Name: Georgiann Marks
+Mobile: palmer.johns@hotmail.com
+Email: 1-308-363-5761
+Address: Apt. 622 1415 Padberg Courts, Hoegerbury, KY 66311-0830
+Transaction ID: TXN536071521
+Timestamp: Reynalda Beier
+Amount: 1349.49
+Receiver: Tue Oct 08 12:14:08 IST 2024
+Status: Failed
+-----------------------------

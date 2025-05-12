@@ -1,0 +1,132 @@
+Customer ID: CUST609668
+Name: Laine Gulgowski
+Mobile: terrilyn.erdman@yahoo.com
+Email: 182-660-7196
+Address: Suite 832 101 Jacobson Manors, Ankundingville, AZ 26261
+Transaction ID: TXN173596540
+Timestamp: Jenae Harris PhD
+Amount: 3657.08
+Receiver: Sat Apr 19 23:56:11 IST 2025
+Status: Failed
+-----------------------------
+Customer ID: CUST743037
+Name: Timmy Klein
+Mobile: elvina.lynch@hotmail.com
+Email: 1-934-529-5092
+Address: 370 Ying Avenue, Dwainchester, OK 04557
+Transaction ID: TXN619428553
+Timestamp: Rudolf Wunsch
+Amount: 5949.43
+Receiver: Sat Apr 19 14:10:16 IST 2025
+Status: Failed
+-----------------------------
+Customer ID: CUST941306
+Name: Kyla Altenwerth Sr.
+Mobile: ayako.blanda@gmail.com
+Email: 1-508-276-8983
+Address: 172 Cecil Falls, Kassulkefort, OK 16789-6693
+Transaction ID: TXN846892981
+Timestamp: Jeff Ziemann
+Amount: 8419.99
+Receiver: Sat Apr 19 11:35:10 IST 2025
+Status: Success
+-----------------------------
+Customer ID: CUST646675
+Name: Merlin Schimmel
+Mobile: roger.cremin@hotmail.com
+Email: 407-422-5817
+Address: 546 Eleonora Prairie, Cummingsburgh, VA 71234-8983
+Transaction ID: TXN508664926
+Timestamp: Charles Altenwerth Jr.
+Amount: 2113.40
+Receiver: Sat Apr 19 16:34:51 IST 2025
+Status: Failed
+-----------------------------
+Customer ID: CUST609668
+Name: Laine Gulgowski
+Mobile: terrilyn.erdman@yahoo.com
+Email: 182-660-7196
+Address: Suite 832 101 Jacobson Manors, Ankundingville, AZ 26261
+Transaction ID: TXN173596540
+Timestamp: Jenae Harris PhD
+Amount: 3657.08
+Receiver: Sat Apr 19 23:56:11 IST 2025
+Status: Failed
+-----------------------------
+Customer ID: CUST743037
+Name: Timmy Klein
+Mobile: elvina.lynch@hotmail.com
+Email: 1-934-529-5092
+Address: 370 Ying Avenue, Dwainchester, OK 04557
+Transaction ID: TXN619428553
+Timestamp: Rudolf Wunsch
+Amount: 5949.43
+Receiver: Sat Apr 19 14:10:16 IST 2025
+Status: Failed
+-----------------------------
+Customer ID: CUST941306
+Name: Kyla Altenwerth Sr.
+Mobile: ayako.blanda@gmail.com
+Email: 1-508-276-8983
+Address: 172 Cecil Falls, Kassulkefort, OK 16789-6693
+Transaction ID: TXN846892981
+Timestamp: Jeff Ziemann
+Amount: 8419.99
+Receiver: Sat Apr 19 11:35:10 IST 2025
+Status: Success
+-----------------------------
+Customer ID: CUST646675
+Name: Merlin Schimmel
+Mobile: roger.cremin@hotmail.com
+Email: 407-422-5817
+Address: 546 Eleonora Prairie, Cummingsburgh, VA 71234-8983
+Transaction ID: TXN508664926
+Timestamp: Charles Altenwerth Jr.
+Amount: 2113.40
+Receiver: Sat Apr 19 16:34:51 IST 2025
+Status: Failed
+-----------------------------
+Customer ID: CUST609668
+Name: Laine Gulgowski
+Mobile: terrilyn.erdman@yahoo.com
+Email: 182-660-7196
+Address: Suite 832 101 Jacobson Manors, Ankundingville, AZ 26261
+Transaction ID: TXN173596540
+Timestamp: Jenae Harris PhD
+Amount: 3657.08
+Receiver: Sat Apr 19 23:56:11 IST 2025
+Status: Failed
+-----------------------------
+Customer ID: CUST743037
+Name: Timmy Klein
+Mobile: elvina.lynch@hotmail.com
+Email: 1-934-529-5092
+Address: 370 Ying Avenue, Dwainchester, OK 04557
+Transaction ID: TXN619428553
+Timestamp: Rudolf Wunsch
+Amount: 5949.43
+Receiver: Sat Apr 19 14:10:16 IST 2025
+Status: Failed
+-----------------------------
+Customer ID: CUST941306
+Name: Kyla Altenwerth Sr.
+Mobile: ayako.blanda@gmail.com
+Email: 1-508-276-8983
+Address: 172 Cecil Falls, Kassulkefort, OK 16789-6693
+Transaction ID: TXN846892981
+Timestamp: Jeff Ziemann
+Amount: 8419.99
+Receiver: Sat Apr 19 11:35:10 IST 2025
+Status: Success
+-----------------------------
+Customer ID: CUST646675
+Name: Merlin Schimmel
+Mobile: roger.cremin@hotmail.com
+Email: 407-422-5817
+Address: 546 Eleonora Prairie, Cummingsburgh, VA 71234-8983
+Transaction ID: TXN508664926
+Timestamp: Charles Altenwerth Jr.
+Amount: 2113.40
+Receiver: Sat Apr 19 16:34:51 IST 2025
+Status: Failed
+-----------------------------

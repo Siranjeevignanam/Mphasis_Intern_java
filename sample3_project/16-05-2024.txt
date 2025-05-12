@@ -1,0 +1,165 @@
+Customer ID: CUST950184
+Name: Conrad Hermann
+Mobile: annamaria.carter@gmail.com
+Email: 686-291-2668
+Address: 63153 Kreiger Gardens, Connland, MO 51016-9529
+Transaction ID: TXN249243434
+Timestamp: Nan Waters
+Amount: 8106.36
+Receiver: Thu May 16 10:24:52 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST232085
+Name: Stewart Fadel
+Mobile: wendell.tremblay@gmail.com
+Email: 937-753-4523
+Address: 3327 Maryanna Avenue, North Dorcas, MS 83214-8247
+Transaction ID: TXN263411426
+Timestamp: Sharron Bergnaum
+Amount: 4555.58
+Receiver: Fri May 17 04:15:38 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST484878
+Name: Mr. Tim Mayert
+Mobile: lakisha.schmeler@gmail.com
+Email: 169.816.5405
+Address: Apt. 023 8657 Efrain Fields, West Cedricville, DE 24444-5367
+Transaction ID: TXN793350317
+Timestamp: Merrill Torphy
+Amount: 9511.17
+Receiver: Thu May 16 15:27:59 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST504784
+Name: Rod Bahringer
+Mobile: alan.kutch@yahoo.com
+Email: 192.753.2718
+Address: Suite 874 6310 Ankunding Inlet, North Tanika, NJ 23391-6801
+Transaction ID: TXN723029642
+Timestamp: Gerardo Parker
+Amount: 8981.00
+Receiver: Thu May 16 18:03:26 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST238854
+Name: Lauretta Jast
+Mobile: morgan.lowe@hotmail.com
+Email: 459-456-7660
+Address: 37190 Elinore Hills, East Osvaldoshire, IA 24360
+Transaction ID: TXN696601602
+Timestamp: Eric Schneider
+Amount: 3846.85
+Receiver: Thu May 16 21:06:05 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST950184
+Name: Conrad Hermann
+Mobile: annamaria.carter@gmail.com
+Email: 686-291-2668
+Address: 63153 Kreiger Gardens, Connland, MO 51016-9529
+Transaction ID: TXN249243434
+Timestamp: Nan Waters
+Amount: 8106.36
+Receiver: Thu May 16 10:24:52 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST232085
+Name: Stewart Fadel
+Mobile: wendell.tremblay@gmail.com
+Email: 937-753-4523
+Address: 3327 Maryanna Avenue, North Dorcas, MS 83214-8247
+Transaction ID: TXN263411426
+Timestamp: Sharron Bergnaum
+Amount: 4555.58
+Receiver: Fri May 17 04:15:38 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST484878
+Name: Mr. Tim Mayert
+Mobile: lakisha.schmeler@gmail.com
+Email: 169.816.5405
+Address: Apt. 023 8657 Efrain Fields, West Cedricville, DE 24444-5367
+Transaction ID: TXN793350317
+Timestamp: Merrill Torphy
+Amount: 9511.17
+Receiver: Thu May 16 15:27:59 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST504784
+Name: Rod Bahringer
+Mobile: alan.kutch@yahoo.com
+Email: 192.753.2718
+Address: Suite 874 6310 Ankunding Inlet, North Tanika, NJ 23391-6801
+Transaction ID: TXN723029642
+Timestamp: Gerardo Parker
+Amount: 8981.00
+Receiver: Thu May 16 18:03:26 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST238854
+Name: Lauretta Jast
+Mobile: morgan.lowe@hotmail.com
+Email: 459-456-7660
+Address: 37190 Elinore Hills, East Osvaldoshire, IA 24360
+Transaction ID: TXN696601602
+Timestamp: Eric Schneider
+Amount: 3846.85
+Receiver: Thu May 16 21:06:05 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST950184
+Name: Conrad Hermann
+Mobile: annamaria.carter@gmail.com
+Email: 686-291-2668
+Address: 63153 Kreiger Gardens, Connland, MO 51016-9529
+Transaction ID: TXN249243434
+Timestamp: Nan Waters
+Amount: 8106.36
+Receiver: Thu May 16 10:24:52 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST232085
+Name: Stewart Fadel
+Mobile: wendell.tremblay@gmail.com
+Email: 937-753-4523
+Address: 3327 Maryanna Avenue, North Dorcas, MS 83214-8247
+Transaction ID: TXN263411426
+Timestamp: Sharron Bergnaum
+Amount: 4555.58
+Receiver: Fri May 17 04:15:38 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST484878
+Name: Mr. Tim Mayert
+Mobile: lakisha.schmeler@gmail.com
+Email: 169.816.5405
+Address: Apt. 023 8657 Efrain Fields, West Cedricville, DE 24444-5367
+Transaction ID: TXN793350317
+Timestamp: Merrill Torphy
+Amount: 9511.17
+Receiver: Thu May 16 15:27:59 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST504784
+Name: Rod Bahringer
+Mobile: alan.kutch@yahoo.com
+Email: 192.753.2718
+Address: Suite 874 6310 Ankunding Inlet, North Tanika, NJ 23391-6801
+Transaction ID: TXN723029642
+Timestamp: Gerardo Parker
+Amount: 8981.00
+Receiver: Thu May 16 18:03:26 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST238854
+Name: Lauretta Jast
+Mobile: morgan.lowe@hotmail.com
+Email: 459-456-7660
+Address: 37190 Elinore Hills, East Osvaldoshire, IA 24360
+Transaction ID: TXN696601602
+Timestamp: Eric Schneider
+Amount: 3846.85
+Receiver: Thu May 16 21:06:05 IST 2024
+Status: Success
+-----------------------------

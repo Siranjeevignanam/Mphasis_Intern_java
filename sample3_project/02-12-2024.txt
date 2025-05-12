@@ -1,0 +1,33 @@
+Customer ID: CUST955327
+Name: Renaldo Spencer
+Mobile: andy.johnson@yahoo.com
+Email: 251-267-0489
+Address: Apt. 044 936 Amberly Way, Lake Kayleenhaven, KS 43944-8318
+Transaction ID: TXN707671286
+Timestamp: Bradford Bradtke
+Amount: 1322.54
+Receiver: Mon Dec 02 11:15:04 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST955327
+Name: Renaldo Spencer
+Mobile: andy.johnson@yahoo.com
+Email: 251-267-0489
+Address: Apt. 044 936 Amberly Way, Lake Kayleenhaven, KS 43944-8318
+Transaction ID: TXN707671286
+Timestamp: Bradford Bradtke
+Amount: 1322.54
+Receiver: Mon Dec 02 11:15:04 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST955327
+Name: Renaldo Spencer
+Mobile: andy.johnson@yahoo.com
+Email: 251-267-0489
+Address: Apt. 044 936 Amberly Way, Lake Kayleenhaven, KS 43944-8318
+Transaction ID: TXN707671286
+Timestamp: Bradford Bradtke
+Amount: 1322.54
+Receiver: Mon Dec 02 11:15:04 IST 2024
+Status: Success
+-----------------------------

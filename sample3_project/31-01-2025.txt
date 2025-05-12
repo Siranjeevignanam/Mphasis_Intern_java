@@ -1,0 +1,33 @@
+Customer ID: CUST922011
+Name: Ms. Lauren DuBuque
+Mobile: rex.zulauf@hotmail.com
+Email: 802.485.9924
+Address: 39410 Gaylord Drive, East Chanellefurt, GA 64711
+Transaction ID: TXN183297507
+Timestamp: Marion Sipes
+Amount: 3183.76
+Receiver: Fri Jan 31 13:16:10 IST 2025
+Status: Success
+-----------------------------
+Customer ID: CUST922011
+Name: Ms. Lauren DuBuque
+Mobile: rex.zulauf@hotmail.com
+Email: 802.485.9924
+Address: 39410 Gaylord Drive, East Chanellefurt, GA 64711
+Transaction ID: TXN183297507
+Timestamp: Marion Sipes
+Amount: 3183.76
+Receiver: Fri Jan 31 13:16:10 IST 2025
+Status: Success
+-----------------------------
+Customer ID: CUST922011
+Name: Ms. Lauren DuBuque
+Mobile: rex.zulauf@hotmail.com
+Email: 802.485.9924
+Address: 39410 Gaylord Drive, East Chanellefurt, GA 64711
+Transaction ID: TXN183297507
+Timestamp: Marion Sipes
+Amount: 3183.76
+Receiver: Fri Jan 31 13:16:10 IST 2025
+Status: Success
+-----------------------------

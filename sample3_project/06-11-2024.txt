@@ -1,0 +1,66 @@
+Customer ID: CUST982504
+Name: Jarrett Douglas
+Mobile: lacy.mayert@hotmail.com
+Email: 951-729-1498
+Address: Suite 799 6396 Klein Burg, Kilbackshire, WI 03209
+Transaction ID: TXN700058617
+Timestamp: Wally Haley
+Amount: 4110.93
+Receiver: Wed Nov 06 12:38:11 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST504898
+Name: Yan Bechtelar
+Mobile: heriberto.aufderhar@yahoo.com
+Email: 755-691-1036
+Address: 5848 Ammie Trafficway, New Carey, ID 53063-4411
+Transaction ID: TXN729802666
+Timestamp: Stanford Grant
+Amount: 4357.32
+Receiver: Wed Nov 06 23:06:14 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST982504
+Name: Jarrett Douglas
+Mobile: lacy.mayert@hotmail.com
+Email: 951-729-1498
+Address: Suite 799 6396 Klein Burg, Kilbackshire, WI 03209
+Transaction ID: TXN700058617
+Timestamp: Wally Haley
+Amount: 4110.93
+Receiver: Wed Nov 06 12:38:11 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST504898
+Name: Yan Bechtelar
+Mobile: heriberto.aufderhar@yahoo.com
+Email: 755-691-1036
+Address: 5848 Ammie Trafficway, New Carey, ID 53063-4411
+Transaction ID: TXN729802666
+Timestamp: Stanford Grant
+Amount: 4357.32
+Receiver: Wed Nov 06 23:06:14 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST982504
+Name: Jarrett Douglas
+Mobile: lacy.mayert@hotmail.com
+Email: 951-729-1498
+Address: Suite 799 6396 Klein Burg, Kilbackshire, WI 03209
+Transaction ID: TXN700058617
+Timestamp: Wally Haley
+Amount: 4110.93
+Receiver: Wed Nov 06 12:38:11 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST504898
+Name: Yan Bechtelar
+Mobile: heriberto.aufderhar@yahoo.com
+Email: 755-691-1036
+Address: 5848 Ammie Trafficway, New Carey, ID 53063-4411
+Transaction ID: TXN729802666
+Timestamp: Stanford Grant
+Amount: 4357.32
+Receiver: Wed Nov 06 23:06:14 IST 2024
+Status: Success
+-----------------------------

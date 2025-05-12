@@ -1,0 +1,66 @@
+Customer ID: CUST438789
+Name: Mr. Carlotta Bosco
+Mobile: samuel.metz@gmail.com
+Email: 1-487-635-5330
+Address: 7671 Swift Hills, New Jeanett, SC 00375-9569
+Transaction ID: TXN479498340
+Timestamp: Kaylene Rempel
+Amount: 2705.59
+Receiver: Fri Nov 15 19:54:41 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST859856
+Name: Bernie Baumbach
+Mobile: foster.kemmer@hotmail.com
+Email: 143-781-2003
+Address: Apt. 706 36656 Abshire Flat, Pilartown, SD 62858
+Transaction ID: TXN834885425
+Timestamp: Jerlene Haley V
+Amount: 8836.66
+Receiver: Fri Nov 15 16:48:31 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST438789
+Name: Mr. Carlotta Bosco
+Mobile: samuel.metz@gmail.com
+Email: 1-487-635-5330
+Address: 7671 Swift Hills, New Jeanett, SC 00375-9569
+Transaction ID: TXN479498340
+Timestamp: Kaylene Rempel
+Amount: 2705.59
+Receiver: Fri Nov 15 19:54:41 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST859856
+Name: Bernie Baumbach
+Mobile: foster.kemmer@hotmail.com
+Email: 143-781-2003
+Address: Apt. 706 36656 Abshire Flat, Pilartown, SD 62858
+Transaction ID: TXN834885425
+Timestamp: Jerlene Haley V
+Amount: 8836.66
+Receiver: Fri Nov 15 16:48:31 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST438789
+Name: Mr. Carlotta Bosco
+Mobile: samuel.metz@gmail.com
+Email: 1-487-635-5330
+Address: 7671 Swift Hills, New Jeanett, SC 00375-9569
+Transaction ID: TXN479498340
+Timestamp: Kaylene Rempel
+Amount: 2705.59
+Receiver: Fri Nov 15 19:54:41 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST859856
+Name: Bernie Baumbach
+Mobile: foster.kemmer@hotmail.com
+Email: 143-781-2003
+Address: Apt. 706 36656 Abshire Flat, Pilartown, SD 62858
+Transaction ID: TXN834885425
+Timestamp: Jerlene Haley V
+Amount: 8836.66
+Receiver: Fri Nov 15 16:48:31 IST 2024
+Status: Success
+-----------------------------

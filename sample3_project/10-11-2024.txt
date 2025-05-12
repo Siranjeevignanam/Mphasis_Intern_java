@@ -1,0 +1,231 @@
+Customer ID: CUST930810
+Name: Ignacio O'Keefe
+Mobile: madison.smith@yahoo.com
+Email: 514-709-8082
+Address: 189 George Drives, West Alyseport, HI 28653
+Transaction ID: TXN904045209
+Timestamp: Shannon Armstrong
+Amount: 7758.55
+Receiver: Sun Nov 10 06:30:44 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST466458
+Name: Karyl Christiansen
+Mobile: renato.streich@yahoo.com
+Email: 1-493-949-1044
+Address: 246 Randal Coves, Kuhicfort, KS 79630-5757
+Transaction ID: TXN999917915
+Timestamp: Dr. Agustin Mosciski
+Amount: 5053.55
+Receiver: Sun Nov 10 08:09:35 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST426568
+Name: Lavina VonRueden
+Mobile: nathalie.ledner@gmail.com
+Email: 224-726-2285
+Address: Suite 016 28769 Les Ranch, Pabloshire, MS 92076-3683
+Transaction ID: TXN922341021
+Timestamp: Elvie Kunze
+Amount: 4738.35
+Receiver: Mon Nov 11 04:21:11 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST127277
+Name: Genesis Feeney
+Mobile: teddy.kertzmann@hotmail.com
+Email: 544-737-6637
+Address: Suite 590 6096 Chi Parkways, Louisberg, CA 34735-4466
+Transaction ID: TXN882419159
+Timestamp: Dr. Eldon Sporer
+Amount: 9706.13
+Receiver: Sun Nov 10 19:39:12 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST329094
+Name: Tia Blick DVM
+Mobile: cliff.sanford@yahoo.com
+Email: 091-547-2878
+Address: Suite 154 7354 Treutel Station, Kleinberg, LA 84778
+Transaction ID: TXN776176710
+Timestamp: Renaldo Abbott
+Amount: 7947.86
+Receiver: Sun Nov 10 23:32:53 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST664323
+Name: Trey Flatley
+Mobile: sanjuana.glover@yahoo.com
+Email: 297-049-5711
+Address: 797 Dibbert Points, South Olimpiaton, MO 08095-2361
+Transaction ID: TXN207829444
+Timestamp: Nikki Mohr
+Amount: 4445.58
+Receiver: Sun Nov 10 05:30:58 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST888665
+Name: Monte Berge
+Mobile: ronny.stroman@hotmail.com
+Email: 1-568-695-4458
+Address: 900 Janae Stream, Leishaland, IA 27007-0456
+Transaction ID: TXN147710037
+Timestamp: Buddy Harvey
+Amount: 9665.79
+Receiver: Sun Nov 10 13:05:07 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST930810
+Name: Ignacio O'Keefe
+Mobile: madison.smith@yahoo.com
+Email: 514-709-8082
+Address: 189 George Drives, West Alyseport, HI 28653
+Transaction ID: TXN904045209
+Timestamp: Shannon Armstrong
+Amount: 7758.55
+Receiver: Sun Nov 10 06:30:44 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST466458
+Name: Karyl Christiansen
+Mobile: renato.streich@yahoo.com
+Email: 1-493-949-1044
+Address: 246 Randal Coves, Kuhicfort, KS 79630-5757
+Transaction ID: TXN999917915
+Timestamp: Dr. Agustin Mosciski
+Amount: 5053.55
+Receiver: Sun Nov 10 08:09:35 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST426568
+Name: Lavina VonRueden
+Mobile: nathalie.ledner@gmail.com
+Email: 224-726-2285
+Address: Suite 016 28769 Les Ranch, Pabloshire, MS 92076-3683
+Transaction ID: TXN922341021
+Timestamp: Elvie Kunze
+Amount: 4738.35
+Receiver: Mon Nov 11 04:21:11 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST127277
+Name: Genesis Feeney
+Mobile: teddy.kertzmann@hotmail.com
+Email: 544-737-6637
+Address: Suite 590 6096 Chi Parkways, Louisberg, CA 34735-4466
+Transaction ID: TXN882419159
+Timestamp: Dr. Eldon Sporer
+Amount: 9706.13
+Receiver: Sun Nov 10 19:39:12 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST329094
+Name: Tia Blick DVM
+Mobile: cliff.sanford@yahoo.com
+Email: 091-547-2878
+Address: Suite 154 7354 Treutel Station, Kleinberg, LA 84778
+Transaction ID: TXN776176710
+Timestamp: Renaldo Abbott
+Amount: 7947.86
+Receiver: Sun Nov 10 23:32:53 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST664323
+Name: Trey Flatley
+Mobile: sanjuana.glover@yahoo.com
+Email: 297-049-5711
+Address: 797 Dibbert Points, South Olimpiaton, MO 08095-2361
+Transaction ID: TXN207829444
+Timestamp: Nikki Mohr
+Amount: 4445.58
+Receiver: Sun Nov 10 05:30:58 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST888665
+Name: Monte Berge
+Mobile: ronny.stroman@hotmail.com
+Email: 1-568-695-4458
+Address: 900 Janae Stream, Leishaland, IA 27007-0456
+Transaction ID: TXN147710037
+Timestamp: Buddy Harvey
+Amount: 9665.79
+Receiver: Sun Nov 10 13:05:07 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST930810
+Name: Ignacio O'Keefe
+Mobile: madison.smith@yahoo.com
+Email: 514-709-8082
+Address: 189 George Drives, West Alyseport, HI 28653
+Transaction ID: TXN904045209
+Timestamp: Shannon Armstrong
+Amount: 7758.55
+Receiver: Sun Nov 10 06:30:44 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST466458
+Name: Karyl Christiansen
+Mobile: renato.streich@yahoo.com
+Email: 1-493-949-1044
+Address: 246 Randal Coves, Kuhicfort, KS 79630-5757
+Transaction ID: TXN999917915
+Timestamp: Dr. Agustin Mosciski
+Amount: 5053.55
+Receiver: Sun Nov 10 08:09:35 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST426568
+Name: Lavina VonRueden
+Mobile: nathalie.ledner@gmail.com
+Email: 224-726-2285
+Address: Suite 016 28769 Les Ranch, Pabloshire, MS 92076-3683
+Transaction ID: TXN922341021
+Timestamp: Elvie Kunze
+Amount: 4738.35
+Receiver: Mon Nov 11 04:21:11 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST127277
+Name: Genesis Feeney
+Mobile: teddy.kertzmann@hotmail.com
+Email: 544-737-6637
+Address: Suite 590 6096 Chi Parkways, Louisberg, CA 34735-4466
+Transaction ID: TXN882419159
+Timestamp: Dr. Eldon Sporer
+Amount: 9706.13
+Receiver: Sun Nov 10 19:39:12 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST329094
+Name: Tia Blick DVM
+Mobile: cliff.sanford@yahoo.com
+Email: 091-547-2878
+Address: Suite 154 7354 Treutel Station, Kleinberg, LA 84778
+Transaction ID: TXN776176710
+Timestamp: Renaldo Abbott
+Amount: 7947.86
+Receiver: Sun Nov 10 23:32:53 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST664323
+Name: Trey Flatley
+Mobile: sanjuana.glover@yahoo.com
+Email: 297-049-5711
+Address: 797 Dibbert Points, South Olimpiaton, MO 08095-2361
+Transaction ID: TXN207829444
+Timestamp: Nikki Mohr
+Amount: 4445.58
+Receiver: Sun Nov 10 05:30:58 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST888665
+Name: Monte Berge
+Mobile: ronny.stroman@hotmail.com
+Email: 1-568-695-4458
+Address: 900 Janae Stream, Leishaland, IA 27007-0456
+Transaction ID: TXN147710037
+Timestamp: Buddy Harvey
+Amount: 9665.79
+Receiver: Sun Nov 10 13:05:07 IST 2024
+Status: Failed
+-----------------------------

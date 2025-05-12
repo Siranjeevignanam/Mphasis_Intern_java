@@ -1,0 +1,198 @@
+Customer ID: CUST480682
+Name: Louis Hermiston PhD
+Mobile: caroline.morissette@hotmail.com
+Email: 469.165.3942
+Address: 470 Magali Branch, East Karol, CO 61817-0089
+Transaction ID: TXN740602328
+Timestamp: Mario Ortiz
+Amount: 9068.02
+Receiver: Sun Sep 22 23:57:16 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST681204
+Name: Gregorio McLaughlin I
+Mobile: sachiko.altenwerth@gmail.com
+Email: 1-625-728-8564
+Address: Suite 734 42730 Osinski Fall, New Letishashire, FL 51557-6154
+Transaction ID: TXN613087226
+Timestamp: Felipe McCullough
+Amount: 3990.22
+Receiver: Sun Sep 22 07:15:39 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST962371
+Name: Miss Fabian Schumm
+Mobile: roseanne.toy@yahoo.com
+Email: 768.514.4510
+Address: Suite 113 603 Ortiz Grove, East Cameronshire, NY 72084-3514
+Transaction ID: TXN921052093
+Timestamp: Synthia Strosin
+Amount: 9330.23
+Receiver: Sun Sep 22 23:14:39 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST229190
+Name: Anderson Dietrich
+Mobile: bart.damore@hotmail.com
+Email: 1-255-713-9532
+Address: Suite 931 367 Reilly Wall, Tishaborough, MS 24570-1450
+Transaction ID: TXN266207152
+Timestamp: Tristan Hagenes
+Amount: 4959.74
+Receiver: Sun Sep 22 19:27:32 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST181338
+Name: Mr. Vanna Hintz
+Mobile: tiffanie.halvorson@hotmail.com
+Email: (514) 525-7958
+Address: Apt. 365 368 Carter Freeway, South Sadyemouth, ME 30175
+Transaction ID: TXN180536998
+Timestamp: Dr. Hayley Schimmel
+Amount: 4711.59
+Receiver: Mon Sep 23 01:56:39 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST951012
+Name: Milton Robel
+Mobile: cornelius.koepp@hotmail.com
+Email: 1-803-001-8934
+Address: Suite 460 00124 Kunze Shoals, Simontown, VA 99192-8442
+Transaction ID: TXN875458043
+Timestamp: Spring Kuvalis
+Amount: 8281.51
+Receiver: Sun Sep 22 10:16:24 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST480682
+Name: Louis Hermiston PhD
+Mobile: caroline.morissette@hotmail.com
+Email: 469.165.3942
+Address: 470 Magali Branch, East Karol, CO 61817-0089
+Transaction ID: TXN740602328
+Timestamp: Mario Ortiz
+Amount: 9068.02
+Receiver: Sun Sep 22 23:57:16 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST681204
+Name: Gregorio McLaughlin I
+Mobile: sachiko.altenwerth@gmail.com
+Email: 1-625-728-8564
+Address: Suite 734 42730 Osinski Fall, New Letishashire, FL 51557-6154
+Transaction ID: TXN613087226
+Timestamp: Felipe McCullough
+Amount: 3990.22
+Receiver: Sun Sep 22 07:15:39 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST962371
+Name: Miss Fabian Schumm
+Mobile: roseanne.toy@yahoo.com
+Email: 768.514.4510
+Address: Suite 113 603 Ortiz Grove, East Cameronshire, NY 72084-3514
+Transaction ID: TXN921052093
+Timestamp: Synthia Strosin
+Amount: 9330.23
+Receiver: Sun Sep 22 23:14:39 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST229190
+Name: Anderson Dietrich
+Mobile: bart.damore@hotmail.com
+Email: 1-255-713-9532
+Address: Suite 931 367 Reilly Wall, Tishaborough, MS 24570-1450
+Transaction ID: TXN266207152
+Timestamp: Tristan Hagenes
+Amount: 4959.74
+Receiver: Sun Sep 22 19:27:32 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST181338
+Name: Mr. Vanna Hintz
+Mobile: tiffanie.halvorson@hotmail.com
+Email: (514) 525-7958
+Address: Apt. 365 368 Carter Freeway, South Sadyemouth, ME 30175
+Transaction ID: TXN180536998
+Timestamp: Dr. Hayley Schimmel
+Amount: 4711.59
+Receiver: Mon Sep 23 01:56:39 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST951012
+Name: Milton Robel
+Mobile: cornelius.koepp@hotmail.com
+Email: 1-803-001-8934
+Address: Suite 460 00124 Kunze Shoals, Simontown, VA 99192-8442
+Transaction ID: TXN875458043
+Timestamp: Spring Kuvalis
+Amount: 8281.51
+Receiver: Sun Sep 22 10:16:24 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST480682
+Name: Louis Hermiston PhD
+Mobile: caroline.morissette@hotmail.com
+Email: 469.165.3942
+Address: 470 Magali Branch, East Karol, CO 61817-0089
+Transaction ID: TXN740602328
+Timestamp: Mario Ortiz
+Amount: 9068.02
+Receiver: Sun Sep 22 23:57:16 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST681204
+Name: Gregorio McLaughlin I
+Mobile: sachiko.altenwerth@gmail.com
+Email: 1-625-728-8564
+Address: Suite 734 42730 Osinski Fall, New Letishashire, FL 51557-6154
+Transaction ID: TXN613087226
+Timestamp: Felipe McCullough
+Amount: 3990.22
+Receiver: Sun Sep 22 07:15:39 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST962371
+Name: Miss Fabian Schumm
+Mobile: roseanne.toy@yahoo.com
+Email: 768.514.4510
+Address: Suite 113 603 Ortiz Grove, East Cameronshire, NY 72084-3514
+Transaction ID: TXN921052093
+Timestamp: Synthia Strosin
+Amount: 9330.23
+Receiver: Sun Sep 22 23:14:39 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST229190
+Name: Anderson Dietrich
+Mobile: bart.damore@hotmail.com
+Email: 1-255-713-9532
+Address: Suite 931 367 Reilly Wall, Tishaborough, MS 24570-1450
+Transaction ID: TXN266207152
+Timestamp: Tristan Hagenes
+Amount: 4959.74
+Receiver: Sun Sep 22 19:27:32 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST181338
+Name: Mr. Vanna Hintz
+Mobile: tiffanie.halvorson@hotmail.com
+Email: (514) 525-7958
+Address: Apt. 365 368 Carter Freeway, South Sadyemouth, ME 30175
+Transaction ID: TXN180536998
+Timestamp: Dr. Hayley Schimmel
+Amount: 4711.59
+Receiver: Mon Sep 23 01:56:39 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST951012
+Name: Milton Robel
+Mobile: cornelius.koepp@hotmail.com
+Email: 1-803-001-8934
+Address: Suite 460 00124 Kunze Shoals, Simontown, VA 99192-8442
+Transaction ID: TXN875458043
+Timestamp: Spring Kuvalis
+Amount: 8281.51
+Receiver: Sun Sep 22 10:16:24 IST 2024
+Status: Success
+-----------------------------

@@ -1,0 +1,66 @@
+Customer ID: CUST250691
+Name: Debora Koepp
+Mobile: bao.batz@gmail.com
+Email: 700.969.5555
+Address: 530 Kuhic Turnpike, Denesikland, KY 12003
+Transaction ID: TXN516417258
+Timestamp: Mr. Barney Upton
+Amount: 490.76
+Receiver: Sat Jan 25 08:27:37 IST 2025
+Status: Failed
+-----------------------------
+Customer ID: CUST106033
+Name: Herbert Ritchie
+Mobile: ossie.ratke@yahoo.com
+Email: 468.963.7239
+Address: Apt. 915 09666 Freddie Knolls, North Odilia, AR 74368-5894
+Transaction ID: TXN900581927
+Timestamp: Paul Little
+Amount: 4333.17
+Receiver: Sun Jan 26 02:16:20 IST 2025
+Status: Failed
+-----------------------------
+Customer ID: CUST250691
+Name: Debora Koepp
+Mobile: bao.batz@gmail.com
+Email: 700.969.5555
+Address: 530 Kuhic Turnpike, Denesikland, KY 12003
+Transaction ID: TXN516417258
+Timestamp: Mr. Barney Upton
+Amount: 490.76
+Receiver: Sat Jan 25 08:27:37 IST 2025
+Status: Failed
+-----------------------------
+Customer ID: CUST106033
+Name: Herbert Ritchie
+Mobile: ossie.ratke@yahoo.com
+Email: 468.963.7239
+Address: Apt. 915 09666 Freddie Knolls, North Odilia, AR 74368-5894
+Transaction ID: TXN900581927
+Timestamp: Paul Little
+Amount: 4333.17
+Receiver: Sun Jan 26 02:16:20 IST 2025
+Status: Failed
+-----------------------------
+Customer ID: CUST250691
+Name: Debora Koepp
+Mobile: bao.batz@gmail.com
+Email: 700.969.5555
+Address: 530 Kuhic Turnpike, Denesikland, KY 12003
+Transaction ID: TXN516417258
+Timestamp: Mr. Barney Upton
+Amount: 490.76
+Receiver: Sat Jan 25 08:27:37 IST 2025
+Status: Failed
+-----------------------------
+Customer ID: CUST106033
+Name: Herbert Ritchie
+Mobile: ossie.ratke@yahoo.com
+Email: 468.963.7239
+Address: Apt. 915 09666 Freddie Knolls, North Odilia, AR 74368-5894
+Transaction ID: TXN900581927
+Timestamp: Paul Little
+Amount: 4333.17
+Receiver: Sun Jan 26 02:16:20 IST 2025
+Status: Failed
+-----------------------------

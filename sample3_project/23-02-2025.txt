@@ -1,0 +1,66 @@
+Customer ID: CUST377833
+Name: Allegra Stroman
+Mobile: marc.ruecker@hotmail.com
+Email: 276-034-3711
+Address: Suite 848 2410 Rich Field, Schadenton, UT 66372-7489
+Transaction ID: TXN943989466
+Timestamp: Terry Bahringer
+Amount: 6863.10
+Receiver: Sun Feb 23 22:36:05 IST 2025
+Status: Success
+-----------------------------
+Customer ID: CUST873730
+Name: Scarlet Effertz II
+Mobile: kassandra.murray@hotmail.com
+Email: (301) 408-2689
+Address: Apt. 808 1452 Ankunding Court, Annabury, MA 49549
+Transaction ID: TXN626705642
+Timestamp: Dante Breitenberg
+Amount: 9743.42
+Receiver: Sun Feb 23 14:37:45 IST 2025
+Status: Failed
+-----------------------------
+Customer ID: CUST377833
+Name: Allegra Stroman
+Mobile: marc.ruecker@hotmail.com
+Email: 276-034-3711
+Address: Suite 848 2410 Rich Field, Schadenton, UT 66372-7489
+Transaction ID: TXN943989466
+Timestamp: Terry Bahringer
+Amount: 6863.10
+Receiver: Sun Feb 23 22:36:05 IST 2025
+Status: Success
+-----------------------------
+Customer ID: CUST873730
+Name: Scarlet Effertz II
+Mobile: kassandra.murray@hotmail.com
+Email: (301) 408-2689
+Address: Apt. 808 1452 Ankunding Court, Annabury, MA 49549
+Transaction ID: TXN626705642
+Timestamp: Dante Breitenberg
+Amount: 9743.42
+Receiver: Sun Feb 23 14:37:45 IST 2025
+Status: Failed
+-----------------------------
+Customer ID: CUST377833
+Name: Allegra Stroman
+Mobile: marc.ruecker@hotmail.com
+Email: 276-034-3711
+Address: Suite 848 2410 Rich Field, Schadenton, UT 66372-7489
+Transaction ID: TXN943989466
+Timestamp: Terry Bahringer
+Amount: 6863.10
+Receiver: Sun Feb 23 22:36:05 IST 2025
+Status: Success
+-----------------------------
+Customer ID: CUST873730
+Name: Scarlet Effertz II
+Mobile: kassandra.murray@hotmail.com
+Email: (301) 408-2689
+Address: Apt. 808 1452 Ankunding Court, Annabury, MA 49549
+Transaction ID: TXN626705642
+Timestamp: Dante Breitenberg
+Amount: 9743.42
+Receiver: Sun Feb 23 14:37:45 IST 2025
+Status: Failed
+-----------------------------

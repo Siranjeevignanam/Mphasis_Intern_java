@@ -1,0 +1,66 @@
+Customer ID: CUST844600
+Name: Sharmaine Erdman
+Mobile: iraida.okuneva@hotmail.com
+Email: (197) 043-5031
+Address: Suite 809 77054 Chaya Canyon, South Jaime, CT 39416-5318
+Transaction ID: TXN790263983
+Timestamp: So Stehr
+Amount: 7360.11
+Receiver: Thu May 08 11:24:01 IST 2025
+Status: Failed
+-----------------------------
+Customer ID: CUST766561
+Name: Joe Schmitt
+Mobile: ardelle.pfeffer@yahoo.com
+Email: 1-749-917-9774
+Address: Suite 267 500 Karol Roads, Jerdeport, UT 72586
+Transaction ID: TXN867224407
+Timestamp: Mark Parisian
+Amount: 3156.78
+Receiver: Thu May 08 18:33:20 IST 2025
+Status: Success
+-----------------------------
+Customer ID: CUST844600
+Name: Sharmaine Erdman
+Mobile: iraida.okuneva@hotmail.com
+Email: (197) 043-5031
+Address: Suite 809 77054 Chaya Canyon, South Jaime, CT 39416-5318
+Transaction ID: TXN790263983
+Timestamp: So Stehr
+Amount: 7360.11
+Receiver: Thu May 08 11:24:01 IST 2025
+Status: Failed
+-----------------------------
+Customer ID: CUST766561
+Name: Joe Schmitt
+Mobile: ardelle.pfeffer@yahoo.com
+Email: 1-749-917-9774
+Address: Suite 267 500 Karol Roads, Jerdeport, UT 72586
+Transaction ID: TXN867224407
+Timestamp: Mark Parisian
+Amount: 3156.78
+Receiver: Thu May 08 18:33:20 IST 2025
+Status: Success
+-----------------------------
+Customer ID: CUST844600
+Name: Sharmaine Erdman
+Mobile: iraida.okuneva@hotmail.com
+Email: (197) 043-5031
+Address: Suite 809 77054 Chaya Canyon, South Jaime, CT 39416-5318
+Transaction ID: TXN790263983
+Timestamp: So Stehr
+Amount: 7360.11
+Receiver: Thu May 08 11:24:01 IST 2025
+Status: Failed
+-----------------------------
+Customer ID: CUST766561
+Name: Joe Schmitt
+Mobile: ardelle.pfeffer@yahoo.com
+Email: 1-749-917-9774
+Address: Suite 267 500 Karol Roads, Jerdeport, UT 72586
+Transaction ID: TXN867224407
+Timestamp: Mark Parisian
+Amount: 3156.78
+Receiver: Thu May 08 18:33:20 IST 2025
+Status: Success
+-----------------------------

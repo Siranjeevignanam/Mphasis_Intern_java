@@ -1,0 +1,66 @@
+Customer ID: CUST484405
+Name: Christeen Watsica MD
+Mobile: ellen.ullrich@yahoo.com
+Email: 490.517.0847
+Address: 64936 Hessel Springs, Lake Elias, VA 14510-8374
+Transaction ID: TXN502448420
+Timestamp: Stephenie Wintheiser
+Amount: 8143.10
+Receiver: Mon May 13 01:57:56 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST404226
+Name: Rochel Keebler
+Mobile: rosendo.hammes@gmail.com
+Email: 237-879-3998
+Address: Apt. 124 165 Luettgen Ridge, Cornellchester, ID 69381-7634
+Transaction ID: TXN531563587
+Timestamp: Stefany Powlowski
+Amount: 5809.26
+Receiver: Sun May 12 23:01:27 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST484405
+Name: Christeen Watsica MD
+Mobile: ellen.ullrich@yahoo.com
+Email: 490.517.0847
+Address: 64936 Hessel Springs, Lake Elias, VA 14510-8374
+Transaction ID: TXN502448420
+Timestamp: Stephenie Wintheiser
+Amount: 8143.10
+Receiver: Mon May 13 01:57:56 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST404226
+Name: Rochel Keebler
+Mobile: rosendo.hammes@gmail.com
+Email: 237-879-3998
+Address: Apt. 124 165 Luettgen Ridge, Cornellchester, ID 69381-7634
+Transaction ID: TXN531563587
+Timestamp: Stefany Powlowski
+Amount: 5809.26
+Receiver: Sun May 12 23:01:27 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST484405
+Name: Christeen Watsica MD
+Mobile: ellen.ullrich@yahoo.com
+Email: 490.517.0847
+Address: 64936 Hessel Springs, Lake Elias, VA 14510-8374
+Transaction ID: TXN502448420
+Timestamp: Stephenie Wintheiser
+Amount: 8143.10
+Receiver: Mon May 13 01:57:56 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST404226
+Name: Rochel Keebler
+Mobile: rosendo.hammes@gmail.com
+Email: 237-879-3998
+Address: Apt. 124 165 Luettgen Ridge, Cornellchester, ID 69381-7634
+Transaction ID: TXN531563587
+Timestamp: Stefany Powlowski
+Amount: 5809.26
+Receiver: Sun May 12 23:01:27 IST 2024
+Status: Success
+-----------------------------

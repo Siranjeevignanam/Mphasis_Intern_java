@@ -1,0 +1,99 @@
+Customer ID: CUST611122
+Name: Savannah Borer
+Mobile: antonina.bosco@hotmail.com
+Email: (131) 743-0769
+Address: 639 Clotilde Corner, Streichburgh, MA 65106
+Transaction ID: TXN727111207
+Timestamp: Eugene O'Kon
+Amount: 7981.95
+Receiver: Fri Dec 06 15:31:43 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST655589
+Name: Patricia Strosin
+Mobile: kennith.streich@hotmail.com
+Email: 912.582.4110
+Address: Suite 113 9949 Davis River, Hubertburgh, TX 75939-8830
+Transaction ID: TXN547501708
+Timestamp: Graig Stroman DVM
+Amount: 2619.57
+Receiver: Fri Dec 06 08:40:25 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST983533
+Name: Kristan Spinka
+Mobile: milford.kreiger@yahoo.com
+Email: 1-794-598-6906
+Address: 90453 Harber Branch, Lake Merrillstad, ID 64614-9907
+Transaction ID: TXN899372779
+Timestamp: Tish Pagac
+Amount: 6610.26
+Receiver: Fri Dec 06 11:21:44 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST611122
+Name: Savannah Borer
+Mobile: antonina.bosco@hotmail.com
+Email: (131) 743-0769
+Address: 639 Clotilde Corner, Streichburgh, MA 65106
+Transaction ID: TXN727111207
+Timestamp: Eugene O'Kon
+Amount: 7981.95
+Receiver: Fri Dec 06 15:31:43 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST655589
+Name: Patricia Strosin
+Mobile: kennith.streich@hotmail.com
+Email: 912.582.4110
+Address: Suite 113 9949 Davis River, Hubertburgh, TX 75939-8830
+Transaction ID: TXN547501708
+Timestamp: Graig Stroman DVM
+Amount: 2619.57
+Receiver: Fri Dec 06 08:40:25 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST983533
+Name: Kristan Spinka
+Mobile: milford.kreiger@yahoo.com
+Email: 1-794-598-6906
+Address: 90453 Harber Branch, Lake Merrillstad, ID 64614-9907
+Transaction ID: TXN899372779
+Timestamp: Tish Pagac
+Amount: 6610.26
+Receiver: Fri Dec 06 11:21:44 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST611122
+Name: Savannah Borer
+Mobile: antonina.bosco@hotmail.com
+Email: (131) 743-0769
+Address: 639 Clotilde Corner, Streichburgh, MA 65106
+Transaction ID: TXN727111207
+Timestamp: Eugene O'Kon
+Amount: 7981.95
+Receiver: Fri Dec 06 15:31:43 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST655589
+Name: Patricia Strosin
+Mobile: kennith.streich@hotmail.com
+Email: 912.582.4110
+Address: Suite 113 9949 Davis River, Hubertburgh, TX 75939-8830
+Transaction ID: TXN547501708
+Timestamp: Graig Stroman DVM
+Amount: 2619.57
+Receiver: Fri Dec 06 08:40:25 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST983533
+Name: Kristan Spinka
+Mobile: milford.kreiger@yahoo.com
+Email: 1-794-598-6906
+Address: 90453 Harber Branch, Lake Merrillstad, ID 64614-9907
+Transaction ID: TXN899372779
+Timestamp: Tish Pagac
+Amount: 6610.26
+Receiver: Fri Dec 06 11:21:44 IST 2024
+Status: Failed
+-----------------------------

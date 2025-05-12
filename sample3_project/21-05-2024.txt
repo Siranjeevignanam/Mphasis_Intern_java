@@ -1,0 +1,66 @@
+Customer ID: CUST494400
+Name: Calandra Sauer
+Mobile: clarence.harris@yahoo.com
+Email: 366-508-4662
+Address: Suite 176 781 Armstrong Port, West Tommie, AK 08504-8761
+Transaction ID: TXN166449541
+Timestamp: Randal Stokes
+Amount: 6538.35
+Receiver: Tue May 21 07:24:08 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST705366
+Name: Hee Bashirian Sr.
+Mobile: audrea.kiehn@yahoo.com
+Email: 524-774-2670
+Address: Suite 341 3537 Abshire Pine, East Rosyside, ME 54920-9490
+Transaction ID: TXN267291353
+Timestamp: Dirk Bartoletti
+Amount: 2218.24
+Receiver: Tue May 21 07:21:57 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST494400
+Name: Calandra Sauer
+Mobile: clarence.harris@yahoo.com
+Email: 366-508-4662
+Address: Suite 176 781 Armstrong Port, West Tommie, AK 08504-8761
+Transaction ID: TXN166449541
+Timestamp: Randal Stokes
+Amount: 6538.35
+Receiver: Tue May 21 07:24:08 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST705366
+Name: Hee Bashirian Sr.
+Mobile: audrea.kiehn@yahoo.com
+Email: 524-774-2670
+Address: Suite 341 3537 Abshire Pine, East Rosyside, ME 54920-9490
+Transaction ID: TXN267291353
+Timestamp: Dirk Bartoletti
+Amount: 2218.24
+Receiver: Tue May 21 07:21:57 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST494400
+Name: Calandra Sauer
+Mobile: clarence.harris@yahoo.com
+Email: 366-508-4662
+Address: Suite 176 781 Armstrong Port, West Tommie, AK 08504-8761
+Transaction ID: TXN166449541
+Timestamp: Randal Stokes
+Amount: 6538.35
+Receiver: Tue May 21 07:24:08 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST705366
+Name: Hee Bashirian Sr.
+Mobile: audrea.kiehn@yahoo.com
+Email: 524-774-2670
+Address: Suite 341 3537 Abshire Pine, East Rosyside, ME 54920-9490
+Transaction ID: TXN267291353
+Timestamp: Dirk Bartoletti
+Amount: 2218.24
+Receiver: Tue May 21 07:21:57 IST 2024
+Status: Failed
+-----------------------------

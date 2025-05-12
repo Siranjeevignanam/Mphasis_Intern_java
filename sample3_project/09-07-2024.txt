@@ -1,0 +1,165 @@
+Customer ID: CUST599543
+Name: Joesph Schneider
+Mobile: rowena.grady@gmail.com
+Email: 978-383-5645
+Address: 592 Bergstrom Ways, Marvinchester, IA 97092
+Transaction ID: TXN444842354
+Timestamp: Adriene Gutkowski
+Amount: 9958.23
+Receiver: Tue Jul 09 22:07:14 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST614593
+Name: Ms. Rowena Grady
+Mobile: rona.mohr@hotmail.com
+Email: 973-862-9522
+Address: 0753 Shara Cliff, Clemenciaville, NM 89901-8354
+Transaction ID: TXN378396142
+Timestamp: Trenton Gislason
+Amount: 9536.85
+Receiver: Tue Jul 09 11:51:20 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST157490
+Name: Bert McKenzie
+Mobile: melvin.schinner@hotmail.com
+Email: 1-667-764-5273
+Address: Apt. 272 2636 Tyson Glen, Collinport, HI 62358-5856
+Transaction ID: TXN630890558
+Timestamp: Tandra Bauch
+Amount: 9792.43
+Receiver: Wed Jul 10 01:58:13 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST726298
+Name: Natacha Gleichner
+Mobile: teresita.koss@gmail.com
+Email: 668-210-5433
+Address: Suite 970 580 Adeline Wall, South Johnnie, IN 89933-3033
+Transaction ID: TXN482684508
+Timestamp: Donte Swift
+Amount: 1645.12
+Receiver: Tue Jul 09 15:06:46 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST453678
+Name: Ruthe Olson I
+Mobile: lauren.kassulke@gmail.com
+Email: 974-851-1369
+Address: Apt. 406 100 Boehm Locks, Zenamouth, IN 19118-7432
+Transaction ID: TXN650616415
+Timestamp: Ms. Shakia Borer
+Amount: 1182.30
+Receiver: Tue Jul 09 12:02:35 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST599543
+Name: Joesph Schneider
+Mobile: rowena.grady@gmail.com
+Email: 978-383-5645
+Address: 592 Bergstrom Ways, Marvinchester, IA 97092
+Transaction ID: TXN444842354
+Timestamp: Adriene Gutkowski
+Amount: 9958.23
+Receiver: Tue Jul 09 22:07:14 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST614593
+Name: Ms. Rowena Grady
+Mobile: rona.mohr@hotmail.com
+Email: 973-862-9522
+Address: 0753 Shara Cliff, Clemenciaville, NM 89901-8354
+Transaction ID: TXN378396142
+Timestamp: Trenton Gislason
+Amount: 9536.85
+Receiver: Tue Jul 09 11:51:20 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST157490
+Name: Bert McKenzie
+Mobile: melvin.schinner@hotmail.com
+Email: 1-667-764-5273
+Address: Apt. 272 2636 Tyson Glen, Collinport, HI 62358-5856
+Transaction ID: TXN630890558
+Timestamp: Tandra Bauch
+Amount: 9792.43
+Receiver: Wed Jul 10 01:58:13 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST726298
+Name: Natacha Gleichner
+Mobile: teresita.koss@gmail.com
+Email: 668-210-5433
+Address: Suite 970 580 Adeline Wall, South Johnnie, IN 89933-3033
+Transaction ID: TXN482684508
+Timestamp: Donte Swift
+Amount: 1645.12
+Receiver: Tue Jul 09 15:06:46 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST453678
+Name: Ruthe Olson I
+Mobile: lauren.kassulke@gmail.com
+Email: 974-851-1369
+Address: Apt. 406 100 Boehm Locks, Zenamouth, IN 19118-7432
+Transaction ID: TXN650616415
+Timestamp: Ms. Shakia Borer
+Amount: 1182.30
+Receiver: Tue Jul 09 12:02:35 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST599543
+Name: Joesph Schneider
+Mobile: rowena.grady@gmail.com
+Email: 978-383-5645
+Address: 592 Bergstrom Ways, Marvinchester, IA 97092
+Transaction ID: TXN444842354
+Timestamp: Adriene Gutkowski
+Amount: 9958.23
+Receiver: Tue Jul 09 22:07:14 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST614593
+Name: Ms. Rowena Grady
+Mobile: rona.mohr@hotmail.com
+Email: 973-862-9522
+Address: 0753 Shara Cliff, Clemenciaville, NM 89901-8354
+Transaction ID: TXN378396142
+Timestamp: Trenton Gislason
+Amount: 9536.85
+Receiver: Tue Jul 09 11:51:20 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST157490
+Name: Bert McKenzie
+Mobile: melvin.schinner@hotmail.com
+Email: 1-667-764-5273
+Address: Apt. 272 2636 Tyson Glen, Collinport, HI 62358-5856
+Transaction ID: TXN630890558
+Timestamp: Tandra Bauch
+Amount: 9792.43
+Receiver: Wed Jul 10 01:58:13 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST726298
+Name: Natacha Gleichner
+Mobile: teresita.koss@gmail.com
+Email: 668-210-5433
+Address: Suite 970 580 Adeline Wall, South Johnnie, IN 89933-3033
+Transaction ID: TXN482684508
+Timestamp: Donte Swift
+Amount: 1645.12
+Receiver: Tue Jul 09 15:06:46 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST453678
+Name: Ruthe Olson I
+Mobile: lauren.kassulke@gmail.com
+Email: 974-851-1369
+Address: Apt. 406 100 Boehm Locks, Zenamouth, IN 19118-7432
+Transaction ID: TXN650616415
+Timestamp: Ms. Shakia Borer
+Amount: 1182.30
+Receiver: Tue Jul 09 12:02:35 IST 2024
+Status: Failed
+-----------------------------

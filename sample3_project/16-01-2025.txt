@@ -1,0 +1,33 @@
+Customer ID: CUST864326
+Name: Micha Rippin
+Mobile: kermit.schulist@hotmail.com
+Email: (808) 200-0609
+Address: Apt. 582 886 Stark Greens, New Judemouth, HI 65353-8942
+Transaction ID: TXN410011804
+Timestamp: Roselyn Wisoky
+Amount: 6022.35
+Receiver: Thu Jan 16 18:00:05 IST 2025
+Status: Success
+-----------------------------
+Customer ID: CUST864326
+Name: Micha Rippin
+Mobile: kermit.schulist@hotmail.com
+Email: (808) 200-0609
+Address: Apt. 582 886 Stark Greens, New Judemouth, HI 65353-8942
+Transaction ID: TXN410011804
+Timestamp: Roselyn Wisoky
+Amount: 6022.35
+Receiver: Thu Jan 16 18:00:05 IST 2025
+Status: Success
+-----------------------------
+Customer ID: CUST864326
+Name: Micha Rippin
+Mobile: kermit.schulist@hotmail.com
+Email: (808) 200-0609
+Address: Apt. 582 886 Stark Greens, New Judemouth, HI 65353-8942
+Transaction ID: TXN410011804
+Timestamp: Roselyn Wisoky
+Amount: 6022.35
+Receiver: Thu Jan 16 18:00:05 IST 2025
+Status: Success
+-----------------------------

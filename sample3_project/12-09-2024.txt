@@ -1,0 +1,33 @@
+Customer ID: CUST300863
+Name: Otto Kshlerin DDS
+Mobile: malorie.botsford@hotmail.com
+Email: 648.360.5524
+Address: Apt. 724 6672 Cedric Union, South Chanteltown, NH 24308
+Transaction ID: TXN727251051
+Timestamp: Mr. Lincoln Pagac
+Amount: 6951.77
+Receiver: Thu Sep 12 21:47:51 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST300863
+Name: Otto Kshlerin DDS
+Mobile: malorie.botsford@hotmail.com
+Email: 648.360.5524
+Address: Apt. 724 6672 Cedric Union, South Chanteltown, NH 24308
+Transaction ID: TXN727251051
+Timestamp: Mr. Lincoln Pagac
+Amount: 6951.77
+Receiver: Thu Sep 12 21:47:51 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST300863
+Name: Otto Kshlerin DDS
+Mobile: malorie.botsford@hotmail.com
+Email: 648.360.5524
+Address: Apt. 724 6672 Cedric Union, South Chanteltown, NH 24308
+Transaction ID: TXN727251051
+Timestamp: Mr. Lincoln Pagac
+Amount: 6951.77
+Receiver: Thu Sep 12 21:47:51 IST 2024
+Status: Failed
+-----------------------------

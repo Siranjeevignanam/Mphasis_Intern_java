@@ -1,0 +1,66 @@
+Customer ID: CUST502239
+Name: Juli Koepp
+Mobile: rea.stokes@gmail.com
+Email: 876-034-3943
+Address: 6571 Oberbrunner Landing, New Claud, ND 84761
+Transaction ID: TXN965323065
+Timestamp: Iluminada Mann
+Amount: 7775.85
+Receiver: Tue Dec 10 09:03:27 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST415789
+Name: Kimbery Hamill
+Mobile: gonzalo.schuster@gmail.com
+Email: (585) 829-9850
+Address: Apt. 844 512 Manual Flat, West Yun, IL 99565
+Transaction ID: TXN200488102
+Timestamp: Lakeshia Gleichner III
+Amount: 5092.22
+Receiver: Wed Dec 11 00:17:40 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST502239
+Name: Juli Koepp
+Mobile: rea.stokes@gmail.com
+Email: 876-034-3943
+Address: 6571 Oberbrunner Landing, New Claud, ND 84761
+Transaction ID: TXN965323065
+Timestamp: Iluminada Mann
+Amount: 7775.85
+Receiver: Tue Dec 10 09:03:27 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST415789
+Name: Kimbery Hamill
+Mobile: gonzalo.schuster@gmail.com
+Email: (585) 829-9850
+Address: Apt. 844 512 Manual Flat, West Yun, IL 99565
+Transaction ID: TXN200488102
+Timestamp: Lakeshia Gleichner III
+Amount: 5092.22
+Receiver: Wed Dec 11 00:17:40 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST502239
+Name: Juli Koepp
+Mobile: rea.stokes@gmail.com
+Email: 876-034-3943
+Address: 6571 Oberbrunner Landing, New Claud, ND 84761
+Transaction ID: TXN965323065
+Timestamp: Iluminada Mann
+Amount: 7775.85
+Receiver: Tue Dec 10 09:03:27 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST415789
+Name: Kimbery Hamill
+Mobile: gonzalo.schuster@gmail.com
+Email: (585) 829-9850
+Address: Apt. 844 512 Manual Flat, West Yun, IL 99565
+Transaction ID: TXN200488102
+Timestamp: Lakeshia Gleichner III
+Amount: 5092.22
+Receiver: Wed Dec 11 00:17:40 IST 2024
+Status: Success
+-----------------------------

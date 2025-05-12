@@ -1,0 +1,264 @@
+Customer ID: CUST339423
+Name: Debra Walker
+Mobile: willy.weimann@gmail.com
+Email: 149-308-0335
+Address: Suite 120 754 Laverna Parkways, East Quintonborough, MT 95649
+Transaction ID: TXN878839184
+Timestamp: Julio Bartell V
+Amount: 2129.64
+Receiver: Sun Aug 25 13:18:15 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST352552
+Name: Hilary Schneider
+Mobile: agustin.cartwright@yahoo.com
+Email: 307.132.6784
+Address: 68554 Thiel Locks, South Rusty, AK 78121
+Transaction ID: TXN825993175
+Timestamp: Mervin Balistreri V
+Amount: 6029.92
+Receiver: Sun Aug 25 20:16:26 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST667537
+Name: Mickey Bernier
+Mobile: whitney.heathcote@gmail.com
+Email: 1-419-211-5906
+Address: Suite 674 1438 Leanne Green, Douglasstad, NC 41461-4019
+Transaction ID: TXN516152853
+Timestamp: Pamella Cassin
+Amount: 5614.65
+Receiver: Sun Aug 25 12:09:03 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST556223
+Name: Shellie Hayes
+Mobile: shondra.cummings@yahoo.com
+Email: 964-207-9328
+Address: Suite 496 84813 Evia Burg, Sporerland, NM 43014-3443
+Transaction ID: TXN950846124
+Timestamp: Ardell Marks
+Amount: 7965.75
+Receiver: Mon Aug 26 00:03:22 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST844473
+Name: Brent Kuphal
+Mobile: jess.fisher@gmail.com
+Email: (361) 220-8585
+Address: Suite 443 35724 Ronda Station, Lingtown, NH 51917
+Transaction ID: TXN465596515
+Timestamp: Abe Kirlin IV
+Amount: 3131.23
+Receiver: Sun Aug 25 05:49:26 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST247792
+Name: Louis Kovacek
+Mobile: carlyn.stroman@gmail.com
+Email: 824-473-9356
+Address: 677 Corkery Lane, Sporertown, TN 12620
+Transaction ID: TXN572855205
+Timestamp: Mr. Dan Hermann
+Amount: 4436.02
+Receiver: Sun Aug 25 16:55:00 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST200518
+Name: Bobbi Lueilwitz IV
+Mobile: dagny.hegmann@gmail.com
+Email: 623-940-6505
+Address: Suite 642 3639 Percy Tunnel, Angelitaville, OH 58939
+Transaction ID: TXN291395933
+Timestamp: Anibal Paucek II
+Amount: 9539.90
+Receiver: Sun Aug 25 13:53:41 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST281377
+Name: Charlesetta West
+Mobile: zandra.brakus@gmail.com
+Email: 1-065-805-7249
+Address: Suite 951 1961 Kunze Shoals, Lake Pierre, MO 41671-6028
+Transaction ID: TXN689600923
+Timestamp: Rosario Kuhn
+Amount: 2605.67
+Receiver: Sun Aug 25 18:24:57 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST339423
+Name: Debra Walker
+Mobile: willy.weimann@gmail.com
+Email: 149-308-0335
+Address: Suite 120 754 Laverna Parkways, East Quintonborough, MT 95649
+Transaction ID: TXN878839184
+Timestamp: Julio Bartell V
+Amount: 2129.64
+Receiver: Sun Aug 25 13:18:15 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST352552
+Name: Hilary Schneider
+Mobile: agustin.cartwright@yahoo.com
+Email: 307.132.6784
+Address: 68554 Thiel Locks, South Rusty, AK 78121
+Transaction ID: TXN825993175
+Timestamp: Mervin Balistreri V
+Amount: 6029.92
+Receiver: Sun Aug 25 20:16:26 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST667537
+Name: Mickey Bernier
+Mobile: whitney.heathcote@gmail.com
+Email: 1-419-211-5906
+Address: Suite 674 1438 Leanne Green, Douglasstad, NC 41461-4019
+Transaction ID: TXN516152853
+Timestamp: Pamella Cassin
+Amount: 5614.65
+Receiver: Sun Aug 25 12:09:03 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST556223
+Name: Shellie Hayes
+Mobile: shondra.cummings@yahoo.com
+Email: 964-207-9328
+Address: Suite 496 84813 Evia Burg, Sporerland, NM 43014-3443
+Transaction ID: TXN950846124
+Timestamp: Ardell Marks
+Amount: 7965.75
+Receiver: Mon Aug 26 00:03:22 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST844473
+Name: Brent Kuphal
+Mobile: jess.fisher@gmail.com
+Email: (361) 220-8585
+Address: Suite 443 35724 Ronda Station, Lingtown, NH 51917
+Transaction ID: TXN465596515
+Timestamp: Abe Kirlin IV
+Amount: 3131.23
+Receiver: Sun Aug 25 05:49:26 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST247792
+Name: Louis Kovacek
+Mobile: carlyn.stroman@gmail.com
+Email: 824-473-9356
+Address: 677 Corkery Lane, Sporertown, TN 12620
+Transaction ID: TXN572855205
+Timestamp: Mr. Dan Hermann
+Amount: 4436.02
+Receiver: Sun Aug 25 16:55:00 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST200518
+Name: Bobbi Lueilwitz IV
+Mobile: dagny.hegmann@gmail.com
+Email: 623-940-6505
+Address: Suite 642 3639 Percy Tunnel, Angelitaville, OH 58939
+Transaction ID: TXN291395933
+Timestamp: Anibal Paucek II
+Amount: 9539.90
+Receiver: Sun Aug 25 13:53:41 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST281377
+Name: Charlesetta West
+Mobile: zandra.brakus@gmail.com
+Email: 1-065-805-7249
+Address: Suite 951 1961 Kunze Shoals, Lake Pierre, MO 41671-6028
+Transaction ID: TXN689600923
+Timestamp: Rosario Kuhn
+Amount: 2605.67
+Receiver: Sun Aug 25 18:24:57 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST339423
+Name: Debra Walker
+Mobile: willy.weimann@gmail.com
+Email: 149-308-0335
+Address: Suite 120 754 Laverna Parkways, East Quintonborough, MT 95649
+Transaction ID: TXN878839184
+Timestamp: Julio Bartell V
+Amount: 2129.64
+Receiver: Sun Aug 25 13:18:15 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST352552
+Name: Hilary Schneider
+Mobile: agustin.cartwright@yahoo.com
+Email: 307.132.6784
+Address: 68554 Thiel Locks, South Rusty, AK 78121
+Transaction ID: TXN825993175
+Timestamp: Mervin Balistreri V
+Amount: 6029.92
+Receiver: Sun Aug 25 20:16:26 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST667537
+Name: Mickey Bernier
+Mobile: whitney.heathcote@gmail.com
+Email: 1-419-211-5906
+Address: Suite 674 1438 Leanne Green, Douglasstad, NC 41461-4019
+Transaction ID: TXN516152853
+Timestamp: Pamella Cassin
+Amount: 5614.65
+Receiver: Sun Aug 25 12:09:03 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST556223
+Name: Shellie Hayes
+Mobile: shondra.cummings@yahoo.com
+Email: 964-207-9328
+Address: Suite 496 84813 Evia Burg, Sporerland, NM 43014-3443
+Transaction ID: TXN950846124
+Timestamp: Ardell Marks
+Amount: 7965.75
+Receiver: Mon Aug 26 00:03:22 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST844473
+Name: Brent Kuphal
+Mobile: jess.fisher@gmail.com
+Email: (361) 220-8585
+Address: Suite 443 35724 Ronda Station, Lingtown, NH 51917
+Transaction ID: TXN465596515
+Timestamp: Abe Kirlin IV
+Amount: 3131.23
+Receiver: Sun Aug 25 05:49:26 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST247792
+Name: Louis Kovacek
+Mobile: carlyn.stroman@gmail.com
+Email: 824-473-9356
+Address: 677 Corkery Lane, Sporertown, TN 12620
+Transaction ID: TXN572855205
+Timestamp: Mr. Dan Hermann
+Amount: 4436.02
+Receiver: Sun Aug 25 16:55:00 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST200518
+Name: Bobbi Lueilwitz IV
+Mobile: dagny.hegmann@gmail.com
+Email: 623-940-6505
+Address: Suite 642 3639 Percy Tunnel, Angelitaville, OH 58939
+Transaction ID: TXN291395933
+Timestamp: Anibal Paucek II
+Amount: 9539.90
+Receiver: Sun Aug 25 13:53:41 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST281377
+Name: Charlesetta West
+Mobile: zandra.brakus@gmail.com
+Email: 1-065-805-7249
+Address: Suite 951 1961 Kunze Shoals, Lake Pierre, MO 41671-6028
+Transaction ID: TXN689600923
+Timestamp: Rosario Kuhn
+Amount: 2605.67
+Receiver: Sun Aug 25 18:24:57 IST 2024
+Status: Failed
+-----------------------------

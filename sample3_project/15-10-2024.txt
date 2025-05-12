@@ -1,0 +1,66 @@
+Customer ID: CUST708509
+Name: Milo Witting
+Mobile: kristal.bode@gmail.com
+Email: 1-228-280-2280
+Address: 5180 Gleason Trace, Port Waltonville, IN 39285-4467
+Transaction ID: TXN963215016
+Timestamp: Raleigh Stoltenberg
+Amount: 2493.38
+Receiver: Tue Oct 15 11:50:17 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST819704
+Name: Jonas Weber
+Mobile: cleo.oreilly@yahoo.com
+Email: 472.499.9034
+Address: 399 Noah Trafficway, South Ward, KY 30392
+Transaction ID: TXN343078649
+Timestamp: Howard Crona
+Amount: 5021.49
+Receiver: Wed Oct 16 03:31:48 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST708509
+Name: Milo Witting
+Mobile: kristal.bode@gmail.com
+Email: 1-228-280-2280
+Address: 5180 Gleason Trace, Port Waltonville, IN 39285-4467
+Transaction ID: TXN963215016
+Timestamp: Raleigh Stoltenberg
+Amount: 2493.38
+Receiver: Tue Oct 15 11:50:17 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST819704
+Name: Jonas Weber
+Mobile: cleo.oreilly@yahoo.com
+Email: 472.499.9034
+Address: 399 Noah Trafficway, South Ward, KY 30392
+Transaction ID: TXN343078649
+Timestamp: Howard Crona
+Amount: 5021.49
+Receiver: Wed Oct 16 03:31:48 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST708509
+Name: Milo Witting
+Mobile: kristal.bode@gmail.com
+Email: 1-228-280-2280
+Address: 5180 Gleason Trace, Port Waltonville, IN 39285-4467
+Transaction ID: TXN963215016
+Timestamp: Raleigh Stoltenberg
+Amount: 2493.38
+Receiver: Tue Oct 15 11:50:17 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST819704
+Name: Jonas Weber
+Mobile: cleo.oreilly@yahoo.com
+Email: 472.499.9034
+Address: 399 Noah Trafficway, South Ward, KY 30392
+Transaction ID: TXN343078649
+Timestamp: Howard Crona
+Amount: 5021.49
+Receiver: Wed Oct 16 03:31:48 IST 2024
+Status: Failed
+-----------------------------

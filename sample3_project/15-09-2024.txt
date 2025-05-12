@@ -1,0 +1,132 @@
+Customer ID: CUST238779
+Name: Miss Israel Kulas
+Mobile: vinita.rolfson@yahoo.com
+Email: 1-672-605-8857
+Address: Suite 809 65306 Mohr Park, East Danille, TN 70894-9612
+Transaction ID: TXN456651521
+Timestamp: Magali Armstrong
+Amount: 2035.96
+Receiver: Sun Sep 15 16:05:59 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST413150
+Name: Delia Beier
+Mobile: neil.crona@gmail.com
+Email: 1-989-160-2445
+Address: 5149 Emmerich Fall, Crooksside, MN 83031
+Transaction ID: TXN765630951
+Timestamp: Elba Morar
+Amount: 9509.49
+Receiver: Mon Sep 16 05:28:51 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST496977
+Name: Mrs. Denae Boyle
+Mobile: demetria.goyette@gmail.com
+Email: (138) 901-2953
+Address: Suite 561 8908 Rachele Skyway, Port Elmoland, FL 25801-4131
+Transaction ID: TXN815300207
+Timestamp: Patricia Wilkinson Jr.
+Amount: 8924.73
+Receiver: Sun Sep 15 14:31:31 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST415256
+Name: Ezekiel Walsh
+Mobile: shona.hickle@gmail.com
+Email: 053.819.9519
+Address: Suite 304 073 Morissette Junction, Binshaven, RI 45282
+Transaction ID: TXN238808720
+Timestamp: Elmo Bergnaum
+Amount: 8700.65
+Receiver: Sun Sep 15 19:00:05 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST238779
+Name: Miss Israel Kulas
+Mobile: vinita.rolfson@yahoo.com
+Email: 1-672-605-8857
+Address: Suite 809 65306 Mohr Park, East Danille, TN 70894-9612
+Transaction ID: TXN456651521
+Timestamp: Magali Armstrong
+Amount: 2035.96
+Receiver: Sun Sep 15 16:05:59 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST413150
+Name: Delia Beier
+Mobile: neil.crona@gmail.com
+Email: 1-989-160-2445
+Address: 5149 Emmerich Fall, Crooksside, MN 83031
+Transaction ID: TXN765630951
+Timestamp: Elba Morar
+Amount: 9509.49
+Receiver: Mon Sep 16 05:28:51 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST496977
+Name: Mrs. Denae Boyle
+Mobile: demetria.goyette@gmail.com
+Email: (138) 901-2953
+Address: Suite 561 8908 Rachele Skyway, Port Elmoland, FL 25801-4131
+Transaction ID: TXN815300207
+Timestamp: Patricia Wilkinson Jr.
+Amount: 8924.73
+Receiver: Sun Sep 15 14:31:31 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST415256
+Name: Ezekiel Walsh
+Mobile: shona.hickle@gmail.com
+Email: 053.819.9519
+Address: Suite 304 073 Morissette Junction, Binshaven, RI 45282
+Transaction ID: TXN238808720
+Timestamp: Elmo Bergnaum
+Amount: 8700.65
+Receiver: Sun Sep 15 19:00:05 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST238779
+Name: Miss Israel Kulas
+Mobile: vinita.rolfson@yahoo.com
+Email: 1-672-605-8857
+Address: Suite 809 65306 Mohr Park, East Danille, TN 70894-9612
+Transaction ID: TXN456651521
+Timestamp: Magali Armstrong
+Amount: 2035.96
+Receiver: Sun Sep 15 16:05:59 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST413150
+Name: Delia Beier
+Mobile: neil.crona@gmail.com
+Email: 1-989-160-2445
+Address: 5149 Emmerich Fall, Crooksside, MN 83031
+Transaction ID: TXN765630951
+Timestamp: Elba Morar
+Amount: 9509.49
+Receiver: Mon Sep 16 05:28:51 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST496977
+Name: Mrs. Denae Boyle
+Mobile: demetria.goyette@gmail.com
+Email: (138) 901-2953
+Address: Suite 561 8908 Rachele Skyway, Port Elmoland, FL 25801-4131
+Transaction ID: TXN815300207
+Timestamp: Patricia Wilkinson Jr.
+Amount: 8924.73
+Receiver: Sun Sep 15 14:31:31 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST415256
+Name: Ezekiel Walsh
+Mobile: shona.hickle@gmail.com
+Email: 053.819.9519
+Address: Suite 304 073 Morissette Junction, Binshaven, RI 45282
+Transaction ID: TXN238808720
+Timestamp: Elmo Bergnaum
+Amount: 8700.65
+Receiver: Sun Sep 15 19:00:05 IST 2024
+Status: Success
+-----------------------------

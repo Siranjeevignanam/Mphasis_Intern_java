@@ -1,0 +1,33 @@
+Customer ID: CUST671498
+Name: Chassidy Raynor
+Mobile: adalberto.torphy@gmail.com
+Email: 322.123.4210
+Address: 61047 Darron Plaza, West Pablo, IL 25963
+Transaction ID: TXN442318502
+Timestamp: Magaret Turcotte
+Amount: 9332.42
+Receiver: Sun Oct 27 02:35:55 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST671498
+Name: Chassidy Raynor
+Mobile: adalberto.torphy@gmail.com
+Email: 322.123.4210
+Address: 61047 Darron Plaza, West Pablo, IL 25963
+Transaction ID: TXN442318502
+Timestamp: Magaret Turcotte
+Amount: 9332.42
+Receiver: Sun Oct 27 02:35:55 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST671498
+Name: Chassidy Raynor
+Mobile: adalberto.torphy@gmail.com
+Email: 322.123.4210
+Address: 61047 Darron Plaza, West Pablo, IL 25963
+Transaction ID: TXN442318502
+Timestamp: Magaret Turcotte
+Amount: 9332.42
+Receiver: Sun Oct 27 02:35:55 IST 2024
+Status: Success
+-----------------------------

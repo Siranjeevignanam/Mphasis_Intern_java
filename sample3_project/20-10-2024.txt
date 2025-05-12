@@ -1,0 +1,66 @@
+Customer ID: CUST560652
+Name: Dennise Green
+Mobile: kent.dicki@hotmail.com
+Email: 1-014-567-8157
+Address: Apt. 762 9097 Nathanael Crossing, Spinkaton, CO 46614-6626
+Transaction ID: TXN584154395
+Timestamp: Jc Corkery
+Amount: 4511.86
+Receiver: Mon Oct 21 03:10:52 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST358538
+Name: Dane Terry
+Mobile: leticia.kulas@yahoo.com
+Email: 510-501-6956
+Address: Apt. 950 5109 Steuber Ferry, Royview, FL 11229
+Transaction ID: TXN667708654
+Timestamp: Anton Corwin Sr.
+Amount: 7752.25
+Receiver: Sun Oct 20 18:58:25 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST560652
+Name: Dennise Green
+Mobile: kent.dicki@hotmail.com
+Email: 1-014-567-8157
+Address: Apt. 762 9097 Nathanael Crossing, Spinkaton, CO 46614-6626
+Transaction ID: TXN584154395
+Timestamp: Jc Corkery
+Amount: 4511.86
+Receiver: Mon Oct 21 03:10:52 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST358538
+Name: Dane Terry
+Mobile: leticia.kulas@yahoo.com
+Email: 510-501-6956
+Address: Apt. 950 5109 Steuber Ferry, Royview, FL 11229
+Transaction ID: TXN667708654
+Timestamp: Anton Corwin Sr.
+Amount: 7752.25
+Receiver: Sun Oct 20 18:58:25 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST560652
+Name: Dennise Green
+Mobile: kent.dicki@hotmail.com
+Email: 1-014-567-8157
+Address: Apt. 762 9097 Nathanael Crossing, Spinkaton, CO 46614-6626
+Transaction ID: TXN584154395
+Timestamp: Jc Corkery
+Amount: 4511.86
+Receiver: Mon Oct 21 03:10:52 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST358538
+Name: Dane Terry
+Mobile: leticia.kulas@yahoo.com
+Email: 510-501-6956
+Address: Apt. 950 5109 Steuber Ferry, Royview, FL 11229
+Transaction ID: TXN667708654
+Timestamp: Anton Corwin Sr.
+Amount: 7752.25
+Receiver: Sun Oct 20 18:58:25 IST 2024
+Status: Failed
+-----------------------------

@@ -1,0 +1,33 @@
+Customer ID: CUST668535
+Name: Tu Little
+Mobile: maudie.nitzsche@hotmail.com
+Email: 716-237-6917
+Address: Suite 521 210 Mui Knolls, South Carmelitaland, VA 01401
+Transaction ID: TXN176999937
+Timestamp: Eboni Cassin
+Amount: 8805.03
+Receiver: Mon Aug 26 10:38:44 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST668535
+Name: Tu Little
+Mobile: maudie.nitzsche@hotmail.com
+Email: 716-237-6917
+Address: Suite 521 210 Mui Knolls, South Carmelitaland, VA 01401
+Transaction ID: TXN176999937
+Timestamp: Eboni Cassin
+Amount: 8805.03
+Receiver: Mon Aug 26 10:38:44 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST668535
+Name: Tu Little
+Mobile: maudie.nitzsche@hotmail.com
+Email: 716-237-6917
+Address: Suite 521 210 Mui Knolls, South Carmelitaland, VA 01401
+Transaction ID: TXN176999937
+Timestamp: Eboni Cassin
+Amount: 8805.03
+Receiver: Mon Aug 26 10:38:44 IST 2024
+Status: Failed
+-----------------------------

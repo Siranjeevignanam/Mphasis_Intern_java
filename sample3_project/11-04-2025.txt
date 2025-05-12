@@ -1,0 +1,33 @@
+Customer ID: CUST583818
+Name: James McLaughlin
+Mobile: alton.friesen@hotmail.com
+Email: (562) 415-6413
+Address: Suite 906 9228 Hoeger Groves, West Florida, MA 10181-4640
+Transaction ID: TXN433396694
+Timestamp: Ms. Tequila Ward
+Amount: 1174.01
+Receiver: Fri Apr 11 09:29:58 IST 2025
+Status: Failed
+-----------------------------
+Customer ID: CUST583818
+Name: James McLaughlin
+Mobile: alton.friesen@hotmail.com
+Email: (562) 415-6413
+Address: Suite 906 9228 Hoeger Groves, West Florida, MA 10181-4640
+Transaction ID: TXN433396694
+Timestamp: Ms. Tequila Ward
+Amount: 1174.01
+Receiver: Fri Apr 11 09:29:58 IST 2025
+Status: Failed
+-----------------------------
+Customer ID: CUST583818
+Name: James McLaughlin
+Mobile: alton.friesen@hotmail.com
+Email: (562) 415-6413
+Address: Suite 906 9228 Hoeger Groves, West Florida, MA 10181-4640
+Transaction ID: TXN433396694
+Timestamp: Ms. Tequila Ward
+Amount: 1174.01
+Receiver: Fri Apr 11 09:29:58 IST 2025
+Status: Failed
+-----------------------------

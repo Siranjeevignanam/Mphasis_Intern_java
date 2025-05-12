@@ -1,0 +1,165 @@
+Customer ID: CUST711052
+Name: Melynda Heller
+Mobile: delisa.mohr@yahoo.com
+Email: (869) 885-4869
+Address: 368 Leffler Knolls, Port Shannonview, AR 83246
+Transaction ID: TXN185953362
+Timestamp: John Jerde IV
+Amount: 7851.50
+Receiver: Mon Jul 29 01:51:55 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST757217
+Name: Celinda Dickens
+Mobile: verla.kozey@gmail.com
+Email: (517) 027-0824
+Address: 4894 Fadel Expressway, Millsburgh, CA 37186
+Transaction ID: TXN227273221
+Timestamp: Nelda Nitzsche
+Amount: 6691.94
+Receiver: Mon Jul 29 00:25:31 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST240885
+Name: Lonnie Collier
+Mobile: mandi.berge@gmail.com
+Email: 1-339-968-7159
+Address: Suite 584 0721 Kessler Haven, New Neoma, AZ 26875-9687
+Transaction ID: TXN423300139
+Timestamp: Mrs. Justine Braun
+Amount: 9520.30
+Receiver: Sun Jul 28 12:43:42 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST109304
+Name: Francesca Marks
+Mobile: ashlyn.williamson@gmail.com
+Email: 1-014-937-4091
+Address: 99583 Precious Key, Neidafort, MO 59013-9230
+Transaction ID: TXN321153599
+Timestamp: Vesta Kilback
+Amount: 9009.53
+Receiver: Sun Jul 28 19:21:07 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST815073
+Name: Madie Bahringer
+Mobile: jan.anderson@gmail.com
+Email: (746) 073-7952
+Address: Apt. 066 62844 Hunter Ports, Nakiaborough, UT 17260-7539
+Transaction ID: TXN933055293
+Timestamp: Loyd Wehner
+Amount: 2225.09
+Receiver: Mon Jul 29 02:10:45 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST711052
+Name: Melynda Heller
+Mobile: delisa.mohr@yahoo.com
+Email: (869) 885-4869
+Address: 368 Leffler Knolls, Port Shannonview, AR 83246
+Transaction ID: TXN185953362
+Timestamp: John Jerde IV
+Amount: 7851.50
+Receiver: Mon Jul 29 01:51:55 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST757217
+Name: Celinda Dickens
+Mobile: verla.kozey@gmail.com
+Email: (517) 027-0824
+Address: 4894 Fadel Expressway, Millsburgh, CA 37186
+Transaction ID: TXN227273221
+Timestamp: Nelda Nitzsche
+Amount: 6691.94
+Receiver: Mon Jul 29 00:25:31 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST240885
+Name: Lonnie Collier
+Mobile: mandi.berge@gmail.com
+Email: 1-339-968-7159
+Address: Suite 584 0721 Kessler Haven, New Neoma, AZ 26875-9687
+Transaction ID: TXN423300139
+Timestamp: Mrs. Justine Braun
+Amount: 9520.30
+Receiver: Sun Jul 28 12:43:42 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST109304
+Name: Francesca Marks
+Mobile: ashlyn.williamson@gmail.com
+Email: 1-014-937-4091
+Address: 99583 Precious Key, Neidafort, MO 59013-9230
+Transaction ID: TXN321153599
+Timestamp: Vesta Kilback
+Amount: 9009.53
+Receiver: Sun Jul 28 19:21:07 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST815073
+Name: Madie Bahringer
+Mobile: jan.anderson@gmail.com
+Email: (746) 073-7952
+Address: Apt. 066 62844 Hunter Ports, Nakiaborough, UT 17260-7539
+Transaction ID: TXN933055293
+Timestamp: Loyd Wehner
+Amount: 2225.09
+Receiver: Mon Jul 29 02:10:45 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST711052
+Name: Melynda Heller
+Mobile: delisa.mohr@yahoo.com
+Email: (869) 885-4869
+Address: 368 Leffler Knolls, Port Shannonview, AR 83246
+Transaction ID: TXN185953362
+Timestamp: John Jerde IV
+Amount: 7851.50
+Receiver: Mon Jul 29 01:51:55 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST757217
+Name: Celinda Dickens
+Mobile: verla.kozey@gmail.com
+Email: (517) 027-0824
+Address: 4894 Fadel Expressway, Millsburgh, CA 37186
+Transaction ID: TXN227273221
+Timestamp: Nelda Nitzsche
+Amount: 6691.94
+Receiver: Mon Jul 29 00:25:31 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST240885
+Name: Lonnie Collier
+Mobile: mandi.berge@gmail.com
+Email: 1-339-968-7159
+Address: Suite 584 0721 Kessler Haven, New Neoma, AZ 26875-9687
+Transaction ID: TXN423300139
+Timestamp: Mrs. Justine Braun
+Amount: 9520.30
+Receiver: Sun Jul 28 12:43:42 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST109304
+Name: Francesca Marks
+Mobile: ashlyn.williamson@gmail.com
+Email: 1-014-937-4091
+Address: 99583 Precious Key, Neidafort, MO 59013-9230
+Transaction ID: TXN321153599
+Timestamp: Vesta Kilback
+Amount: 9009.53
+Receiver: Sun Jul 28 19:21:07 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST815073
+Name: Madie Bahringer
+Mobile: jan.anderson@gmail.com
+Email: (746) 073-7952
+Address: Apt. 066 62844 Hunter Ports, Nakiaborough, UT 17260-7539
+Transaction ID: TXN933055293
+Timestamp: Loyd Wehner
+Amount: 2225.09
+Receiver: Mon Jul 29 02:10:45 IST 2024
+Status: Success
+-----------------------------

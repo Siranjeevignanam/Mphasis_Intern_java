@@ -1,0 +1,66 @@
+Customer ID: CUST558957
+Name: Abel Feil
+Mobile: niki.cruickshank@yahoo.com
+Email: (506) 533-9703
+Address: Apt. 859 902 Thea Views, Arnoldoside, SD 18410
+Transaction ID: TXN104810777
+Timestamp: Carola Mayert
+Amount: 7108.86
+Receiver: Fri Dec 13 09:43:55 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST295141
+Name: Ali Kling DDS
+Mobile: cristopher.bartell@yahoo.com
+Email: 092-640-3944
+Address: 8180 Alejandrina Ridges, Emmerichtown, WA 74367
+Transaction ID: TXN655515928
+Timestamp: Johnny Robel MD
+Amount: 4496.36
+Receiver: Fri Dec 13 21:42:44 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST558957
+Name: Abel Feil
+Mobile: niki.cruickshank@yahoo.com
+Email: (506) 533-9703
+Address: Apt. 859 902 Thea Views, Arnoldoside, SD 18410
+Transaction ID: TXN104810777
+Timestamp: Carola Mayert
+Amount: 7108.86
+Receiver: Fri Dec 13 09:43:55 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST295141
+Name: Ali Kling DDS
+Mobile: cristopher.bartell@yahoo.com
+Email: 092-640-3944
+Address: 8180 Alejandrina Ridges, Emmerichtown, WA 74367
+Transaction ID: TXN655515928
+Timestamp: Johnny Robel MD
+Amount: 4496.36
+Receiver: Fri Dec 13 21:42:44 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST558957
+Name: Abel Feil
+Mobile: niki.cruickshank@yahoo.com
+Email: (506) 533-9703
+Address: Apt. 859 902 Thea Views, Arnoldoside, SD 18410
+Transaction ID: TXN104810777
+Timestamp: Carola Mayert
+Amount: 7108.86
+Receiver: Fri Dec 13 09:43:55 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST295141
+Name: Ali Kling DDS
+Mobile: cristopher.bartell@yahoo.com
+Email: 092-640-3944
+Address: 8180 Alejandrina Ridges, Emmerichtown, WA 74367
+Transaction ID: TXN655515928
+Timestamp: Johnny Robel MD
+Amount: 4496.36
+Receiver: Fri Dec 13 21:42:44 IST 2024
+Status: Failed
+-----------------------------

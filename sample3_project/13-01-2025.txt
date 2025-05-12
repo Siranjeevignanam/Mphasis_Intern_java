@@ -1,0 +1,99 @@
+Customer ID: CUST677223
+Name: Lino Rippin PhD
+Mobile: mackenzie.terry@yahoo.com
+Email: 878-500-4007
+Address: Apt. 763 729 Davis Tunnel, Lake Christene, AK 88422
+Transaction ID: TXN854806809
+Timestamp: Isaiah Bradtke V
+Amount: 6423.37
+Receiver: Mon Jan 13 19:34:56 IST 2025
+Status: Success
+-----------------------------
+Customer ID: CUST382643
+Name: Leroy Lubowitz
+Mobile: dong.daniel@gmail.com
+Email: (347) 987-9160
+Address: Apt. 744 219 Kertzmann Via, New Rosalba, IL 94951
+Transaction ID: TXN943468905
+Timestamp: Williams Wolff
+Amount: 1039.20
+Receiver: Mon Jan 13 20:32:54 IST 2025
+Status: Success
+-----------------------------
+Customer ID: CUST167335
+Name: Lisandra Fadel
+Mobile: marylin.cole@yahoo.com
+Email: (202) 063-2864
+Address: Suite 287 2300 Gerlach Port, East Carey, WI 91526-9861
+Transaction ID: TXN230385622
+Timestamp: Jimmie Ankunding
+Amount: 6276.78
+Receiver: Mon Jan 13 11:12:28 IST 2025
+Status: Failed
+-----------------------------
+Customer ID: CUST677223
+Name: Lino Rippin PhD
+Mobile: mackenzie.terry@yahoo.com
+Email: 878-500-4007
+Address: Apt. 763 729 Davis Tunnel, Lake Christene, AK 88422
+Transaction ID: TXN854806809
+Timestamp: Isaiah Bradtke V
+Amount: 6423.37
+Receiver: Mon Jan 13 19:34:56 IST 2025
+Status: Success
+-----------------------------
+Customer ID: CUST382643
+Name: Leroy Lubowitz
+Mobile: dong.daniel@gmail.com
+Email: (347) 987-9160
+Address: Apt. 744 219 Kertzmann Via, New Rosalba, IL 94951
+Transaction ID: TXN943468905
+Timestamp: Williams Wolff
+Amount: 1039.20
+Receiver: Mon Jan 13 20:32:54 IST 2025
+Status: Success
+-----------------------------
+Customer ID: CUST167335
+Name: Lisandra Fadel
+Mobile: marylin.cole@yahoo.com
+Email: (202) 063-2864
+Address: Suite 287 2300 Gerlach Port, East Carey, WI 91526-9861
+Transaction ID: TXN230385622
+Timestamp: Jimmie Ankunding
+Amount: 6276.78
+Receiver: Mon Jan 13 11:12:28 IST 2025
+Status: Failed
+-----------------------------
+Customer ID: CUST677223
+Name: Lino Rippin PhD
+Mobile: mackenzie.terry@yahoo.com
+Email: 878-500-4007
+Address: Apt. 763 729 Davis Tunnel, Lake Christene, AK 88422
+Transaction ID: TXN854806809
+Timestamp: Isaiah Bradtke V
+Amount: 6423.37
+Receiver: Mon Jan 13 19:34:56 IST 2025
+Status: Success
+-----------------------------
+Customer ID: CUST382643
+Name: Leroy Lubowitz
+Mobile: dong.daniel@gmail.com
+Email: (347) 987-9160
+Address: Apt. 744 219 Kertzmann Via, New Rosalba, IL 94951
+Transaction ID: TXN943468905
+Timestamp: Williams Wolff
+Amount: 1039.20
+Receiver: Mon Jan 13 20:32:54 IST 2025
+Status: Success
+-----------------------------
+Customer ID: CUST167335
+Name: Lisandra Fadel
+Mobile: marylin.cole@yahoo.com
+Email: (202) 063-2864
+Address: Suite 287 2300 Gerlach Port, East Carey, WI 91526-9861
+Transaction ID: TXN230385622
+Timestamp: Jimmie Ankunding
+Amount: 6276.78
+Receiver: Mon Jan 13 11:12:28 IST 2025
+Status: Failed
+-----------------------------

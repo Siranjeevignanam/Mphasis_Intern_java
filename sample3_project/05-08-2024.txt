@@ -1,0 +1,66 @@
+Customer ID: CUST286362
+Name: Dr. Donte Harris
+Mobile: renay.kozey@yahoo.com
+Email: 786-120-1394
+Address: 38113 Mosciski Bypass, New Dennyfurt, MO 82437
+Transaction ID: TXN807877418
+Timestamp: Nedra Brakus
+Amount: 8598.71
+Receiver: Mon Aug 05 08:05:15 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST723235
+Name: Fabian Heller
+Mobile: chauncey.grimes@hotmail.com
+Email: 468.775.7802
+Address: Suite 671 31710 Christiansen Lock, Lake Lenchester, IA 05131-6355
+Transaction ID: TXN276096298
+Timestamp: Isabel Wintheiser
+Amount: 6165.58
+Receiver: Mon Aug 05 23:29:08 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST286362
+Name: Dr. Donte Harris
+Mobile: renay.kozey@yahoo.com
+Email: 786-120-1394
+Address: 38113 Mosciski Bypass, New Dennyfurt, MO 82437
+Transaction ID: TXN807877418
+Timestamp: Nedra Brakus
+Amount: 8598.71
+Receiver: Mon Aug 05 08:05:15 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST723235
+Name: Fabian Heller
+Mobile: chauncey.grimes@hotmail.com
+Email: 468.775.7802
+Address: Suite 671 31710 Christiansen Lock, Lake Lenchester, IA 05131-6355
+Transaction ID: TXN276096298
+Timestamp: Isabel Wintheiser
+Amount: 6165.58
+Receiver: Mon Aug 05 23:29:08 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST286362
+Name: Dr. Donte Harris
+Mobile: renay.kozey@yahoo.com
+Email: 786-120-1394
+Address: 38113 Mosciski Bypass, New Dennyfurt, MO 82437
+Transaction ID: TXN807877418
+Timestamp: Nedra Brakus
+Amount: 8598.71
+Receiver: Mon Aug 05 08:05:15 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST723235
+Name: Fabian Heller
+Mobile: chauncey.grimes@hotmail.com
+Email: 468.775.7802
+Address: Suite 671 31710 Christiansen Lock, Lake Lenchester, IA 05131-6355
+Transaction ID: TXN276096298
+Timestamp: Isabel Wintheiser
+Amount: 6165.58
+Receiver: Mon Aug 05 23:29:08 IST 2024
+Status: Failed
+-----------------------------

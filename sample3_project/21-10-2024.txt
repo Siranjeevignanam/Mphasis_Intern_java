@@ -1,0 +1,33 @@
+Customer ID: CUST470792
+Name: Kareem Deckow
+Mobile: dan.batz@yahoo.com
+Email: 932.006.3435
+Address: 868 Hartmann Glen, Baumbachport, IN 24546-8527
+Transaction ID: TXN189755767
+Timestamp: Dale Rippin
+Amount: 3224.08
+Receiver: Tue Oct 22 00:46:01 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST470792
+Name: Kareem Deckow
+Mobile: dan.batz@yahoo.com
+Email: 932.006.3435
+Address: 868 Hartmann Glen, Baumbachport, IN 24546-8527
+Transaction ID: TXN189755767
+Timestamp: Dale Rippin
+Amount: 3224.08
+Receiver: Tue Oct 22 00:46:01 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST470792
+Name: Kareem Deckow
+Mobile: dan.batz@yahoo.com
+Email: 932.006.3435
+Address: 868 Hartmann Glen, Baumbachport, IN 24546-8527
+Transaction ID: TXN189755767
+Timestamp: Dale Rippin
+Amount: 3224.08
+Receiver: Tue Oct 22 00:46:01 IST 2024
+Status: Failed
+-----------------------------

@@ -1,0 +1,66 @@
+Customer ID: CUST660377
+Name: Titus Sanford
+Mobile: isiah.prohaska@yahoo.com
+Email: 415-805-9731
+Address: 3607 Wilkinson Ports, Heidenreichberg, NY 26795
+Transaction ID: TXN346809747
+Timestamp: Mr. Young Bednar
+Amount: 2358.82
+Receiver: Mon Oct 07 08:50:13 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST483896
+Name: Louise Stamm
+Mobile: yevette.labadie@yahoo.com
+Email: 049.712.2999
+Address: 76741 Terry Mission, Colettetown, AL 78816
+Transaction ID: TXN904413683
+Timestamp: Ms. Connie Carroll
+Amount: 7274.65
+Receiver: Mon Oct 07 23:48:17 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST660377
+Name: Titus Sanford
+Mobile: isiah.prohaska@yahoo.com
+Email: 415-805-9731
+Address: 3607 Wilkinson Ports, Heidenreichberg, NY 26795
+Transaction ID: TXN346809747
+Timestamp: Mr. Young Bednar
+Amount: 2358.82
+Receiver: Mon Oct 07 08:50:13 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST483896
+Name: Louise Stamm
+Mobile: yevette.labadie@yahoo.com
+Email: 049.712.2999
+Address: 76741 Terry Mission, Colettetown, AL 78816
+Transaction ID: TXN904413683
+Timestamp: Ms. Connie Carroll
+Amount: 7274.65
+Receiver: Mon Oct 07 23:48:17 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST660377
+Name: Titus Sanford
+Mobile: isiah.prohaska@yahoo.com
+Email: 415-805-9731
+Address: 3607 Wilkinson Ports, Heidenreichberg, NY 26795
+Transaction ID: TXN346809747
+Timestamp: Mr. Young Bednar
+Amount: 2358.82
+Receiver: Mon Oct 07 08:50:13 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST483896
+Name: Louise Stamm
+Mobile: yevette.labadie@yahoo.com
+Email: 049.712.2999
+Address: 76741 Terry Mission, Colettetown, AL 78816
+Transaction ID: TXN904413683
+Timestamp: Ms. Connie Carroll
+Amount: 7274.65
+Receiver: Mon Oct 07 23:48:17 IST 2024
+Status: Success
+-----------------------------

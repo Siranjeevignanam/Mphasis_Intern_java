@@ -1,0 +1,33 @@
+Customer ID: CUST610773
+Name: Shavonne Bahringer
+Mobile: ronny.goodwin@gmail.com
+Email: 1-652-420-2368
+Address: Apt. 848 7291 Kristin Mountains, McClureton, OR 82291
+Transaction ID: TXN690922798
+Timestamp: Pamula Schneider
+Amount: 3225.39
+Receiver: Thu Dec 19 13:41:49 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST610773
+Name: Shavonne Bahringer
+Mobile: ronny.goodwin@gmail.com
+Email: 1-652-420-2368
+Address: Apt. 848 7291 Kristin Mountains, McClureton, OR 82291
+Transaction ID: TXN690922798
+Timestamp: Pamula Schneider
+Amount: 3225.39
+Receiver: Thu Dec 19 13:41:49 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST610773
+Name: Shavonne Bahringer
+Mobile: ronny.goodwin@gmail.com
+Email: 1-652-420-2368
+Address: Apt. 848 7291 Kristin Mountains, McClureton, OR 82291
+Transaction ID: TXN690922798
+Timestamp: Pamula Schneider
+Amount: 3225.39
+Receiver: Thu Dec 19 13:41:49 IST 2024
+Status: Success
+-----------------------------

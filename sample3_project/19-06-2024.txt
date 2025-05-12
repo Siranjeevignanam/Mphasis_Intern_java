@@ -1,0 +1,99 @@
+Customer ID: CUST726541
+Name: Eric Lang
+Mobile: willian.runolfsson@gmail.com
+Email: (142) 327-6888
+Address: Suite 674 93790 Klein Squares, Bernhardberg, OH 14140
+Transaction ID: TXN349117037
+Timestamp: Eladia DuBuque
+Amount: 1109.31
+Receiver: Wed Jun 19 23:18:42 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST254975
+Name: Denna Hoppe
+Mobile: jared.cummerata@gmail.com
+Email: 030.419.0391
+Address: 446 Renner Circles, East Andrew, NY 50965-0271
+Transaction ID: TXN473306354
+Timestamp: Cleveland Emmerich
+Amount: 2930.37
+Receiver: Wed Jun 19 17:32:37 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST187707
+Name: Yi Padberg
+Mobile: remona.koepp@gmail.com
+Email: 964-046-4873
+Address: Suite 779 572 Lane Crescent, Kihnland, CO 42653-0346
+Transaction ID: TXN720750480
+Timestamp: Bula Nikolaus
+Amount: 4532.76
+Receiver: Wed Jun 19 22:55:07 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST726541
+Name: Eric Lang
+Mobile: willian.runolfsson@gmail.com
+Email: (142) 327-6888
+Address: Suite 674 93790 Klein Squares, Bernhardberg, OH 14140
+Transaction ID: TXN349117037
+Timestamp: Eladia DuBuque
+Amount: 1109.31
+Receiver: Wed Jun 19 23:18:42 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST254975
+Name: Denna Hoppe
+Mobile: jared.cummerata@gmail.com
+Email: 030.419.0391
+Address: 446 Renner Circles, East Andrew, NY 50965-0271
+Transaction ID: TXN473306354
+Timestamp: Cleveland Emmerich
+Amount: 2930.37
+Receiver: Wed Jun 19 17:32:37 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST187707
+Name: Yi Padberg
+Mobile: remona.koepp@gmail.com
+Email: 964-046-4873
+Address: Suite 779 572 Lane Crescent, Kihnland, CO 42653-0346
+Transaction ID: TXN720750480
+Timestamp: Bula Nikolaus
+Amount: 4532.76
+Receiver: Wed Jun 19 22:55:07 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST726541
+Name: Eric Lang
+Mobile: willian.runolfsson@gmail.com
+Email: (142) 327-6888
+Address: Suite 674 93790 Klein Squares, Bernhardberg, OH 14140
+Transaction ID: TXN349117037
+Timestamp: Eladia DuBuque
+Amount: 1109.31
+Receiver: Wed Jun 19 23:18:42 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST254975
+Name: Denna Hoppe
+Mobile: jared.cummerata@gmail.com
+Email: 030.419.0391
+Address: 446 Renner Circles, East Andrew, NY 50965-0271
+Transaction ID: TXN473306354
+Timestamp: Cleveland Emmerich
+Amount: 2930.37
+Receiver: Wed Jun 19 17:32:37 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST187707
+Name: Yi Padberg
+Mobile: remona.koepp@gmail.com
+Email: 964-046-4873
+Address: Suite 779 572 Lane Crescent, Kihnland, CO 42653-0346
+Transaction ID: TXN720750480
+Timestamp: Bula Nikolaus
+Amount: 4532.76
+Receiver: Wed Jun 19 22:55:07 IST 2024
+Status: Failed
+-----------------------------

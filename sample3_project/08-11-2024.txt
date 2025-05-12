@@ -1,0 +1,165 @@
+Customer ID: CUST966618
+Name: Chuck Ritchie
+Mobile: chieko.muller@gmail.com
+Email: (352) 598-2173
+Address: 391 Kreiger Valley, North Reytown, PA 84751-5246
+Transaction ID: TXN922845114
+Timestamp: Andres Olson
+Amount: 9086.29
+Receiver: Sat Nov 09 04:48:25 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST297953
+Name: Henriette Kertzmann
+Mobile: kathlyn.collier@yahoo.com
+Email: 682.038.1682
+Address: Suite 021 468 Moore Valleys, Karinport, SD 43026
+Transaction ID: TXN393145626
+Timestamp: Hortense Orn
+Amount: 2512.25
+Receiver: Fri Nov 08 14:50:34 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST434741
+Name: Grayce Boehm
+Mobile: graham.larkin@hotmail.com
+Email: (911) 882-5902
+Address: 5214 Shaunta Isle, Ondrickabury, MD 42335-1593
+Transaction ID: TXN167421223
+Timestamp: Dale Gulgowski
+Amount: 9724.94
+Receiver: Fri Nov 08 18:52:22 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST730392
+Name: Charlette Krajcik
+Mobile: pearle.howe@hotmail.com
+Email: 325.143.8191
+Address: Apt. 362 7611 Pamelia Shoals, West Pablo, MA 55227
+Transaction ID: TXN427199964
+Timestamp: Mr. Duncan Schneider
+Amount: 741.72
+Receiver: Fri Nov 08 14:30:01 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST574564
+Name: Kris Koelpin
+Mobile: leroy.barton@yahoo.com
+Email: 1-997-695-9258
+Address: 739 Britta Run, Donnellyland, WV 24931
+Transaction ID: TXN400354213
+Timestamp: Cecille Casper
+Amount: 8735.98
+Receiver: Fri Nov 08 20:56:40 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST966618
+Name: Chuck Ritchie
+Mobile: chieko.muller@gmail.com
+Email: (352) 598-2173
+Address: 391 Kreiger Valley, North Reytown, PA 84751-5246
+Transaction ID: TXN922845114
+Timestamp: Andres Olson
+Amount: 9086.29
+Receiver: Sat Nov 09 04:48:25 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST297953
+Name: Henriette Kertzmann
+Mobile: kathlyn.collier@yahoo.com
+Email: 682.038.1682
+Address: Suite 021 468 Moore Valleys, Karinport, SD 43026
+Transaction ID: TXN393145626
+Timestamp: Hortense Orn
+Amount: 2512.25
+Receiver: Fri Nov 08 14:50:34 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST434741
+Name: Grayce Boehm
+Mobile: graham.larkin@hotmail.com
+Email: (911) 882-5902
+Address: 5214 Shaunta Isle, Ondrickabury, MD 42335-1593
+Transaction ID: TXN167421223
+Timestamp: Dale Gulgowski
+Amount: 9724.94
+Receiver: Fri Nov 08 18:52:22 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST730392
+Name: Charlette Krajcik
+Mobile: pearle.howe@hotmail.com
+Email: 325.143.8191
+Address: Apt. 362 7611 Pamelia Shoals, West Pablo, MA 55227
+Transaction ID: TXN427199964
+Timestamp: Mr. Duncan Schneider
+Amount: 741.72
+Receiver: Fri Nov 08 14:30:01 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST574564
+Name: Kris Koelpin
+Mobile: leroy.barton@yahoo.com
+Email: 1-997-695-9258
+Address: 739 Britta Run, Donnellyland, WV 24931
+Transaction ID: TXN400354213
+Timestamp: Cecille Casper
+Amount: 8735.98
+Receiver: Fri Nov 08 20:56:40 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST966618
+Name: Chuck Ritchie
+Mobile: chieko.muller@gmail.com
+Email: (352) 598-2173
+Address: 391 Kreiger Valley, North Reytown, PA 84751-5246
+Transaction ID: TXN922845114
+Timestamp: Andres Olson
+Amount: 9086.29
+Receiver: Sat Nov 09 04:48:25 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST297953
+Name: Henriette Kertzmann
+Mobile: kathlyn.collier@yahoo.com
+Email: 682.038.1682
+Address: Suite 021 468 Moore Valleys, Karinport, SD 43026
+Transaction ID: TXN393145626
+Timestamp: Hortense Orn
+Amount: 2512.25
+Receiver: Fri Nov 08 14:50:34 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST434741
+Name: Grayce Boehm
+Mobile: graham.larkin@hotmail.com
+Email: (911) 882-5902
+Address: 5214 Shaunta Isle, Ondrickabury, MD 42335-1593
+Transaction ID: TXN167421223
+Timestamp: Dale Gulgowski
+Amount: 9724.94
+Receiver: Fri Nov 08 18:52:22 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST730392
+Name: Charlette Krajcik
+Mobile: pearle.howe@hotmail.com
+Email: 325.143.8191
+Address: Apt. 362 7611 Pamelia Shoals, West Pablo, MA 55227
+Transaction ID: TXN427199964
+Timestamp: Mr. Duncan Schneider
+Amount: 741.72
+Receiver: Fri Nov 08 14:30:01 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST574564
+Name: Kris Koelpin
+Mobile: leroy.barton@yahoo.com
+Email: 1-997-695-9258
+Address: 739 Britta Run, Donnellyland, WV 24931
+Transaction ID: TXN400354213
+Timestamp: Cecille Casper
+Amount: 8735.98
+Receiver: Fri Nov 08 20:56:40 IST 2024
+Status: Failed
+-----------------------------

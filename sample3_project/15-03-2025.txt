@@ -1,0 +1,33 @@
+Customer ID: CUST271730
+Name: Fredric Walter DVM
+Mobile: eboni.howe@hotmail.com
+Email: 1-354-549-9102
+Address: 393 Bauch Extension, Caitlinview, NY 70558
+Transaction ID: TXN492160058
+Timestamp: Jack Hermann I
+Amount: 2062.54
+Receiver: Sat Mar 15 14:09:18 IST 2025
+Status: Failed
+-----------------------------
+Customer ID: CUST271730
+Name: Fredric Walter DVM
+Mobile: eboni.howe@hotmail.com
+Email: 1-354-549-9102
+Address: 393 Bauch Extension, Caitlinview, NY 70558
+Transaction ID: TXN492160058
+Timestamp: Jack Hermann I
+Amount: 2062.54
+Receiver: Sat Mar 15 14:09:18 IST 2025
+Status: Failed
+-----------------------------
+Customer ID: CUST271730
+Name: Fredric Walter DVM
+Mobile: eboni.howe@hotmail.com
+Email: 1-354-549-9102
+Address: 393 Bauch Extension, Caitlinview, NY 70558
+Transaction ID: TXN492160058
+Timestamp: Jack Hermann I
+Amount: 2062.54
+Receiver: Sat Mar 15 14:09:18 IST 2025
+Status: Failed
+-----------------------------

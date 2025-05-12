@@ -1,0 +1,33 @@
+Customer ID: CUST320876
+Name: Alonso Rempel Jr.
+Mobile: hans.hettinger@hotmail.com
+Email: 1-083-057-6176
+Address: Apt. 027 304 Minh Forge, Arthaven, MO 78155
+Transaction ID: TXN316687929
+Timestamp: Modesta Gaylord
+Amount: 637.06
+Receiver: Sat Nov 16 19:19:23 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST320876
+Name: Alonso Rempel Jr.
+Mobile: hans.hettinger@hotmail.com
+Email: 1-083-057-6176
+Address: Apt. 027 304 Minh Forge, Arthaven, MO 78155
+Transaction ID: TXN316687929
+Timestamp: Modesta Gaylord
+Amount: 637.06
+Receiver: Sat Nov 16 19:19:23 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST320876
+Name: Alonso Rempel Jr.
+Mobile: hans.hettinger@hotmail.com
+Email: 1-083-057-6176
+Address: Apt. 027 304 Minh Forge, Arthaven, MO 78155
+Transaction ID: TXN316687929
+Timestamp: Modesta Gaylord
+Amount: 637.06
+Receiver: Sat Nov 16 19:19:23 IST 2024
+Status: Success
+-----------------------------

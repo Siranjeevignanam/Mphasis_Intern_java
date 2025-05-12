@@ -1,0 +1,66 @@
+Customer ID: CUST859143
+Name: Leisa Kris
+Mobile: tanya.ritchie@yahoo.com
+Email: (904) 899-9656
+Address: Suite 855 2305 Von Manors, New Marybeth, WV 15302-4760
+Transaction ID: TXN660022574
+Timestamp: Lida Wilderman
+Amount: 7443.37
+Receiver: Mon Jul 29 11:43:17 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST640802
+Name: Toby Davis
+Mobile: emely.ondricka@yahoo.com
+Email: 585-772-3179
+Address: 0002 James Expressway, Darrinfort, OK 65058
+Transaction ID: TXN772848315
+Timestamp: Ophelia Doyle
+Amount: 9583.87
+Receiver: Tue Jul 30 00:48:38 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST859143
+Name: Leisa Kris
+Mobile: tanya.ritchie@yahoo.com
+Email: (904) 899-9656
+Address: Suite 855 2305 Von Manors, New Marybeth, WV 15302-4760
+Transaction ID: TXN660022574
+Timestamp: Lida Wilderman
+Amount: 7443.37
+Receiver: Mon Jul 29 11:43:17 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST640802
+Name: Toby Davis
+Mobile: emely.ondricka@yahoo.com
+Email: 585-772-3179
+Address: 0002 James Expressway, Darrinfort, OK 65058
+Transaction ID: TXN772848315
+Timestamp: Ophelia Doyle
+Amount: 9583.87
+Receiver: Tue Jul 30 00:48:38 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST859143
+Name: Leisa Kris
+Mobile: tanya.ritchie@yahoo.com
+Email: (904) 899-9656
+Address: Suite 855 2305 Von Manors, New Marybeth, WV 15302-4760
+Transaction ID: TXN660022574
+Timestamp: Lida Wilderman
+Amount: 7443.37
+Receiver: Mon Jul 29 11:43:17 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST640802
+Name: Toby Davis
+Mobile: emely.ondricka@yahoo.com
+Email: 585-772-3179
+Address: 0002 James Expressway, Darrinfort, OK 65058
+Transaction ID: TXN772848315
+Timestamp: Ophelia Doyle
+Amount: 9583.87
+Receiver: Tue Jul 30 00:48:38 IST 2024
+Status: Failed
+-----------------------------

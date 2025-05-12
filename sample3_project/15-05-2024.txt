@@ -1,0 +1,132 @@
+Customer ID: CUST800041
+Name: Anderson Grant
+Mobile: margot.waters@hotmail.com
+Email: 544.098.5260
+Address: Suite 614 85580 Leila Greens, East Mayolaview, OR 96350-1337
+Transaction ID: TXN318179824
+Timestamp: Mrs. Nicola Anderson
+Amount: 4044.11
+Receiver: Wed May 15 13:14:25 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST696977
+Name: Dr. Connie Mann
+Mobile: dario.friesen@yahoo.com
+Email: 1-051-164-3317
+Address: 732 Tressa Prairie, Wehnerhaven, NE 57813
+Transaction ID: TXN652039832
+Timestamp: Stan Crona
+Amount: 4227.32
+Receiver: Wed May 15 14:46:52 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST265469
+Name: Mrs. Corazon Brekke
+Mobile: johnathan.effertz@yahoo.com
+Email: 450.130.4828
+Address: Apt. 275 868 Mueller Branch, Weldonbury, IL 40145
+Transaction ID: TXN787738316
+Timestamp: Pattie Ondricka Jr.
+Amount: 2258.89
+Receiver: Thu May 16 01:13:35 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST755338
+Name: Mr. Connie Bernhard
+Mobile: zula.gusikowski@yahoo.com
+Email: 1-396-097-7470
+Address: 7080 Homenick Lake, Port Rueben, MO 18040
+Transaction ID: TXN398683746
+Timestamp: Shelton Ratke
+Amount: 6512.84
+Receiver: Wed May 15 20:33:52 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST800041
+Name: Anderson Grant
+Mobile: margot.waters@hotmail.com
+Email: 544.098.5260
+Address: Suite 614 85580 Leila Greens, East Mayolaview, OR 96350-1337
+Transaction ID: TXN318179824
+Timestamp: Mrs. Nicola Anderson
+Amount: 4044.11
+Receiver: Wed May 15 13:14:25 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST696977
+Name: Dr. Connie Mann
+Mobile: dario.friesen@yahoo.com
+Email: 1-051-164-3317
+Address: 732 Tressa Prairie, Wehnerhaven, NE 57813
+Transaction ID: TXN652039832
+Timestamp: Stan Crona
+Amount: 4227.32
+Receiver: Wed May 15 14:46:52 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST265469
+Name: Mrs. Corazon Brekke
+Mobile: johnathan.effertz@yahoo.com
+Email: 450.130.4828
+Address: Apt. 275 868 Mueller Branch, Weldonbury, IL 40145
+Transaction ID: TXN787738316
+Timestamp: Pattie Ondricka Jr.
+Amount: 2258.89
+Receiver: Thu May 16 01:13:35 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST755338
+Name: Mr. Connie Bernhard
+Mobile: zula.gusikowski@yahoo.com
+Email: 1-396-097-7470
+Address: 7080 Homenick Lake, Port Rueben, MO 18040
+Transaction ID: TXN398683746
+Timestamp: Shelton Ratke
+Amount: 6512.84
+Receiver: Wed May 15 20:33:52 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST800041
+Name: Anderson Grant
+Mobile: margot.waters@hotmail.com
+Email: 544.098.5260
+Address: Suite 614 85580 Leila Greens, East Mayolaview, OR 96350-1337
+Transaction ID: TXN318179824
+Timestamp: Mrs. Nicola Anderson
+Amount: 4044.11
+Receiver: Wed May 15 13:14:25 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST696977
+Name: Dr. Connie Mann
+Mobile: dario.friesen@yahoo.com
+Email: 1-051-164-3317
+Address: 732 Tressa Prairie, Wehnerhaven, NE 57813
+Transaction ID: TXN652039832
+Timestamp: Stan Crona
+Amount: 4227.32
+Receiver: Wed May 15 14:46:52 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST265469
+Name: Mrs. Corazon Brekke
+Mobile: johnathan.effertz@yahoo.com
+Email: 450.130.4828
+Address: Apt. 275 868 Mueller Branch, Weldonbury, IL 40145
+Transaction ID: TXN787738316
+Timestamp: Pattie Ondricka Jr.
+Amount: 2258.89
+Receiver: Thu May 16 01:13:35 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST755338
+Name: Mr. Connie Bernhard
+Mobile: zula.gusikowski@yahoo.com
+Email: 1-396-097-7470
+Address: 7080 Homenick Lake, Port Rueben, MO 18040
+Transaction ID: TXN398683746
+Timestamp: Shelton Ratke
+Amount: 6512.84
+Receiver: Wed May 15 20:33:52 IST 2024
+Status: Failed
+-----------------------------

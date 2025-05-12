@@ -1,0 +1,33 @@
+Customer ID: CUST837362
+Name: Gabriel Schulist
+Mobile: jayson.bradtke@yahoo.com
+Email: 721.837.0011
+Address: Suite 601 57167 Mraz Lodge, Vickietown, OH 78560-9052
+Transaction ID: TXN950179568
+Timestamp: Alfredo Johns
+Amount: 7882.77
+Receiver: Mon Sep 23 20:23:38 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST837362
+Name: Gabriel Schulist
+Mobile: jayson.bradtke@yahoo.com
+Email: 721.837.0011
+Address: Suite 601 57167 Mraz Lodge, Vickietown, OH 78560-9052
+Transaction ID: TXN950179568
+Timestamp: Alfredo Johns
+Amount: 7882.77
+Receiver: Mon Sep 23 20:23:38 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST837362
+Name: Gabriel Schulist
+Mobile: jayson.bradtke@yahoo.com
+Email: 721.837.0011
+Address: Suite 601 57167 Mraz Lodge, Vickietown, OH 78560-9052
+Transaction ID: TXN950179568
+Timestamp: Alfredo Johns
+Amount: 7882.77
+Receiver: Mon Sep 23 20:23:38 IST 2024
+Status: Failed
+-----------------------------

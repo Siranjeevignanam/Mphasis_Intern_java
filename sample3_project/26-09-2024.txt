@@ -1,0 +1,132 @@
+Customer ID: CUST572143
+Name: Ms. Ismael Toy
+Mobile: violet.west@yahoo.com
+Email: 924-456-5776
+Address: 067 Mikel Drive, North Luther, ME 04264-1626
+Transaction ID: TXN449639483
+Timestamp: Lonny Lueilwitz
+Amount: 7371.52
+Receiver: Thu Sep 26 21:32:46 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST781578
+Name: Toshia Stark
+Mobile: sabine.bernhard@yahoo.com
+Email: 403-621-6567
+Address: 7581 Bode Course, Kreigerborough, HI 16732-2819
+Transaction ID: TXN691919906
+Timestamp: Ronny Lindgren
+Amount: 8957.17
+Receiver: Fri Sep 27 00:39:04 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST927185
+Name: Leslee Steuber I
+Mobile: brittaney.flatley@yahoo.com
+Email: 183-666-1436
+Address: Suite 848 7211 Herzog Estates, Ayakoburgh, AK 21714-0923
+Transaction ID: TXN938325254
+Timestamp: Dr. Sachiko Champlin
+Amount: 6468.73
+Receiver: Thu Sep 26 17:37:39 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST882503
+Name: Ms. Bret Ebert
+Mobile: jamar.okeefe@yahoo.com
+Email: 155.980.1160
+Address: Apt. 043 122 Pat Camp, Tandrashire, GA 48213-3325
+Transaction ID: TXN104410118
+Timestamp: Daria Lueilwitz MD
+Amount: 2640.59
+Receiver: Thu Sep 26 19:49:48 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST572143
+Name: Ms. Ismael Toy
+Mobile: violet.west@yahoo.com
+Email: 924-456-5776
+Address: 067 Mikel Drive, North Luther, ME 04264-1626
+Transaction ID: TXN449639483
+Timestamp: Lonny Lueilwitz
+Amount: 7371.52
+Receiver: Thu Sep 26 21:32:46 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST781578
+Name: Toshia Stark
+Mobile: sabine.bernhard@yahoo.com
+Email: 403-621-6567
+Address: 7581 Bode Course, Kreigerborough, HI 16732-2819
+Transaction ID: TXN691919906
+Timestamp: Ronny Lindgren
+Amount: 8957.17
+Receiver: Fri Sep 27 00:39:04 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST927185
+Name: Leslee Steuber I
+Mobile: brittaney.flatley@yahoo.com
+Email: 183-666-1436
+Address: Suite 848 7211 Herzog Estates, Ayakoburgh, AK 21714-0923
+Transaction ID: TXN938325254
+Timestamp: Dr. Sachiko Champlin
+Amount: 6468.73
+Receiver: Thu Sep 26 17:37:39 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST882503
+Name: Ms. Bret Ebert
+Mobile: jamar.okeefe@yahoo.com
+Email: 155.980.1160
+Address: Apt. 043 122 Pat Camp, Tandrashire, GA 48213-3325
+Transaction ID: TXN104410118
+Timestamp: Daria Lueilwitz MD
+Amount: 2640.59
+Receiver: Thu Sep 26 19:49:48 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST572143
+Name: Ms. Ismael Toy
+Mobile: violet.west@yahoo.com
+Email: 924-456-5776
+Address: 067 Mikel Drive, North Luther, ME 04264-1626
+Transaction ID: TXN449639483
+Timestamp: Lonny Lueilwitz
+Amount: 7371.52
+Receiver: Thu Sep 26 21:32:46 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST781578
+Name: Toshia Stark
+Mobile: sabine.bernhard@yahoo.com
+Email: 403-621-6567
+Address: 7581 Bode Course, Kreigerborough, HI 16732-2819
+Transaction ID: TXN691919906
+Timestamp: Ronny Lindgren
+Amount: 8957.17
+Receiver: Fri Sep 27 00:39:04 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST927185
+Name: Leslee Steuber I
+Mobile: brittaney.flatley@yahoo.com
+Email: 183-666-1436
+Address: Suite 848 7211 Herzog Estates, Ayakoburgh, AK 21714-0923
+Transaction ID: TXN938325254
+Timestamp: Dr. Sachiko Champlin
+Amount: 6468.73
+Receiver: Thu Sep 26 17:37:39 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST882503
+Name: Ms. Bret Ebert
+Mobile: jamar.okeefe@yahoo.com
+Email: 155.980.1160
+Address: Apt. 043 122 Pat Camp, Tandrashire, GA 48213-3325
+Transaction ID: TXN104410118
+Timestamp: Daria Lueilwitz MD
+Amount: 2640.59
+Receiver: Thu Sep 26 19:49:48 IST 2024
+Status: Success
+-----------------------------

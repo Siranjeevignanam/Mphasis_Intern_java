@@ -1,0 +1,165 @@
+Customer ID: CUST866949
+Name: Shawn Barrows
+Mobile: guadalupe.schinner@yahoo.com
+Email: 078.070.6015
+Address: Apt. 579 54825 Wilkinson Corner, Lindstad, PA 86530-3991
+Transaction ID: TXN290766779
+Timestamp: Miss Farah Mosciski
+Amount: 5762.90
+Receiver: Mon Aug 19 01:44:43 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST131550
+Name: Jon Herman
+Mobile: brian.kirlin@gmail.com
+Email: 775.366.6312
+Address: Apt. 009 7900 Mazie Causeway, Baileyburgh, MN 39494
+Transaction ID: TXN761342756
+Timestamp: Aileen Stracke
+Amount: 4987.75
+Receiver: Sun Aug 18 05:51:24 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST462608
+Name: Don Steuber
+Mobile: tiffaney.boehm@hotmail.com
+Email: 751.614.0328
+Address: Apt. 019 9046 Connelly Dam, Greenfurt, NH 53520-6533
+Transaction ID: TXN446708937
+Timestamp: Ardelia Bradtke
+Amount: 8741.75
+Receiver: Sun Aug 18 23:24:26 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST927431
+Name: Mr. Josue McDermott
+Mobile: samuel.sanford@hotmail.com
+Email: 957-358-2266
+Address: 2641 Leah Rapids, East Kyle, IL 16659
+Transaction ID: TXN341084737
+Timestamp: Sharleen Wiza
+Amount: 7746.59
+Receiver: Sun Aug 18 18:06:30 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST792212
+Name: Delma Ankunding
+Mobile: keenan.towne@hotmail.com
+Email: 001.112.5835
+Address: 4889 Grant Summit, Annabelletown, OH 47671
+Transaction ID: TXN114156073
+Timestamp: Fay Schamberger
+Amount: 969.20
+Receiver: Mon Aug 19 04:37:00 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST866949
+Name: Shawn Barrows
+Mobile: guadalupe.schinner@yahoo.com
+Email: 078.070.6015
+Address: Apt. 579 54825 Wilkinson Corner, Lindstad, PA 86530-3991
+Transaction ID: TXN290766779
+Timestamp: Miss Farah Mosciski
+Amount: 5762.90
+Receiver: Mon Aug 19 01:44:43 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST131550
+Name: Jon Herman
+Mobile: brian.kirlin@gmail.com
+Email: 775.366.6312
+Address: Apt. 009 7900 Mazie Causeway, Baileyburgh, MN 39494
+Transaction ID: TXN761342756
+Timestamp: Aileen Stracke
+Amount: 4987.75
+Receiver: Sun Aug 18 05:51:24 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST462608
+Name: Don Steuber
+Mobile: tiffaney.boehm@hotmail.com
+Email: 751.614.0328
+Address: Apt. 019 9046 Connelly Dam, Greenfurt, NH 53520-6533
+Transaction ID: TXN446708937
+Timestamp: Ardelia Bradtke
+Amount: 8741.75
+Receiver: Sun Aug 18 23:24:26 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST927431
+Name: Mr. Josue McDermott
+Mobile: samuel.sanford@hotmail.com
+Email: 957-358-2266
+Address: 2641 Leah Rapids, East Kyle, IL 16659
+Transaction ID: TXN341084737
+Timestamp: Sharleen Wiza
+Amount: 7746.59
+Receiver: Sun Aug 18 18:06:30 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST792212
+Name: Delma Ankunding
+Mobile: keenan.towne@hotmail.com
+Email: 001.112.5835
+Address: 4889 Grant Summit, Annabelletown, OH 47671
+Transaction ID: TXN114156073
+Timestamp: Fay Schamberger
+Amount: 969.20
+Receiver: Mon Aug 19 04:37:00 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST866949
+Name: Shawn Barrows
+Mobile: guadalupe.schinner@yahoo.com
+Email: 078.070.6015
+Address: Apt. 579 54825 Wilkinson Corner, Lindstad, PA 86530-3991
+Transaction ID: TXN290766779
+Timestamp: Miss Farah Mosciski
+Amount: 5762.90
+Receiver: Mon Aug 19 01:44:43 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST131550
+Name: Jon Herman
+Mobile: brian.kirlin@gmail.com
+Email: 775.366.6312
+Address: Apt. 009 7900 Mazie Causeway, Baileyburgh, MN 39494
+Transaction ID: TXN761342756
+Timestamp: Aileen Stracke
+Amount: 4987.75
+Receiver: Sun Aug 18 05:51:24 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST462608
+Name: Don Steuber
+Mobile: tiffaney.boehm@hotmail.com
+Email: 751.614.0328
+Address: Apt. 019 9046 Connelly Dam, Greenfurt, NH 53520-6533
+Transaction ID: TXN446708937
+Timestamp: Ardelia Bradtke
+Amount: 8741.75
+Receiver: Sun Aug 18 23:24:26 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST927431
+Name: Mr. Josue McDermott
+Mobile: samuel.sanford@hotmail.com
+Email: 957-358-2266
+Address: 2641 Leah Rapids, East Kyle, IL 16659
+Transaction ID: TXN341084737
+Timestamp: Sharleen Wiza
+Amount: 7746.59
+Receiver: Sun Aug 18 18:06:30 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST792212
+Name: Delma Ankunding
+Mobile: keenan.towne@hotmail.com
+Email: 001.112.5835
+Address: 4889 Grant Summit, Annabelletown, OH 47671
+Transaction ID: TXN114156073
+Timestamp: Fay Schamberger
+Amount: 969.20
+Receiver: Mon Aug 19 04:37:00 IST 2024
+Status: Success
+-----------------------------

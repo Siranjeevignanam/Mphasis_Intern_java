@@ -1,0 +1,132 @@
+Customer ID: CUST320244
+Name: An Shields
+Mobile: caron.ortiz@yahoo.com
+Email: 1-602-661-1450
+Address: Suite 432 3498 Larhonda Plains, Nitzschemouth, MN 73013-1776
+Transaction ID: TXN974962208
+Timestamp: Jacquline Kuphal
+Amount: 863.62
+Receiver: Mon Jan 20 13:25:01 IST 2025
+Status: Success
+-----------------------------
+Customer ID: CUST321658
+Name: Rolland Borer
+Mobile: shasta.murazik@gmail.com
+Email: 083-106-2348
+Address: Apt. 418 1488 Chet Forges, East Jewell, ND 52788
+Transaction ID: TXN866672434
+Timestamp: Miss Jeana Effertz
+Amount: 7946.50
+Receiver: Mon Jan 20 22:24:31 IST 2025
+Status: Success
+-----------------------------
+Customer ID: CUST908700
+Name: Dr. Robbin Von
+Mobile: jamel.murphy@hotmail.com
+Email: 124.174.6559
+Address: Suite 138 762 Sam Trace, Roselynborough, AL 97734-6125
+Transaction ID: TXN831862460
+Timestamp: Jonathon Koss
+Amount: 6054.31
+Receiver: Tue Jan 21 02:09:05 IST 2025
+Status: Success
+-----------------------------
+Customer ID: CUST490148
+Name: Sherman Lemke
+Mobile: ligia.keeling@yahoo.com
+Email: 985.576.6594
+Address: Suite 985 29912 Kautzer Spring, North Rolando, CO 32328-3094
+Transaction ID: TXN974620205
+Timestamp: Ms. Cedric Okuneva
+Amount: 4201.42
+Receiver: Mon Jan 20 15:20:57 IST 2025
+Status: Failed
+-----------------------------
+Customer ID: CUST320244
+Name: An Shields
+Mobile: caron.ortiz@yahoo.com
+Email: 1-602-661-1450
+Address: Suite 432 3498 Larhonda Plains, Nitzschemouth, MN 73013-1776
+Transaction ID: TXN974962208
+Timestamp: Jacquline Kuphal
+Amount: 863.62
+Receiver: Mon Jan 20 13:25:01 IST 2025
+Status: Success
+-----------------------------
+Customer ID: CUST321658
+Name: Rolland Borer
+Mobile: shasta.murazik@gmail.com
+Email: 083-106-2348
+Address: Apt. 418 1488 Chet Forges, East Jewell, ND 52788
+Transaction ID: TXN866672434
+Timestamp: Miss Jeana Effertz
+Amount: 7946.50
+Receiver: Mon Jan 20 22:24:31 IST 2025
+Status: Success
+-----------------------------
+Customer ID: CUST908700
+Name: Dr. Robbin Von
+Mobile: jamel.murphy@hotmail.com
+Email: 124.174.6559
+Address: Suite 138 762 Sam Trace, Roselynborough, AL 97734-6125
+Transaction ID: TXN831862460
+Timestamp: Jonathon Koss
+Amount: 6054.31
+Receiver: Tue Jan 21 02:09:05 IST 2025
+Status: Success
+-----------------------------
+Customer ID: CUST490148
+Name: Sherman Lemke
+Mobile: ligia.keeling@yahoo.com
+Email: 985.576.6594
+Address: Suite 985 29912 Kautzer Spring, North Rolando, CO 32328-3094
+Transaction ID: TXN974620205
+Timestamp: Ms. Cedric Okuneva
+Amount: 4201.42
+Receiver: Mon Jan 20 15:20:57 IST 2025
+Status: Failed
+-----------------------------
+Customer ID: CUST320244
+Name: An Shields
+Mobile: caron.ortiz@yahoo.com
+Email: 1-602-661-1450
+Address: Suite 432 3498 Larhonda Plains, Nitzschemouth, MN 73013-1776
+Transaction ID: TXN974962208
+Timestamp: Jacquline Kuphal
+Amount: 863.62
+Receiver: Mon Jan 20 13:25:01 IST 2025
+Status: Success
+-----------------------------
+Customer ID: CUST321658
+Name: Rolland Borer
+Mobile: shasta.murazik@gmail.com
+Email: 083-106-2348
+Address: Apt. 418 1488 Chet Forges, East Jewell, ND 52788
+Transaction ID: TXN866672434
+Timestamp: Miss Jeana Effertz
+Amount: 7946.50
+Receiver: Mon Jan 20 22:24:31 IST 2025
+Status: Success
+-----------------------------
+Customer ID: CUST908700
+Name: Dr. Robbin Von
+Mobile: jamel.murphy@hotmail.com
+Email: 124.174.6559
+Address: Suite 138 762 Sam Trace, Roselynborough, AL 97734-6125
+Transaction ID: TXN831862460
+Timestamp: Jonathon Koss
+Amount: 6054.31
+Receiver: Tue Jan 21 02:09:05 IST 2025
+Status: Success
+-----------------------------
+Customer ID: CUST490148
+Name: Sherman Lemke
+Mobile: ligia.keeling@yahoo.com
+Email: 985.576.6594
+Address: Suite 985 29912 Kautzer Spring, North Rolando, CO 32328-3094
+Transaction ID: TXN974620205
+Timestamp: Ms. Cedric Okuneva
+Amount: 4201.42
+Receiver: Mon Jan 20 15:20:57 IST 2025
+Status: Failed
+-----------------------------

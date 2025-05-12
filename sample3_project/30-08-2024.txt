@@ -1,0 +1,33 @@
+Customer ID: CUST957737
+Name: Rolando Blick
+Mobile: eduardo.champlin@yahoo.com
+Email: (022) 268-0132
+Address: 87323 Rick Curve, Caitlinfort, GA 37152
+Transaction ID: TXN431620752
+Timestamp: Winston Bernhard
+Amount: 7251.60
+Receiver: Sat Aug 31 01:14:15 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST957737
+Name: Rolando Blick
+Mobile: eduardo.champlin@yahoo.com
+Email: (022) 268-0132
+Address: 87323 Rick Curve, Caitlinfort, GA 37152
+Transaction ID: TXN431620752
+Timestamp: Winston Bernhard
+Amount: 7251.60
+Receiver: Sat Aug 31 01:14:15 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST957737
+Name: Rolando Blick
+Mobile: eduardo.champlin@yahoo.com
+Email: (022) 268-0132
+Address: 87323 Rick Curve, Caitlinfort, GA 37152
+Transaction ID: TXN431620752
+Timestamp: Winston Bernhard
+Amount: 7251.60
+Receiver: Sat Aug 31 01:14:15 IST 2024
+Status: Success
+-----------------------------

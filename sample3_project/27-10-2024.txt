@@ -1,0 +1,66 @@
+Customer ID: CUST805852
+Name: Eugene Ledner Jr.
+Mobile: emory.cormier@gmail.com
+Email: (763) 536-6135
+Address: Apt. 126 12226 Mayer Loop, Thompsonborough, MO 26000-6174
+Transaction ID: TXN303618420
+Timestamp: Ron Kozey
+Amount: 2014.66
+Receiver: Sun Oct 27 15:27:23 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST605389
+Name: Jewel Hettinger DDS
+Mobile: juan.kub@yahoo.com
+Email: 867.847.1507
+Address: 82576 Mittie Crossroad, Kutchburgh, RI 35994
+Transaction ID: TXN917759626
+Timestamp: Ginny Ratke
+Amount: 3897.03
+Receiver: Sun Oct 27 22:05:40 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST805852
+Name: Eugene Ledner Jr.
+Mobile: emory.cormier@gmail.com
+Email: (763) 536-6135
+Address: Apt. 126 12226 Mayer Loop, Thompsonborough, MO 26000-6174
+Transaction ID: TXN303618420
+Timestamp: Ron Kozey
+Amount: 2014.66
+Receiver: Sun Oct 27 15:27:23 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST605389
+Name: Jewel Hettinger DDS
+Mobile: juan.kub@yahoo.com
+Email: 867.847.1507
+Address: 82576 Mittie Crossroad, Kutchburgh, RI 35994
+Transaction ID: TXN917759626
+Timestamp: Ginny Ratke
+Amount: 3897.03
+Receiver: Sun Oct 27 22:05:40 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST805852
+Name: Eugene Ledner Jr.
+Mobile: emory.cormier@gmail.com
+Email: (763) 536-6135
+Address: Apt. 126 12226 Mayer Loop, Thompsonborough, MO 26000-6174
+Transaction ID: TXN303618420
+Timestamp: Ron Kozey
+Amount: 2014.66
+Receiver: Sun Oct 27 15:27:23 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST605389
+Name: Jewel Hettinger DDS
+Mobile: juan.kub@yahoo.com
+Email: 867.847.1507
+Address: 82576 Mittie Crossroad, Kutchburgh, RI 35994
+Transaction ID: TXN917759626
+Timestamp: Ginny Ratke
+Amount: 3897.03
+Receiver: Sun Oct 27 22:05:40 IST 2024
+Status: Failed
+-----------------------------

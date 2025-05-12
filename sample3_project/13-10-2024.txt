@@ -1,0 +1,33 @@
+Customer ID: CUST452886
+Name: Miss Clayton Reynolds
+Mobile: lucy.hodkiewicz@gmail.com
+Email: 1-271-834-3054
+Address: 7481 Eleonore Stream, New Ivana, ND 82356-6460
+Transaction ID: TXN667182410
+Timestamp: Dallas Gutmann V
+Amount: 4247.39
+Receiver: Sun Oct 13 15:26:22 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST452886
+Name: Miss Clayton Reynolds
+Mobile: lucy.hodkiewicz@gmail.com
+Email: 1-271-834-3054
+Address: 7481 Eleonore Stream, New Ivana, ND 82356-6460
+Transaction ID: TXN667182410
+Timestamp: Dallas Gutmann V
+Amount: 4247.39
+Receiver: Sun Oct 13 15:26:22 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST452886
+Name: Miss Clayton Reynolds
+Mobile: lucy.hodkiewicz@gmail.com
+Email: 1-271-834-3054
+Address: 7481 Eleonore Stream, New Ivana, ND 82356-6460
+Transaction ID: TXN667182410
+Timestamp: Dallas Gutmann V
+Amount: 4247.39
+Receiver: Sun Oct 13 15:26:22 IST 2024
+Status: Failed
+-----------------------------

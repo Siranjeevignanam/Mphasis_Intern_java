@@ -1,0 +1,99 @@
+Customer ID: CUST376502
+Name: Scott Ferry
+Mobile: lavada.hyatt@hotmail.com
+Email: (196) 101-7338
+Address: 481 Murray Cliffs, Jewelport, SC 93418
+Transaction ID: TXN450578659
+Timestamp: Herschel Kutch I
+Amount: 5915.57
+Receiver: Sat Nov 09 12:50:05 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST642141
+Name: Orval Stoltenberg
+Mobile: stacy.parker@gmail.com
+Email: (220) 008-8953
+Address: Suite 071 1760 Homenick Valleys, Ismaelbury, WI 16224
+Transaction ID: TXN956351256
+Timestamp: Joya Rosenbaum
+Amount: 1775.23
+Receiver: Sat Nov 09 06:56:07 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST335607
+Name: Ms. Kelsie Kovacek
+Mobile: mohammad.leannon@yahoo.com
+Email: 1-733-940-6243
+Address: Apt. 954 343 Lindgren Knoll, New Thomasina, RI 89580
+Transaction ID: TXN328220441
+Timestamp: Nicki Zulauf
+Amount: 2685.80
+Receiver: Sat Nov 09 13:07:51 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST376502
+Name: Scott Ferry
+Mobile: lavada.hyatt@hotmail.com
+Email: (196) 101-7338
+Address: 481 Murray Cliffs, Jewelport, SC 93418
+Transaction ID: TXN450578659
+Timestamp: Herschel Kutch I
+Amount: 5915.57
+Receiver: Sat Nov 09 12:50:05 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST642141
+Name: Orval Stoltenberg
+Mobile: stacy.parker@gmail.com
+Email: (220) 008-8953
+Address: Suite 071 1760 Homenick Valleys, Ismaelbury, WI 16224
+Transaction ID: TXN956351256
+Timestamp: Joya Rosenbaum
+Amount: 1775.23
+Receiver: Sat Nov 09 06:56:07 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST335607
+Name: Ms. Kelsie Kovacek
+Mobile: mohammad.leannon@yahoo.com
+Email: 1-733-940-6243
+Address: Apt. 954 343 Lindgren Knoll, New Thomasina, RI 89580
+Transaction ID: TXN328220441
+Timestamp: Nicki Zulauf
+Amount: 2685.80
+Receiver: Sat Nov 09 13:07:51 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST376502
+Name: Scott Ferry
+Mobile: lavada.hyatt@hotmail.com
+Email: (196) 101-7338
+Address: 481 Murray Cliffs, Jewelport, SC 93418
+Transaction ID: TXN450578659
+Timestamp: Herschel Kutch I
+Amount: 5915.57
+Receiver: Sat Nov 09 12:50:05 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST642141
+Name: Orval Stoltenberg
+Mobile: stacy.parker@gmail.com
+Email: (220) 008-8953
+Address: Suite 071 1760 Homenick Valleys, Ismaelbury, WI 16224
+Transaction ID: TXN956351256
+Timestamp: Joya Rosenbaum
+Amount: 1775.23
+Receiver: Sat Nov 09 06:56:07 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST335607
+Name: Ms. Kelsie Kovacek
+Mobile: mohammad.leannon@yahoo.com
+Email: 1-733-940-6243
+Address: Apt. 954 343 Lindgren Knoll, New Thomasina, RI 89580
+Transaction ID: TXN328220441
+Timestamp: Nicki Zulauf
+Amount: 2685.80
+Receiver: Sat Nov 09 13:07:51 IST 2024
+Status: Failed
+-----------------------------

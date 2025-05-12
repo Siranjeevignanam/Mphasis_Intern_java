@@ -1,0 +1,66 @@
+Customer ID: CUST336385
+Name: Deshawn Von
+Mobile: deangelo.swaniawski@gmail.com
+Email: 1-752-064-2684
+Address: Apt. 595 39911 Debbi Tunnel, Whitefurt, WV 04002-2950
+Transaction ID: TXN489531786
+Timestamp: Johana Towne
+Amount: 329.34
+Receiver: Sat Feb 15 10:47:35 IST 2025
+Status: Success
+-----------------------------
+Customer ID: CUST925649
+Name: Dudley Kassulke DDS
+Mobile: rhonda.kassulke@yahoo.com
+Email: (010) 307-5577
+Address: 68396 Cole Trail, East Edwardoview, ME 92825
+Transaction ID: TXN729637091
+Timestamp: Miss Geraldo Ward
+Amount: 7498.59
+Receiver: Sat Feb 15 19:25:10 IST 2025
+Status: Success
+-----------------------------
+Customer ID: CUST336385
+Name: Deshawn Von
+Mobile: deangelo.swaniawski@gmail.com
+Email: 1-752-064-2684
+Address: Apt. 595 39911 Debbi Tunnel, Whitefurt, WV 04002-2950
+Transaction ID: TXN489531786
+Timestamp: Johana Towne
+Amount: 329.34
+Receiver: Sat Feb 15 10:47:35 IST 2025
+Status: Success
+-----------------------------
+Customer ID: CUST925649
+Name: Dudley Kassulke DDS
+Mobile: rhonda.kassulke@yahoo.com
+Email: (010) 307-5577
+Address: 68396 Cole Trail, East Edwardoview, ME 92825
+Transaction ID: TXN729637091
+Timestamp: Miss Geraldo Ward
+Amount: 7498.59
+Receiver: Sat Feb 15 19:25:10 IST 2025
+Status: Success
+-----------------------------
+Customer ID: CUST336385
+Name: Deshawn Von
+Mobile: deangelo.swaniawski@gmail.com
+Email: 1-752-064-2684
+Address: Apt. 595 39911 Debbi Tunnel, Whitefurt, WV 04002-2950
+Transaction ID: TXN489531786
+Timestamp: Johana Towne
+Amount: 329.34
+Receiver: Sat Feb 15 10:47:35 IST 2025
+Status: Success
+-----------------------------
+Customer ID: CUST925649
+Name: Dudley Kassulke DDS
+Mobile: rhonda.kassulke@yahoo.com
+Email: (010) 307-5577
+Address: 68396 Cole Trail, East Edwardoview, ME 92825
+Transaction ID: TXN729637091
+Timestamp: Miss Geraldo Ward
+Amount: 7498.59
+Receiver: Sat Feb 15 19:25:10 IST 2025
+Status: Success
+-----------------------------

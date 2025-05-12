@@ -1,0 +1,99 @@
+Customer ID: CUST140434
+Name: Ms. Shanice Willms
+Mobile: evonne.durgan@hotmail.com
+Email: 054-789-0196
+Address: Suite 879 05124 Lonny Haven, West Perla, CO 12423-7214
+Transaction ID: TXN467182972
+Timestamp: Rosalie Strosin
+Amount: 1413.61
+Receiver: Thu Jul 25 17:42:41 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST556906
+Name: Ms. Cristen Leannon
+Mobile: marlys.becker@hotmail.com
+Email: (346) 781-2918
+Address: Suite 598 2552 Refugio Extensions, Kuhlmanmouth, MA 23285-2483
+Transaction ID: TXN154021058
+Timestamp: Tad Tromp
+Amount: 4810.80
+Receiver: Thu Jul 25 22:57:33 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST494905
+Name: Prince Lynch DVM
+Mobile: lawanda.hudson@yahoo.com
+Email: 1-346-025-8096
+Address: 260 Hermiston Gateway, Wisozkside, MD 27450
+Transaction ID: TXN895195688
+Timestamp: Lorene Howell PhD
+Amount: 2706.53
+Receiver: Fri Jul 26 03:55:24 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST140434
+Name: Ms. Shanice Willms
+Mobile: evonne.durgan@hotmail.com
+Email: 054-789-0196
+Address: Suite 879 05124 Lonny Haven, West Perla, CO 12423-7214
+Transaction ID: TXN467182972
+Timestamp: Rosalie Strosin
+Amount: 1413.61
+Receiver: Thu Jul 25 17:42:41 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST556906
+Name: Ms. Cristen Leannon
+Mobile: marlys.becker@hotmail.com
+Email: (346) 781-2918
+Address: Suite 598 2552 Refugio Extensions, Kuhlmanmouth, MA 23285-2483
+Transaction ID: TXN154021058
+Timestamp: Tad Tromp
+Amount: 4810.80
+Receiver: Thu Jul 25 22:57:33 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST494905
+Name: Prince Lynch DVM
+Mobile: lawanda.hudson@yahoo.com
+Email: 1-346-025-8096
+Address: 260 Hermiston Gateway, Wisozkside, MD 27450
+Transaction ID: TXN895195688
+Timestamp: Lorene Howell PhD
+Amount: 2706.53
+Receiver: Fri Jul 26 03:55:24 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST140434
+Name: Ms. Shanice Willms
+Mobile: evonne.durgan@hotmail.com
+Email: 054-789-0196
+Address: Suite 879 05124 Lonny Haven, West Perla, CO 12423-7214
+Transaction ID: TXN467182972
+Timestamp: Rosalie Strosin
+Amount: 1413.61
+Receiver: Thu Jul 25 17:42:41 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST556906
+Name: Ms. Cristen Leannon
+Mobile: marlys.becker@hotmail.com
+Email: (346) 781-2918
+Address: Suite 598 2552 Refugio Extensions, Kuhlmanmouth, MA 23285-2483
+Transaction ID: TXN154021058
+Timestamp: Tad Tromp
+Amount: 4810.80
+Receiver: Thu Jul 25 22:57:33 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST494905
+Name: Prince Lynch DVM
+Mobile: lawanda.hudson@yahoo.com
+Email: 1-346-025-8096
+Address: 260 Hermiston Gateway, Wisozkside, MD 27450
+Transaction ID: TXN895195688
+Timestamp: Lorene Howell PhD
+Amount: 2706.53
+Receiver: Fri Jul 26 03:55:24 IST 2024
+Status: Success
+-----------------------------

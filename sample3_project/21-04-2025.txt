@@ -1,0 +1,66 @@
+Customer ID: CUST404617
+Name: Lucrecia Schuppe
+Mobile: cassey.gleichner@yahoo.com
+Email: 818-139-8394
+Address: 691 Zulauf Track, Lakinhaven, NH 08035-2357
+Transaction ID: TXN625551349
+Timestamp: Mrs. Chase Dare
+Amount: 3489.83
+Receiver: Mon Apr 21 23:19:57 IST 2025
+Status: Success
+-----------------------------
+Customer ID: CUST135994
+Name: Isaias Nitzsche
+Mobile: chan.terry@hotmail.com
+Email: 079.575.4427
+Address: Apt. 248 719 Hosea Court, Kevastad, AL 47393
+Transaction ID: TXN861341512
+Timestamp: Perry Lowe
+Amount: 5993.33
+Receiver: Mon Apr 21 16:52:53 IST 2025
+Status: Failed
+-----------------------------
+Customer ID: CUST404617
+Name: Lucrecia Schuppe
+Mobile: cassey.gleichner@yahoo.com
+Email: 818-139-8394
+Address: 691 Zulauf Track, Lakinhaven, NH 08035-2357
+Transaction ID: TXN625551349
+Timestamp: Mrs. Chase Dare
+Amount: 3489.83
+Receiver: Mon Apr 21 23:19:57 IST 2025
+Status: Success
+-----------------------------
+Customer ID: CUST135994
+Name: Isaias Nitzsche
+Mobile: chan.terry@hotmail.com
+Email: 079.575.4427
+Address: Apt. 248 719 Hosea Court, Kevastad, AL 47393
+Transaction ID: TXN861341512
+Timestamp: Perry Lowe
+Amount: 5993.33
+Receiver: Mon Apr 21 16:52:53 IST 2025
+Status: Failed
+-----------------------------
+Customer ID: CUST404617
+Name: Lucrecia Schuppe
+Mobile: cassey.gleichner@yahoo.com
+Email: 818-139-8394
+Address: 691 Zulauf Track, Lakinhaven, NH 08035-2357
+Transaction ID: TXN625551349
+Timestamp: Mrs. Chase Dare
+Amount: 3489.83
+Receiver: Mon Apr 21 23:19:57 IST 2025
+Status: Success
+-----------------------------
+Customer ID: CUST135994
+Name: Isaias Nitzsche
+Mobile: chan.terry@hotmail.com
+Email: 079.575.4427
+Address: Apt. 248 719 Hosea Court, Kevastad, AL 47393
+Transaction ID: TXN861341512
+Timestamp: Perry Lowe
+Amount: 5993.33
+Receiver: Mon Apr 21 16:52:53 IST 2025
+Status: Failed
+-----------------------------

@@ -1,0 +1,132 @@
+Customer ID: CUST346457
+Name: Erasmo Swift
+Mobile: margert.zulauf@hotmail.com
+Email: 1-280-046-2475
+Address: Apt. 600 20345 Herman Crossroad, West Jolie, OK 26918-9137
+Transaction ID: TXN670649939
+Timestamp: Helga Schumm
+Amount: 2468.79
+Receiver: Thu Nov 28 14:41:11 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST971953
+Name: Keesha Predovic
+Mobile: kasey.hamill@yahoo.com
+Email: 626-369-9048
+Address: 99840 Gene Point, Zanamouth, MI 71660
+Transaction ID: TXN986376148
+Timestamp: Mrs. Nancey Bogisich
+Amount: 4679.91
+Receiver: Thu Nov 28 23:37:15 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST701264
+Name: Eliseo Cronin
+Mobile: leta.macgyver@gmail.com
+Email: 1-668-169-3030
+Address: 06591 Misti Ridges, West Kristofer, NC 37585-6201
+Transaction ID: TXN402640092
+Timestamp: Nicolas Rolfson
+Amount: 6816.68
+Receiver: Thu Nov 28 18:34:34 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST873613
+Name: Desiree Bruen V
+Mobile: theola.denesik@hotmail.com
+Email: 971-456-8977
+Address: 1131 Schinner Vista, Port Granvilleview, ND 27907-3214
+Transaction ID: TXN824231562
+Timestamp: Michael Dach
+Amount: 6853.39
+Receiver: Thu Nov 28 15:52:31 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST346457
+Name: Erasmo Swift
+Mobile: margert.zulauf@hotmail.com
+Email: 1-280-046-2475
+Address: Apt. 600 20345 Herman Crossroad, West Jolie, OK 26918-9137
+Transaction ID: TXN670649939
+Timestamp: Helga Schumm
+Amount: 2468.79
+Receiver: Thu Nov 28 14:41:11 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST971953
+Name: Keesha Predovic
+Mobile: kasey.hamill@yahoo.com
+Email: 626-369-9048
+Address: 99840 Gene Point, Zanamouth, MI 71660
+Transaction ID: TXN986376148
+Timestamp: Mrs. Nancey Bogisich
+Amount: 4679.91
+Receiver: Thu Nov 28 23:37:15 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST701264
+Name: Eliseo Cronin
+Mobile: leta.macgyver@gmail.com
+Email: 1-668-169-3030
+Address: 06591 Misti Ridges, West Kristofer, NC 37585-6201
+Transaction ID: TXN402640092
+Timestamp: Nicolas Rolfson
+Amount: 6816.68
+Receiver: Thu Nov 28 18:34:34 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST873613
+Name: Desiree Bruen V
+Mobile: theola.denesik@hotmail.com
+Email: 971-456-8977
+Address: 1131 Schinner Vista, Port Granvilleview, ND 27907-3214
+Transaction ID: TXN824231562
+Timestamp: Michael Dach
+Amount: 6853.39
+Receiver: Thu Nov 28 15:52:31 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST346457
+Name: Erasmo Swift
+Mobile: margert.zulauf@hotmail.com
+Email: 1-280-046-2475
+Address: Apt. 600 20345 Herman Crossroad, West Jolie, OK 26918-9137
+Transaction ID: TXN670649939
+Timestamp: Helga Schumm
+Amount: 2468.79
+Receiver: Thu Nov 28 14:41:11 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST971953
+Name: Keesha Predovic
+Mobile: kasey.hamill@yahoo.com
+Email: 626-369-9048
+Address: 99840 Gene Point, Zanamouth, MI 71660
+Transaction ID: TXN986376148
+Timestamp: Mrs. Nancey Bogisich
+Amount: 4679.91
+Receiver: Thu Nov 28 23:37:15 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST701264
+Name: Eliseo Cronin
+Mobile: leta.macgyver@gmail.com
+Email: 1-668-169-3030
+Address: 06591 Misti Ridges, West Kristofer, NC 37585-6201
+Transaction ID: TXN402640092
+Timestamp: Nicolas Rolfson
+Amount: 6816.68
+Receiver: Thu Nov 28 18:34:34 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST873613
+Name: Desiree Bruen V
+Mobile: theola.denesik@hotmail.com
+Email: 971-456-8977
+Address: 1131 Schinner Vista, Port Granvilleview, ND 27907-3214
+Transaction ID: TXN824231562
+Timestamp: Michael Dach
+Amount: 6853.39
+Receiver: Thu Nov 28 15:52:31 IST 2024
+Status: Failed
+-----------------------------

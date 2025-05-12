@@ -1,0 +1,165 @@
+Customer ID: CUST852128
+Name: Bernardine Emard III
+Mobile: emmett.bartoletti@hotmail.com
+Email: (750) 233-9481
+Address: 538 Donald Pine, Shantellstad, SC 62541-0368
+Transaction ID: TXN495913468
+Timestamp: Joslyn Kunze
+Amount: 6737.67
+Receiver: Wed Feb 19 12:08:29 IST 2025
+Status: Success
+-----------------------------
+Customer ID: CUST708326
+Name: Jerald Fisher
+Mobile: jazmine.jakubowski@yahoo.com
+Email: 244.382.5183
+Address: Suite 259 12311 Wolf Mount, Crystalburgh, HI 09176
+Transaction ID: TXN781379169
+Timestamp: Randolph Schroeder
+Amount: 7615.52
+Receiver: Wed Feb 19 06:50:24 IST 2025
+Status: Success
+-----------------------------
+Customer ID: CUST810509
+Name: Mrs. Donn Oberbrunner
+Mobile: graig.damore@yahoo.com
+Email: 155.877.4045
+Address: 70634 Dimple Row, Schaeferland, OR 92647
+Transaction ID: TXN281878253
+Timestamp: Pierre Rippin
+Amount: 9523.15
+Receiver: Wed Feb 19 07:48:39 IST 2025
+Status: Failed
+-----------------------------
+Customer ID: CUST945118
+Name: Rodrick Schinner V
+Mobile: jesusita.considine@hotmail.com
+Email: 805-508-5375
+Address: 693 Lehner Mission, Runteborough, FL 28105-3421
+Transaction ID: TXN145065223
+Timestamp: Ismael Ferry DDS
+Amount: 9806.49
+Receiver: Wed Feb 19 22:09:23 IST 2025
+Status: Failed
+-----------------------------
+Customer ID: CUST301181
+Name: Keven Stark
+Mobile: emanuel.von@yahoo.com
+Email: 1-465-137-4302
+Address: 937 O'Conner Wells, West Frances, VT 08030
+Transaction ID: TXN533145263
+Timestamp: Trey Lebsack
+Amount: 6855.44
+Receiver: Wed Feb 19 21:21:29 IST 2025
+Status: Success
+-----------------------------
+Customer ID: CUST852128
+Name: Bernardine Emard III
+Mobile: emmett.bartoletti@hotmail.com
+Email: (750) 233-9481
+Address: 538 Donald Pine, Shantellstad, SC 62541-0368
+Transaction ID: TXN495913468
+Timestamp: Joslyn Kunze
+Amount: 6737.67
+Receiver: Wed Feb 19 12:08:29 IST 2025
+Status: Success
+-----------------------------
+Customer ID: CUST708326
+Name: Jerald Fisher
+Mobile: jazmine.jakubowski@yahoo.com
+Email: 244.382.5183
+Address: Suite 259 12311 Wolf Mount, Crystalburgh, HI 09176
+Transaction ID: TXN781379169
+Timestamp: Randolph Schroeder
+Amount: 7615.52
+Receiver: Wed Feb 19 06:50:24 IST 2025
+Status: Success
+-----------------------------
+Customer ID: CUST810509
+Name: Mrs. Donn Oberbrunner
+Mobile: graig.damore@yahoo.com
+Email: 155.877.4045
+Address: 70634 Dimple Row, Schaeferland, OR 92647
+Transaction ID: TXN281878253
+Timestamp: Pierre Rippin
+Amount: 9523.15
+Receiver: Wed Feb 19 07:48:39 IST 2025
+Status: Failed
+-----------------------------
+Customer ID: CUST945118
+Name: Rodrick Schinner V
+Mobile: jesusita.considine@hotmail.com
+Email: 805-508-5375
+Address: 693 Lehner Mission, Runteborough, FL 28105-3421
+Transaction ID: TXN145065223
+Timestamp: Ismael Ferry DDS
+Amount: 9806.49
+Receiver: Wed Feb 19 22:09:23 IST 2025
+Status: Failed
+-----------------------------
+Customer ID: CUST301181
+Name: Keven Stark
+Mobile: emanuel.von@yahoo.com
+Email: 1-465-137-4302
+Address: 937 O'Conner Wells, West Frances, VT 08030
+Transaction ID: TXN533145263
+Timestamp: Trey Lebsack
+Amount: 6855.44
+Receiver: Wed Feb 19 21:21:29 IST 2025
+Status: Success
+-----------------------------
+Customer ID: CUST852128
+Name: Bernardine Emard III
+Mobile: emmett.bartoletti@hotmail.com
+Email: (750) 233-9481
+Address: 538 Donald Pine, Shantellstad, SC 62541-0368
+Transaction ID: TXN495913468
+Timestamp: Joslyn Kunze
+Amount: 6737.67
+Receiver: Wed Feb 19 12:08:29 IST 2025
+Status: Success
+-----------------------------
+Customer ID: CUST708326
+Name: Jerald Fisher
+Mobile: jazmine.jakubowski@yahoo.com
+Email: 244.382.5183
+Address: Suite 259 12311 Wolf Mount, Crystalburgh, HI 09176
+Transaction ID: TXN781379169
+Timestamp: Randolph Schroeder
+Amount: 7615.52
+Receiver: Wed Feb 19 06:50:24 IST 2025
+Status: Success
+-----------------------------
+Customer ID: CUST810509
+Name: Mrs. Donn Oberbrunner
+Mobile: graig.damore@yahoo.com
+Email: 155.877.4045
+Address: 70634 Dimple Row, Schaeferland, OR 92647
+Transaction ID: TXN281878253
+Timestamp: Pierre Rippin
+Amount: 9523.15
+Receiver: Wed Feb 19 07:48:39 IST 2025
+Status: Failed
+-----------------------------
+Customer ID: CUST945118
+Name: Rodrick Schinner V
+Mobile: jesusita.considine@hotmail.com
+Email: 805-508-5375
+Address: 693 Lehner Mission, Runteborough, FL 28105-3421
+Transaction ID: TXN145065223
+Timestamp: Ismael Ferry DDS
+Amount: 9806.49
+Receiver: Wed Feb 19 22:09:23 IST 2025
+Status: Failed
+-----------------------------
+Customer ID: CUST301181
+Name: Keven Stark
+Mobile: emanuel.von@yahoo.com
+Email: 1-465-137-4302
+Address: 937 O'Conner Wells, West Frances, VT 08030
+Transaction ID: TXN533145263
+Timestamp: Trey Lebsack
+Amount: 6855.44
+Receiver: Wed Feb 19 21:21:29 IST 2025
+Status: Success
+-----------------------------

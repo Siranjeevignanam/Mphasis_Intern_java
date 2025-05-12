@@ -1,0 +1,66 @@
+Customer ID: CUST711221
+Name: Mr. Garfield Kautzer
+Mobile: rex.gottlieb@gmail.com
+Email: 1-063-974-2625
+Address: Suite 606 480 Hagenes Shoals, Torpchester, NY 09703-2549
+Transaction ID: TXN627230380
+Timestamp: Melvin McGlynn
+Amount: 9705.47
+Receiver: Mon Aug 12 21:53:32 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST309637
+Name: Adolfo Beer
+Mobile: lyman.ernser@hotmail.com
+Email: 1-321-533-1060
+Address: 184 Ferry Streets, South Tommye, OH 02522-8853
+Transaction ID: TXN938426629
+Timestamp: Mr. Bell Gusikowski
+Amount: 6146.69
+Receiver: Mon Aug 12 18:09:03 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST711221
+Name: Mr. Garfield Kautzer
+Mobile: rex.gottlieb@gmail.com
+Email: 1-063-974-2625
+Address: Suite 606 480 Hagenes Shoals, Torpchester, NY 09703-2549
+Transaction ID: TXN627230380
+Timestamp: Melvin McGlynn
+Amount: 9705.47
+Receiver: Mon Aug 12 21:53:32 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST309637
+Name: Adolfo Beer
+Mobile: lyman.ernser@hotmail.com
+Email: 1-321-533-1060
+Address: 184 Ferry Streets, South Tommye, OH 02522-8853
+Transaction ID: TXN938426629
+Timestamp: Mr. Bell Gusikowski
+Amount: 6146.69
+Receiver: Mon Aug 12 18:09:03 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST711221
+Name: Mr. Garfield Kautzer
+Mobile: rex.gottlieb@gmail.com
+Email: 1-063-974-2625
+Address: Suite 606 480 Hagenes Shoals, Torpchester, NY 09703-2549
+Transaction ID: TXN627230380
+Timestamp: Melvin McGlynn
+Amount: 9705.47
+Receiver: Mon Aug 12 21:53:32 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST309637
+Name: Adolfo Beer
+Mobile: lyman.ernser@hotmail.com
+Email: 1-321-533-1060
+Address: 184 Ferry Streets, South Tommye, OH 02522-8853
+Transaction ID: TXN938426629
+Timestamp: Mr. Bell Gusikowski
+Amount: 6146.69
+Receiver: Mon Aug 12 18:09:03 IST 2024
+Status: Failed
+-----------------------------

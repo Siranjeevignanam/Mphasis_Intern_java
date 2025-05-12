@@ -1,0 +1,99 @@
+Customer ID: CUST543657
+Name: Gregorio Jakubowski
+Mobile: logan.sauer@yahoo.com
+Email: 162.380.5351
+Address: 8842 Nikolaus Mount, East Man, AL 63682
+Transaction ID: TXN566456432
+Timestamp: Russ Mayer
+Amount: 8702.92
+Receiver: Wed Jul 24 10:30:48 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST274968
+Name: Carolina Stehr
+Mobile: leigh.kling@hotmail.com
+Email: 289-913-9802
+Address: Suite 390 41715 Del Island, West Verniabury, WI 50584-4042
+Transaction ID: TXN519454293
+Timestamp: Brian Hackett
+Amount: 3787.70
+Receiver: Wed Jul 24 13:12:11 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST660240
+Name: Luciano Zulauf
+Mobile: king.gutkowski@yahoo.com
+Email: 341.734.2622
+Address: 713 Albertina Village, Effertzton, CO 55565
+Transaction ID: TXN247501296
+Timestamp: Billie Dickens
+Amount: 640.21
+Receiver: Wed Jul 24 12:18:02 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST543657
+Name: Gregorio Jakubowski
+Mobile: logan.sauer@yahoo.com
+Email: 162.380.5351
+Address: 8842 Nikolaus Mount, East Man, AL 63682
+Transaction ID: TXN566456432
+Timestamp: Russ Mayer
+Amount: 8702.92
+Receiver: Wed Jul 24 10:30:48 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST274968
+Name: Carolina Stehr
+Mobile: leigh.kling@hotmail.com
+Email: 289-913-9802
+Address: Suite 390 41715 Del Island, West Verniabury, WI 50584-4042
+Transaction ID: TXN519454293
+Timestamp: Brian Hackett
+Amount: 3787.70
+Receiver: Wed Jul 24 13:12:11 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST660240
+Name: Luciano Zulauf
+Mobile: king.gutkowski@yahoo.com
+Email: 341.734.2622
+Address: 713 Albertina Village, Effertzton, CO 55565
+Transaction ID: TXN247501296
+Timestamp: Billie Dickens
+Amount: 640.21
+Receiver: Wed Jul 24 12:18:02 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST543657
+Name: Gregorio Jakubowski
+Mobile: logan.sauer@yahoo.com
+Email: 162.380.5351
+Address: 8842 Nikolaus Mount, East Man, AL 63682
+Transaction ID: TXN566456432
+Timestamp: Russ Mayer
+Amount: 8702.92
+Receiver: Wed Jul 24 10:30:48 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST274968
+Name: Carolina Stehr
+Mobile: leigh.kling@hotmail.com
+Email: 289-913-9802
+Address: Suite 390 41715 Del Island, West Verniabury, WI 50584-4042
+Transaction ID: TXN519454293
+Timestamp: Brian Hackett
+Amount: 3787.70
+Receiver: Wed Jul 24 13:12:11 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST660240
+Name: Luciano Zulauf
+Mobile: king.gutkowski@yahoo.com
+Email: 341.734.2622
+Address: 713 Albertina Village, Effertzton, CO 55565
+Transaction ID: TXN247501296
+Timestamp: Billie Dickens
+Amount: 640.21
+Receiver: Wed Jul 24 12:18:02 IST 2024
+Status: Failed
+-----------------------------

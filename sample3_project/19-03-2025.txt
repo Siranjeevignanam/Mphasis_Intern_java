@@ -1,0 +1,165 @@
+Customer ID: CUST475996
+Name: Lang Feeney DDS
+Mobile: christina.cormier@gmail.com
+Email: (823) 278-2243
+Address: 54212 Julieta Islands, New Carsonfort, WV 56606
+Transaction ID: TXN557503622
+Timestamp: Irish Prosacco
+Amount: 2355.10
+Receiver: Wed Mar 19 05:30:24 IST 2025
+Status: Failed
+-----------------------------
+Customer ID: CUST962678
+Name: Donny Wilderman DDS
+Mobile: toya.kemmer@hotmail.com
+Email: (948) 889-7336
+Address: Suite 272 8773 Devora Courts, South Robin, SC 50134-5057
+Transaction ID: TXN581136283
+Timestamp: Moshe MacGyver
+Amount: 8289.80
+Receiver: Thu Mar 20 01:05:00 IST 2025
+Status: Success
+-----------------------------
+Customer ID: CUST755304
+Name: Mitch Hoeger
+Mobile: raleigh.kiehn@hotmail.com
+Email: 864.802.6619
+Address: 776 Maybelle River, Dominqueberg, OH 80958-0312
+Transaction ID: TXN830778360
+Timestamp: Alana Donnelly
+Amount: 2295.30
+Receiver: Wed Mar 19 15:04:41 IST 2025
+Status: Failed
+-----------------------------
+Customer ID: CUST846929
+Name: Trudie Lynch
+Mobile: leisa.kreiger@hotmail.com
+Email: (290) 953-8953
+Address: 323 Len Orchard, Eldonmouth, WV 52292-6180
+Transaction ID: TXN188349527
+Timestamp: Walker MacGyver
+Amount: 8868.49
+Receiver: Thu Mar 20 04:01:10 IST 2025
+Status: Success
+-----------------------------
+Customer ID: CUST886273
+Name: Ms. Emmanuel Robel
+Mobile: sharmaine.brakus@gmail.com
+Email: 683-438-1241
+Address: 618 Pete Port, North Jame, ID 38398
+Transaction ID: TXN911286036
+Timestamp: Eldon Brekke PhD
+Amount: 799.50
+Receiver: Wed Mar 19 20:50:55 IST 2025
+Status: Failed
+-----------------------------
+Customer ID: CUST475996
+Name: Lang Feeney DDS
+Mobile: christina.cormier@gmail.com
+Email: (823) 278-2243
+Address: 54212 Julieta Islands, New Carsonfort, WV 56606
+Transaction ID: TXN557503622
+Timestamp: Irish Prosacco
+Amount: 2355.10
+Receiver: Wed Mar 19 05:30:24 IST 2025
+Status: Failed
+-----------------------------
+Customer ID: CUST962678
+Name: Donny Wilderman DDS
+Mobile: toya.kemmer@hotmail.com
+Email: (948) 889-7336
+Address: Suite 272 8773 Devora Courts, South Robin, SC 50134-5057
+Transaction ID: TXN581136283
+Timestamp: Moshe MacGyver
+Amount: 8289.80
+Receiver: Thu Mar 20 01:05:00 IST 2025
+Status: Success
+-----------------------------
+Customer ID: CUST755304
+Name: Mitch Hoeger
+Mobile: raleigh.kiehn@hotmail.com
+Email: 864.802.6619
+Address: 776 Maybelle River, Dominqueberg, OH 80958-0312
+Transaction ID: TXN830778360
+Timestamp: Alana Donnelly
+Amount: 2295.30
+Receiver: Wed Mar 19 15:04:41 IST 2025
+Status: Failed
+-----------------------------
+Customer ID: CUST846929
+Name: Trudie Lynch
+Mobile: leisa.kreiger@hotmail.com
+Email: (290) 953-8953
+Address: 323 Len Orchard, Eldonmouth, WV 52292-6180
+Transaction ID: TXN188349527
+Timestamp: Walker MacGyver
+Amount: 8868.49
+Receiver: Thu Mar 20 04:01:10 IST 2025
+Status: Success
+-----------------------------
+Customer ID: CUST886273
+Name: Ms. Emmanuel Robel
+Mobile: sharmaine.brakus@gmail.com
+Email: 683-438-1241
+Address: 618 Pete Port, North Jame, ID 38398
+Transaction ID: TXN911286036
+Timestamp: Eldon Brekke PhD
+Amount: 799.50
+Receiver: Wed Mar 19 20:50:55 IST 2025
+Status: Failed
+-----------------------------
+Customer ID: CUST475996
+Name: Lang Feeney DDS
+Mobile: christina.cormier@gmail.com
+Email: (823) 278-2243
+Address: 54212 Julieta Islands, New Carsonfort, WV 56606
+Transaction ID: TXN557503622
+Timestamp: Irish Prosacco
+Amount: 2355.10
+Receiver: Wed Mar 19 05:30:24 IST 2025
+Status: Failed
+-----------------------------
+Customer ID: CUST962678
+Name: Donny Wilderman DDS
+Mobile: toya.kemmer@hotmail.com
+Email: (948) 889-7336
+Address: Suite 272 8773 Devora Courts, South Robin, SC 50134-5057
+Transaction ID: TXN581136283
+Timestamp: Moshe MacGyver
+Amount: 8289.80
+Receiver: Thu Mar 20 01:05:00 IST 2025
+Status: Success
+-----------------------------
+Customer ID: CUST755304
+Name: Mitch Hoeger
+Mobile: raleigh.kiehn@hotmail.com
+Email: 864.802.6619
+Address: 776 Maybelle River, Dominqueberg, OH 80958-0312
+Transaction ID: TXN830778360
+Timestamp: Alana Donnelly
+Amount: 2295.30
+Receiver: Wed Mar 19 15:04:41 IST 2025
+Status: Failed
+-----------------------------
+Customer ID: CUST846929
+Name: Trudie Lynch
+Mobile: leisa.kreiger@hotmail.com
+Email: (290) 953-8953
+Address: 323 Len Orchard, Eldonmouth, WV 52292-6180
+Transaction ID: TXN188349527
+Timestamp: Walker MacGyver
+Amount: 8868.49
+Receiver: Thu Mar 20 04:01:10 IST 2025
+Status: Success
+-----------------------------
+Customer ID: CUST886273
+Name: Ms. Emmanuel Robel
+Mobile: sharmaine.brakus@gmail.com
+Email: 683-438-1241
+Address: 618 Pete Port, North Jame, ID 38398
+Transaction ID: TXN911286036
+Timestamp: Eldon Brekke PhD
+Amount: 799.50
+Receiver: Wed Mar 19 20:50:55 IST 2025
+Status: Failed
+-----------------------------

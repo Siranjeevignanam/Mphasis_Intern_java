@@ -1,0 +1,66 @@
+Customer ID: CUST186193
+Name: Carman Kunze
+Mobile: jordan.rice@gmail.com
+Email: 723-361-4495
+Address: 542 Fritsch Pine, Nitzscheland, VA 24120
+Transaction ID: TXN702227048
+Timestamp: Dr. Delmer Nicolas
+Amount: 3165.51
+Receiver: Sun Apr 13 11:53:07 IST 2025
+Status: Failed
+-----------------------------
+Customer ID: CUST738989
+Name: Sol Dickinson
+Mobile: von.anderson@yahoo.com
+Email: 1-778-285-6032
+Address: Suite 649 12549 Yundt Bypass, Shanahanhaven, GA 56957
+Transaction ID: TXN330178270
+Timestamp: Harriette Emard
+Amount: 5425.42
+Receiver: Sun Apr 13 10:20:26 IST 2025
+Status: Failed
+-----------------------------
+Customer ID: CUST186193
+Name: Carman Kunze
+Mobile: jordan.rice@gmail.com
+Email: 723-361-4495
+Address: 542 Fritsch Pine, Nitzscheland, VA 24120
+Transaction ID: TXN702227048
+Timestamp: Dr. Delmer Nicolas
+Amount: 3165.51
+Receiver: Sun Apr 13 11:53:07 IST 2025
+Status: Failed
+-----------------------------
+Customer ID: CUST738989
+Name: Sol Dickinson
+Mobile: von.anderson@yahoo.com
+Email: 1-778-285-6032
+Address: Suite 649 12549 Yundt Bypass, Shanahanhaven, GA 56957
+Transaction ID: TXN330178270
+Timestamp: Harriette Emard
+Amount: 5425.42
+Receiver: Sun Apr 13 10:20:26 IST 2025
+Status: Failed
+-----------------------------
+Customer ID: CUST186193
+Name: Carman Kunze
+Mobile: jordan.rice@gmail.com
+Email: 723-361-4495
+Address: 542 Fritsch Pine, Nitzscheland, VA 24120
+Transaction ID: TXN702227048
+Timestamp: Dr. Delmer Nicolas
+Amount: 3165.51
+Receiver: Sun Apr 13 11:53:07 IST 2025
+Status: Failed
+-----------------------------
+Customer ID: CUST738989
+Name: Sol Dickinson
+Mobile: von.anderson@yahoo.com
+Email: 1-778-285-6032
+Address: Suite 649 12549 Yundt Bypass, Shanahanhaven, GA 56957
+Transaction ID: TXN330178270
+Timestamp: Harriette Emard
+Amount: 5425.42
+Receiver: Sun Apr 13 10:20:26 IST 2025
+Status: Failed
+-----------------------------

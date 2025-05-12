@@ -1,0 +1,33 @@
+Customer ID: CUST942816
+Name: Mr. Noma Abshire
+Mobile: craig.mclaughlin@hotmail.com
+Email: 1-347-462-5162
+Address: 590 Stehr Center, East Anthonyhaven, MI 26692
+Transaction ID: TXN682678488
+Timestamp: Wanetta Anderson PhD
+Amount: 4604.03
+Receiver: Wed Feb 26 21:34:33 IST 2025
+Status: Success
+-----------------------------
+Customer ID: CUST942816
+Name: Mr. Noma Abshire
+Mobile: craig.mclaughlin@hotmail.com
+Email: 1-347-462-5162
+Address: 590 Stehr Center, East Anthonyhaven, MI 26692
+Transaction ID: TXN682678488
+Timestamp: Wanetta Anderson PhD
+Amount: 4604.03
+Receiver: Wed Feb 26 21:34:33 IST 2025
+Status: Success
+-----------------------------
+Customer ID: CUST942816
+Name: Mr. Noma Abshire
+Mobile: craig.mclaughlin@hotmail.com
+Email: 1-347-462-5162
+Address: 590 Stehr Center, East Anthonyhaven, MI 26692
+Transaction ID: TXN682678488
+Timestamp: Wanetta Anderson PhD
+Amount: 4604.03
+Receiver: Wed Feb 26 21:34:33 IST 2025
+Status: Success
+-----------------------------

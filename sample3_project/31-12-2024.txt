@@ -1,0 +1,66 @@
+Customer ID: CUST844121
+Name: Jonnie Sanford
+Mobile: renea.gorczany@hotmail.com
+Email: 1-641-875-5581
+Address: 078 Vanesa Motorway, South Marlin, MI 46498
+Transaction ID: TXN249829617
+Timestamp: Candie Konopelski
+Amount: 438.54
+Receiver: Tue Dec 31 06:17:08 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST479648
+Name: Dr. Wilton Blick
+Mobile: krysta.kassulke@hotmail.com
+Email: 360-664-2679
+Address: Apt. 329 311 Dan Prairie, New Boyd, NC 09701-5987
+Transaction ID: TXN755457315
+Timestamp: Hipolito Ratke
+Amount: 987.10
+Receiver: Tue Dec 31 17:55:39 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST844121
+Name: Jonnie Sanford
+Mobile: renea.gorczany@hotmail.com
+Email: 1-641-875-5581
+Address: 078 Vanesa Motorway, South Marlin, MI 46498
+Transaction ID: TXN249829617
+Timestamp: Candie Konopelski
+Amount: 438.54
+Receiver: Tue Dec 31 06:17:08 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST479648
+Name: Dr. Wilton Blick
+Mobile: krysta.kassulke@hotmail.com
+Email: 360-664-2679
+Address: Apt. 329 311 Dan Prairie, New Boyd, NC 09701-5987
+Transaction ID: TXN755457315
+Timestamp: Hipolito Ratke
+Amount: 987.10
+Receiver: Tue Dec 31 17:55:39 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST844121
+Name: Jonnie Sanford
+Mobile: renea.gorczany@hotmail.com
+Email: 1-641-875-5581
+Address: 078 Vanesa Motorway, South Marlin, MI 46498
+Transaction ID: TXN249829617
+Timestamp: Candie Konopelski
+Amount: 438.54
+Receiver: Tue Dec 31 06:17:08 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST479648
+Name: Dr. Wilton Blick
+Mobile: krysta.kassulke@hotmail.com
+Email: 360-664-2679
+Address: Apt. 329 311 Dan Prairie, New Boyd, NC 09701-5987
+Transaction ID: TXN755457315
+Timestamp: Hipolito Ratke
+Amount: 987.10
+Receiver: Tue Dec 31 17:55:39 IST 2024
+Status: Failed
+-----------------------------

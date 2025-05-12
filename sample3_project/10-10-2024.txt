@@ -1,0 +1,66 @@
+Customer ID: CUST636512
+Name: Darin Spinka
+Mobile: isidro.morar@gmail.com
+Email: 261-250-6287
+Address: 8254 Sharyl Camp, North Hazel, NY 31799-3019
+Transaction ID: TXN155854226
+Timestamp: Louisa Farrell
+Amount: 5521.18
+Receiver: Thu Oct 10 22:14:20 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST517194
+Name: Nigel Heathcote
+Mobile: nichelle.oconnell@hotmail.com
+Email: 871.899.3490
+Address: Suite 772 3633 Carter Loaf, East Kaneshamouth, VA 56809-0355
+Transaction ID: TXN277379606
+Timestamp: Roxie Ryan Jr.
+Amount: 774.88
+Receiver: Thu Oct 10 23:00:22 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST636512
+Name: Darin Spinka
+Mobile: isidro.morar@gmail.com
+Email: 261-250-6287
+Address: 8254 Sharyl Camp, North Hazel, NY 31799-3019
+Transaction ID: TXN155854226
+Timestamp: Louisa Farrell
+Amount: 5521.18
+Receiver: Thu Oct 10 22:14:20 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST517194
+Name: Nigel Heathcote
+Mobile: nichelle.oconnell@hotmail.com
+Email: 871.899.3490
+Address: Suite 772 3633 Carter Loaf, East Kaneshamouth, VA 56809-0355
+Transaction ID: TXN277379606
+Timestamp: Roxie Ryan Jr.
+Amount: 774.88
+Receiver: Thu Oct 10 23:00:22 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST636512
+Name: Darin Spinka
+Mobile: isidro.morar@gmail.com
+Email: 261-250-6287
+Address: 8254 Sharyl Camp, North Hazel, NY 31799-3019
+Transaction ID: TXN155854226
+Timestamp: Louisa Farrell
+Amount: 5521.18
+Receiver: Thu Oct 10 22:14:20 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST517194
+Name: Nigel Heathcote
+Mobile: nichelle.oconnell@hotmail.com
+Email: 871.899.3490
+Address: Suite 772 3633 Carter Loaf, East Kaneshamouth, VA 56809-0355
+Transaction ID: TXN277379606
+Timestamp: Roxie Ryan Jr.
+Amount: 774.88
+Receiver: Thu Oct 10 23:00:22 IST 2024
+Status: Success
+-----------------------------

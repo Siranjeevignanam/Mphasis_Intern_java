@@ -1,0 +1,132 @@
+Customer ID: CUST732553
+Name: Ricki Erdman
+Mobile: rhett.kunde@gmail.com
+Email: 1-456-679-4081
+Address: Apt. 569 59280 Francoise Terrace, East Shemikastad, GA 12410-5906
+Transaction ID: TXN847020244
+Timestamp: Shirley O'Hara
+Amount: 213.91
+Receiver: Fri Oct 11 06:02:57 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST388953
+Name: Romona Quigley
+Mobile: neil.mayer@hotmail.com
+Email: 537.578.2913
+Address: Suite 332 16833 Aufderhar Keys, Tremblayshire, MT 94992-8306
+Transaction ID: TXN128019104
+Timestamp: Yajaira Wintheiser MD
+Amount: 8283.89
+Receiver: Fri Oct 11 06:18:22 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST918046
+Name: Sumiko Johnson
+Mobile: donald.ernser@hotmail.com
+Email: 995-127-5975
+Address: Apt. 177 2471 McCullough Parkway, Port Lorenzofurt, MS 08862-2556
+Transaction ID: TXN970198929
+Timestamp: Neil Hand MD
+Amount: 2926.91
+Receiver: Fri Oct 11 09:41:59 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST708649
+Name: Michele Boyer
+Mobile: jill.cummings@gmail.com
+Email: 1-927-996-3550
+Address: Apt. 730 635 Arlyne Cape, New Melania, NJ 67376
+Transaction ID: TXN623311451
+Timestamp: Giuseppe Willms
+Amount: 3278.56
+Receiver: Fri Oct 11 07:50:31 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST732553
+Name: Ricki Erdman
+Mobile: rhett.kunde@gmail.com
+Email: 1-456-679-4081
+Address: Apt. 569 59280 Francoise Terrace, East Shemikastad, GA 12410-5906
+Transaction ID: TXN847020244
+Timestamp: Shirley O'Hara
+Amount: 213.91
+Receiver: Fri Oct 11 06:02:57 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST388953
+Name: Romona Quigley
+Mobile: neil.mayer@hotmail.com
+Email: 537.578.2913
+Address: Suite 332 16833 Aufderhar Keys, Tremblayshire, MT 94992-8306
+Transaction ID: TXN128019104
+Timestamp: Yajaira Wintheiser MD
+Amount: 8283.89
+Receiver: Fri Oct 11 06:18:22 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST918046
+Name: Sumiko Johnson
+Mobile: donald.ernser@hotmail.com
+Email: 995-127-5975
+Address: Apt. 177 2471 McCullough Parkway, Port Lorenzofurt, MS 08862-2556
+Transaction ID: TXN970198929
+Timestamp: Neil Hand MD
+Amount: 2926.91
+Receiver: Fri Oct 11 09:41:59 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST708649
+Name: Michele Boyer
+Mobile: jill.cummings@gmail.com
+Email: 1-927-996-3550
+Address: Apt. 730 635 Arlyne Cape, New Melania, NJ 67376
+Transaction ID: TXN623311451
+Timestamp: Giuseppe Willms
+Amount: 3278.56
+Receiver: Fri Oct 11 07:50:31 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST732553
+Name: Ricki Erdman
+Mobile: rhett.kunde@gmail.com
+Email: 1-456-679-4081
+Address: Apt. 569 59280 Francoise Terrace, East Shemikastad, GA 12410-5906
+Transaction ID: TXN847020244
+Timestamp: Shirley O'Hara
+Amount: 213.91
+Receiver: Fri Oct 11 06:02:57 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST388953
+Name: Romona Quigley
+Mobile: neil.mayer@hotmail.com
+Email: 537.578.2913
+Address: Suite 332 16833 Aufderhar Keys, Tremblayshire, MT 94992-8306
+Transaction ID: TXN128019104
+Timestamp: Yajaira Wintheiser MD
+Amount: 8283.89
+Receiver: Fri Oct 11 06:18:22 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST918046
+Name: Sumiko Johnson
+Mobile: donald.ernser@hotmail.com
+Email: 995-127-5975
+Address: Apt. 177 2471 McCullough Parkway, Port Lorenzofurt, MS 08862-2556
+Transaction ID: TXN970198929
+Timestamp: Neil Hand MD
+Amount: 2926.91
+Receiver: Fri Oct 11 09:41:59 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST708649
+Name: Michele Boyer
+Mobile: jill.cummings@gmail.com
+Email: 1-927-996-3550
+Address: Apt. 730 635 Arlyne Cape, New Melania, NJ 67376
+Transaction ID: TXN623311451
+Timestamp: Giuseppe Willms
+Amount: 3278.56
+Receiver: Fri Oct 11 07:50:31 IST 2024
+Status: Success
+-----------------------------

@@ -1,0 +1,231 @@
+Customer ID: CUST494933
+Name: Izola Emard
+Mobile: zoila.gulgowski@gmail.com
+Email: 1-727-658-6806
+Address: Apt. 280 5945 Willms View, Shanahanstad, MD 59714-8746
+Transaction ID: TXN504859313
+Timestamp: Shae Roberts
+Amount: 5080.67
+Receiver: Thu Jun 27 19:07:44 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST992336
+Name: Demetrius Kuhn
+Mobile: bernie.howell@hotmail.com
+Email: 1-502-088-0309
+Address: 70886 Smith Parks, Otischester, NH 44671-8795
+Transaction ID: TXN680794356
+Timestamp: Patrina Rowe
+Amount: 3949.28
+Receiver: Thu Jun 27 19:23:40 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST479051
+Name: Dr. Janice Wolff
+Mobile: chantel.gleason@gmail.com
+Email: (645) 215-4177
+Address: 81107 Nga Oval, Port Hiramview, PA 39408-9892
+Transaction ID: TXN190227652
+Timestamp: Destiny Skiles
+Amount: 2107.94
+Receiver: Thu Jun 27 19:18:20 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST127752
+Name: Christen Davis Sr.
+Mobile: josiah.schaden@yahoo.com
+Email: 506.089.5585
+Address: 1256 Mueller Grove, Annellehaven, AL 24528
+Transaction ID: TXN711042977
+Timestamp: Bobbi Kautzer DDS
+Amount: 1199.55
+Receiver: Thu Jun 27 14:16:04 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST619226
+Name: Anika Feest
+Mobile: candy.thompson@gmail.com
+Email: 789-050-8419
+Address: Apt. 926 99974 Mohr Vista, Lake Shemikahaven, FL 51520-0411
+Transaction ID: TXN304898562
+Timestamp: Johnsie Walsh
+Amount: 7976.10
+Receiver: Thu Jun 27 19:12:59 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST109549
+Name: Anabel Hyatt
+Mobile: leonarda.hessel@hotmail.com
+Email: 298.650.6579
+Address: 46577 Rogahn Manor, East Hilario, RI 51879
+Transaction ID: TXN266794416
+Timestamp: Sierra Hauck
+Amount: 7065.40
+Receiver: Fri Jun 28 04:05:12 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST851339
+Name: Miss Rosamaria Reichert
+Mobile: sydney.schaefer@hotmail.com
+Email: 942-629-4585
+Address: Apt. 996 7442 Dell Forks, Kellyland, OK 73251-3370
+Transaction ID: TXN548304182
+Timestamp: Leontine Pfannerstill
+Amount: 7336.57
+Receiver: Thu Jun 27 22:32:59 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST494933
+Name: Izola Emard
+Mobile: zoila.gulgowski@gmail.com
+Email: 1-727-658-6806
+Address: Apt. 280 5945 Willms View, Shanahanstad, MD 59714-8746
+Transaction ID: TXN504859313
+Timestamp: Shae Roberts
+Amount: 5080.67
+Receiver: Thu Jun 27 19:07:44 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST992336
+Name: Demetrius Kuhn
+Mobile: bernie.howell@hotmail.com
+Email: 1-502-088-0309
+Address: 70886 Smith Parks, Otischester, NH 44671-8795
+Transaction ID: TXN680794356
+Timestamp: Patrina Rowe
+Amount: 3949.28
+Receiver: Thu Jun 27 19:23:40 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST479051
+Name: Dr. Janice Wolff
+Mobile: chantel.gleason@gmail.com
+Email: (645) 215-4177
+Address: 81107 Nga Oval, Port Hiramview, PA 39408-9892
+Transaction ID: TXN190227652
+Timestamp: Destiny Skiles
+Amount: 2107.94
+Receiver: Thu Jun 27 19:18:20 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST127752
+Name: Christen Davis Sr.
+Mobile: josiah.schaden@yahoo.com
+Email: 506.089.5585
+Address: 1256 Mueller Grove, Annellehaven, AL 24528
+Transaction ID: TXN711042977
+Timestamp: Bobbi Kautzer DDS
+Amount: 1199.55
+Receiver: Thu Jun 27 14:16:04 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST619226
+Name: Anika Feest
+Mobile: candy.thompson@gmail.com
+Email: 789-050-8419
+Address: Apt. 926 99974 Mohr Vista, Lake Shemikahaven, FL 51520-0411
+Transaction ID: TXN304898562
+Timestamp: Johnsie Walsh
+Amount: 7976.10
+Receiver: Thu Jun 27 19:12:59 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST109549
+Name: Anabel Hyatt
+Mobile: leonarda.hessel@hotmail.com
+Email: 298.650.6579
+Address: 46577 Rogahn Manor, East Hilario, RI 51879
+Transaction ID: TXN266794416
+Timestamp: Sierra Hauck
+Amount: 7065.40
+Receiver: Fri Jun 28 04:05:12 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST851339
+Name: Miss Rosamaria Reichert
+Mobile: sydney.schaefer@hotmail.com
+Email: 942-629-4585
+Address: Apt. 996 7442 Dell Forks, Kellyland, OK 73251-3370
+Transaction ID: TXN548304182
+Timestamp: Leontine Pfannerstill
+Amount: 7336.57
+Receiver: Thu Jun 27 22:32:59 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST494933
+Name: Izola Emard
+Mobile: zoila.gulgowski@gmail.com
+Email: 1-727-658-6806
+Address: Apt. 280 5945 Willms View, Shanahanstad, MD 59714-8746
+Transaction ID: TXN504859313
+Timestamp: Shae Roberts
+Amount: 5080.67
+Receiver: Thu Jun 27 19:07:44 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST992336
+Name: Demetrius Kuhn
+Mobile: bernie.howell@hotmail.com
+Email: 1-502-088-0309
+Address: 70886 Smith Parks, Otischester, NH 44671-8795
+Transaction ID: TXN680794356
+Timestamp: Patrina Rowe
+Amount: 3949.28
+Receiver: Thu Jun 27 19:23:40 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST479051
+Name: Dr. Janice Wolff
+Mobile: chantel.gleason@gmail.com
+Email: (645) 215-4177
+Address: 81107 Nga Oval, Port Hiramview, PA 39408-9892
+Transaction ID: TXN190227652
+Timestamp: Destiny Skiles
+Amount: 2107.94
+Receiver: Thu Jun 27 19:18:20 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST127752
+Name: Christen Davis Sr.
+Mobile: josiah.schaden@yahoo.com
+Email: 506.089.5585
+Address: 1256 Mueller Grove, Annellehaven, AL 24528
+Transaction ID: TXN711042977
+Timestamp: Bobbi Kautzer DDS
+Amount: 1199.55
+Receiver: Thu Jun 27 14:16:04 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST619226
+Name: Anika Feest
+Mobile: candy.thompson@gmail.com
+Email: 789-050-8419
+Address: Apt. 926 99974 Mohr Vista, Lake Shemikahaven, FL 51520-0411
+Transaction ID: TXN304898562
+Timestamp: Johnsie Walsh
+Amount: 7976.10
+Receiver: Thu Jun 27 19:12:59 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST109549
+Name: Anabel Hyatt
+Mobile: leonarda.hessel@hotmail.com
+Email: 298.650.6579
+Address: 46577 Rogahn Manor, East Hilario, RI 51879
+Transaction ID: TXN266794416
+Timestamp: Sierra Hauck
+Amount: 7065.40
+Receiver: Fri Jun 28 04:05:12 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST851339
+Name: Miss Rosamaria Reichert
+Mobile: sydney.schaefer@hotmail.com
+Email: 942-629-4585
+Address: Apt. 996 7442 Dell Forks, Kellyland, OK 73251-3370
+Transaction ID: TXN548304182
+Timestamp: Leontine Pfannerstill
+Amount: 7336.57
+Receiver: Thu Jun 27 22:32:59 IST 2024
+Status: Success
+-----------------------------

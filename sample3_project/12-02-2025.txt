@@ -1,0 +1,33 @@
+Customer ID: CUST983344
+Name: Violeta Kunze
+Mobile: antonette.wisozk@yahoo.com
+Email: (419) 168-7237
+Address: 7867 Dino Estate, Evelynbury, TN 71253
+Transaction ID: TXN888838039
+Timestamp: Jeannetta McClure
+Amount: 7170.33
+Receiver: Wed Feb 12 06:25:43 IST 2025
+Status: Success
+-----------------------------
+Customer ID: CUST983344
+Name: Violeta Kunze
+Mobile: antonette.wisozk@yahoo.com
+Email: (419) 168-7237
+Address: 7867 Dino Estate, Evelynbury, TN 71253
+Transaction ID: TXN888838039
+Timestamp: Jeannetta McClure
+Amount: 7170.33
+Receiver: Wed Feb 12 06:25:43 IST 2025
+Status: Success
+-----------------------------
+Customer ID: CUST983344
+Name: Violeta Kunze
+Mobile: antonette.wisozk@yahoo.com
+Email: (419) 168-7237
+Address: 7867 Dino Estate, Evelynbury, TN 71253
+Transaction ID: TXN888838039
+Timestamp: Jeannetta McClure
+Amount: 7170.33
+Receiver: Wed Feb 12 06:25:43 IST 2025
+Status: Success
+-----------------------------

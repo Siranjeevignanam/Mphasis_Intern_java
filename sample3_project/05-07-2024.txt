@@ -1,0 +1,33 @@
+Customer ID: CUST339942
+Name: Miss Tomika Stracke
+Mobile: leonel.sawayn@gmail.com
+Email: (587) 280-7576
+Address: Apt. 984 670 Ebert Lodge, Peterhaven, MN 15264-9479
+Transaction ID: TXN510392491
+Timestamp: Jocelyn Schiller DVM
+Amount: 6717.35
+Receiver: Sat Jul 06 00:13:44 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST339942
+Name: Miss Tomika Stracke
+Mobile: leonel.sawayn@gmail.com
+Email: (587) 280-7576
+Address: Apt. 984 670 Ebert Lodge, Peterhaven, MN 15264-9479
+Transaction ID: TXN510392491
+Timestamp: Jocelyn Schiller DVM
+Amount: 6717.35
+Receiver: Sat Jul 06 00:13:44 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST339942
+Name: Miss Tomika Stracke
+Mobile: leonel.sawayn@gmail.com
+Email: (587) 280-7576
+Address: Apt. 984 670 Ebert Lodge, Peterhaven, MN 15264-9479
+Transaction ID: TXN510392491
+Timestamp: Jocelyn Schiller DVM
+Amount: 6717.35
+Receiver: Sat Jul 06 00:13:44 IST 2024
+Status: Failed
+-----------------------------

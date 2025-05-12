@@ -1,0 +1,132 @@
+Customer ID: CUST696322
+Name: Dwight Howe
+Mobile: earle.marvin@hotmail.com
+Email: 376-773-5480
+Address: Apt. 590 937 Consuela Mews, Port Bradfordview, MA 68851-3255
+Transaction ID: TXN637124461
+Timestamp: Ted O'Hara
+Amount: 4983.90
+Receiver: Fri Sep 20 12:57:17 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST738415
+Name: Galen Miller
+Mobile: lorilee.wunsch@hotmail.com
+Email: (488) 863-6191
+Address: Suite 023 023 Marvin Mall, South Carlosside, PA 14771
+Transaction ID: TXN686873648
+Timestamp: Sammy Kris IV
+Amount: 5661.87
+Receiver: Fri Sep 20 07:27:04 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST970524
+Name: Marylou Gorczany
+Mobile: eugene.dickens@gmail.com
+Email: 815-710-2900
+Address: Apt. 589 38195 Weimann Hill, Idellashire, NY 41151-3111
+Transaction ID: TXN377614896
+Timestamp: Stevie Sporer
+Amount: 1779.94
+Receiver: Fri Sep 20 14:06:14 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST762470
+Name: Mabel Morissette
+Mobile: mistie.becker@yahoo.com
+Email: 859.773.7387
+Address: 68277 Anton Vista, Cassandraville, WI 97683-9287
+Transaction ID: TXN245186154
+Timestamp: Mohamed Nicolas
+Amount: 9935.15
+Receiver: Fri Sep 20 19:55:02 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST696322
+Name: Dwight Howe
+Mobile: earle.marvin@hotmail.com
+Email: 376-773-5480
+Address: Apt. 590 937 Consuela Mews, Port Bradfordview, MA 68851-3255
+Transaction ID: TXN637124461
+Timestamp: Ted O'Hara
+Amount: 4983.90
+Receiver: Fri Sep 20 12:57:17 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST738415
+Name: Galen Miller
+Mobile: lorilee.wunsch@hotmail.com
+Email: (488) 863-6191
+Address: Suite 023 023 Marvin Mall, South Carlosside, PA 14771
+Transaction ID: TXN686873648
+Timestamp: Sammy Kris IV
+Amount: 5661.87
+Receiver: Fri Sep 20 07:27:04 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST970524
+Name: Marylou Gorczany
+Mobile: eugene.dickens@gmail.com
+Email: 815-710-2900
+Address: Apt. 589 38195 Weimann Hill, Idellashire, NY 41151-3111
+Transaction ID: TXN377614896
+Timestamp: Stevie Sporer
+Amount: 1779.94
+Receiver: Fri Sep 20 14:06:14 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST762470
+Name: Mabel Morissette
+Mobile: mistie.becker@yahoo.com
+Email: 859.773.7387
+Address: 68277 Anton Vista, Cassandraville, WI 97683-9287
+Transaction ID: TXN245186154
+Timestamp: Mohamed Nicolas
+Amount: 9935.15
+Receiver: Fri Sep 20 19:55:02 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST696322
+Name: Dwight Howe
+Mobile: earle.marvin@hotmail.com
+Email: 376-773-5480
+Address: Apt. 590 937 Consuela Mews, Port Bradfordview, MA 68851-3255
+Transaction ID: TXN637124461
+Timestamp: Ted O'Hara
+Amount: 4983.90
+Receiver: Fri Sep 20 12:57:17 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST738415
+Name: Galen Miller
+Mobile: lorilee.wunsch@hotmail.com
+Email: (488) 863-6191
+Address: Suite 023 023 Marvin Mall, South Carlosside, PA 14771
+Transaction ID: TXN686873648
+Timestamp: Sammy Kris IV
+Amount: 5661.87
+Receiver: Fri Sep 20 07:27:04 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST970524
+Name: Marylou Gorczany
+Mobile: eugene.dickens@gmail.com
+Email: 815-710-2900
+Address: Apt. 589 38195 Weimann Hill, Idellashire, NY 41151-3111
+Transaction ID: TXN377614896
+Timestamp: Stevie Sporer
+Amount: 1779.94
+Receiver: Fri Sep 20 14:06:14 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST762470
+Name: Mabel Morissette
+Mobile: mistie.becker@yahoo.com
+Email: 859.773.7387
+Address: 68277 Anton Vista, Cassandraville, WI 97683-9287
+Transaction ID: TXN245186154
+Timestamp: Mohamed Nicolas
+Amount: 9935.15
+Receiver: Fri Sep 20 19:55:02 IST 2024
+Status: Failed
+-----------------------------

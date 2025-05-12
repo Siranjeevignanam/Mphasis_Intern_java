@@ -1,0 +1,66 @@
+Customer ID: CUST773330
+Name: Vella Ankunding
+Mobile: denny.schaden@yahoo.com
+Email: 740-778-2190
+Address: Suite 115 5128 Paucek Cliffs, Hackettborough, NH 31905
+Transaction ID: TXN670759732
+Timestamp: Felipe Schmidt
+Amount: 9369.82
+Receiver: Fri Jan 24 14:47:49 IST 2025
+Status: Failed
+-----------------------------
+Customer ID: CUST972077
+Name: Rudolph Mayert
+Mobile: trinidad.dubuque@gmail.com
+Email: 068-639-1261
+Address: 62762 Nader Landing, East Delbert, LA 19445-2193
+Transaction ID: TXN464658737
+Timestamp: Valda Schuster
+Amount: 5427.11
+Receiver: Fri Jan 24 13:23:04 IST 2025
+Status: Failed
+-----------------------------
+Customer ID: CUST773330
+Name: Vella Ankunding
+Mobile: denny.schaden@yahoo.com
+Email: 740-778-2190
+Address: Suite 115 5128 Paucek Cliffs, Hackettborough, NH 31905
+Transaction ID: TXN670759732
+Timestamp: Felipe Schmidt
+Amount: 9369.82
+Receiver: Fri Jan 24 14:47:49 IST 2025
+Status: Failed
+-----------------------------
+Customer ID: CUST972077
+Name: Rudolph Mayert
+Mobile: trinidad.dubuque@gmail.com
+Email: 068-639-1261
+Address: 62762 Nader Landing, East Delbert, LA 19445-2193
+Transaction ID: TXN464658737
+Timestamp: Valda Schuster
+Amount: 5427.11
+Receiver: Fri Jan 24 13:23:04 IST 2025
+Status: Failed
+-----------------------------
+Customer ID: CUST773330
+Name: Vella Ankunding
+Mobile: denny.schaden@yahoo.com
+Email: 740-778-2190
+Address: Suite 115 5128 Paucek Cliffs, Hackettborough, NH 31905
+Transaction ID: TXN670759732
+Timestamp: Felipe Schmidt
+Amount: 9369.82
+Receiver: Fri Jan 24 14:47:49 IST 2025
+Status: Failed
+-----------------------------
+Customer ID: CUST972077
+Name: Rudolph Mayert
+Mobile: trinidad.dubuque@gmail.com
+Email: 068-639-1261
+Address: 62762 Nader Landing, East Delbert, LA 19445-2193
+Transaction ID: TXN464658737
+Timestamp: Valda Schuster
+Amount: 5427.11
+Receiver: Fri Jan 24 13:23:04 IST 2025
+Status: Failed
+-----------------------------

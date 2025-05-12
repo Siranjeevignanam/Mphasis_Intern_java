@@ -1,0 +1,132 @@
+Customer ID: CUST715176
+Name: Darrick Buckridge
+Mobile: arletta.kuhic@yahoo.com
+Email: 458-864-8582
+Address: Apt. 117 9027 Schimmel Estate, Port Tracyside, CO 82952-5920
+Transaction ID: TXN253551430
+Timestamp: Ms. Glory Schiller
+Amount: 9746.22
+Receiver: Sun Oct 06 16:59:34 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST374811
+Name: Tresa Deckow
+Mobile: hai.schimmel@yahoo.com
+Email: 434.560.0308
+Address: 65055 Watsica Park, New Kirstiemouth, MO 67151
+Transaction ID: TXN307619662
+Timestamp: Dr. Kelley Kunde
+Amount: 9979.50
+Receiver: Sun Oct 06 21:29:30 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST943819
+Name: Mrs. Marry Kautzer
+Mobile: bridgett.hilpert@gmail.com
+Email: (785) 143-2901
+Address: Suite 807 221 Kshlerin Crest, Tressachester, VT 95473-2792
+Transaction ID: TXN507443365
+Timestamp: Malcom Dooley
+Amount: 2228.76
+Receiver: Mon Oct 07 01:06:19 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST189325
+Name: Pamelia Terry
+Mobile: spencer.renner@yahoo.com
+Email: 648.616.0600
+Address: Suite 888 5578 Fay Course, Dominictown, WY 98637
+Transaction ID: TXN719310677
+Timestamp: Maynard Effertz
+Amount: 4805.36
+Receiver: Sun Oct 06 14:30:47 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST715176
+Name: Darrick Buckridge
+Mobile: arletta.kuhic@yahoo.com
+Email: 458-864-8582
+Address: Apt. 117 9027 Schimmel Estate, Port Tracyside, CO 82952-5920
+Transaction ID: TXN253551430
+Timestamp: Ms. Glory Schiller
+Amount: 9746.22
+Receiver: Sun Oct 06 16:59:34 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST374811
+Name: Tresa Deckow
+Mobile: hai.schimmel@yahoo.com
+Email: 434.560.0308
+Address: 65055 Watsica Park, New Kirstiemouth, MO 67151
+Transaction ID: TXN307619662
+Timestamp: Dr. Kelley Kunde
+Amount: 9979.50
+Receiver: Sun Oct 06 21:29:30 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST943819
+Name: Mrs. Marry Kautzer
+Mobile: bridgett.hilpert@gmail.com
+Email: (785) 143-2901
+Address: Suite 807 221 Kshlerin Crest, Tressachester, VT 95473-2792
+Transaction ID: TXN507443365
+Timestamp: Malcom Dooley
+Amount: 2228.76
+Receiver: Mon Oct 07 01:06:19 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST189325
+Name: Pamelia Terry
+Mobile: spencer.renner@yahoo.com
+Email: 648.616.0600
+Address: Suite 888 5578 Fay Course, Dominictown, WY 98637
+Transaction ID: TXN719310677
+Timestamp: Maynard Effertz
+Amount: 4805.36
+Receiver: Sun Oct 06 14:30:47 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST715176
+Name: Darrick Buckridge
+Mobile: arletta.kuhic@yahoo.com
+Email: 458-864-8582
+Address: Apt. 117 9027 Schimmel Estate, Port Tracyside, CO 82952-5920
+Transaction ID: TXN253551430
+Timestamp: Ms. Glory Schiller
+Amount: 9746.22
+Receiver: Sun Oct 06 16:59:34 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST374811
+Name: Tresa Deckow
+Mobile: hai.schimmel@yahoo.com
+Email: 434.560.0308
+Address: 65055 Watsica Park, New Kirstiemouth, MO 67151
+Transaction ID: TXN307619662
+Timestamp: Dr. Kelley Kunde
+Amount: 9979.50
+Receiver: Sun Oct 06 21:29:30 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST943819
+Name: Mrs. Marry Kautzer
+Mobile: bridgett.hilpert@gmail.com
+Email: (785) 143-2901
+Address: Suite 807 221 Kshlerin Crest, Tressachester, VT 95473-2792
+Transaction ID: TXN507443365
+Timestamp: Malcom Dooley
+Amount: 2228.76
+Receiver: Mon Oct 07 01:06:19 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST189325
+Name: Pamelia Terry
+Mobile: spencer.renner@yahoo.com
+Email: 648.616.0600
+Address: Suite 888 5578 Fay Course, Dominictown, WY 98637
+Transaction ID: TXN719310677
+Timestamp: Maynard Effertz
+Amount: 4805.36
+Receiver: Sun Oct 06 14:30:47 IST 2024
+Status: Failed
+-----------------------------

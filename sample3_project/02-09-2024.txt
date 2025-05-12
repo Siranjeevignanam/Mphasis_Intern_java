@@ -1,0 +1,33 @@
+Customer ID: CUST607825
+Name: Jonah Wiza
+Mobile: lulu.emard@yahoo.com
+Email: 1-690-625-9293
+Address: Apt. 013 549 Mervin Plains, Lake Angelenabury, CO 67224
+Transaction ID: TXN878280385
+Timestamp: Randal Bode
+Amount: 7625.45
+Receiver: Tue Sep 03 03:03:54 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST607825
+Name: Jonah Wiza
+Mobile: lulu.emard@yahoo.com
+Email: 1-690-625-9293
+Address: Apt. 013 549 Mervin Plains, Lake Angelenabury, CO 67224
+Transaction ID: TXN878280385
+Timestamp: Randal Bode
+Amount: 7625.45
+Receiver: Tue Sep 03 03:03:54 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST607825
+Name: Jonah Wiza
+Mobile: lulu.emard@yahoo.com
+Email: 1-690-625-9293
+Address: Apt. 013 549 Mervin Plains, Lake Angelenabury, CO 67224
+Transaction ID: TXN878280385
+Timestamp: Randal Bode
+Amount: 7625.45
+Receiver: Tue Sep 03 03:03:54 IST 2024
+Status: Success
+-----------------------------

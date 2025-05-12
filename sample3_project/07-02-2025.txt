@@ -1,0 +1,66 @@
+Customer ID: CUST742074
+Name: Grace Borer
+Mobile: rolanda.bergstrom@hotmail.com
+Email: 1-788-719-3081
+Address: Suite 591 700 Cruz Ramp, Collinsstad, OK 75564
+Transaction ID: TXN482441434
+Timestamp: Willian Leuschke
+Amount: 7257.57
+Receiver: Sat Feb 08 01:55:31 IST 2025
+Status: Success
+-----------------------------
+Customer ID: CUST659665
+Name: Emmie Jacobi
+Mobile: armando.ohara@gmail.com
+Email: (715) 470-5726
+Address: 446 Wiegand Road, Lake Alfonzo, IA 93390-8300
+Transaction ID: TXN285861926
+Timestamp: Joann Adams
+Amount: 1299.69
+Receiver: Sat Feb 08 03:18:37 IST 2025
+Status: Failed
+-----------------------------
+Customer ID: CUST742074
+Name: Grace Borer
+Mobile: rolanda.bergstrom@hotmail.com
+Email: 1-788-719-3081
+Address: Suite 591 700 Cruz Ramp, Collinsstad, OK 75564
+Transaction ID: TXN482441434
+Timestamp: Willian Leuschke
+Amount: 7257.57
+Receiver: Sat Feb 08 01:55:31 IST 2025
+Status: Success
+-----------------------------
+Customer ID: CUST659665
+Name: Emmie Jacobi
+Mobile: armando.ohara@gmail.com
+Email: (715) 470-5726
+Address: 446 Wiegand Road, Lake Alfonzo, IA 93390-8300
+Transaction ID: TXN285861926
+Timestamp: Joann Adams
+Amount: 1299.69
+Receiver: Sat Feb 08 03:18:37 IST 2025
+Status: Failed
+-----------------------------
+Customer ID: CUST742074
+Name: Grace Borer
+Mobile: rolanda.bergstrom@hotmail.com
+Email: 1-788-719-3081
+Address: Suite 591 700 Cruz Ramp, Collinsstad, OK 75564
+Transaction ID: TXN482441434
+Timestamp: Willian Leuschke
+Amount: 7257.57
+Receiver: Sat Feb 08 01:55:31 IST 2025
+Status: Success
+-----------------------------
+Customer ID: CUST659665
+Name: Emmie Jacobi
+Mobile: armando.ohara@gmail.com
+Email: (715) 470-5726
+Address: 446 Wiegand Road, Lake Alfonzo, IA 93390-8300
+Transaction ID: TXN285861926
+Timestamp: Joann Adams
+Amount: 1299.69
+Receiver: Sat Feb 08 03:18:37 IST 2025
+Status: Failed
+-----------------------------

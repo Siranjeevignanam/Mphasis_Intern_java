@@ -1,0 +1,99 @@
+Customer ID: CUST545011
+Name: Glennis Zulauf
+Mobile: zenobia.pfannerstill@hotmail.com
+Email: 773.893.0716
+Address: Apt. 959 7808 Balistreri Terrace, East Vinnie, FL 90095-4119
+Transaction ID: TXN592094955
+Timestamp: Augustina Dietrich
+Amount: 372.97
+Receiver: Wed Oct 23 06:25:55 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST950224
+Name: Rubin Spencer
+Mobile: odell.powlowski@hotmail.com
+Email: 911-303-9344
+Address: Suite 684 02975 Walker Fork, North Wilfredville, ND 56092-8293
+Transaction ID: TXN179677270
+Timestamp: Ms. Trent Yundt
+Amount: 6176.91
+Receiver: Wed Oct 23 14:38:18 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST602136
+Name: Mrs. Freddie Bechtelar
+Mobile: joni.cruickshank@hotmail.com
+Email: (040) 542-0747
+Address: Suite 557 69856 Heathcote Passage, West Myongberg, OR 56224-0132
+Transaction ID: TXN578480949
+Timestamp: Ginny Schimmel
+Amount: 5350.44
+Receiver: Wed Oct 23 23:57:27 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST545011
+Name: Glennis Zulauf
+Mobile: zenobia.pfannerstill@hotmail.com
+Email: 773.893.0716
+Address: Apt. 959 7808 Balistreri Terrace, East Vinnie, FL 90095-4119
+Transaction ID: TXN592094955
+Timestamp: Augustina Dietrich
+Amount: 372.97
+Receiver: Wed Oct 23 06:25:55 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST950224
+Name: Rubin Spencer
+Mobile: odell.powlowski@hotmail.com
+Email: 911-303-9344
+Address: Suite 684 02975 Walker Fork, North Wilfredville, ND 56092-8293
+Transaction ID: TXN179677270
+Timestamp: Ms. Trent Yundt
+Amount: 6176.91
+Receiver: Wed Oct 23 14:38:18 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST602136
+Name: Mrs. Freddie Bechtelar
+Mobile: joni.cruickshank@hotmail.com
+Email: (040) 542-0747
+Address: Suite 557 69856 Heathcote Passage, West Myongberg, OR 56224-0132
+Transaction ID: TXN578480949
+Timestamp: Ginny Schimmel
+Amount: 5350.44
+Receiver: Wed Oct 23 23:57:27 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST545011
+Name: Glennis Zulauf
+Mobile: zenobia.pfannerstill@hotmail.com
+Email: 773.893.0716
+Address: Apt. 959 7808 Balistreri Terrace, East Vinnie, FL 90095-4119
+Transaction ID: TXN592094955
+Timestamp: Augustina Dietrich
+Amount: 372.97
+Receiver: Wed Oct 23 06:25:55 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST950224
+Name: Rubin Spencer
+Mobile: odell.powlowski@hotmail.com
+Email: 911-303-9344
+Address: Suite 684 02975 Walker Fork, North Wilfredville, ND 56092-8293
+Transaction ID: TXN179677270
+Timestamp: Ms. Trent Yundt
+Amount: 6176.91
+Receiver: Wed Oct 23 14:38:18 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST602136
+Name: Mrs. Freddie Bechtelar
+Mobile: joni.cruickshank@hotmail.com
+Email: (040) 542-0747
+Address: Suite 557 69856 Heathcote Passage, West Myongberg, OR 56224-0132
+Transaction ID: TXN578480949
+Timestamp: Ginny Schimmel
+Amount: 5350.44
+Receiver: Wed Oct 23 23:57:27 IST 2024
+Status: Failed
+-----------------------------

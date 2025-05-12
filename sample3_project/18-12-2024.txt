@@ -1,0 +1,99 @@
+Customer ID: CUST640225
+Name: Kena Bartoletti III
+Mobile: dannie.boyle@yahoo.com
+Email: 1-095-744-6753
+Address: Suite 873 268 Grady Light, East Zelma, MS 42235-0308
+Transaction ID: TXN568412041
+Timestamp: Devora Zemlak
+Amount: 5593.08
+Receiver: Wed Dec 18 18:22:19 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST113584
+Name: Dewey Wiegand
+Mobile: cleo.beatty@gmail.com
+Email: 600-644-2349
+Address: Apt. 263 43239 Yost Bypass, Yesseniastad, OH 98557
+Transaction ID: TXN178875879
+Timestamp: Kraig Lubowitz Sr.
+Amount: 4297.32
+Receiver: Thu Dec 19 05:07:07 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST642719
+Name: Delfina Hills
+Mobile: tony.krajcik@gmail.com
+Email: 142-847-4321
+Address: 117 Joe Heights, Port Chaunceybury, ID 87116-9440
+Transaction ID: TXN462252837
+Timestamp: Charlena Glover
+Amount: 7244.13
+Receiver: Thu Dec 19 05:11:54 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST640225
+Name: Kena Bartoletti III
+Mobile: dannie.boyle@yahoo.com
+Email: 1-095-744-6753
+Address: Suite 873 268 Grady Light, East Zelma, MS 42235-0308
+Transaction ID: TXN568412041
+Timestamp: Devora Zemlak
+Amount: 5593.08
+Receiver: Wed Dec 18 18:22:19 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST113584
+Name: Dewey Wiegand
+Mobile: cleo.beatty@gmail.com
+Email: 600-644-2349
+Address: Apt. 263 43239 Yost Bypass, Yesseniastad, OH 98557
+Transaction ID: TXN178875879
+Timestamp: Kraig Lubowitz Sr.
+Amount: 4297.32
+Receiver: Thu Dec 19 05:07:07 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST642719
+Name: Delfina Hills
+Mobile: tony.krajcik@gmail.com
+Email: 142-847-4321
+Address: 117 Joe Heights, Port Chaunceybury, ID 87116-9440
+Transaction ID: TXN462252837
+Timestamp: Charlena Glover
+Amount: 7244.13
+Receiver: Thu Dec 19 05:11:54 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST640225
+Name: Kena Bartoletti III
+Mobile: dannie.boyle@yahoo.com
+Email: 1-095-744-6753
+Address: Suite 873 268 Grady Light, East Zelma, MS 42235-0308
+Transaction ID: TXN568412041
+Timestamp: Devora Zemlak
+Amount: 5593.08
+Receiver: Wed Dec 18 18:22:19 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST113584
+Name: Dewey Wiegand
+Mobile: cleo.beatty@gmail.com
+Email: 600-644-2349
+Address: Apt. 263 43239 Yost Bypass, Yesseniastad, OH 98557
+Transaction ID: TXN178875879
+Timestamp: Kraig Lubowitz Sr.
+Amount: 4297.32
+Receiver: Thu Dec 19 05:07:07 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST642719
+Name: Delfina Hills
+Mobile: tony.krajcik@gmail.com
+Email: 142-847-4321
+Address: 117 Joe Heights, Port Chaunceybury, ID 87116-9440
+Transaction ID: TXN462252837
+Timestamp: Charlena Glover
+Amount: 7244.13
+Receiver: Thu Dec 19 05:11:54 IST 2024
+Status: Success
+-----------------------------

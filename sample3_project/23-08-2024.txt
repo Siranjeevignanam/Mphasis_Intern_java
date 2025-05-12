@@ -1,0 +1,66 @@
+Customer ID: CUST130274
+Name: Laquita Gislason
+Mobile: darren.denesik@hotmail.com
+Email: 729.882.8052
+Address: 471 Balistreri Vista, Volkmanton, NE 00422
+Transaction ID: TXN103426759
+Timestamp: Tyler Denesik
+Amount: 2241.27
+Receiver: Fri Aug 23 20:13:54 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST396855
+Name: Dr. Fanny Fritsch
+Mobile: floyd.hyatt@hotmail.com
+Email: 337.425.7104
+Address: Apt. 995 85467 Mickey Wall, Lake Annelle, OK 44385-6463
+Transaction ID: TXN115300291
+Timestamp: Lanette Legros
+Amount: 8649.55
+Receiver: Fri Aug 23 20:13:26 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST130274
+Name: Laquita Gislason
+Mobile: darren.denesik@hotmail.com
+Email: 729.882.8052
+Address: 471 Balistreri Vista, Volkmanton, NE 00422
+Transaction ID: TXN103426759
+Timestamp: Tyler Denesik
+Amount: 2241.27
+Receiver: Fri Aug 23 20:13:54 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST396855
+Name: Dr. Fanny Fritsch
+Mobile: floyd.hyatt@hotmail.com
+Email: 337.425.7104
+Address: Apt. 995 85467 Mickey Wall, Lake Annelle, OK 44385-6463
+Transaction ID: TXN115300291
+Timestamp: Lanette Legros
+Amount: 8649.55
+Receiver: Fri Aug 23 20:13:26 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST130274
+Name: Laquita Gislason
+Mobile: darren.denesik@hotmail.com
+Email: 729.882.8052
+Address: 471 Balistreri Vista, Volkmanton, NE 00422
+Transaction ID: TXN103426759
+Timestamp: Tyler Denesik
+Amount: 2241.27
+Receiver: Fri Aug 23 20:13:54 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST396855
+Name: Dr. Fanny Fritsch
+Mobile: floyd.hyatt@hotmail.com
+Email: 337.425.7104
+Address: Apt. 995 85467 Mickey Wall, Lake Annelle, OK 44385-6463
+Transaction ID: TXN115300291
+Timestamp: Lanette Legros
+Amount: 8649.55
+Receiver: Fri Aug 23 20:13:26 IST 2024
+Status: Failed
+-----------------------------

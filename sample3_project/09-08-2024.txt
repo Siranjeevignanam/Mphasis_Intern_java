@@ -1,0 +1,33 @@
+Customer ID: CUST197535
+Name: Burton Turcotte
+Mobile: dani.lindgren@yahoo.com
+Email: 1-484-058-8220
+Address: Apt. 036 66020 Gislason Crest, Wisokyfort, KY 39384-5830
+Transaction ID: TXN865644098
+Timestamp: Ralph Russel I
+Amount: 4093.77
+Receiver: Fri Aug 09 11:20:10 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST197535
+Name: Burton Turcotte
+Mobile: dani.lindgren@yahoo.com
+Email: 1-484-058-8220
+Address: Apt. 036 66020 Gislason Crest, Wisokyfort, KY 39384-5830
+Transaction ID: TXN865644098
+Timestamp: Ralph Russel I
+Amount: 4093.77
+Receiver: Fri Aug 09 11:20:10 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST197535
+Name: Burton Turcotte
+Mobile: dani.lindgren@yahoo.com
+Email: 1-484-058-8220
+Address: Apt. 036 66020 Gislason Crest, Wisokyfort, KY 39384-5830
+Transaction ID: TXN865644098
+Timestamp: Ralph Russel I
+Amount: 4093.77
+Receiver: Fri Aug 09 11:20:10 IST 2024
+Status: Success
+-----------------------------

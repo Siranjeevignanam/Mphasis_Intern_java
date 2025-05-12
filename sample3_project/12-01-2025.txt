@@ -1,0 +1,33 @@
+Customer ID: CUST625903
+Name: Gerry Stokes
+Mobile: rico.ferry@yahoo.com
+Email: 513.117.3785
+Address: 385 Rolfson Ford, Joanatown, NY 94891
+Transaction ID: TXN633092026
+Timestamp: Valrie Schmitt
+Amount: 2030.98
+Receiver: Sun Jan 12 08:30:05 IST 2025
+Status: Failed
+-----------------------------
+Customer ID: CUST625903
+Name: Gerry Stokes
+Mobile: rico.ferry@yahoo.com
+Email: 513.117.3785
+Address: 385 Rolfson Ford, Joanatown, NY 94891
+Transaction ID: TXN633092026
+Timestamp: Valrie Schmitt
+Amount: 2030.98
+Receiver: Sun Jan 12 08:30:05 IST 2025
+Status: Failed
+-----------------------------
+Customer ID: CUST625903
+Name: Gerry Stokes
+Mobile: rico.ferry@yahoo.com
+Email: 513.117.3785
+Address: 385 Rolfson Ford, Joanatown, NY 94891
+Transaction ID: TXN633092026
+Timestamp: Valrie Schmitt
+Amount: 2030.98
+Receiver: Sun Jan 12 08:30:05 IST 2025
+Status: Failed
+-----------------------------

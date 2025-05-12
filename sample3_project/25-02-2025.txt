@@ -1,0 +1,99 @@
+Customer ID: CUST329685
+Name: Ferdinand Blanda
+Mobile: jo.sipes@hotmail.com
+Email: 1-898-854-9737
+Address: Suite 824 47982 MacGyver Rapids, Aubreychester, NJ 38534-7450
+Transaction ID: TXN456827326
+Timestamp: Santos Herman
+Amount: 5965.07
+Receiver: Tue Feb 25 06:36:58 IST 2025
+Status: Success
+-----------------------------
+Customer ID: CUST526330
+Name: Mr. Mack Johnson
+Mobile: sanjuanita.sporer@yahoo.com
+Email: 1-171-784-9544
+Address: 311 Anjelica Park, O'Keefeville, TN 29857
+Transaction ID: TXN370762248
+Timestamp: Ervin Reichert
+Amount: 1964.47
+Receiver: Tue Feb 25 11:08:30 IST 2025
+Status: Success
+-----------------------------
+Customer ID: CUST704341
+Name: Angelique Hettinger
+Mobile: lucas.towne@yahoo.com
+Email: 332-751-8172
+Address: Apt. 402 3642 Lara Row, Celestefort, VA 84099-6389
+Transaction ID: TXN308831017
+Timestamp: Roman Christiansen
+Amount: 7222.85
+Receiver: Wed Feb 26 02:19:57 IST 2025
+Status: Failed
+-----------------------------
+Customer ID: CUST329685
+Name: Ferdinand Blanda
+Mobile: jo.sipes@hotmail.com
+Email: 1-898-854-9737
+Address: Suite 824 47982 MacGyver Rapids, Aubreychester, NJ 38534-7450
+Transaction ID: TXN456827326
+Timestamp: Santos Herman
+Amount: 5965.07
+Receiver: Tue Feb 25 06:36:58 IST 2025
+Status: Success
+-----------------------------
+Customer ID: CUST526330
+Name: Mr. Mack Johnson
+Mobile: sanjuanita.sporer@yahoo.com
+Email: 1-171-784-9544
+Address: 311 Anjelica Park, O'Keefeville, TN 29857
+Transaction ID: TXN370762248
+Timestamp: Ervin Reichert
+Amount: 1964.47
+Receiver: Tue Feb 25 11:08:30 IST 2025
+Status: Success
+-----------------------------
+Customer ID: CUST704341
+Name: Angelique Hettinger
+Mobile: lucas.towne@yahoo.com
+Email: 332-751-8172
+Address: Apt. 402 3642 Lara Row, Celestefort, VA 84099-6389
+Transaction ID: TXN308831017
+Timestamp: Roman Christiansen
+Amount: 7222.85
+Receiver: Wed Feb 26 02:19:57 IST 2025
+Status: Failed
+-----------------------------
+Customer ID: CUST329685
+Name: Ferdinand Blanda
+Mobile: jo.sipes@hotmail.com
+Email: 1-898-854-9737
+Address: Suite 824 47982 MacGyver Rapids, Aubreychester, NJ 38534-7450
+Transaction ID: TXN456827326
+Timestamp: Santos Herman
+Amount: 5965.07
+Receiver: Tue Feb 25 06:36:58 IST 2025
+Status: Success
+-----------------------------
+Customer ID: CUST526330
+Name: Mr. Mack Johnson
+Mobile: sanjuanita.sporer@yahoo.com
+Email: 1-171-784-9544
+Address: 311 Anjelica Park, O'Keefeville, TN 29857
+Transaction ID: TXN370762248
+Timestamp: Ervin Reichert
+Amount: 1964.47
+Receiver: Tue Feb 25 11:08:30 IST 2025
+Status: Success
+-----------------------------
+Customer ID: CUST704341
+Name: Angelique Hettinger
+Mobile: lucas.towne@yahoo.com
+Email: 332-751-8172
+Address: Apt. 402 3642 Lara Row, Celestefort, VA 84099-6389
+Transaction ID: TXN308831017
+Timestamp: Roman Christiansen
+Amount: 7222.85
+Receiver: Wed Feb 26 02:19:57 IST 2025
+Status: Failed
+-----------------------------

@@ -1,0 +1,165 @@
+Customer ID: CUST411193
+Name: Williams Auer
+Mobile: anibal.oconner@hotmail.com
+Email: 809.765.0807
+Address: Suite 982 527 Wilderman Inlet, Gerryborough, TN 82360
+Transaction ID: TXN368241031
+Timestamp: Dewitt Ratke
+Amount: 5340.70
+Receiver: Sat Jul 13 05:48:39 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST388080
+Name: Mitch Gulgowski
+Mobile: marion.grady@hotmail.com
+Email: (971) 429-7510
+Address: 6284 Dibbert Forges, Lindmouth, HI 96101-6797
+Transaction ID: TXN483350129
+Timestamp: Ali Goyette
+Amount: 6258.64
+Receiver: Sat Jul 13 20:38:49 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST389159
+Name: Mrs. Sean Dare
+Mobile: min.mante@gmail.com
+Email: (102) 707-6123
+Address: Apt. 818 2428 Cremin Dale, North Elwoodbury, IN 37574
+Transaction ID: TXN430578991
+Timestamp: Tuan Renner
+Amount: 3009.09
+Receiver: Sat Jul 13 18:11:36 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST107708
+Name: Ms. Dwana Corwin
+Mobile: rubi.hoeger@hotmail.com
+Email: (354) 938-2658
+Address: Apt. 039 539 Tremblay Dale, South Luana, VA 22713-5930
+Transaction ID: TXN585742781
+Timestamp: Mervin Yost
+Amount: 5687.00
+Receiver: Sat Jul 13 19:58:57 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST443483
+Name: Calista Haag
+Mobile: rosaura.conn@gmail.com
+Email: (182) 606-9480
+Address: Suite 674 81790 Jaunita Knolls, West Jonathon, WI 74897-9828
+Transaction ID: TXN301323361
+Timestamp: Dania Kreiger
+Amount: 4835.38
+Receiver: Sat Jul 13 22:54:13 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST411193
+Name: Williams Auer
+Mobile: anibal.oconner@hotmail.com
+Email: 809.765.0807
+Address: Suite 982 527 Wilderman Inlet, Gerryborough, TN 82360
+Transaction ID: TXN368241031
+Timestamp: Dewitt Ratke
+Amount: 5340.70
+Receiver: Sat Jul 13 05:48:39 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST388080
+Name: Mitch Gulgowski
+Mobile: marion.grady@hotmail.com
+Email: (971) 429-7510
+Address: 6284 Dibbert Forges, Lindmouth, HI 96101-6797
+Transaction ID: TXN483350129
+Timestamp: Ali Goyette
+Amount: 6258.64
+Receiver: Sat Jul 13 20:38:49 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST389159
+Name: Mrs. Sean Dare
+Mobile: min.mante@gmail.com
+Email: (102) 707-6123
+Address: Apt. 818 2428 Cremin Dale, North Elwoodbury, IN 37574
+Transaction ID: TXN430578991
+Timestamp: Tuan Renner
+Amount: 3009.09
+Receiver: Sat Jul 13 18:11:36 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST107708
+Name: Ms. Dwana Corwin
+Mobile: rubi.hoeger@hotmail.com
+Email: (354) 938-2658
+Address: Apt. 039 539 Tremblay Dale, South Luana, VA 22713-5930
+Transaction ID: TXN585742781
+Timestamp: Mervin Yost
+Amount: 5687.00
+Receiver: Sat Jul 13 19:58:57 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST443483
+Name: Calista Haag
+Mobile: rosaura.conn@gmail.com
+Email: (182) 606-9480
+Address: Suite 674 81790 Jaunita Knolls, West Jonathon, WI 74897-9828
+Transaction ID: TXN301323361
+Timestamp: Dania Kreiger
+Amount: 4835.38
+Receiver: Sat Jul 13 22:54:13 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST411193
+Name: Williams Auer
+Mobile: anibal.oconner@hotmail.com
+Email: 809.765.0807
+Address: Suite 982 527 Wilderman Inlet, Gerryborough, TN 82360
+Transaction ID: TXN368241031
+Timestamp: Dewitt Ratke
+Amount: 5340.70
+Receiver: Sat Jul 13 05:48:39 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST388080
+Name: Mitch Gulgowski
+Mobile: marion.grady@hotmail.com
+Email: (971) 429-7510
+Address: 6284 Dibbert Forges, Lindmouth, HI 96101-6797
+Transaction ID: TXN483350129
+Timestamp: Ali Goyette
+Amount: 6258.64
+Receiver: Sat Jul 13 20:38:49 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST389159
+Name: Mrs. Sean Dare
+Mobile: min.mante@gmail.com
+Email: (102) 707-6123
+Address: Apt. 818 2428 Cremin Dale, North Elwoodbury, IN 37574
+Transaction ID: TXN430578991
+Timestamp: Tuan Renner
+Amount: 3009.09
+Receiver: Sat Jul 13 18:11:36 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST107708
+Name: Ms. Dwana Corwin
+Mobile: rubi.hoeger@hotmail.com
+Email: (354) 938-2658
+Address: Apt. 039 539 Tremblay Dale, South Luana, VA 22713-5930
+Transaction ID: TXN585742781
+Timestamp: Mervin Yost
+Amount: 5687.00
+Receiver: Sat Jul 13 19:58:57 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST443483
+Name: Calista Haag
+Mobile: rosaura.conn@gmail.com
+Email: (182) 606-9480
+Address: Suite 674 81790 Jaunita Knolls, West Jonathon, WI 74897-9828
+Transaction ID: TXN301323361
+Timestamp: Dania Kreiger
+Amount: 4835.38
+Receiver: Sat Jul 13 22:54:13 IST 2024
+Status: Success
+-----------------------------

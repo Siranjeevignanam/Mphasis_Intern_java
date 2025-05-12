@@ -1,0 +1,66 @@
+Customer ID: CUST219760
+Name: Willetta Parisian
+Mobile: bart.white@gmail.com
+Email: 442-002-3173
+Address: Suite 273 8115 Denny Fork, West Chet, LA 94520
+Transaction ID: TXN724246423
+Timestamp: Mr. Loma Romaguera
+Amount: 4997.56
+Receiver: Sun Aug 04 11:59:47 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST313985
+Name: Miss Derek Bartoletti
+Mobile: lisette.hermann@gmail.com
+Email: 1-220-127-5997
+Address: Suite 435 770 Werner Club, Port Derickmouth, MA 69953
+Transaction ID: TXN640307707
+Timestamp: Miss Orlando Renner
+Amount: 1578.71
+Receiver: Mon Aug 05 05:06:57 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST219760
+Name: Willetta Parisian
+Mobile: bart.white@gmail.com
+Email: 442-002-3173
+Address: Suite 273 8115 Denny Fork, West Chet, LA 94520
+Transaction ID: TXN724246423
+Timestamp: Mr. Loma Romaguera
+Amount: 4997.56
+Receiver: Sun Aug 04 11:59:47 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST313985
+Name: Miss Derek Bartoletti
+Mobile: lisette.hermann@gmail.com
+Email: 1-220-127-5997
+Address: Suite 435 770 Werner Club, Port Derickmouth, MA 69953
+Transaction ID: TXN640307707
+Timestamp: Miss Orlando Renner
+Amount: 1578.71
+Receiver: Mon Aug 05 05:06:57 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST219760
+Name: Willetta Parisian
+Mobile: bart.white@gmail.com
+Email: 442-002-3173
+Address: Suite 273 8115 Denny Fork, West Chet, LA 94520
+Transaction ID: TXN724246423
+Timestamp: Mr. Loma Romaguera
+Amount: 4997.56
+Receiver: Sun Aug 04 11:59:47 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST313985
+Name: Miss Derek Bartoletti
+Mobile: lisette.hermann@gmail.com
+Email: 1-220-127-5997
+Address: Suite 435 770 Werner Club, Port Derickmouth, MA 69953
+Transaction ID: TXN640307707
+Timestamp: Miss Orlando Renner
+Amount: 1578.71
+Receiver: Mon Aug 05 05:06:57 IST 2024
+Status: Failed
+-----------------------------

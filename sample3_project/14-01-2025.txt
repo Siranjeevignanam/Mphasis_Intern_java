@@ -1,0 +1,33 @@
+Customer ID: CUST318567
+Name: Vania Prosacco
+Mobile: bella.larson@yahoo.com
+Email: 252-241-7416
+Address: 150 Schaden Street, Mannburgh, CT 07152
+Transaction ID: TXN754149587
+Timestamp: Effie Beahan III
+Amount: 2299.43
+Receiver: Tue Jan 14 13:01:09 IST 2025
+Status: Success
+-----------------------------
+Customer ID: CUST318567
+Name: Vania Prosacco
+Mobile: bella.larson@yahoo.com
+Email: 252-241-7416
+Address: 150 Schaden Street, Mannburgh, CT 07152
+Transaction ID: TXN754149587
+Timestamp: Effie Beahan III
+Amount: 2299.43
+Receiver: Tue Jan 14 13:01:09 IST 2025
+Status: Success
+-----------------------------
+Customer ID: CUST318567
+Name: Vania Prosacco
+Mobile: bella.larson@yahoo.com
+Email: 252-241-7416
+Address: 150 Schaden Street, Mannburgh, CT 07152
+Transaction ID: TXN754149587
+Timestamp: Effie Beahan III
+Amount: 2299.43
+Receiver: Tue Jan 14 13:01:09 IST 2025
+Status: Success
+-----------------------------

@@ -1,0 +1,33 @@
+Customer ID: CUST255181
+Name: Miss Becki Anderson
+Mobile: jeffrey.purdy@gmail.com
+Email: 293.296.5804
+Address: 81162 Sipes Extension, Port Sherice, SD 39842-3915
+Transaction ID: TXN124633441
+Timestamp: Nicky McGlynn
+Amount: 7404.46
+Receiver: Sat Oct 12 22:42:19 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST255181
+Name: Miss Becki Anderson
+Mobile: jeffrey.purdy@gmail.com
+Email: 293.296.5804
+Address: 81162 Sipes Extension, Port Sherice, SD 39842-3915
+Transaction ID: TXN124633441
+Timestamp: Nicky McGlynn
+Amount: 7404.46
+Receiver: Sat Oct 12 22:42:19 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST255181
+Name: Miss Becki Anderson
+Mobile: jeffrey.purdy@gmail.com
+Email: 293.296.5804
+Address: 81162 Sipes Extension, Port Sherice, SD 39842-3915
+Transaction ID: TXN124633441
+Timestamp: Nicky McGlynn
+Amount: 7404.46
+Receiver: Sat Oct 12 22:42:19 IST 2024
+Status: Success
+-----------------------------

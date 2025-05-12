@@ -1,0 +1,99 @@
+Customer ID: CUST574362
+Name: Mr. Darrel Schmitt
+Mobile: basil.kemmer@yahoo.com
+Email: 093.162.9690
+Address: Suite 522 64571 Grace Mission, Schummville, WA 93814
+Transaction ID: TXN840246179
+Timestamp: Rachael Runolfsdottir
+Amount: 9108.61
+Receiver: Thu Aug 08 06:43:28 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST937653
+Name: Huey Schoen
+Mobile: willy.graham@hotmail.com
+Email: 802-817-7787
+Address: 0219 Kirk Key, North Effieside, CA 44930-7469
+Transaction ID: TXN344311047
+Timestamp: Neil Shanahan
+Amount: 9689.16
+Receiver: Thu Aug 08 11:48:18 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST685756
+Name: Francisco Lubowitz
+Mobile: grant.quitzon@gmail.com
+Email: 1-697-902-3020
+Address: 337 Terence Pike, Lenastad, TX 16552-4774
+Transaction ID: TXN570077763
+Timestamp: Cherry Mueller PhD
+Amount: 5500.65
+Receiver: Thu Aug 08 08:01:38 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST574362
+Name: Mr. Darrel Schmitt
+Mobile: basil.kemmer@yahoo.com
+Email: 093.162.9690
+Address: Suite 522 64571 Grace Mission, Schummville, WA 93814
+Transaction ID: TXN840246179
+Timestamp: Rachael Runolfsdottir
+Amount: 9108.61
+Receiver: Thu Aug 08 06:43:28 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST937653
+Name: Huey Schoen
+Mobile: willy.graham@hotmail.com
+Email: 802-817-7787
+Address: 0219 Kirk Key, North Effieside, CA 44930-7469
+Transaction ID: TXN344311047
+Timestamp: Neil Shanahan
+Amount: 9689.16
+Receiver: Thu Aug 08 11:48:18 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST685756
+Name: Francisco Lubowitz
+Mobile: grant.quitzon@gmail.com
+Email: 1-697-902-3020
+Address: 337 Terence Pike, Lenastad, TX 16552-4774
+Transaction ID: TXN570077763
+Timestamp: Cherry Mueller PhD
+Amount: 5500.65
+Receiver: Thu Aug 08 08:01:38 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST574362
+Name: Mr. Darrel Schmitt
+Mobile: basil.kemmer@yahoo.com
+Email: 093.162.9690
+Address: Suite 522 64571 Grace Mission, Schummville, WA 93814
+Transaction ID: TXN840246179
+Timestamp: Rachael Runolfsdottir
+Amount: 9108.61
+Receiver: Thu Aug 08 06:43:28 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST937653
+Name: Huey Schoen
+Mobile: willy.graham@hotmail.com
+Email: 802-817-7787
+Address: 0219 Kirk Key, North Effieside, CA 44930-7469
+Transaction ID: TXN344311047
+Timestamp: Neil Shanahan
+Amount: 9689.16
+Receiver: Thu Aug 08 11:48:18 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST685756
+Name: Francisco Lubowitz
+Mobile: grant.quitzon@gmail.com
+Email: 1-697-902-3020
+Address: 337 Terence Pike, Lenastad, TX 16552-4774
+Transaction ID: TXN570077763
+Timestamp: Cherry Mueller PhD
+Amount: 5500.65
+Receiver: Thu Aug 08 08:01:38 IST 2024
+Status: Failed
+-----------------------------

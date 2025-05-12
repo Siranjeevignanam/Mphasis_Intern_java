@@ -1,0 +1,66 @@
+Customer ID: CUST719973
+Name: Kris Sauer II
+Mobile: elton.legros@gmail.com
+Email: 142-630-1076
+Address: Suite 030 3039 Mohammad Mountains, Hildredton, WI 43535
+Transaction ID: TXN211969605
+Timestamp: Hung Mohr
+Amount: 1774.78
+Receiver: Sat Jun 29 22:56:04 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST646126
+Name: Yu Rohan
+Mobile: gilberto.lubowitz@yahoo.com
+Email: 079-332-7281
+Address: Suite 899 834 Melani Park, Brandonton, MS 02833-3890
+Transaction ID: TXN374904212
+Timestamp: Aundrea Lind Sr.
+Amount: 7474.94
+Receiver: Sat Jun 29 10:34:26 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST719973
+Name: Kris Sauer II
+Mobile: elton.legros@gmail.com
+Email: 142-630-1076
+Address: Suite 030 3039 Mohammad Mountains, Hildredton, WI 43535
+Transaction ID: TXN211969605
+Timestamp: Hung Mohr
+Amount: 1774.78
+Receiver: Sat Jun 29 22:56:04 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST646126
+Name: Yu Rohan
+Mobile: gilberto.lubowitz@yahoo.com
+Email: 079-332-7281
+Address: Suite 899 834 Melani Park, Brandonton, MS 02833-3890
+Transaction ID: TXN374904212
+Timestamp: Aundrea Lind Sr.
+Amount: 7474.94
+Receiver: Sat Jun 29 10:34:26 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST719973
+Name: Kris Sauer II
+Mobile: elton.legros@gmail.com
+Email: 142-630-1076
+Address: Suite 030 3039 Mohammad Mountains, Hildredton, WI 43535
+Transaction ID: TXN211969605
+Timestamp: Hung Mohr
+Amount: 1774.78
+Receiver: Sat Jun 29 22:56:04 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST646126
+Name: Yu Rohan
+Mobile: gilberto.lubowitz@yahoo.com
+Email: 079-332-7281
+Address: Suite 899 834 Melani Park, Brandonton, MS 02833-3890
+Transaction ID: TXN374904212
+Timestamp: Aundrea Lind Sr.
+Amount: 7474.94
+Receiver: Sat Jun 29 10:34:26 IST 2024
+Status: Success
+-----------------------------

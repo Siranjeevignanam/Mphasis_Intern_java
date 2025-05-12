@@ -1,0 +1,99 @@
+Customer ID: CUST835082
+Name: Rutha Dach
+Mobile: cruz.stoltenberg@hotmail.com
+Email: (135) 692-0409
+Address: 016 Fay Rest, East Osvaldo, KS 26840-2391
+Transaction ID: TXN312160159
+Timestamp: Scottie Mills
+Amount: 8129.60
+Receiver: Sun Dec 22 23:16:02 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST457409
+Name: Heidy Lemke
+Mobile: lloyd.dach@yahoo.com
+Email: 798-926-4145
+Address: Apt. 952 218 Eugena Gateway, West Bryanna, ID 60261-8446
+Transaction ID: TXN718831934
+Timestamp: Gus Bartell
+Amount: 1677.81
+Receiver: Sun Dec 22 08:08:31 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST340215
+Name: Alma Carter
+Mobile: deonna.barrows@gmail.com
+Email: 1-406-901-0578
+Address: Suite 866 08537 Turcotte Corner, South Veronikatown, OK 15447
+Transaction ID: TXN898544598
+Timestamp: Lanita Crona
+Amount: 613.17
+Receiver: Sun Dec 22 11:21:40 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST835082
+Name: Rutha Dach
+Mobile: cruz.stoltenberg@hotmail.com
+Email: (135) 692-0409
+Address: 016 Fay Rest, East Osvaldo, KS 26840-2391
+Transaction ID: TXN312160159
+Timestamp: Scottie Mills
+Amount: 8129.60
+Receiver: Sun Dec 22 23:16:02 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST457409
+Name: Heidy Lemke
+Mobile: lloyd.dach@yahoo.com
+Email: 798-926-4145
+Address: Apt. 952 218 Eugena Gateway, West Bryanna, ID 60261-8446
+Transaction ID: TXN718831934
+Timestamp: Gus Bartell
+Amount: 1677.81
+Receiver: Sun Dec 22 08:08:31 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST340215
+Name: Alma Carter
+Mobile: deonna.barrows@gmail.com
+Email: 1-406-901-0578
+Address: Suite 866 08537 Turcotte Corner, South Veronikatown, OK 15447
+Transaction ID: TXN898544598
+Timestamp: Lanita Crona
+Amount: 613.17
+Receiver: Sun Dec 22 11:21:40 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST835082
+Name: Rutha Dach
+Mobile: cruz.stoltenberg@hotmail.com
+Email: (135) 692-0409
+Address: 016 Fay Rest, East Osvaldo, KS 26840-2391
+Transaction ID: TXN312160159
+Timestamp: Scottie Mills
+Amount: 8129.60
+Receiver: Sun Dec 22 23:16:02 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST457409
+Name: Heidy Lemke
+Mobile: lloyd.dach@yahoo.com
+Email: 798-926-4145
+Address: Apt. 952 218 Eugena Gateway, West Bryanna, ID 60261-8446
+Transaction ID: TXN718831934
+Timestamp: Gus Bartell
+Amount: 1677.81
+Receiver: Sun Dec 22 08:08:31 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST340215
+Name: Alma Carter
+Mobile: deonna.barrows@gmail.com
+Email: 1-406-901-0578
+Address: Suite 866 08537 Turcotte Corner, South Veronikatown, OK 15447
+Transaction ID: TXN898544598
+Timestamp: Lanita Crona
+Amount: 613.17
+Receiver: Sun Dec 22 11:21:40 IST 2024
+Status: Failed
+-----------------------------

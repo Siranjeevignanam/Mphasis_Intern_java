@@ -1,0 +1,132 @@
+Customer ID: CUST553468
+Name: Veronique Schamberger Sr.
+Mobile: arthur.kerluke@gmail.com
+Email: 626.853.8970
+Address: 1139 Willard Rest, Lake Lucie, MT 69672-8388
+Transaction ID: TXN433679598
+Timestamp: Jeanine Brekke
+Amount: 3299.66
+Receiver: Wed Jan 08 10:50:39 IST 2025
+Status: Success
+-----------------------------
+Customer ID: CUST881286
+Name: Edison Prosacco DVM
+Mobile: willian.brown@gmail.com
+Email: 1-794-593-5749
+Address: Apt. 819 92417 Cassin Extensions, East Candiceshire, NM 20711-0574
+Transaction ID: TXN134206573
+Timestamp: Loni Becker
+Amount: 7787.98
+Receiver: Thu Jan 09 03:02:10 IST 2025
+Status: Failed
+-----------------------------
+Customer ID: CUST783321
+Name: Kiyoko Gleason
+Mobile: omar.boyer@hotmail.com
+Email: (793) 878-9842
+Address: Apt. 297 704 Hermiston Lane, Lake Wesley, CO 99245-6244
+Transaction ID: TXN692378695
+Timestamp: Oswaldo Lemke
+Amount: 5670.72
+Receiver: Thu Jan 09 01:57:47 IST 2025
+Status: Failed
+-----------------------------
+Customer ID: CUST714426
+Name: Leo Schamberger II
+Mobile: reuben.leuschke@yahoo.com
+Email: 1-220-461-4300
+Address: 2984 Hessel Cliffs, South Karlhaven, LA 07426
+Transaction ID: TXN919213802
+Timestamp: Evan Gulgowski III
+Amount: 7786.67
+Receiver: Wed Jan 08 17:31:02 IST 2025
+Status: Success
+-----------------------------
+Customer ID: CUST553468
+Name: Veronique Schamberger Sr.
+Mobile: arthur.kerluke@gmail.com
+Email: 626.853.8970
+Address: 1139 Willard Rest, Lake Lucie, MT 69672-8388
+Transaction ID: TXN433679598
+Timestamp: Jeanine Brekke
+Amount: 3299.66
+Receiver: Wed Jan 08 10:50:39 IST 2025
+Status: Success
+-----------------------------
+Customer ID: CUST881286
+Name: Edison Prosacco DVM
+Mobile: willian.brown@gmail.com
+Email: 1-794-593-5749
+Address: Apt. 819 92417 Cassin Extensions, East Candiceshire, NM 20711-0574
+Transaction ID: TXN134206573
+Timestamp: Loni Becker
+Amount: 7787.98
+Receiver: Thu Jan 09 03:02:10 IST 2025
+Status: Failed
+-----------------------------
+Customer ID: CUST783321
+Name: Kiyoko Gleason
+Mobile: omar.boyer@hotmail.com
+Email: (793) 878-9842
+Address: Apt. 297 704 Hermiston Lane, Lake Wesley, CO 99245-6244
+Transaction ID: TXN692378695
+Timestamp: Oswaldo Lemke
+Amount: 5670.72
+Receiver: Thu Jan 09 01:57:47 IST 2025
+Status: Failed
+-----------------------------
+Customer ID: CUST714426
+Name: Leo Schamberger II
+Mobile: reuben.leuschke@yahoo.com
+Email: 1-220-461-4300
+Address: 2984 Hessel Cliffs, South Karlhaven, LA 07426
+Transaction ID: TXN919213802
+Timestamp: Evan Gulgowski III
+Amount: 7786.67
+Receiver: Wed Jan 08 17:31:02 IST 2025
+Status: Success
+-----------------------------
+Customer ID: CUST553468
+Name: Veronique Schamberger Sr.
+Mobile: arthur.kerluke@gmail.com
+Email: 626.853.8970
+Address: 1139 Willard Rest, Lake Lucie, MT 69672-8388
+Transaction ID: TXN433679598
+Timestamp: Jeanine Brekke
+Amount: 3299.66
+Receiver: Wed Jan 08 10:50:39 IST 2025
+Status: Success
+-----------------------------
+Customer ID: CUST881286
+Name: Edison Prosacco DVM
+Mobile: willian.brown@gmail.com
+Email: 1-794-593-5749
+Address: Apt. 819 92417 Cassin Extensions, East Candiceshire, NM 20711-0574
+Transaction ID: TXN134206573
+Timestamp: Loni Becker
+Amount: 7787.98
+Receiver: Thu Jan 09 03:02:10 IST 2025
+Status: Failed
+-----------------------------
+Customer ID: CUST783321
+Name: Kiyoko Gleason
+Mobile: omar.boyer@hotmail.com
+Email: (793) 878-9842
+Address: Apt. 297 704 Hermiston Lane, Lake Wesley, CO 99245-6244
+Transaction ID: TXN692378695
+Timestamp: Oswaldo Lemke
+Amount: 5670.72
+Receiver: Thu Jan 09 01:57:47 IST 2025
+Status: Failed
+-----------------------------
+Customer ID: CUST714426
+Name: Leo Schamberger II
+Mobile: reuben.leuschke@yahoo.com
+Email: 1-220-461-4300
+Address: 2984 Hessel Cliffs, South Karlhaven, LA 07426
+Transaction ID: TXN919213802
+Timestamp: Evan Gulgowski III
+Amount: 7786.67
+Receiver: Wed Jan 08 17:31:02 IST 2025
+Status: Success
+-----------------------------

@@ -1,0 +1,33 @@
+Customer ID: CUST184828
+Name: Evita Keeling
+Mobile: angel.kemmer@gmail.com
+Email: 1-324-847-1145
+Address: Suite 059 50844 Kozey Road, Johnsberg, PA 34476
+Transaction ID: TXN363505750
+Timestamp: Orville Shields
+Amount: 5367.60
+Receiver: Mon Nov 25 15:46:13 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST184828
+Name: Evita Keeling
+Mobile: angel.kemmer@gmail.com
+Email: 1-324-847-1145
+Address: Suite 059 50844 Kozey Road, Johnsberg, PA 34476
+Transaction ID: TXN363505750
+Timestamp: Orville Shields
+Amount: 5367.60
+Receiver: Mon Nov 25 15:46:13 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST184828
+Name: Evita Keeling
+Mobile: angel.kemmer@gmail.com
+Email: 1-324-847-1145
+Address: Suite 059 50844 Kozey Road, Johnsberg, PA 34476
+Transaction ID: TXN363505750
+Timestamp: Orville Shields
+Amount: 5367.60
+Receiver: Mon Nov 25 15:46:13 IST 2024
+Status: Success
+-----------------------------

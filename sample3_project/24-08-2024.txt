@@ -1,0 +1,99 @@
+Customer ID: CUST602489
+Name: Reginald Rippin
+Mobile: soledad.cormier@hotmail.com
+Email: (725) 507-8720
+Address: Apt. 749 783 Fernando Cliff, Schoenmouth, MO 10489-9542
+Transaction ID: TXN912200228
+Timestamp: Curt Bosco
+Amount: 3292.44
+Receiver: Sat Aug 24 11:25:56 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST463460
+Name: Ginger Lehner DDS
+Mobile: larry.grimes@gmail.com
+Email: 350.084.7392
+Address: 45749 Filiberto Trail, New Ron, CA 63556
+Transaction ID: TXN401258733
+Timestamp: Aletha Oberbrunner
+Amount: 4817.82
+Receiver: Sun Aug 25 01:02:57 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST210291
+Name: Cathern Nader
+Mobile: emory.white@yahoo.com
+Email: 273.493.7319
+Address: 739 Ortiz Estates, Rogahnfurt, IN 39787
+Transaction ID: TXN614736669
+Timestamp: Tarsha Hilpert
+Amount: 16.30
+Receiver: Sat Aug 24 10:23:21 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST602489
+Name: Reginald Rippin
+Mobile: soledad.cormier@hotmail.com
+Email: (725) 507-8720
+Address: Apt. 749 783 Fernando Cliff, Schoenmouth, MO 10489-9542
+Transaction ID: TXN912200228
+Timestamp: Curt Bosco
+Amount: 3292.44
+Receiver: Sat Aug 24 11:25:56 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST463460
+Name: Ginger Lehner DDS
+Mobile: larry.grimes@gmail.com
+Email: 350.084.7392
+Address: 45749 Filiberto Trail, New Ron, CA 63556
+Transaction ID: TXN401258733
+Timestamp: Aletha Oberbrunner
+Amount: 4817.82
+Receiver: Sun Aug 25 01:02:57 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST210291
+Name: Cathern Nader
+Mobile: emory.white@yahoo.com
+Email: 273.493.7319
+Address: 739 Ortiz Estates, Rogahnfurt, IN 39787
+Transaction ID: TXN614736669
+Timestamp: Tarsha Hilpert
+Amount: 16.30
+Receiver: Sat Aug 24 10:23:21 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST602489
+Name: Reginald Rippin
+Mobile: soledad.cormier@hotmail.com
+Email: (725) 507-8720
+Address: Apt. 749 783 Fernando Cliff, Schoenmouth, MO 10489-9542
+Transaction ID: TXN912200228
+Timestamp: Curt Bosco
+Amount: 3292.44
+Receiver: Sat Aug 24 11:25:56 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST463460
+Name: Ginger Lehner DDS
+Mobile: larry.grimes@gmail.com
+Email: 350.084.7392
+Address: 45749 Filiberto Trail, New Ron, CA 63556
+Transaction ID: TXN401258733
+Timestamp: Aletha Oberbrunner
+Amount: 4817.82
+Receiver: Sun Aug 25 01:02:57 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST210291
+Name: Cathern Nader
+Mobile: emory.white@yahoo.com
+Email: 273.493.7319
+Address: 739 Ortiz Estates, Rogahnfurt, IN 39787
+Transaction ID: TXN614736669
+Timestamp: Tarsha Hilpert
+Amount: 16.30
+Receiver: Sat Aug 24 10:23:21 IST 2024
+Status: Failed
+-----------------------------

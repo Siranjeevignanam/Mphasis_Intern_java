@@ -1,0 +1,66 @@
+Customer ID: CUST553155
+Name: Charlene Bartell
+Mobile: linwood.schaefer@gmail.com
+Email: (630) 584-1629
+Address: 547 Bruce Point, Haleyberg, MT 50945-9394
+Transaction ID: TXN736895558
+Timestamp: Mrs. Tarsha Swaniawski
+Amount: 1974.07
+Receiver: Sat Sep 07 20:56:24 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST681405
+Name: Sharon Rogahn
+Mobile: geoffrey.thiel@gmail.com
+Email: (924) 031-6798
+Address: 862 Carlo Courts, New Cristalmouth, SD 66279
+Transaction ID: TXN227067478
+Timestamp: Jessenia Wilkinson
+Amount: 7265.35
+Receiver: Sat Sep 07 15:57:58 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST553155
+Name: Charlene Bartell
+Mobile: linwood.schaefer@gmail.com
+Email: (630) 584-1629
+Address: 547 Bruce Point, Haleyberg, MT 50945-9394
+Transaction ID: TXN736895558
+Timestamp: Mrs. Tarsha Swaniawski
+Amount: 1974.07
+Receiver: Sat Sep 07 20:56:24 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST681405
+Name: Sharon Rogahn
+Mobile: geoffrey.thiel@gmail.com
+Email: (924) 031-6798
+Address: 862 Carlo Courts, New Cristalmouth, SD 66279
+Transaction ID: TXN227067478
+Timestamp: Jessenia Wilkinson
+Amount: 7265.35
+Receiver: Sat Sep 07 15:57:58 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST553155
+Name: Charlene Bartell
+Mobile: linwood.schaefer@gmail.com
+Email: (630) 584-1629
+Address: 547 Bruce Point, Haleyberg, MT 50945-9394
+Transaction ID: TXN736895558
+Timestamp: Mrs. Tarsha Swaniawski
+Amount: 1974.07
+Receiver: Sat Sep 07 20:56:24 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST681405
+Name: Sharon Rogahn
+Mobile: geoffrey.thiel@gmail.com
+Email: (924) 031-6798
+Address: 862 Carlo Courts, New Cristalmouth, SD 66279
+Transaction ID: TXN227067478
+Timestamp: Jessenia Wilkinson
+Amount: 7265.35
+Receiver: Sat Sep 07 15:57:58 IST 2024
+Status: Failed
+-----------------------------

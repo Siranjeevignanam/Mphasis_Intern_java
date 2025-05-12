@@ -1,0 +1,66 @@
+Customer ID: CUST893852
+Name: Zack Blanda
+Mobile: gus.weissnat@gmail.com
+Email: (474) 403-7591
+Address: 6571 Haywood Ford, Nienowville, VT 88896-1932
+Transaction ID: TXN718318332
+Timestamp: Shoshana Abshire
+Amount: 8997.76
+Receiver: Wed Dec 04 16:23:37 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST548703
+Name: Valarie Paucek
+Mobile: keith.gerhold@yahoo.com
+Email: 1-731-191-0535
+Address: 06224 Bashirian Ports, New Arlie, UT 28999-7798
+Transaction ID: TXN200485469
+Timestamp: Virgina Purdy
+Amount: 7590.75
+Receiver: Wed Dec 04 09:12:05 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST893852
+Name: Zack Blanda
+Mobile: gus.weissnat@gmail.com
+Email: (474) 403-7591
+Address: 6571 Haywood Ford, Nienowville, VT 88896-1932
+Transaction ID: TXN718318332
+Timestamp: Shoshana Abshire
+Amount: 8997.76
+Receiver: Wed Dec 04 16:23:37 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST548703
+Name: Valarie Paucek
+Mobile: keith.gerhold@yahoo.com
+Email: 1-731-191-0535
+Address: 06224 Bashirian Ports, New Arlie, UT 28999-7798
+Transaction ID: TXN200485469
+Timestamp: Virgina Purdy
+Amount: 7590.75
+Receiver: Wed Dec 04 09:12:05 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST893852
+Name: Zack Blanda
+Mobile: gus.weissnat@gmail.com
+Email: (474) 403-7591
+Address: 6571 Haywood Ford, Nienowville, VT 88896-1932
+Transaction ID: TXN718318332
+Timestamp: Shoshana Abshire
+Amount: 8997.76
+Receiver: Wed Dec 04 16:23:37 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST548703
+Name: Valarie Paucek
+Mobile: keith.gerhold@yahoo.com
+Email: 1-731-191-0535
+Address: 06224 Bashirian Ports, New Arlie, UT 28999-7798
+Transaction ID: TXN200485469
+Timestamp: Virgina Purdy
+Amount: 7590.75
+Receiver: Wed Dec 04 09:12:05 IST 2024
+Status: Failed
+-----------------------------

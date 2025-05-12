@@ -1,0 +1,33 @@
+Customer ID: CUST101248
+Name: Mr. Bette Douglas
+Mobile: eddy.hirthe@yahoo.com
+Email: 629-850-8862
+Address: 2586 Ritchie Glen, Streichfurt, SC 61443-9948
+Transaction ID: TXN822381499
+Timestamp: Dr. Arletta Beer
+Amount: 6626.72
+Receiver: Fri Apr 04 17:23:44 IST 2025
+Status: Failed
+-----------------------------
+Customer ID: CUST101248
+Name: Mr. Bette Douglas
+Mobile: eddy.hirthe@yahoo.com
+Email: 629-850-8862
+Address: 2586 Ritchie Glen, Streichfurt, SC 61443-9948
+Transaction ID: TXN822381499
+Timestamp: Dr. Arletta Beer
+Amount: 6626.72
+Receiver: Fri Apr 04 17:23:44 IST 2025
+Status: Failed
+-----------------------------
+Customer ID: CUST101248
+Name: Mr. Bette Douglas
+Mobile: eddy.hirthe@yahoo.com
+Email: 629-850-8862
+Address: 2586 Ritchie Glen, Streichfurt, SC 61443-9948
+Transaction ID: TXN822381499
+Timestamp: Dr. Arletta Beer
+Amount: 6626.72
+Receiver: Fri Apr 04 17:23:44 IST 2025
+Status: Failed
+-----------------------------

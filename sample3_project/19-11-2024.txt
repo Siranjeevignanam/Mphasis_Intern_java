@@ -1,0 +1,66 @@
+Customer ID: CUST488440
+Name: Carmon Hoeger
+Mobile: neomi.cronin@yahoo.com
+Email: 302-644-3918
+Address: 878 Gottlieb Plains, Lavernside, AZ 40888
+Transaction ID: TXN190493841
+Timestamp: Johnathon Haag
+Amount: 2460.53
+Receiver: Wed Nov 20 05:23:42 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST996701
+Name: Jonas Boyer IV
+Mobile: jessie.collins@yahoo.com
+Email: 421.138.4765
+Address: Suite 005 80050 Abbott Valley, Jeffmouth, GA 76333-4502
+Transaction ID: TXN798171648
+Timestamp: Travis Sawayn
+Amount: 8799.13
+Receiver: Tue Nov 19 12:13:37 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST488440
+Name: Carmon Hoeger
+Mobile: neomi.cronin@yahoo.com
+Email: 302-644-3918
+Address: 878 Gottlieb Plains, Lavernside, AZ 40888
+Transaction ID: TXN190493841
+Timestamp: Johnathon Haag
+Amount: 2460.53
+Receiver: Wed Nov 20 05:23:42 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST996701
+Name: Jonas Boyer IV
+Mobile: jessie.collins@yahoo.com
+Email: 421.138.4765
+Address: Suite 005 80050 Abbott Valley, Jeffmouth, GA 76333-4502
+Transaction ID: TXN798171648
+Timestamp: Travis Sawayn
+Amount: 8799.13
+Receiver: Tue Nov 19 12:13:37 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST488440
+Name: Carmon Hoeger
+Mobile: neomi.cronin@yahoo.com
+Email: 302-644-3918
+Address: 878 Gottlieb Plains, Lavernside, AZ 40888
+Transaction ID: TXN190493841
+Timestamp: Johnathon Haag
+Amount: 2460.53
+Receiver: Wed Nov 20 05:23:42 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST996701
+Name: Jonas Boyer IV
+Mobile: jessie.collins@yahoo.com
+Email: 421.138.4765
+Address: Suite 005 80050 Abbott Valley, Jeffmouth, GA 76333-4502
+Transaction ID: TXN798171648
+Timestamp: Travis Sawayn
+Amount: 8799.13
+Receiver: Tue Nov 19 12:13:37 IST 2024
+Status: Failed
+-----------------------------

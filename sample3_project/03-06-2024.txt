@@ -1,0 +1,66 @@
+Customer ID: CUST627068
+Name: Wilford Harvey
+Mobile: darell.cruickshank@yahoo.com
+Email: 1-825-778-6345
+Address: Suite 848 3085 Brekke Greens, Kuhicton, MI 26718-8139
+Transaction ID: TXN439309269
+Timestamp: Socorro Windler
+Amount: 6811.73
+Receiver: Tue Jun 04 02:51:53 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST580728
+Name: Lillian Kessler
+Mobile: duane.hettinger@gmail.com
+Email: 1-876-516-9157
+Address: Suite 060 30440 Torphy Underpass, Port Jeffery, AR 02095
+Transaction ID: TXN142502382
+Timestamp: Dorian VonRueden MD
+Amount: 6363.64
+Receiver: Mon Jun 03 12:52:31 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST627068
+Name: Wilford Harvey
+Mobile: darell.cruickshank@yahoo.com
+Email: 1-825-778-6345
+Address: Suite 848 3085 Brekke Greens, Kuhicton, MI 26718-8139
+Transaction ID: TXN439309269
+Timestamp: Socorro Windler
+Amount: 6811.73
+Receiver: Tue Jun 04 02:51:53 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST580728
+Name: Lillian Kessler
+Mobile: duane.hettinger@gmail.com
+Email: 1-876-516-9157
+Address: Suite 060 30440 Torphy Underpass, Port Jeffery, AR 02095
+Transaction ID: TXN142502382
+Timestamp: Dorian VonRueden MD
+Amount: 6363.64
+Receiver: Mon Jun 03 12:52:31 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST627068
+Name: Wilford Harvey
+Mobile: darell.cruickshank@yahoo.com
+Email: 1-825-778-6345
+Address: Suite 848 3085 Brekke Greens, Kuhicton, MI 26718-8139
+Transaction ID: TXN439309269
+Timestamp: Socorro Windler
+Amount: 6811.73
+Receiver: Tue Jun 04 02:51:53 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST580728
+Name: Lillian Kessler
+Mobile: duane.hettinger@gmail.com
+Email: 1-876-516-9157
+Address: Suite 060 30440 Torphy Underpass, Port Jeffery, AR 02095
+Transaction ID: TXN142502382
+Timestamp: Dorian VonRueden MD
+Amount: 6363.64
+Receiver: Mon Jun 03 12:52:31 IST 2024
+Status: Failed
+-----------------------------

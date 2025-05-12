@@ -1,0 +1,99 @@
+Customer ID: CUST735680
+Name: Tiana Bosco Sr.
+Mobile: patience.gerhold@gmail.com
+Email: (095) 421-6045
+Address: Suite 455 037 Jeromy Dale, North Ezequiel, AR 62381
+Transaction ID: TXN810617516
+Timestamp: Werner Brown
+Amount: 9810.51
+Receiver: Tue Jun 11 05:22:59 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST751206
+Name: Dulcie Schimmel
+Mobile: caitlin.lehner@gmail.com
+Email: 1-647-573-1957
+Address: 85286 Mills Expressway, North Hongfort, MO 70665
+Transaction ID: TXN477140962
+Timestamp: Nella Altenwerth I
+Amount: 5151.66
+Receiver: Mon Jun 10 07:17:20 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST197907
+Name: Lemuel Murray
+Mobile: david.mohr@gmail.com
+Email: (412) 203-2940
+Address: Apt. 565 44535 Lyndia Lights, Parisiantown, NY 49750
+Transaction ID: TXN263217575
+Timestamp: Audrey Graham
+Amount: 7940.62
+Receiver: Mon Jun 10 18:15:30 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST735680
+Name: Tiana Bosco Sr.
+Mobile: patience.gerhold@gmail.com
+Email: (095) 421-6045
+Address: Suite 455 037 Jeromy Dale, North Ezequiel, AR 62381
+Transaction ID: TXN810617516
+Timestamp: Werner Brown
+Amount: 9810.51
+Receiver: Tue Jun 11 05:22:59 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST751206
+Name: Dulcie Schimmel
+Mobile: caitlin.lehner@gmail.com
+Email: 1-647-573-1957
+Address: 85286 Mills Expressway, North Hongfort, MO 70665
+Transaction ID: TXN477140962
+Timestamp: Nella Altenwerth I
+Amount: 5151.66
+Receiver: Mon Jun 10 07:17:20 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST197907
+Name: Lemuel Murray
+Mobile: david.mohr@gmail.com
+Email: (412) 203-2940
+Address: Apt. 565 44535 Lyndia Lights, Parisiantown, NY 49750
+Transaction ID: TXN263217575
+Timestamp: Audrey Graham
+Amount: 7940.62
+Receiver: Mon Jun 10 18:15:30 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST735680
+Name: Tiana Bosco Sr.
+Mobile: patience.gerhold@gmail.com
+Email: (095) 421-6045
+Address: Suite 455 037 Jeromy Dale, North Ezequiel, AR 62381
+Transaction ID: TXN810617516
+Timestamp: Werner Brown
+Amount: 9810.51
+Receiver: Tue Jun 11 05:22:59 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST751206
+Name: Dulcie Schimmel
+Mobile: caitlin.lehner@gmail.com
+Email: 1-647-573-1957
+Address: 85286 Mills Expressway, North Hongfort, MO 70665
+Transaction ID: TXN477140962
+Timestamp: Nella Altenwerth I
+Amount: 5151.66
+Receiver: Mon Jun 10 07:17:20 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST197907
+Name: Lemuel Murray
+Mobile: david.mohr@gmail.com
+Email: (412) 203-2940
+Address: Apt. 565 44535 Lyndia Lights, Parisiantown, NY 49750
+Transaction ID: TXN263217575
+Timestamp: Audrey Graham
+Amount: 7940.62
+Receiver: Mon Jun 10 18:15:30 IST 2024
+Status: Success
+-----------------------------

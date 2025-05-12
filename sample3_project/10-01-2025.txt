@@ -1,0 +1,33 @@
+Customer ID: CUST868251
+Name: Bari Luettgen
+Mobile: miesha.schuppe@yahoo.com
+Email: (237) 915-4708
+Address: 99840 Lesch Union, Lake Cordell, IA 70823
+Transaction ID: TXN267752105
+Timestamp: Ms. Hettie Braun
+Amount: 5231.23
+Receiver: Fri Jan 10 15:29:01 IST 2025
+Status: Failed
+-----------------------------
+Customer ID: CUST868251
+Name: Bari Luettgen
+Mobile: miesha.schuppe@yahoo.com
+Email: (237) 915-4708
+Address: 99840 Lesch Union, Lake Cordell, IA 70823
+Transaction ID: TXN267752105
+Timestamp: Ms. Hettie Braun
+Amount: 5231.23
+Receiver: Fri Jan 10 15:29:01 IST 2025
+Status: Failed
+-----------------------------
+Customer ID: CUST868251
+Name: Bari Luettgen
+Mobile: miesha.schuppe@yahoo.com
+Email: (237) 915-4708
+Address: 99840 Lesch Union, Lake Cordell, IA 70823
+Transaction ID: TXN267752105
+Timestamp: Ms. Hettie Braun
+Amount: 5231.23
+Receiver: Fri Jan 10 15:29:01 IST 2025
+Status: Failed
+-----------------------------

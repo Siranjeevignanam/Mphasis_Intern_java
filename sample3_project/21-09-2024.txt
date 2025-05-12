@@ -1,0 +1,99 @@
+Customer ID: CUST511510
+Name: Aurelio Pouros
+Mobile: roosevelt.okeefe@gmail.com
+Email: 1-208-488-8750
+Address: Apt. 507 2116 Wiza Via, Lake Earle, NH 79856
+Transaction ID: TXN123454578
+Timestamp: Greg Bayer
+Amount: 8008.32
+Receiver: Sat Sep 21 08:29:24 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST437679
+Name: Cathie Schulist
+Mobile: ciera.hamill@gmail.com
+Email: 513.945.9440
+Address: Suite 001 23411 Green Parks, Lake Alfredoville, CA 60749
+Transaction ID: TXN667845653
+Timestamp: Chris Pfeffer MD
+Amount: 7884.60
+Receiver: Sat Sep 21 18:59:34 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST330351
+Name: Mrs. Gino Mann
+Mobile: paris.treutel@hotmail.com
+Email: 689.300.9002
+Address: Suite 190 581 Robt Views, East Gail, IA 61503
+Transaction ID: TXN495394464
+Timestamp: Arron Ankunding
+Amount: 3607.52
+Receiver: Sat Sep 21 10:22:32 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST511510
+Name: Aurelio Pouros
+Mobile: roosevelt.okeefe@gmail.com
+Email: 1-208-488-8750
+Address: Apt. 507 2116 Wiza Via, Lake Earle, NH 79856
+Transaction ID: TXN123454578
+Timestamp: Greg Bayer
+Amount: 8008.32
+Receiver: Sat Sep 21 08:29:24 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST437679
+Name: Cathie Schulist
+Mobile: ciera.hamill@gmail.com
+Email: 513.945.9440
+Address: Suite 001 23411 Green Parks, Lake Alfredoville, CA 60749
+Transaction ID: TXN667845653
+Timestamp: Chris Pfeffer MD
+Amount: 7884.60
+Receiver: Sat Sep 21 18:59:34 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST330351
+Name: Mrs. Gino Mann
+Mobile: paris.treutel@hotmail.com
+Email: 689.300.9002
+Address: Suite 190 581 Robt Views, East Gail, IA 61503
+Transaction ID: TXN495394464
+Timestamp: Arron Ankunding
+Amount: 3607.52
+Receiver: Sat Sep 21 10:22:32 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST511510
+Name: Aurelio Pouros
+Mobile: roosevelt.okeefe@gmail.com
+Email: 1-208-488-8750
+Address: Apt. 507 2116 Wiza Via, Lake Earle, NH 79856
+Transaction ID: TXN123454578
+Timestamp: Greg Bayer
+Amount: 8008.32
+Receiver: Sat Sep 21 08:29:24 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST437679
+Name: Cathie Schulist
+Mobile: ciera.hamill@gmail.com
+Email: 513.945.9440
+Address: Suite 001 23411 Green Parks, Lake Alfredoville, CA 60749
+Transaction ID: TXN667845653
+Timestamp: Chris Pfeffer MD
+Amount: 7884.60
+Receiver: Sat Sep 21 18:59:34 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST330351
+Name: Mrs. Gino Mann
+Mobile: paris.treutel@hotmail.com
+Email: 689.300.9002
+Address: Suite 190 581 Robt Views, East Gail, IA 61503
+Transaction ID: TXN495394464
+Timestamp: Arron Ankunding
+Amount: 3607.52
+Receiver: Sat Sep 21 10:22:32 IST 2024
+Status: Success
+-----------------------------

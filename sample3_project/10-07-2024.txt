@@ -1,0 +1,198 @@
+Customer ID: CUST377101
+Name: Raul Herman
+Mobile: artie.huels@gmail.com
+Email: (511) 580-7101
+Address: Apt. 328 2200 Littel Ports, South Randolphside, NJ 88084
+Transaction ID: TXN911365751
+Timestamp: Janette Hegmann MD
+Amount: 9331.03
+Receiver: Wed Jul 10 22:11:56 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST490155
+Name: Miss Dixie Dicki
+Mobile: tamesha.hand@hotmail.com
+Email: 1-332-291-1138
+Address: 0370 Brenton Crest, Yosthaven, OK 08122-1638
+Transaction ID: TXN140697072
+Timestamp: Rusty Rohan
+Amount: 4197.86
+Receiver: Wed Jul 10 13:47:50 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST546667
+Name: Christi Gleichner
+Mobile: jordan.auer@yahoo.com
+Email: (184) 576-6752
+Address: Suite 565 732 Angela Pines, West Irma, MA 79472
+Transaction ID: TXN598136461
+Timestamp: Keren Lindgren
+Amount: 2212.32
+Receiver: Wed Jul 10 13:27:28 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST151887
+Name: Shon Crist PhD
+Mobile: mandie.stehr@hotmail.com
+Email: 311-229-9455
+Address: Suite 432 187 Quinton Ways, Lake Lanceburgh, NE 75106
+Transaction ID: TXN661566493
+Timestamp: Vincent Durgan
+Amount: 2012.79
+Receiver: Wed Jul 10 16:42:26 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST878946
+Name: Odis Paucek
+Mobile: brock.kovacek@yahoo.com
+Email: (834) 584-5935
+Address: Suite 692 42073 Larkin Underpass, O'Connellville, IA 39049
+Transaction ID: TXN247205765
+Timestamp: Dr. Clare Kulas
+Amount: 9728.25
+Receiver: Wed Jul 10 20:02:08 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST195643
+Name: Miss Ernesto Braun
+Mobile: danette.pfannerstill@gmail.com
+Email: 723.869.6655
+Address: Suite 750 63936 Barton Summit, Madalynfort, MS 08880-4764
+Transaction ID: TXN252848594
+Timestamp: Hosea Howe MD
+Amount: 5219.72
+Receiver: Wed Jul 10 22:45:52 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST377101
+Name: Raul Herman
+Mobile: artie.huels@gmail.com
+Email: (511) 580-7101
+Address: Apt. 328 2200 Littel Ports, South Randolphside, NJ 88084
+Transaction ID: TXN911365751
+Timestamp: Janette Hegmann MD
+Amount: 9331.03
+Receiver: Wed Jul 10 22:11:56 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST490155
+Name: Miss Dixie Dicki
+Mobile: tamesha.hand@hotmail.com
+Email: 1-332-291-1138
+Address: 0370 Brenton Crest, Yosthaven, OK 08122-1638
+Transaction ID: TXN140697072
+Timestamp: Rusty Rohan
+Amount: 4197.86
+Receiver: Wed Jul 10 13:47:50 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST546667
+Name: Christi Gleichner
+Mobile: jordan.auer@yahoo.com
+Email: (184) 576-6752
+Address: Suite 565 732 Angela Pines, West Irma, MA 79472
+Transaction ID: TXN598136461
+Timestamp: Keren Lindgren
+Amount: 2212.32
+Receiver: Wed Jul 10 13:27:28 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST151887
+Name: Shon Crist PhD
+Mobile: mandie.stehr@hotmail.com
+Email: 311-229-9455
+Address: Suite 432 187 Quinton Ways, Lake Lanceburgh, NE 75106
+Transaction ID: TXN661566493
+Timestamp: Vincent Durgan
+Amount: 2012.79
+Receiver: Wed Jul 10 16:42:26 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST878946
+Name: Odis Paucek
+Mobile: brock.kovacek@yahoo.com
+Email: (834) 584-5935
+Address: Suite 692 42073 Larkin Underpass, O'Connellville, IA 39049
+Transaction ID: TXN247205765
+Timestamp: Dr. Clare Kulas
+Amount: 9728.25
+Receiver: Wed Jul 10 20:02:08 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST195643
+Name: Miss Ernesto Braun
+Mobile: danette.pfannerstill@gmail.com
+Email: 723.869.6655
+Address: Suite 750 63936 Barton Summit, Madalynfort, MS 08880-4764
+Transaction ID: TXN252848594
+Timestamp: Hosea Howe MD
+Amount: 5219.72
+Receiver: Wed Jul 10 22:45:52 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST377101
+Name: Raul Herman
+Mobile: artie.huels@gmail.com
+Email: (511) 580-7101
+Address: Apt. 328 2200 Littel Ports, South Randolphside, NJ 88084
+Transaction ID: TXN911365751
+Timestamp: Janette Hegmann MD
+Amount: 9331.03
+Receiver: Wed Jul 10 22:11:56 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST490155
+Name: Miss Dixie Dicki
+Mobile: tamesha.hand@hotmail.com
+Email: 1-332-291-1138
+Address: 0370 Brenton Crest, Yosthaven, OK 08122-1638
+Transaction ID: TXN140697072
+Timestamp: Rusty Rohan
+Amount: 4197.86
+Receiver: Wed Jul 10 13:47:50 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST546667
+Name: Christi Gleichner
+Mobile: jordan.auer@yahoo.com
+Email: (184) 576-6752
+Address: Suite 565 732 Angela Pines, West Irma, MA 79472
+Transaction ID: TXN598136461
+Timestamp: Keren Lindgren
+Amount: 2212.32
+Receiver: Wed Jul 10 13:27:28 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST151887
+Name: Shon Crist PhD
+Mobile: mandie.stehr@hotmail.com
+Email: 311-229-9455
+Address: Suite 432 187 Quinton Ways, Lake Lanceburgh, NE 75106
+Transaction ID: TXN661566493
+Timestamp: Vincent Durgan
+Amount: 2012.79
+Receiver: Wed Jul 10 16:42:26 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST878946
+Name: Odis Paucek
+Mobile: brock.kovacek@yahoo.com
+Email: (834) 584-5935
+Address: Suite 692 42073 Larkin Underpass, O'Connellville, IA 39049
+Transaction ID: TXN247205765
+Timestamp: Dr. Clare Kulas
+Amount: 9728.25
+Receiver: Wed Jul 10 20:02:08 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST195643
+Name: Miss Ernesto Braun
+Mobile: danette.pfannerstill@gmail.com
+Email: 723.869.6655
+Address: Suite 750 63936 Barton Summit, Madalynfort, MS 08880-4764
+Transaction ID: TXN252848594
+Timestamp: Hosea Howe MD
+Amount: 5219.72
+Receiver: Wed Jul 10 22:45:52 IST 2024
+Status: Failed
+-----------------------------

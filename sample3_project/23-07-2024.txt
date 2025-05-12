@@ -1,0 +1,198 @@
+Customer ID: CUST460991
+Name: Miss Gregorio Purdy
+Mobile: rolland.terry@gmail.com
+Email: 292-621-9052
+Address: 872 Jaskolski Groves, Runolfssonview, MI 46279
+Transaction ID: TXN577482060
+Timestamp: Mrs. Reid Legros
+Amount: 7316.84
+Receiver: Tue Jul 23 19:38:05 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST251983
+Name: Creola Bogan
+Mobile: ignacio.morar@gmail.com
+Email: 184.505.3538
+Address: 2419 Kristel Summit, North Zackary, IA 19230
+Transaction ID: TXN342631021
+Timestamp: Eldon Wiegand
+Amount: 2841.05
+Receiver: Tue Jul 23 17:51:26 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST321145
+Name: Mr. Lashay Bahringer
+Mobile: santos.wolff@gmail.com
+Email: 771.951.8179
+Address: 0404 Murphy Falls, Port Arthurview, NY 24081-1493
+Transaction ID: TXN219123685
+Timestamp: Carey Emard V
+Amount: 6668.04
+Receiver: Tue Jul 23 22:50:12 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST877307
+Name: Rochel Will
+Mobile: robert.carter@gmail.com
+Email: 521.670.9478
+Address: Apt. 676 8553 Effertz Squares, West Zaidaberg, CA 25177
+Transaction ID: TXN396593865
+Timestamp: Miss Marylou Oberbrunner
+Amount: 5175.95
+Receiver: Wed Jul 24 02:34:10 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST693341
+Name: Jeanelle Wyman
+Mobile: beau.rolfson@yahoo.com
+Email: 060-252-6413
+Address: 0852 Will Falls, Salfort, IN 55524
+Transaction ID: TXN908914918
+Timestamp: Cristie Graham
+Amount: 9324.32
+Receiver: Tue Jul 23 12:43:42 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST283476
+Name: Noah Hoppe
+Mobile: mohammed.terry@gmail.com
+Email: 268-231-4968
+Address: 18314 Floyd Locks, Granthaven, CO 60861-1553
+Transaction ID: TXN295019464
+Timestamp: Ms. Carol Bradtke
+Amount: 3042.63
+Receiver: Tue Jul 23 07:06:56 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST460991
+Name: Miss Gregorio Purdy
+Mobile: rolland.terry@gmail.com
+Email: 292-621-9052
+Address: 872 Jaskolski Groves, Runolfssonview, MI 46279
+Transaction ID: TXN577482060
+Timestamp: Mrs. Reid Legros
+Amount: 7316.84
+Receiver: Tue Jul 23 19:38:05 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST251983
+Name: Creola Bogan
+Mobile: ignacio.morar@gmail.com
+Email: 184.505.3538
+Address: 2419 Kristel Summit, North Zackary, IA 19230
+Transaction ID: TXN342631021
+Timestamp: Eldon Wiegand
+Amount: 2841.05
+Receiver: Tue Jul 23 17:51:26 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST321145
+Name: Mr. Lashay Bahringer
+Mobile: santos.wolff@gmail.com
+Email: 771.951.8179
+Address: 0404 Murphy Falls, Port Arthurview, NY 24081-1493
+Transaction ID: TXN219123685
+Timestamp: Carey Emard V
+Amount: 6668.04
+Receiver: Tue Jul 23 22:50:12 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST877307
+Name: Rochel Will
+Mobile: robert.carter@gmail.com
+Email: 521.670.9478
+Address: Apt. 676 8553 Effertz Squares, West Zaidaberg, CA 25177
+Transaction ID: TXN396593865
+Timestamp: Miss Marylou Oberbrunner
+Amount: 5175.95
+Receiver: Wed Jul 24 02:34:10 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST693341
+Name: Jeanelle Wyman
+Mobile: beau.rolfson@yahoo.com
+Email: 060-252-6413
+Address: 0852 Will Falls, Salfort, IN 55524
+Transaction ID: TXN908914918
+Timestamp: Cristie Graham
+Amount: 9324.32
+Receiver: Tue Jul 23 12:43:42 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST283476
+Name: Noah Hoppe
+Mobile: mohammed.terry@gmail.com
+Email: 268-231-4968
+Address: 18314 Floyd Locks, Granthaven, CO 60861-1553
+Transaction ID: TXN295019464
+Timestamp: Ms. Carol Bradtke
+Amount: 3042.63
+Receiver: Tue Jul 23 07:06:56 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST460991
+Name: Miss Gregorio Purdy
+Mobile: rolland.terry@gmail.com
+Email: 292-621-9052
+Address: 872 Jaskolski Groves, Runolfssonview, MI 46279
+Transaction ID: TXN577482060
+Timestamp: Mrs. Reid Legros
+Amount: 7316.84
+Receiver: Tue Jul 23 19:38:05 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST251983
+Name: Creola Bogan
+Mobile: ignacio.morar@gmail.com
+Email: 184.505.3538
+Address: 2419 Kristel Summit, North Zackary, IA 19230
+Transaction ID: TXN342631021
+Timestamp: Eldon Wiegand
+Amount: 2841.05
+Receiver: Tue Jul 23 17:51:26 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST321145
+Name: Mr. Lashay Bahringer
+Mobile: santos.wolff@gmail.com
+Email: 771.951.8179
+Address: 0404 Murphy Falls, Port Arthurview, NY 24081-1493
+Transaction ID: TXN219123685
+Timestamp: Carey Emard V
+Amount: 6668.04
+Receiver: Tue Jul 23 22:50:12 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST877307
+Name: Rochel Will
+Mobile: robert.carter@gmail.com
+Email: 521.670.9478
+Address: Apt. 676 8553 Effertz Squares, West Zaidaberg, CA 25177
+Transaction ID: TXN396593865
+Timestamp: Miss Marylou Oberbrunner
+Amount: 5175.95
+Receiver: Wed Jul 24 02:34:10 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST693341
+Name: Jeanelle Wyman
+Mobile: beau.rolfson@yahoo.com
+Email: 060-252-6413
+Address: 0852 Will Falls, Salfort, IN 55524
+Transaction ID: TXN908914918
+Timestamp: Cristie Graham
+Amount: 9324.32
+Receiver: Tue Jul 23 12:43:42 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST283476
+Name: Noah Hoppe
+Mobile: mohammed.terry@gmail.com
+Email: 268-231-4968
+Address: 18314 Floyd Locks, Granthaven, CO 60861-1553
+Transaction ID: TXN295019464
+Timestamp: Ms. Carol Bradtke
+Amount: 3042.63
+Receiver: Tue Jul 23 07:06:56 IST 2024
+Status: Failed
+-----------------------------

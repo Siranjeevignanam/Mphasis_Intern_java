@@ -1,0 +1,33 @@
+Customer ID: CUST179966
+Name: Mr. Dina Terry
+Mobile: walton.stracke@gmail.com
+Email: 1-102-391-6122
+Address: Suite 574 8827 Schaefer Prairie, Port Phylicia, HI 56418-7365
+Transaction ID: TXN953002166
+Timestamp: Hayden Ortiz PhD
+Amount: 1605.90
+Receiver: Fri Nov 01 07:31:07 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST179966
+Name: Mr. Dina Terry
+Mobile: walton.stracke@gmail.com
+Email: 1-102-391-6122
+Address: Suite 574 8827 Schaefer Prairie, Port Phylicia, HI 56418-7365
+Transaction ID: TXN953002166
+Timestamp: Hayden Ortiz PhD
+Amount: 1605.90
+Receiver: Fri Nov 01 07:31:07 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST179966
+Name: Mr. Dina Terry
+Mobile: walton.stracke@gmail.com
+Email: 1-102-391-6122
+Address: Suite 574 8827 Schaefer Prairie, Port Phylicia, HI 56418-7365
+Transaction ID: TXN953002166
+Timestamp: Hayden Ortiz PhD
+Amount: 1605.90
+Receiver: Fri Nov 01 07:31:07 IST 2024
+Status: Success
+-----------------------------

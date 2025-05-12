@@ -1,0 +1,132 @@
+Customer ID: CUST290527
+Name: Mrs. Avery Rutherford
+Mobile: colby.kuvalis@gmail.com
+Email: 767.838.8682
+Address: Apt. 636 41214 Karl Stravenue, North Teddy, ND 02940-7956
+Transaction ID: TXN674625690
+Timestamp: Dr. Jerrold Jakubowski
+Amount: 6899.89
+Receiver: Fri Sep 13 20:23:46 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST655490
+Name: Beau Bayer
+Mobile: mireya.renner@yahoo.com
+Email: (859) 201-9064
+Address: Suite 052 958 Jamar Causeway, South Jamie, CO 13443-9675
+Transaction ID: TXN838656030
+Timestamp: Perry Batz
+Amount: 5469.68
+Receiver: Fri Sep 13 16:52:05 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST195309
+Name: Soledad Hermiston
+Mobile: lorelei.gleason@yahoo.com
+Email: (246) 189-8583
+Address: 3494 Cristie Summit, Lake Jamesville, AK 86011
+Transaction ID: TXN868539809
+Timestamp: Augusta Mraz
+Amount: 5384.32
+Receiver: Fri Sep 13 11:18:06 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST794819
+Name: Pearl Effertz II
+Mobile: aron.okon@hotmail.com
+Email: 254.079.1849
+Address: 074 Crist Park, Warrenshire, CA 32060-1952
+Transaction ID: TXN668584835
+Timestamp: Soledad Orn
+Amount: 5503.05
+Receiver: Fri Sep 13 10:45:57 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST290527
+Name: Mrs. Avery Rutherford
+Mobile: colby.kuvalis@gmail.com
+Email: 767.838.8682
+Address: Apt. 636 41214 Karl Stravenue, North Teddy, ND 02940-7956
+Transaction ID: TXN674625690
+Timestamp: Dr. Jerrold Jakubowski
+Amount: 6899.89
+Receiver: Fri Sep 13 20:23:46 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST655490
+Name: Beau Bayer
+Mobile: mireya.renner@yahoo.com
+Email: (859) 201-9064
+Address: Suite 052 958 Jamar Causeway, South Jamie, CO 13443-9675
+Transaction ID: TXN838656030
+Timestamp: Perry Batz
+Amount: 5469.68
+Receiver: Fri Sep 13 16:52:05 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST195309
+Name: Soledad Hermiston
+Mobile: lorelei.gleason@yahoo.com
+Email: (246) 189-8583
+Address: 3494 Cristie Summit, Lake Jamesville, AK 86011
+Transaction ID: TXN868539809
+Timestamp: Augusta Mraz
+Amount: 5384.32
+Receiver: Fri Sep 13 11:18:06 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST794819
+Name: Pearl Effertz II
+Mobile: aron.okon@hotmail.com
+Email: 254.079.1849
+Address: 074 Crist Park, Warrenshire, CA 32060-1952
+Transaction ID: TXN668584835
+Timestamp: Soledad Orn
+Amount: 5503.05
+Receiver: Fri Sep 13 10:45:57 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST290527
+Name: Mrs. Avery Rutherford
+Mobile: colby.kuvalis@gmail.com
+Email: 767.838.8682
+Address: Apt. 636 41214 Karl Stravenue, North Teddy, ND 02940-7956
+Transaction ID: TXN674625690
+Timestamp: Dr. Jerrold Jakubowski
+Amount: 6899.89
+Receiver: Fri Sep 13 20:23:46 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST655490
+Name: Beau Bayer
+Mobile: mireya.renner@yahoo.com
+Email: (859) 201-9064
+Address: Suite 052 958 Jamar Causeway, South Jamie, CO 13443-9675
+Transaction ID: TXN838656030
+Timestamp: Perry Batz
+Amount: 5469.68
+Receiver: Fri Sep 13 16:52:05 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST195309
+Name: Soledad Hermiston
+Mobile: lorelei.gleason@yahoo.com
+Email: (246) 189-8583
+Address: 3494 Cristie Summit, Lake Jamesville, AK 86011
+Transaction ID: TXN868539809
+Timestamp: Augusta Mraz
+Amount: 5384.32
+Receiver: Fri Sep 13 11:18:06 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST794819
+Name: Pearl Effertz II
+Mobile: aron.okon@hotmail.com
+Email: 254.079.1849
+Address: 074 Crist Park, Warrenshire, CA 32060-1952
+Transaction ID: TXN668584835
+Timestamp: Soledad Orn
+Amount: 5503.05
+Receiver: Fri Sep 13 10:45:57 IST 2024
+Status: Success
+-----------------------------

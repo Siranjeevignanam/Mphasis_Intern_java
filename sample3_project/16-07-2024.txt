@@ -1,0 +1,99 @@
+Customer ID: CUST609041
+Name: Rosio Bartoletti
+Mobile: carmelita.lubowitz@hotmail.com
+Email: (223) 325-6268
+Address: Suite 536 689 Hye Lodge, New Stevie, VA 13339-1874
+Transaction ID: TXN305921851
+Timestamp: Keenan Funk
+Amount: 7076.21
+Receiver: Tue Jul 16 21:11:47 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST790824
+Name: Michaele Stoltenberg DDS
+Mobile: gwen.hyatt@hotmail.com
+Email: 447.042.4071
+Address: Apt. 174 738 Mara Neck, Anitaburgh, OK 82978
+Transaction ID: TXN644530083
+Timestamp: Sudie Gibson
+Amount: 6469.33
+Receiver: Wed Jul 17 04:57:32 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST890821
+Name: Hallie Murazik
+Mobile: derek.dach@gmail.com
+Email: 1-834-634-0613
+Address: 3266 Melissia Crossing, West Farrahland, ND 34906-2312
+Transaction ID: TXN503257738
+Timestamp: Violeta Botsford
+Amount: 7531.14
+Receiver: Tue Jul 16 21:11:08 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST609041
+Name: Rosio Bartoletti
+Mobile: carmelita.lubowitz@hotmail.com
+Email: (223) 325-6268
+Address: Suite 536 689 Hye Lodge, New Stevie, VA 13339-1874
+Transaction ID: TXN305921851
+Timestamp: Keenan Funk
+Amount: 7076.21
+Receiver: Tue Jul 16 21:11:47 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST790824
+Name: Michaele Stoltenberg DDS
+Mobile: gwen.hyatt@hotmail.com
+Email: 447.042.4071
+Address: Apt. 174 738 Mara Neck, Anitaburgh, OK 82978
+Transaction ID: TXN644530083
+Timestamp: Sudie Gibson
+Amount: 6469.33
+Receiver: Wed Jul 17 04:57:32 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST890821
+Name: Hallie Murazik
+Mobile: derek.dach@gmail.com
+Email: 1-834-634-0613
+Address: 3266 Melissia Crossing, West Farrahland, ND 34906-2312
+Transaction ID: TXN503257738
+Timestamp: Violeta Botsford
+Amount: 7531.14
+Receiver: Tue Jul 16 21:11:08 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST609041
+Name: Rosio Bartoletti
+Mobile: carmelita.lubowitz@hotmail.com
+Email: (223) 325-6268
+Address: Suite 536 689 Hye Lodge, New Stevie, VA 13339-1874
+Transaction ID: TXN305921851
+Timestamp: Keenan Funk
+Amount: 7076.21
+Receiver: Tue Jul 16 21:11:47 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST790824
+Name: Michaele Stoltenberg DDS
+Mobile: gwen.hyatt@hotmail.com
+Email: 447.042.4071
+Address: Apt. 174 738 Mara Neck, Anitaburgh, OK 82978
+Transaction ID: TXN644530083
+Timestamp: Sudie Gibson
+Amount: 6469.33
+Receiver: Wed Jul 17 04:57:32 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST890821
+Name: Hallie Murazik
+Mobile: derek.dach@gmail.com
+Email: 1-834-634-0613
+Address: 3266 Melissia Crossing, West Farrahland, ND 34906-2312
+Transaction ID: TXN503257738
+Timestamp: Violeta Botsford
+Amount: 7531.14
+Receiver: Tue Jul 16 21:11:08 IST 2024
+Status: Failed
+-----------------------------

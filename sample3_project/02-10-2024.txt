@@ -1,0 +1,132 @@
+Customer ID: CUST132114
+Name: Madelene Leuschke
+Mobile: noma.runolfsdottir@hotmail.com
+Email: (470) 727-5526
+Address: Apt. 331 253 Williamson Plaza, Hanefurt, FL 62605
+Transaction ID: TXN916108528
+Timestamp: Lynette Stehr
+Amount: 6651.13
+Receiver: Thu Oct 03 04:20:32 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST184565
+Name: Hellen Stroman
+Mobile: jeremiah.mertz@yahoo.com
+Email: 1-427-531-6374
+Address: Apt. 428 98523 Von Trace, Catherynhaven, TN 09250
+Transaction ID: TXN962439465
+Timestamp: Deeann Ratke
+Amount: 2754.60
+Receiver: Wed Oct 02 16:28:05 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST773060
+Name: Nathaniel Terry DVM
+Mobile: juliann.spencer@yahoo.com
+Email: 709-684-4837
+Address: Apt. 631 9188 Rivka Light, North Shane, OR 27463
+Transaction ID: TXN586937879
+Timestamp: Cherrie Ratke
+Amount: 5412.90
+Receiver: Wed Oct 02 16:21:08 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST408258
+Name: Janett Rath
+Mobile: keli.luettgen@hotmail.com
+Email: (837) 460-1199
+Address: 792 Salena Knolls, Port Chung, MI 62580-7732
+Transaction ID: TXN683149649
+Timestamp: Aldo Rutherford
+Amount: 6029.44
+Receiver: Wed Oct 02 17:15:59 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST132114
+Name: Madelene Leuschke
+Mobile: noma.runolfsdottir@hotmail.com
+Email: (470) 727-5526
+Address: Apt. 331 253 Williamson Plaza, Hanefurt, FL 62605
+Transaction ID: TXN916108528
+Timestamp: Lynette Stehr
+Amount: 6651.13
+Receiver: Thu Oct 03 04:20:32 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST184565
+Name: Hellen Stroman
+Mobile: jeremiah.mertz@yahoo.com
+Email: 1-427-531-6374
+Address: Apt. 428 98523 Von Trace, Catherynhaven, TN 09250
+Transaction ID: TXN962439465
+Timestamp: Deeann Ratke
+Amount: 2754.60
+Receiver: Wed Oct 02 16:28:05 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST773060
+Name: Nathaniel Terry DVM
+Mobile: juliann.spencer@yahoo.com
+Email: 709-684-4837
+Address: Apt. 631 9188 Rivka Light, North Shane, OR 27463
+Transaction ID: TXN586937879
+Timestamp: Cherrie Ratke
+Amount: 5412.90
+Receiver: Wed Oct 02 16:21:08 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST408258
+Name: Janett Rath
+Mobile: keli.luettgen@hotmail.com
+Email: (837) 460-1199
+Address: 792 Salena Knolls, Port Chung, MI 62580-7732
+Transaction ID: TXN683149649
+Timestamp: Aldo Rutherford
+Amount: 6029.44
+Receiver: Wed Oct 02 17:15:59 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST132114
+Name: Madelene Leuschke
+Mobile: noma.runolfsdottir@hotmail.com
+Email: (470) 727-5526
+Address: Apt. 331 253 Williamson Plaza, Hanefurt, FL 62605
+Transaction ID: TXN916108528
+Timestamp: Lynette Stehr
+Amount: 6651.13
+Receiver: Thu Oct 03 04:20:32 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST184565
+Name: Hellen Stroman
+Mobile: jeremiah.mertz@yahoo.com
+Email: 1-427-531-6374
+Address: Apt. 428 98523 Von Trace, Catherynhaven, TN 09250
+Transaction ID: TXN962439465
+Timestamp: Deeann Ratke
+Amount: 2754.60
+Receiver: Wed Oct 02 16:28:05 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST773060
+Name: Nathaniel Terry DVM
+Mobile: juliann.spencer@yahoo.com
+Email: 709-684-4837
+Address: Apt. 631 9188 Rivka Light, North Shane, OR 27463
+Transaction ID: TXN586937879
+Timestamp: Cherrie Ratke
+Amount: 5412.90
+Receiver: Wed Oct 02 16:21:08 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST408258
+Name: Janett Rath
+Mobile: keli.luettgen@hotmail.com
+Email: (837) 460-1199
+Address: 792 Salena Knolls, Port Chung, MI 62580-7732
+Transaction ID: TXN683149649
+Timestamp: Aldo Rutherford
+Amount: 6029.44
+Receiver: Wed Oct 02 17:15:59 IST 2024
+Status: Success
+-----------------------------

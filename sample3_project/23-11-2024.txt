@@ -1,0 +1,33 @@
+Customer ID: CUST634436
+Name: Lawrence Zulauf
+Mobile: araceli.leuschke@gmail.com
+Email: (957) 560-4906
+Address: 3493 Leigh Forge, Lake Antonia, NV 26404-2995
+Transaction ID: TXN741817671
+Timestamp: Lesia Harvey
+Amount: 7619.94
+Receiver: Sat Nov 23 23:30:31 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST634436
+Name: Lawrence Zulauf
+Mobile: araceli.leuschke@gmail.com
+Email: (957) 560-4906
+Address: 3493 Leigh Forge, Lake Antonia, NV 26404-2995
+Transaction ID: TXN741817671
+Timestamp: Lesia Harvey
+Amount: 7619.94
+Receiver: Sat Nov 23 23:30:31 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST634436
+Name: Lawrence Zulauf
+Mobile: araceli.leuschke@gmail.com
+Email: (957) 560-4906
+Address: 3493 Leigh Forge, Lake Antonia, NV 26404-2995
+Transaction ID: TXN741817671
+Timestamp: Lesia Harvey
+Amount: 7619.94
+Receiver: Sat Nov 23 23:30:31 IST 2024
+Status: Success
+-----------------------------

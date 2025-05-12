@@ -1,0 +1,132 @@
+Customer ID: CUST289881
+Name: Miss Terrie Jerde
+Mobile: freddy.nikolaus@hotmail.com
+Email: (976) 551-6999
+Address: Apt. 056 571 Fay Brook, South Eloisview, WY 93294-9980
+Transaction ID: TXN203771686
+Timestamp: Joesph Leannon PhD
+Amount: 4975.76
+Receiver: Tue May 28 19:49:05 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST686225
+Name: Monte Greenholt
+Mobile: kendrick.gottlieb@yahoo.com
+Email: (908) 764-1481
+Address: 8859 Gorczany Square, Lake Drewchester, CA 92641
+Transaction ID: TXN924481628
+Timestamp: Carma Kutch
+Amount: 5997.37
+Receiver: Tue May 28 22:53:14 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST367766
+Name: Neda Ebert I
+Mobile: lindsey.schumm@yahoo.com
+Email: 934-073-6048
+Address: Suite 373 5470 Lynch Pines, South Treva, WV 38217
+Transaction ID: TXN411106465
+Timestamp: Leatha Steuber
+Amount: 6195.81
+Receiver: Tue May 28 08:23:48 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST410561
+Name: Luis Paucek
+Mobile: hedy.bartoletti@hotmail.com
+Email: 250-669-4006
+Address: Apt. 764 0026 Koss Ports, Shonamouth, IA 34081
+Transaction ID: TXN661360086
+Timestamp: Dell Runolfsson
+Amount: 9264.80
+Receiver: Tue May 28 21:34:18 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST289881
+Name: Miss Terrie Jerde
+Mobile: freddy.nikolaus@hotmail.com
+Email: (976) 551-6999
+Address: Apt. 056 571 Fay Brook, South Eloisview, WY 93294-9980
+Transaction ID: TXN203771686
+Timestamp: Joesph Leannon PhD
+Amount: 4975.76
+Receiver: Tue May 28 19:49:05 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST686225
+Name: Monte Greenholt
+Mobile: kendrick.gottlieb@yahoo.com
+Email: (908) 764-1481
+Address: 8859 Gorczany Square, Lake Drewchester, CA 92641
+Transaction ID: TXN924481628
+Timestamp: Carma Kutch
+Amount: 5997.37
+Receiver: Tue May 28 22:53:14 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST367766
+Name: Neda Ebert I
+Mobile: lindsey.schumm@yahoo.com
+Email: 934-073-6048
+Address: Suite 373 5470 Lynch Pines, South Treva, WV 38217
+Transaction ID: TXN411106465
+Timestamp: Leatha Steuber
+Amount: 6195.81
+Receiver: Tue May 28 08:23:48 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST410561
+Name: Luis Paucek
+Mobile: hedy.bartoletti@hotmail.com
+Email: 250-669-4006
+Address: Apt. 764 0026 Koss Ports, Shonamouth, IA 34081
+Transaction ID: TXN661360086
+Timestamp: Dell Runolfsson
+Amount: 9264.80
+Receiver: Tue May 28 21:34:18 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST289881
+Name: Miss Terrie Jerde
+Mobile: freddy.nikolaus@hotmail.com
+Email: (976) 551-6999
+Address: Apt. 056 571 Fay Brook, South Eloisview, WY 93294-9980
+Transaction ID: TXN203771686
+Timestamp: Joesph Leannon PhD
+Amount: 4975.76
+Receiver: Tue May 28 19:49:05 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST686225
+Name: Monte Greenholt
+Mobile: kendrick.gottlieb@yahoo.com
+Email: (908) 764-1481
+Address: 8859 Gorczany Square, Lake Drewchester, CA 92641
+Transaction ID: TXN924481628
+Timestamp: Carma Kutch
+Amount: 5997.37
+Receiver: Tue May 28 22:53:14 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST367766
+Name: Neda Ebert I
+Mobile: lindsey.schumm@yahoo.com
+Email: 934-073-6048
+Address: Suite 373 5470 Lynch Pines, South Treva, WV 38217
+Transaction ID: TXN411106465
+Timestamp: Leatha Steuber
+Amount: 6195.81
+Receiver: Tue May 28 08:23:48 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST410561
+Name: Luis Paucek
+Mobile: hedy.bartoletti@hotmail.com
+Email: 250-669-4006
+Address: Apt. 764 0026 Koss Ports, Shonamouth, IA 34081
+Transaction ID: TXN661360086
+Timestamp: Dell Runolfsson
+Amount: 9264.80
+Receiver: Tue May 28 21:34:18 IST 2024
+Status: Success
+-----------------------------

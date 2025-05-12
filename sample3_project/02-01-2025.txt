@@ -1,0 +1,165 @@
+Customer ID: CUST395206
+Name: Karrie Zboncak
+Mobile: kris.hirthe@yahoo.com
+Email: (057) 436-7620
+Address: 90224 Stefan Keys, Ramonton, IN 27588-7114
+Transaction ID: TXN990337177
+Timestamp: Mr. Jason Williamson
+Amount: 6363.09
+Receiver: Thu Jan 02 08:41:03 IST 2025
+Status: Success
+-----------------------------
+Customer ID: CUST114845
+Name: Anglea Ebert
+Mobile: jayson.oreilly@gmail.com
+Email: (183) 903-4789
+Address: 23674 Vi Stravenue, West Scotmouth, NM 24558-7343
+Transaction ID: TXN251344056
+Timestamp: Leighann Kulas
+Amount: 5059.86
+Receiver: Thu Jan 02 16:38:39 IST 2025
+Status: Failed
+-----------------------------
+Customer ID: CUST785699
+Name: Tod Crooks
+Mobile: lindsay.sanford@gmail.com
+Email: 015-502-5691
+Address: Apt. 123 0247 Genesis Mountains, Smithchester, WY 13779-0622
+Transaction ID: TXN920364501
+Timestamp: Coretta Gorczany
+Amount: 9242.06
+Receiver: Thu Jan 02 23:40:40 IST 2025
+Status: Failed
+-----------------------------
+Customer ID: CUST272287
+Name: Marnie Kub Sr.
+Mobile: rhonda.fay@yahoo.com
+Email: 032-934-6497
+Address: 34950 Oberbrunner Walk, Reedbury, IN 77915
+Transaction ID: TXN732263316
+Timestamp: Booker O'Reilly
+Amount: 3006.29
+Receiver: Fri Jan 03 01:16:05 IST 2025
+Status: Success
+-----------------------------
+Customer ID: CUST753396
+Name: Huey Schowalter
+Mobile: jay.lowe@hotmail.com
+Email: 1-034-472-9135
+Address: 3242 Bunny Dam, Port Marquittaside, AL 39480-1696
+Transaction ID: TXN624231543
+Timestamp: Clement McDermott
+Amount: 1597.90
+Receiver: Thu Jan 02 11:14:33 IST 2025
+Status: Failed
+-----------------------------
+Customer ID: CUST395206
+Name: Karrie Zboncak
+Mobile: kris.hirthe@yahoo.com
+Email: (057) 436-7620
+Address: 90224 Stefan Keys, Ramonton, IN 27588-7114
+Transaction ID: TXN990337177
+Timestamp: Mr. Jason Williamson
+Amount: 6363.09
+Receiver: Thu Jan 02 08:41:03 IST 2025
+Status: Success
+-----------------------------
+Customer ID: CUST114845
+Name: Anglea Ebert
+Mobile: jayson.oreilly@gmail.com
+Email: (183) 903-4789
+Address: 23674 Vi Stravenue, West Scotmouth, NM 24558-7343
+Transaction ID: TXN251344056
+Timestamp: Leighann Kulas
+Amount: 5059.86
+Receiver: Thu Jan 02 16:38:39 IST 2025
+Status: Failed
+-----------------------------
+Customer ID: CUST785699
+Name: Tod Crooks
+Mobile: lindsay.sanford@gmail.com
+Email: 015-502-5691
+Address: Apt. 123 0247 Genesis Mountains, Smithchester, WY 13779-0622
+Transaction ID: TXN920364501
+Timestamp: Coretta Gorczany
+Amount: 9242.06
+Receiver: Thu Jan 02 23:40:40 IST 2025
+Status: Failed
+-----------------------------
+Customer ID: CUST272287
+Name: Marnie Kub Sr.
+Mobile: rhonda.fay@yahoo.com
+Email: 032-934-6497
+Address: 34950 Oberbrunner Walk, Reedbury, IN 77915
+Transaction ID: TXN732263316
+Timestamp: Booker O'Reilly
+Amount: 3006.29
+Receiver: Fri Jan 03 01:16:05 IST 2025
+Status: Success
+-----------------------------
+Customer ID: CUST753396
+Name: Huey Schowalter
+Mobile: jay.lowe@hotmail.com
+Email: 1-034-472-9135
+Address: 3242 Bunny Dam, Port Marquittaside, AL 39480-1696
+Transaction ID: TXN624231543
+Timestamp: Clement McDermott
+Amount: 1597.90
+Receiver: Thu Jan 02 11:14:33 IST 2025
+Status: Failed
+-----------------------------
+Customer ID: CUST395206
+Name: Karrie Zboncak
+Mobile: kris.hirthe@yahoo.com
+Email: (057) 436-7620
+Address: 90224 Stefan Keys, Ramonton, IN 27588-7114
+Transaction ID: TXN990337177
+Timestamp: Mr. Jason Williamson
+Amount: 6363.09
+Receiver: Thu Jan 02 08:41:03 IST 2025
+Status: Success
+-----------------------------
+Customer ID: CUST114845
+Name: Anglea Ebert
+Mobile: jayson.oreilly@gmail.com
+Email: (183) 903-4789
+Address: 23674 Vi Stravenue, West Scotmouth, NM 24558-7343
+Transaction ID: TXN251344056
+Timestamp: Leighann Kulas
+Amount: 5059.86
+Receiver: Thu Jan 02 16:38:39 IST 2025
+Status: Failed
+-----------------------------
+Customer ID: CUST785699
+Name: Tod Crooks
+Mobile: lindsay.sanford@gmail.com
+Email: 015-502-5691
+Address: Apt. 123 0247 Genesis Mountains, Smithchester, WY 13779-0622
+Transaction ID: TXN920364501
+Timestamp: Coretta Gorczany
+Amount: 9242.06
+Receiver: Thu Jan 02 23:40:40 IST 2025
+Status: Failed
+-----------------------------
+Customer ID: CUST272287
+Name: Marnie Kub Sr.
+Mobile: rhonda.fay@yahoo.com
+Email: 032-934-6497
+Address: 34950 Oberbrunner Walk, Reedbury, IN 77915
+Transaction ID: TXN732263316
+Timestamp: Booker O'Reilly
+Amount: 3006.29
+Receiver: Fri Jan 03 01:16:05 IST 2025
+Status: Success
+-----------------------------
+Customer ID: CUST753396
+Name: Huey Schowalter
+Mobile: jay.lowe@hotmail.com
+Email: 1-034-472-9135
+Address: 3242 Bunny Dam, Port Marquittaside, AL 39480-1696
+Transaction ID: TXN624231543
+Timestamp: Clement McDermott
+Amount: 1597.90
+Receiver: Thu Jan 02 11:14:33 IST 2025
+Status: Failed
+-----------------------------

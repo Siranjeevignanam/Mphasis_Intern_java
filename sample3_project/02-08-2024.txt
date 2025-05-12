@@ -1,0 +1,99 @@
+Customer ID: CUST378048
+Name: Jimmie Beer V
+Mobile: tresa.halvorson@yahoo.com
+Email: (253) 364-6625
+Address: 1941 Major Landing, Hanemouth, WV 49458-2373
+Transaction ID: TXN763086861
+Timestamp: Miss Jacquelyn Bayer
+Amount: 830.58
+Receiver: Sat Aug 03 01:38:00 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST446013
+Name: Virginia Goyette
+Mobile: winifred.smitham@yahoo.com
+Email: 765.558.9938
+Address: 4605 Blondell Lodge, Hillltown, WA 56192
+Transaction ID: TXN923424174
+Timestamp: Marlon Walter
+Amount: 6842.06
+Receiver: Fri Aug 02 21:54:14 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST485056
+Name: Jarrett Schowalter
+Mobile: don.brakus@hotmail.com
+Email: (482) 327-3256
+Address: Apt. 814 053 Pouros Lodge, Port Natasha, AZ 54490-6624
+Transaction ID: TXN957863504
+Timestamp: Jessenia O'Keefe
+Amount: 8153.96
+Receiver: Fri Aug 02 06:18:20 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST378048
+Name: Jimmie Beer V
+Mobile: tresa.halvorson@yahoo.com
+Email: (253) 364-6625
+Address: 1941 Major Landing, Hanemouth, WV 49458-2373
+Transaction ID: TXN763086861
+Timestamp: Miss Jacquelyn Bayer
+Amount: 830.58
+Receiver: Sat Aug 03 01:38:00 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST446013
+Name: Virginia Goyette
+Mobile: winifred.smitham@yahoo.com
+Email: 765.558.9938
+Address: 4605 Blondell Lodge, Hillltown, WA 56192
+Transaction ID: TXN923424174
+Timestamp: Marlon Walter
+Amount: 6842.06
+Receiver: Fri Aug 02 21:54:14 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST485056
+Name: Jarrett Schowalter
+Mobile: don.brakus@hotmail.com
+Email: (482) 327-3256
+Address: Apt. 814 053 Pouros Lodge, Port Natasha, AZ 54490-6624
+Transaction ID: TXN957863504
+Timestamp: Jessenia O'Keefe
+Amount: 8153.96
+Receiver: Fri Aug 02 06:18:20 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST378048
+Name: Jimmie Beer V
+Mobile: tresa.halvorson@yahoo.com
+Email: (253) 364-6625
+Address: 1941 Major Landing, Hanemouth, WV 49458-2373
+Transaction ID: TXN763086861
+Timestamp: Miss Jacquelyn Bayer
+Amount: 830.58
+Receiver: Sat Aug 03 01:38:00 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST446013
+Name: Virginia Goyette
+Mobile: winifred.smitham@yahoo.com
+Email: 765.558.9938
+Address: 4605 Blondell Lodge, Hillltown, WA 56192
+Transaction ID: TXN923424174
+Timestamp: Marlon Walter
+Amount: 6842.06
+Receiver: Fri Aug 02 21:54:14 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST485056
+Name: Jarrett Schowalter
+Mobile: don.brakus@hotmail.com
+Email: (482) 327-3256
+Address: Apt. 814 053 Pouros Lodge, Port Natasha, AZ 54490-6624
+Transaction ID: TXN957863504
+Timestamp: Jessenia O'Keefe
+Amount: 8153.96
+Receiver: Fri Aug 02 06:18:20 IST 2024
+Status: Success
+-----------------------------

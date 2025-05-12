@@ -1,0 +1,33 @@
+Customer ID: CUST698139
+Name: Mimi Thiel
+Mobile: launa.mckenzie@hotmail.com
+Email: (069) 582-0872
+Address: 32443 Wisozk Hill, Port Edwardo, FL 83778
+Transaction ID: TXN820435653
+Timestamp: Willie Sanford
+Amount: 7439.34
+Receiver: Wed Aug 21 13:16:54 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST698139
+Name: Mimi Thiel
+Mobile: launa.mckenzie@hotmail.com
+Email: (069) 582-0872
+Address: 32443 Wisozk Hill, Port Edwardo, FL 83778
+Transaction ID: TXN820435653
+Timestamp: Willie Sanford
+Amount: 7439.34
+Receiver: Wed Aug 21 13:16:54 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST698139
+Name: Mimi Thiel
+Mobile: launa.mckenzie@hotmail.com
+Email: (069) 582-0872
+Address: 32443 Wisozk Hill, Port Edwardo, FL 83778
+Transaction ID: TXN820435653
+Timestamp: Willie Sanford
+Amount: 7439.34
+Receiver: Wed Aug 21 13:16:54 IST 2024
+Status: Success
+-----------------------------

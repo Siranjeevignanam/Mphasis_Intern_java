@@ -1,0 +1,66 @@
+Customer ID: CUST536628
+Name: Sebrina Russel
+Mobile: debroah.beer@gmail.com
+Email: 1-360-706-1646
+Address: 31360 Feeney Viaduct, Dibbertville, KY 55171-7836
+Transaction ID: TXN236485547
+Timestamp: Lenora Greenholt
+Amount: 983.45
+Receiver: Wed Sep 04 12:50:47 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST798082
+Name: Lilly Reinger
+Mobile: eli.botsford@gmail.com
+Email: 011.031.2796
+Address: Suite 796 048 Considine Roads, New Jonathonmouth, NY 99975-6645
+Transaction ID: TXN684739487
+Timestamp: Manual Mraz
+Amount: 9231.73
+Receiver: Wed Sep 04 10:39:39 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST536628
+Name: Sebrina Russel
+Mobile: debroah.beer@gmail.com
+Email: 1-360-706-1646
+Address: 31360 Feeney Viaduct, Dibbertville, KY 55171-7836
+Transaction ID: TXN236485547
+Timestamp: Lenora Greenholt
+Amount: 983.45
+Receiver: Wed Sep 04 12:50:47 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST798082
+Name: Lilly Reinger
+Mobile: eli.botsford@gmail.com
+Email: 011.031.2796
+Address: Suite 796 048 Considine Roads, New Jonathonmouth, NY 99975-6645
+Transaction ID: TXN684739487
+Timestamp: Manual Mraz
+Amount: 9231.73
+Receiver: Wed Sep 04 10:39:39 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST536628
+Name: Sebrina Russel
+Mobile: debroah.beer@gmail.com
+Email: 1-360-706-1646
+Address: 31360 Feeney Viaduct, Dibbertville, KY 55171-7836
+Transaction ID: TXN236485547
+Timestamp: Lenora Greenholt
+Amount: 983.45
+Receiver: Wed Sep 04 12:50:47 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST798082
+Name: Lilly Reinger
+Mobile: eli.botsford@gmail.com
+Email: 011.031.2796
+Address: Suite 796 048 Considine Roads, New Jonathonmouth, NY 99975-6645
+Transaction ID: TXN684739487
+Timestamp: Manual Mraz
+Amount: 9231.73
+Receiver: Wed Sep 04 10:39:39 IST 2024
+Status: Success
+-----------------------------

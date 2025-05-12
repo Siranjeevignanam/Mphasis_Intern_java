@@ -1,0 +1,66 @@
+Customer ID: CUST291777
+Name: Stephanie Gottlieb
+Mobile: wilton.bergstrom@hotmail.com
+Email: 733.866.6215
+Address: Apt. 417 9978 Wiza Drive, North Kirsten, OK 51136
+Transaction ID: TXN312343822
+Timestamp: Bryant Schoen
+Amount: 6897.59
+Receiver: Thu Aug 01 15:06:43 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST297291
+Name: Gale Zieme
+Mobile: harlan.zboncak@hotmail.com
+Email: 460.250.8488
+Address: Apt. 802 7240 Brekke Orchard, Port Derekland, NV 31510-5767
+Transaction ID: TXN255009866
+Timestamp: Katrina Streich DDS
+Amount: 815.69
+Receiver: Fri Aug 02 04:21:52 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST291777
+Name: Stephanie Gottlieb
+Mobile: wilton.bergstrom@hotmail.com
+Email: 733.866.6215
+Address: Apt. 417 9978 Wiza Drive, North Kirsten, OK 51136
+Transaction ID: TXN312343822
+Timestamp: Bryant Schoen
+Amount: 6897.59
+Receiver: Thu Aug 01 15:06:43 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST297291
+Name: Gale Zieme
+Mobile: harlan.zboncak@hotmail.com
+Email: 460.250.8488
+Address: Apt. 802 7240 Brekke Orchard, Port Derekland, NV 31510-5767
+Transaction ID: TXN255009866
+Timestamp: Katrina Streich DDS
+Amount: 815.69
+Receiver: Fri Aug 02 04:21:52 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST291777
+Name: Stephanie Gottlieb
+Mobile: wilton.bergstrom@hotmail.com
+Email: 733.866.6215
+Address: Apt. 417 9978 Wiza Drive, North Kirsten, OK 51136
+Transaction ID: TXN312343822
+Timestamp: Bryant Schoen
+Amount: 6897.59
+Receiver: Thu Aug 01 15:06:43 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST297291
+Name: Gale Zieme
+Mobile: harlan.zboncak@hotmail.com
+Email: 460.250.8488
+Address: Apt. 802 7240 Brekke Orchard, Port Derekland, NV 31510-5767
+Transaction ID: TXN255009866
+Timestamp: Katrina Streich DDS
+Amount: 815.69
+Receiver: Fri Aug 02 04:21:52 IST 2024
+Status: Failed
+-----------------------------

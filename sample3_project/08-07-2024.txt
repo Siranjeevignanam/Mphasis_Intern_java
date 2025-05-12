@@ -1,0 +1,99 @@
+Customer ID: CUST261911
+Name: Andreas Hane
+Mobile: latoyia.monahan@gmail.com
+Email: (778) 134-4182
+Address: 781 Felice Route, Cummerataberg, OK 50564
+Transaction ID: TXN119295069
+Timestamp: Jeniffer Turcotte III
+Amount: 9175.94
+Receiver: Mon Jul 08 09:50:44 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST573471
+Name: Dr. Collin Bradtke
+Mobile: davina.gerlach@hotmail.com
+Email: 129-265-3264
+Address: Suite 725 710 Kassulke Turnpike, Broderickborough, DE 21999
+Transaction ID: TXN946469632
+Timestamp: Barrett Terry
+Amount: 1594.37
+Receiver: Mon Jul 08 10:58:11 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST105556
+Name: Therese Denesik MD
+Mobile: sharolyn.price@hotmail.com
+Email: (540) 938-3630
+Address: Apt. 150 655 Jennell Place, Port Kyraside, HI 61088
+Transaction ID: TXN497028597
+Timestamp: Mr. Mariann Reinger
+Amount: 2086.73
+Receiver: Mon Jul 08 17:17:21 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST261911
+Name: Andreas Hane
+Mobile: latoyia.monahan@gmail.com
+Email: (778) 134-4182
+Address: 781 Felice Route, Cummerataberg, OK 50564
+Transaction ID: TXN119295069
+Timestamp: Jeniffer Turcotte III
+Amount: 9175.94
+Receiver: Mon Jul 08 09:50:44 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST573471
+Name: Dr. Collin Bradtke
+Mobile: davina.gerlach@hotmail.com
+Email: 129-265-3264
+Address: Suite 725 710 Kassulke Turnpike, Broderickborough, DE 21999
+Transaction ID: TXN946469632
+Timestamp: Barrett Terry
+Amount: 1594.37
+Receiver: Mon Jul 08 10:58:11 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST105556
+Name: Therese Denesik MD
+Mobile: sharolyn.price@hotmail.com
+Email: (540) 938-3630
+Address: Apt. 150 655 Jennell Place, Port Kyraside, HI 61088
+Transaction ID: TXN497028597
+Timestamp: Mr. Mariann Reinger
+Amount: 2086.73
+Receiver: Mon Jul 08 17:17:21 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST261911
+Name: Andreas Hane
+Mobile: latoyia.monahan@gmail.com
+Email: (778) 134-4182
+Address: 781 Felice Route, Cummerataberg, OK 50564
+Transaction ID: TXN119295069
+Timestamp: Jeniffer Turcotte III
+Amount: 9175.94
+Receiver: Mon Jul 08 09:50:44 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST573471
+Name: Dr. Collin Bradtke
+Mobile: davina.gerlach@hotmail.com
+Email: 129-265-3264
+Address: Suite 725 710 Kassulke Turnpike, Broderickborough, DE 21999
+Transaction ID: TXN946469632
+Timestamp: Barrett Terry
+Amount: 1594.37
+Receiver: Mon Jul 08 10:58:11 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST105556
+Name: Therese Denesik MD
+Mobile: sharolyn.price@hotmail.com
+Email: (540) 938-3630
+Address: Apt. 150 655 Jennell Place, Port Kyraside, HI 61088
+Transaction ID: TXN497028597
+Timestamp: Mr. Mariann Reinger
+Amount: 2086.73
+Receiver: Mon Jul 08 17:17:21 IST 2024
+Status: Failed
+-----------------------------

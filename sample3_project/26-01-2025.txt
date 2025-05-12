@@ -1,0 +1,132 @@
+Customer ID: CUST191974
+Name: Herb Morar
+Mobile: adalberto.berge@gmail.com
+Email: 1-665-976-7436
+Address: 3836 Herminia Road, Adamsshire, OH 43971
+Transaction ID: TXN193148192
+Timestamp: Dr. Garry Wyman
+Amount: 5670.52
+Receiver: Mon Jan 27 03:02:48 IST 2025
+Status: Failed
+-----------------------------
+Customer ID: CUST979587
+Name: Miss Marcellus Bartell
+Mobile: risa.howell@yahoo.com
+Email: 448-877-4383
+Address: Suite 285 184 Nancey Alley, Lake Mayrashire, RI 28028
+Transaction ID: TXN178005296
+Timestamp: Krystina Weimann II
+Amount: 1100.79
+Receiver: Sun Jan 26 20:00:47 IST 2025
+Status: Failed
+-----------------------------
+Customer ID: CUST878347
+Name: Darrick Walter
+Mobile: oleta.bode@hotmail.com
+Email: 685.217.7228
+Address: Suite 536 9887 Miller Courts, Maoshire, MS 11100-0083
+Transaction ID: TXN299286099
+Timestamp: Clyde Herman
+Amount: 5963.40
+Receiver: Sun Jan 26 12:44:08 IST 2025
+Status: Success
+-----------------------------
+Customer ID: CUST493825
+Name: Everett Lakin
+Mobile: lakeshia.stiedemann@gmail.com
+Email: 1-006-386-4626
+Address: Suite 949 647 Bud Extension, Laurynton, NC 27973-8801
+Transaction ID: TXN834239155
+Timestamp: Alec Beer
+Amount: 542.75
+Receiver: Sun Jan 26 17:25:24 IST 2025
+Status: Failed
+-----------------------------
+Customer ID: CUST191974
+Name: Herb Morar
+Mobile: adalberto.berge@gmail.com
+Email: 1-665-976-7436
+Address: 3836 Herminia Road, Adamsshire, OH 43971
+Transaction ID: TXN193148192
+Timestamp: Dr. Garry Wyman
+Amount: 5670.52
+Receiver: Mon Jan 27 03:02:48 IST 2025
+Status: Failed
+-----------------------------
+Customer ID: CUST979587
+Name: Miss Marcellus Bartell
+Mobile: risa.howell@yahoo.com
+Email: 448-877-4383
+Address: Suite 285 184 Nancey Alley, Lake Mayrashire, RI 28028
+Transaction ID: TXN178005296
+Timestamp: Krystina Weimann II
+Amount: 1100.79
+Receiver: Sun Jan 26 20:00:47 IST 2025
+Status: Failed
+-----------------------------
+Customer ID: CUST878347
+Name: Darrick Walter
+Mobile: oleta.bode@hotmail.com
+Email: 685.217.7228
+Address: Suite 536 9887 Miller Courts, Maoshire, MS 11100-0083
+Transaction ID: TXN299286099
+Timestamp: Clyde Herman
+Amount: 5963.40
+Receiver: Sun Jan 26 12:44:08 IST 2025
+Status: Success
+-----------------------------
+Customer ID: CUST493825
+Name: Everett Lakin
+Mobile: lakeshia.stiedemann@gmail.com
+Email: 1-006-386-4626
+Address: Suite 949 647 Bud Extension, Laurynton, NC 27973-8801
+Transaction ID: TXN834239155
+Timestamp: Alec Beer
+Amount: 542.75
+Receiver: Sun Jan 26 17:25:24 IST 2025
+Status: Failed
+-----------------------------
+Customer ID: CUST191974
+Name: Herb Morar
+Mobile: adalberto.berge@gmail.com
+Email: 1-665-976-7436
+Address: 3836 Herminia Road, Adamsshire, OH 43971
+Transaction ID: TXN193148192
+Timestamp: Dr. Garry Wyman
+Amount: 5670.52
+Receiver: Mon Jan 27 03:02:48 IST 2025
+Status: Failed
+-----------------------------
+Customer ID: CUST979587
+Name: Miss Marcellus Bartell
+Mobile: risa.howell@yahoo.com
+Email: 448-877-4383
+Address: Suite 285 184 Nancey Alley, Lake Mayrashire, RI 28028
+Transaction ID: TXN178005296
+Timestamp: Krystina Weimann II
+Amount: 1100.79
+Receiver: Sun Jan 26 20:00:47 IST 2025
+Status: Failed
+-----------------------------
+Customer ID: CUST878347
+Name: Darrick Walter
+Mobile: oleta.bode@hotmail.com
+Email: 685.217.7228
+Address: Suite 536 9887 Miller Courts, Maoshire, MS 11100-0083
+Transaction ID: TXN299286099
+Timestamp: Clyde Herman
+Amount: 5963.40
+Receiver: Sun Jan 26 12:44:08 IST 2025
+Status: Success
+-----------------------------
+Customer ID: CUST493825
+Name: Everett Lakin
+Mobile: lakeshia.stiedemann@gmail.com
+Email: 1-006-386-4626
+Address: Suite 949 647 Bud Extension, Laurynton, NC 27973-8801
+Transaction ID: TXN834239155
+Timestamp: Alec Beer
+Amount: 542.75
+Receiver: Sun Jan 26 17:25:24 IST 2025
+Status: Failed
+-----------------------------

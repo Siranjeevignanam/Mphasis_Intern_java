@@ -1,0 +1,33 @@
+Customer ID: CUST385557
+Name: Ms. Mildred Streich
+Mobile: evan.hettinger@yahoo.com
+Email: 779-176-3142
+Address: 6730 Pouros Rue, Port Paulastad, ME 61210
+Transaction ID: TXN752253903
+Timestamp: Jackqueline Hayes MD
+Amount: 3735.84
+Receiver: Sun Aug 11 16:39:14 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST385557
+Name: Ms. Mildred Streich
+Mobile: evan.hettinger@yahoo.com
+Email: 779-176-3142
+Address: 6730 Pouros Rue, Port Paulastad, ME 61210
+Transaction ID: TXN752253903
+Timestamp: Jackqueline Hayes MD
+Amount: 3735.84
+Receiver: Sun Aug 11 16:39:14 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST385557
+Name: Ms. Mildred Streich
+Mobile: evan.hettinger@yahoo.com
+Email: 779-176-3142
+Address: 6730 Pouros Rue, Port Paulastad, ME 61210
+Transaction ID: TXN752253903
+Timestamp: Jackqueline Hayes MD
+Amount: 3735.84
+Receiver: Sun Aug 11 16:39:14 IST 2024
+Status: Failed
+-----------------------------

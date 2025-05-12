@@ -1,0 +1,66 @@
+Customer ID: CUST126304
+Name: Christie Ziemann
+Mobile: dania.sipes@yahoo.com
+Email: (547) 275-1576
+Address: Apt. 503 204 Roberts Prairie, Boganton, LA 36447-2076
+Transaction ID: TXN396813628
+Timestamp: Ms. Mohammad Collins
+Amount: 6506.88
+Receiver: Mon Nov 04 07:54:57 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST559289
+Name: Bethanie Thompson
+Mobile: bennie.waelchi@gmail.com
+Email: 867-572-6044
+Address: Apt. 725 34911 Reichel Forest, Littelshire, DE 01980-7421
+Transaction ID: TXN840888571
+Timestamp: Essie Cremin
+Amount: 1399.25
+Receiver: Mon Nov 04 10:41:23 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST126304
+Name: Christie Ziemann
+Mobile: dania.sipes@yahoo.com
+Email: (547) 275-1576
+Address: Apt. 503 204 Roberts Prairie, Boganton, LA 36447-2076
+Transaction ID: TXN396813628
+Timestamp: Ms. Mohammad Collins
+Amount: 6506.88
+Receiver: Mon Nov 04 07:54:57 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST559289
+Name: Bethanie Thompson
+Mobile: bennie.waelchi@gmail.com
+Email: 867-572-6044
+Address: Apt. 725 34911 Reichel Forest, Littelshire, DE 01980-7421
+Transaction ID: TXN840888571
+Timestamp: Essie Cremin
+Amount: 1399.25
+Receiver: Mon Nov 04 10:41:23 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST126304
+Name: Christie Ziemann
+Mobile: dania.sipes@yahoo.com
+Email: (547) 275-1576
+Address: Apt. 503 204 Roberts Prairie, Boganton, LA 36447-2076
+Transaction ID: TXN396813628
+Timestamp: Ms. Mohammad Collins
+Amount: 6506.88
+Receiver: Mon Nov 04 07:54:57 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST559289
+Name: Bethanie Thompson
+Mobile: bennie.waelchi@gmail.com
+Email: 867-572-6044
+Address: Apt. 725 34911 Reichel Forest, Littelshire, DE 01980-7421
+Transaction ID: TXN840888571
+Timestamp: Essie Cremin
+Amount: 1399.25
+Receiver: Mon Nov 04 10:41:23 IST 2024
+Status: Success
+-----------------------------

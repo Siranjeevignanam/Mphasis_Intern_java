@@ -1,0 +1,132 @@
+Customer ID: CUST553660
+Name: Bettyann Dickens IV
+Mobile: josef.okeefe@hotmail.com
+Email: 117-561-5256
+Address: 23598 Ellamae Burgs, New Jean, WY 06701-2835
+Transaction ID: TXN118063087
+Timestamp: Margarito Fritsch III
+Amount: 2214.34
+Receiver: Mon Sep 16 15:28:22 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST130387
+Name: Dr. Erminia Dickinson
+Mobile: celia.nikolaus@hotmail.com
+Email: 976.317.9691
+Address: 600 Nienow Streets, Kassulkemouth, NM 44304
+Transaction ID: TXN424506016
+Timestamp: Miss Kristofer Toy
+Amount: 1540.56
+Receiver: Tue Sep 17 04:42:03 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST749782
+Name: Dwayne Mann
+Mobile: kristofer.ernser@yahoo.com
+Email: 127.552.9519
+Address: Suite 442 96055 Omar Ramp, North Janellehaven, MD 19563-3216
+Transaction ID: TXN390955365
+Timestamp: Leroy Shields
+Amount: 3162.97
+Receiver: Mon Sep 16 11:12:59 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST854957
+Name: Marcelo Hermiston
+Mobile: jamaal.okuneva@gmail.com
+Email: (386) 725-4826
+Address: Apt. 451 23153 Bree Ferry, Bartellfurt, NJ 00048-2440
+Transaction ID: TXN729148683
+Timestamp: Lionel Homenick
+Amount: 2181.75
+Receiver: Mon Sep 16 14:36:42 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST553660
+Name: Bettyann Dickens IV
+Mobile: josef.okeefe@hotmail.com
+Email: 117-561-5256
+Address: 23598 Ellamae Burgs, New Jean, WY 06701-2835
+Transaction ID: TXN118063087
+Timestamp: Margarito Fritsch III
+Amount: 2214.34
+Receiver: Mon Sep 16 15:28:22 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST130387
+Name: Dr. Erminia Dickinson
+Mobile: celia.nikolaus@hotmail.com
+Email: 976.317.9691
+Address: 600 Nienow Streets, Kassulkemouth, NM 44304
+Transaction ID: TXN424506016
+Timestamp: Miss Kristofer Toy
+Amount: 1540.56
+Receiver: Tue Sep 17 04:42:03 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST749782
+Name: Dwayne Mann
+Mobile: kristofer.ernser@yahoo.com
+Email: 127.552.9519
+Address: Suite 442 96055 Omar Ramp, North Janellehaven, MD 19563-3216
+Transaction ID: TXN390955365
+Timestamp: Leroy Shields
+Amount: 3162.97
+Receiver: Mon Sep 16 11:12:59 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST854957
+Name: Marcelo Hermiston
+Mobile: jamaal.okuneva@gmail.com
+Email: (386) 725-4826
+Address: Apt. 451 23153 Bree Ferry, Bartellfurt, NJ 00048-2440
+Transaction ID: TXN729148683
+Timestamp: Lionel Homenick
+Amount: 2181.75
+Receiver: Mon Sep 16 14:36:42 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST553660
+Name: Bettyann Dickens IV
+Mobile: josef.okeefe@hotmail.com
+Email: 117-561-5256
+Address: 23598 Ellamae Burgs, New Jean, WY 06701-2835
+Transaction ID: TXN118063087
+Timestamp: Margarito Fritsch III
+Amount: 2214.34
+Receiver: Mon Sep 16 15:28:22 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST130387
+Name: Dr. Erminia Dickinson
+Mobile: celia.nikolaus@hotmail.com
+Email: 976.317.9691
+Address: 600 Nienow Streets, Kassulkemouth, NM 44304
+Transaction ID: TXN424506016
+Timestamp: Miss Kristofer Toy
+Amount: 1540.56
+Receiver: Tue Sep 17 04:42:03 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST749782
+Name: Dwayne Mann
+Mobile: kristofer.ernser@yahoo.com
+Email: 127.552.9519
+Address: Suite 442 96055 Omar Ramp, North Janellehaven, MD 19563-3216
+Transaction ID: TXN390955365
+Timestamp: Leroy Shields
+Amount: 3162.97
+Receiver: Mon Sep 16 11:12:59 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST854957
+Name: Marcelo Hermiston
+Mobile: jamaal.okuneva@gmail.com
+Email: (386) 725-4826
+Address: Apt. 451 23153 Bree Ferry, Bartellfurt, NJ 00048-2440
+Transaction ID: TXN729148683
+Timestamp: Lionel Homenick
+Amount: 2181.75
+Receiver: Mon Sep 16 14:36:42 IST 2024
+Status: Failed
+-----------------------------

@@ -1,0 +1,66 @@
+Customer ID: CUST534519
+Name: Moises Lind
+Mobile: jonell.wiegand@yahoo.com
+Email: 823.592.2206
+Address: Apt. 260 98686 Effertz Coves, Beerside, DE 99468
+Transaction ID: TXN745783395
+Timestamp: Miss Tracey Jacobson
+Amount: 771.27
+Receiver: Tue Sep 17 13:48:50 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST796405
+Name: Shaunna Roob Jr.
+Mobile: columbus.ledner@gmail.com
+Email: 756-485-2751
+Address: Apt. 125 4063 Cordell Square, West Caroyln, NC 94432
+Transaction ID: TXN362491683
+Timestamp: Vernita O'Connell DVM
+Amount: 4554.55
+Receiver: Wed Sep 18 03:14:49 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST534519
+Name: Moises Lind
+Mobile: jonell.wiegand@yahoo.com
+Email: 823.592.2206
+Address: Apt. 260 98686 Effertz Coves, Beerside, DE 99468
+Transaction ID: TXN745783395
+Timestamp: Miss Tracey Jacobson
+Amount: 771.27
+Receiver: Tue Sep 17 13:48:50 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST796405
+Name: Shaunna Roob Jr.
+Mobile: columbus.ledner@gmail.com
+Email: 756-485-2751
+Address: Apt. 125 4063 Cordell Square, West Caroyln, NC 94432
+Transaction ID: TXN362491683
+Timestamp: Vernita O'Connell DVM
+Amount: 4554.55
+Receiver: Wed Sep 18 03:14:49 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST534519
+Name: Moises Lind
+Mobile: jonell.wiegand@yahoo.com
+Email: 823.592.2206
+Address: Apt. 260 98686 Effertz Coves, Beerside, DE 99468
+Transaction ID: TXN745783395
+Timestamp: Miss Tracey Jacobson
+Amount: 771.27
+Receiver: Tue Sep 17 13:48:50 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST796405
+Name: Shaunna Roob Jr.
+Mobile: columbus.ledner@gmail.com
+Email: 756-485-2751
+Address: Apt. 125 4063 Cordell Square, West Caroyln, NC 94432
+Transaction ID: TXN362491683
+Timestamp: Vernita O'Connell DVM
+Amount: 4554.55
+Receiver: Wed Sep 18 03:14:49 IST 2024
+Status: Failed
+-----------------------------

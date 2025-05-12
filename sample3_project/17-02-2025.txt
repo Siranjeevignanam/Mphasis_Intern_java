@@ -1,0 +1,33 @@
+Customer ID: CUST252380
+Name: Joesph Mraz
+Mobile: lashawnda.kreiger@gmail.com
+Email: (093) 608-0644
+Address: Suite 481 761 Sherill Union, Shieldsborough, ID 41867-8944
+Transaction ID: TXN506035256
+Timestamp: Eryn Kihn
+Amount: 6507.13
+Receiver: Mon Feb 17 14:57:07 IST 2025
+Status: Failed
+-----------------------------
+Customer ID: CUST252380
+Name: Joesph Mraz
+Mobile: lashawnda.kreiger@gmail.com
+Email: (093) 608-0644
+Address: Suite 481 761 Sherill Union, Shieldsborough, ID 41867-8944
+Transaction ID: TXN506035256
+Timestamp: Eryn Kihn
+Amount: 6507.13
+Receiver: Mon Feb 17 14:57:07 IST 2025
+Status: Failed
+-----------------------------
+Customer ID: CUST252380
+Name: Joesph Mraz
+Mobile: lashawnda.kreiger@gmail.com
+Email: (093) 608-0644
+Address: Suite 481 761 Sherill Union, Shieldsborough, ID 41867-8944
+Transaction ID: TXN506035256
+Timestamp: Eryn Kihn
+Amount: 6507.13
+Receiver: Mon Feb 17 14:57:07 IST 2025
+Status: Failed
+-----------------------------

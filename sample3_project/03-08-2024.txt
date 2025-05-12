@@ -1,0 +1,66 @@
+Customer ID: CUST723437
+Name: Ellyn Gaylord
+Mobile: sharyl.marks@yahoo.com
+Email: 1-380-869-3287
+Address: 7700 Bins Center, North Lang, CT 35496-4728
+Transaction ID: TXN797752806
+Timestamp: Cathleen Fisher
+Amount: 9704.26
+Receiver: Sat Aug 03 07:31:08 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST226011
+Name: Boyd Gerlach
+Mobile: laurine.spencer@yahoo.com
+Email: 1-049-139-8445
+Address: 9253 Mertz Manor, East Steviehaven, MS 17326
+Transaction ID: TXN704370430
+Timestamp: Kristine Ward
+Amount: 1227.66
+Receiver: Sat Aug 03 19:19:31 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST723437
+Name: Ellyn Gaylord
+Mobile: sharyl.marks@yahoo.com
+Email: 1-380-869-3287
+Address: 7700 Bins Center, North Lang, CT 35496-4728
+Transaction ID: TXN797752806
+Timestamp: Cathleen Fisher
+Amount: 9704.26
+Receiver: Sat Aug 03 07:31:08 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST226011
+Name: Boyd Gerlach
+Mobile: laurine.spencer@yahoo.com
+Email: 1-049-139-8445
+Address: 9253 Mertz Manor, East Steviehaven, MS 17326
+Transaction ID: TXN704370430
+Timestamp: Kristine Ward
+Amount: 1227.66
+Receiver: Sat Aug 03 19:19:31 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST723437
+Name: Ellyn Gaylord
+Mobile: sharyl.marks@yahoo.com
+Email: 1-380-869-3287
+Address: 7700 Bins Center, North Lang, CT 35496-4728
+Transaction ID: TXN797752806
+Timestamp: Cathleen Fisher
+Amount: 9704.26
+Receiver: Sat Aug 03 07:31:08 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST226011
+Name: Boyd Gerlach
+Mobile: laurine.spencer@yahoo.com
+Email: 1-049-139-8445
+Address: 9253 Mertz Manor, East Steviehaven, MS 17326
+Transaction ID: TXN704370430
+Timestamp: Kristine Ward
+Amount: 1227.66
+Receiver: Sat Aug 03 19:19:31 IST 2024
+Status: Success
+-----------------------------

@@ -1,0 +1,33 @@
+Customer ID: CUST960543
+Name: Nathalie Rempel
+Mobile: denis.hammes@gmail.com
+Email: (919) 060-6274
+Address: Apt. 925 40424 Nicholas Creek, Wymanberg, TX 72537
+Transaction ID: TXN756577827
+Timestamp: Ms. Elna Heaney
+Amount: 5146.41
+Receiver: Sat Jul 06 20:14:26 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST960543
+Name: Nathalie Rempel
+Mobile: denis.hammes@gmail.com
+Email: (919) 060-6274
+Address: Apt. 925 40424 Nicholas Creek, Wymanberg, TX 72537
+Transaction ID: TXN756577827
+Timestamp: Ms. Elna Heaney
+Amount: 5146.41
+Receiver: Sat Jul 06 20:14:26 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST960543
+Name: Nathalie Rempel
+Mobile: denis.hammes@gmail.com
+Email: (919) 060-6274
+Address: Apt. 925 40424 Nicholas Creek, Wymanberg, TX 72537
+Transaction ID: TXN756577827
+Timestamp: Ms. Elna Heaney
+Amount: 5146.41
+Receiver: Sat Jul 06 20:14:26 IST 2024
+Status: Success
+-----------------------------

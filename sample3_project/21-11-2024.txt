@@ -1,0 +1,99 @@
+Customer ID: CUST240889
+Name: Jae Kuvalis
+Mobile: eloy.frami@yahoo.com
+Email: (462) 818-6299
+Address: 3208 Dalton Keys, West Danteshire, IN 35354-5811
+Transaction ID: TXN891232942
+Timestamp: Ali Connelly
+Amount: 1230.74
+Receiver: Fri Nov 22 05:24:52 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST364258
+Name: Mrs. Palmer Fay
+Mobile: lenore.wisozk@hotmail.com
+Email: 1-476-880-3853
+Address: Suite 738 704 Marcellus Isle, Gulgowskiville, MI 76250-8607
+Transaction ID: TXN372977242
+Timestamp: Ms. Juana Ferry
+Amount: 964.00
+Receiver: Thu Nov 21 19:36:17 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST500909
+Name: Mayra Runte
+Mobile: mae.crona@hotmail.com
+Email: 528.554.4196
+Address: 4692 Gregorio Coves, New Leandrohaven, SD 94034
+Transaction ID: TXN783678386
+Timestamp: Cyrus Koepp
+Amount: 8767.44
+Receiver: Fri Nov 22 00:01:33 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST240889
+Name: Jae Kuvalis
+Mobile: eloy.frami@yahoo.com
+Email: (462) 818-6299
+Address: 3208 Dalton Keys, West Danteshire, IN 35354-5811
+Transaction ID: TXN891232942
+Timestamp: Ali Connelly
+Amount: 1230.74
+Receiver: Fri Nov 22 05:24:52 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST364258
+Name: Mrs. Palmer Fay
+Mobile: lenore.wisozk@hotmail.com
+Email: 1-476-880-3853
+Address: Suite 738 704 Marcellus Isle, Gulgowskiville, MI 76250-8607
+Transaction ID: TXN372977242
+Timestamp: Ms. Juana Ferry
+Amount: 964.00
+Receiver: Thu Nov 21 19:36:17 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST500909
+Name: Mayra Runte
+Mobile: mae.crona@hotmail.com
+Email: 528.554.4196
+Address: 4692 Gregorio Coves, New Leandrohaven, SD 94034
+Transaction ID: TXN783678386
+Timestamp: Cyrus Koepp
+Amount: 8767.44
+Receiver: Fri Nov 22 00:01:33 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST240889
+Name: Jae Kuvalis
+Mobile: eloy.frami@yahoo.com
+Email: (462) 818-6299
+Address: 3208 Dalton Keys, West Danteshire, IN 35354-5811
+Transaction ID: TXN891232942
+Timestamp: Ali Connelly
+Amount: 1230.74
+Receiver: Fri Nov 22 05:24:52 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST364258
+Name: Mrs. Palmer Fay
+Mobile: lenore.wisozk@hotmail.com
+Email: 1-476-880-3853
+Address: Suite 738 704 Marcellus Isle, Gulgowskiville, MI 76250-8607
+Transaction ID: TXN372977242
+Timestamp: Ms. Juana Ferry
+Amount: 964.00
+Receiver: Thu Nov 21 19:36:17 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST500909
+Name: Mayra Runte
+Mobile: mae.crona@hotmail.com
+Email: 528.554.4196
+Address: 4692 Gregorio Coves, New Leandrohaven, SD 94034
+Transaction ID: TXN783678386
+Timestamp: Cyrus Koepp
+Amount: 8767.44
+Receiver: Fri Nov 22 00:01:33 IST 2024
+Status: Success
+-----------------------------

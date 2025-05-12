@@ -1,0 +1,66 @@
+Customer ID: CUST763437
+Name: Elliott Harvey
+Mobile: sylvester.welch@yahoo.com
+Email: 1-608-356-8448
+Address: Suite 544 020 Allyson Tunnel, Mariannside, CA 04081-9632
+Transaction ID: TXN532560328
+Timestamp: Chris Harber
+Amount: 1401.38
+Receiver: Wed Nov 06 02:56:08 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST826088
+Name: Ed Wilderman
+Mobile: ginny.schimmel@yahoo.com
+Email: (203) 222-1477
+Address: Suite 841 099 Altenwerth Lodge, East Marvinberg, HI 38190
+Transaction ID: TXN978816543
+Timestamp: Shanelle McClure
+Amount: 781.23
+Receiver: Tue Nov 05 12:04:34 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST763437
+Name: Elliott Harvey
+Mobile: sylvester.welch@yahoo.com
+Email: 1-608-356-8448
+Address: Suite 544 020 Allyson Tunnel, Mariannside, CA 04081-9632
+Transaction ID: TXN532560328
+Timestamp: Chris Harber
+Amount: 1401.38
+Receiver: Wed Nov 06 02:56:08 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST826088
+Name: Ed Wilderman
+Mobile: ginny.schimmel@yahoo.com
+Email: (203) 222-1477
+Address: Suite 841 099 Altenwerth Lodge, East Marvinberg, HI 38190
+Transaction ID: TXN978816543
+Timestamp: Shanelle McClure
+Amount: 781.23
+Receiver: Tue Nov 05 12:04:34 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST763437
+Name: Elliott Harvey
+Mobile: sylvester.welch@yahoo.com
+Email: 1-608-356-8448
+Address: Suite 544 020 Allyson Tunnel, Mariannside, CA 04081-9632
+Transaction ID: TXN532560328
+Timestamp: Chris Harber
+Amount: 1401.38
+Receiver: Wed Nov 06 02:56:08 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST826088
+Name: Ed Wilderman
+Mobile: ginny.schimmel@yahoo.com
+Email: (203) 222-1477
+Address: Suite 841 099 Altenwerth Lodge, East Marvinberg, HI 38190
+Transaction ID: TXN978816543
+Timestamp: Shanelle McClure
+Amount: 781.23
+Receiver: Tue Nov 05 12:04:34 IST 2024
+Status: Success
+-----------------------------

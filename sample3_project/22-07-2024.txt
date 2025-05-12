@@ -1,0 +1,66 @@
+Customer ID: CUST236945
+Name: Elise Lueilwitz
+Mobile: zachariah.gorczany@yahoo.com
+Email: (744) 563-9341
+Address: 5723 Raleigh Meadows, Port Ginny, MT 76500
+Transaction ID: TXN537231415
+Timestamp: Russ Nicolas
+Amount: 1012.23
+Receiver: Tue Jul 23 01:18:37 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST680764
+Name: Efrain Heathcote
+Mobile: ethan.swaniawski@yahoo.com
+Email: 672-517-9558
+Address: 56525 Turner Avenue, Kihnstad, MO 78752-4610
+Transaction ID: TXN762579937
+Timestamp: Mrs. Gwen Hettinger
+Amount: 7996.06
+Receiver: Mon Jul 22 05:31:15 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST236945
+Name: Elise Lueilwitz
+Mobile: zachariah.gorczany@yahoo.com
+Email: (744) 563-9341
+Address: 5723 Raleigh Meadows, Port Ginny, MT 76500
+Transaction ID: TXN537231415
+Timestamp: Russ Nicolas
+Amount: 1012.23
+Receiver: Tue Jul 23 01:18:37 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST680764
+Name: Efrain Heathcote
+Mobile: ethan.swaniawski@yahoo.com
+Email: 672-517-9558
+Address: 56525 Turner Avenue, Kihnstad, MO 78752-4610
+Transaction ID: TXN762579937
+Timestamp: Mrs. Gwen Hettinger
+Amount: 7996.06
+Receiver: Mon Jul 22 05:31:15 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST236945
+Name: Elise Lueilwitz
+Mobile: zachariah.gorczany@yahoo.com
+Email: (744) 563-9341
+Address: 5723 Raleigh Meadows, Port Ginny, MT 76500
+Transaction ID: TXN537231415
+Timestamp: Russ Nicolas
+Amount: 1012.23
+Receiver: Tue Jul 23 01:18:37 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST680764
+Name: Efrain Heathcote
+Mobile: ethan.swaniawski@yahoo.com
+Email: 672-517-9558
+Address: 56525 Turner Avenue, Kihnstad, MO 78752-4610
+Transaction ID: TXN762579937
+Timestamp: Mrs. Gwen Hettinger
+Amount: 7996.06
+Receiver: Mon Jul 22 05:31:15 IST 2024
+Status: Failed
+-----------------------------

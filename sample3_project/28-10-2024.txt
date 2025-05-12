@@ -1,0 +1,33 @@
+Customer ID: CUST937173
+Name: Mr. Timika Dicki
+Mobile: nikole.wiza@hotmail.com
+Email: (002) 149-9755
+Address: Suite 700 6254 Young Crescent, East Andres, MI 80454-2393
+Transaction ID: TXN727076481
+Timestamp: Sergio Crona
+Amount: 2837.87
+Receiver: Tue Oct 29 01:37:53 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST937173
+Name: Mr. Timika Dicki
+Mobile: nikole.wiza@hotmail.com
+Email: (002) 149-9755
+Address: Suite 700 6254 Young Crescent, East Andres, MI 80454-2393
+Transaction ID: TXN727076481
+Timestamp: Sergio Crona
+Amount: 2837.87
+Receiver: Tue Oct 29 01:37:53 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST937173
+Name: Mr. Timika Dicki
+Mobile: nikole.wiza@hotmail.com
+Email: (002) 149-9755
+Address: Suite 700 6254 Young Crescent, East Andres, MI 80454-2393
+Transaction ID: TXN727076481
+Timestamp: Sergio Crona
+Amount: 2837.87
+Receiver: Tue Oct 29 01:37:53 IST 2024
+Status: Failed
+-----------------------------

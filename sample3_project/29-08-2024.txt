@@ -1,0 +1,66 @@
+Customer ID: CUST415879
+Name: Manuel Koelpin Jr.
+Mobile: monserrate.franecki@hotmail.com
+Email: 211.563.2754
+Address: 28052 Vernon Harbor, Barrettshire, RI 21138-5326
+Transaction ID: TXN522688842
+Timestamp: Sidney Buckridge
+Amount: 3418.80
+Receiver: Thu Aug 29 10:02:58 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST848313
+Name: Dean Beer
+Mobile: ann.gulgowski@hotmail.com
+Email: 1-999-413-4421
+Address: Suite 804 6347 Hackett Causeway, Port Nanettehaven, WI 32552-1236
+Transaction ID: TXN395456679
+Timestamp: Laronda Skiles
+Amount: 7170.70
+Receiver: Fri Aug 30 04:58:49 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST415879
+Name: Manuel Koelpin Jr.
+Mobile: monserrate.franecki@hotmail.com
+Email: 211.563.2754
+Address: 28052 Vernon Harbor, Barrettshire, RI 21138-5326
+Transaction ID: TXN522688842
+Timestamp: Sidney Buckridge
+Amount: 3418.80
+Receiver: Thu Aug 29 10:02:58 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST848313
+Name: Dean Beer
+Mobile: ann.gulgowski@hotmail.com
+Email: 1-999-413-4421
+Address: Suite 804 6347 Hackett Causeway, Port Nanettehaven, WI 32552-1236
+Transaction ID: TXN395456679
+Timestamp: Laronda Skiles
+Amount: 7170.70
+Receiver: Fri Aug 30 04:58:49 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST415879
+Name: Manuel Koelpin Jr.
+Mobile: monserrate.franecki@hotmail.com
+Email: 211.563.2754
+Address: 28052 Vernon Harbor, Barrettshire, RI 21138-5326
+Transaction ID: TXN522688842
+Timestamp: Sidney Buckridge
+Amount: 3418.80
+Receiver: Thu Aug 29 10:02:58 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST848313
+Name: Dean Beer
+Mobile: ann.gulgowski@hotmail.com
+Email: 1-999-413-4421
+Address: Suite 804 6347 Hackett Causeway, Port Nanettehaven, WI 32552-1236
+Transaction ID: TXN395456679
+Timestamp: Laronda Skiles
+Amount: 7170.70
+Receiver: Fri Aug 30 04:58:49 IST 2024
+Status: Failed
+-----------------------------

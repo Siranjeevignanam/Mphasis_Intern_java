@@ -1,0 +1,33 @@
+Customer ID: CUST939433
+Name: Leo Huel
+Mobile: jackelyn.adams@hotmail.com
+Email: 1-576-646-3206
+Address: Apt. 522 139 Davis Pines, Leanview, ND 94913
+Transaction ID: TXN987721884
+Timestamp: Nguyet Gutkowski
+Amount: 5060.94
+Receiver: Mon Jan 06 23:34:50 IST 2025
+Status: Failed
+-----------------------------
+Customer ID: CUST939433
+Name: Leo Huel
+Mobile: jackelyn.adams@hotmail.com
+Email: 1-576-646-3206
+Address: Apt. 522 139 Davis Pines, Leanview, ND 94913
+Transaction ID: TXN987721884
+Timestamp: Nguyet Gutkowski
+Amount: 5060.94
+Receiver: Mon Jan 06 23:34:50 IST 2025
+Status: Failed
+-----------------------------
+Customer ID: CUST939433
+Name: Leo Huel
+Mobile: jackelyn.adams@hotmail.com
+Email: 1-576-646-3206
+Address: Apt. 522 139 Davis Pines, Leanview, ND 94913
+Transaction ID: TXN987721884
+Timestamp: Nguyet Gutkowski
+Amount: 5060.94
+Receiver: Mon Jan 06 23:34:50 IST 2025
+Status: Failed
+-----------------------------

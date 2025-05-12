@@ -1,0 +1,66 @@
+Customer ID: CUST265567
+Name: Mr. Moises Stoltenberg
+Mobile: francesca.waters@gmail.com
+Email: (995) 540-6284
+Address: 145 Lou Isle, Travisstad, WA 41039-2623
+Transaction ID: TXN199261210
+Timestamp: Vincent Spinka
+Amount: 9305.58
+Receiver: Thu Mar 27 02:32:26 IST 2025
+Status: Success
+-----------------------------
+Customer ID: CUST232729
+Name: Kassie Frami
+Mobile: soraya.gibson@yahoo.com
+Email: 330-426-2643
+Address: Apt. 161 6132 Hortencia Freeway, Satterfieldland, NE 22829-0404
+Transaction ID: TXN455330209
+Timestamp: Cristy Daugherty
+Amount: 5353.06
+Receiver: Wed Mar 26 08:59:39 IST 2025
+Status: Success
+-----------------------------
+Customer ID: CUST265567
+Name: Mr. Moises Stoltenberg
+Mobile: francesca.waters@gmail.com
+Email: (995) 540-6284
+Address: 145 Lou Isle, Travisstad, WA 41039-2623
+Transaction ID: TXN199261210
+Timestamp: Vincent Spinka
+Amount: 9305.58
+Receiver: Thu Mar 27 02:32:26 IST 2025
+Status: Success
+-----------------------------
+Customer ID: CUST232729
+Name: Kassie Frami
+Mobile: soraya.gibson@yahoo.com
+Email: 330-426-2643
+Address: Apt. 161 6132 Hortencia Freeway, Satterfieldland, NE 22829-0404
+Transaction ID: TXN455330209
+Timestamp: Cristy Daugherty
+Amount: 5353.06
+Receiver: Wed Mar 26 08:59:39 IST 2025
+Status: Success
+-----------------------------
+Customer ID: CUST265567
+Name: Mr. Moises Stoltenberg
+Mobile: francesca.waters@gmail.com
+Email: (995) 540-6284
+Address: 145 Lou Isle, Travisstad, WA 41039-2623
+Transaction ID: TXN199261210
+Timestamp: Vincent Spinka
+Amount: 9305.58
+Receiver: Thu Mar 27 02:32:26 IST 2025
+Status: Success
+-----------------------------
+Customer ID: CUST232729
+Name: Kassie Frami
+Mobile: soraya.gibson@yahoo.com
+Email: 330-426-2643
+Address: Apt. 161 6132 Hortencia Freeway, Satterfieldland, NE 22829-0404
+Transaction ID: TXN455330209
+Timestamp: Cristy Daugherty
+Amount: 5353.06
+Receiver: Wed Mar 26 08:59:39 IST 2025
+Status: Success
+-----------------------------

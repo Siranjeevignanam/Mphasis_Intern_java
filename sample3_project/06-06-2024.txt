@@ -1,0 +1,99 @@
+Customer ID: CUST772275
+Name: Miss Courtney Abbott
+Mobile: josefine.jakubowski@hotmail.com
+Email: 1-959-761-3517
+Address: Apt. 667 438 Patrick Cliffs, Spencertown, HI 62010
+Transaction ID: TXN233390140
+Timestamp: Jonelle Schinner PhD
+Amount: 6613.03
+Receiver: Thu Jun 06 16:58:19 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST256551
+Name: Norbert Ritchie
+Mobile: humberto.friesen@gmail.com
+Email: 938.680.5093
+Address: Suite 190 84034 Mari Prairie, East Dwainton, NH 20965
+Transaction ID: TXN476428672
+Timestamp: Leonard Nienow
+Amount: 739.23
+Receiver: Thu Jun 06 09:54:56 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST116221
+Name: Gabrielle Schmeler
+Mobile: ashleigh.wuckert@gmail.com
+Email: (356) 525-0931
+Address: Suite 968 719 Jenkins Hill, Robertoburgh, IL 69829-3871
+Transaction ID: TXN902465948
+Timestamp: Travis Yost
+Amount: 1527.37
+Receiver: Thu Jun 06 18:40:15 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST772275
+Name: Miss Courtney Abbott
+Mobile: josefine.jakubowski@hotmail.com
+Email: 1-959-761-3517
+Address: Apt. 667 438 Patrick Cliffs, Spencertown, HI 62010
+Transaction ID: TXN233390140
+Timestamp: Jonelle Schinner PhD
+Amount: 6613.03
+Receiver: Thu Jun 06 16:58:19 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST256551
+Name: Norbert Ritchie
+Mobile: humberto.friesen@gmail.com
+Email: 938.680.5093
+Address: Suite 190 84034 Mari Prairie, East Dwainton, NH 20965
+Transaction ID: TXN476428672
+Timestamp: Leonard Nienow
+Amount: 739.23
+Receiver: Thu Jun 06 09:54:56 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST116221
+Name: Gabrielle Schmeler
+Mobile: ashleigh.wuckert@gmail.com
+Email: (356) 525-0931
+Address: Suite 968 719 Jenkins Hill, Robertoburgh, IL 69829-3871
+Transaction ID: TXN902465948
+Timestamp: Travis Yost
+Amount: 1527.37
+Receiver: Thu Jun 06 18:40:15 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST772275
+Name: Miss Courtney Abbott
+Mobile: josefine.jakubowski@hotmail.com
+Email: 1-959-761-3517
+Address: Apt. 667 438 Patrick Cliffs, Spencertown, HI 62010
+Transaction ID: TXN233390140
+Timestamp: Jonelle Schinner PhD
+Amount: 6613.03
+Receiver: Thu Jun 06 16:58:19 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST256551
+Name: Norbert Ritchie
+Mobile: humberto.friesen@gmail.com
+Email: 938.680.5093
+Address: Suite 190 84034 Mari Prairie, East Dwainton, NH 20965
+Transaction ID: TXN476428672
+Timestamp: Leonard Nienow
+Amount: 739.23
+Receiver: Thu Jun 06 09:54:56 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST116221
+Name: Gabrielle Schmeler
+Mobile: ashleigh.wuckert@gmail.com
+Email: (356) 525-0931
+Address: Suite 968 719 Jenkins Hill, Robertoburgh, IL 69829-3871
+Transaction ID: TXN902465948
+Timestamp: Travis Yost
+Amount: 1527.37
+Receiver: Thu Jun 06 18:40:15 IST 2024
+Status: Failed
+-----------------------------

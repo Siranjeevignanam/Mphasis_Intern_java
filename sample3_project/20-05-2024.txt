@@ -1,0 +1,66 @@
+Customer ID: CUST449885
+Name: Roland Hoppe
+Mobile: phil.beier@hotmail.com
+Email: (362) 793-1620
+Address: 7496 Leigh Route, North Montebury, ND 50467-2672
+Transaction ID: TXN820820098
+Timestamp: Mrs. Lashunda Spencer
+Amount: 3436.05
+Receiver: Mon May 20 11:32:16 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST407998
+Name: Tameka Ullrich
+Mobile: clarita.hegmann@gmail.com
+Email: 1-334-172-9614
+Address: 618 Hagenes Well, North Vivan, MI 80566
+Transaction ID: TXN705587780
+Timestamp: Chiquita Bartoletti
+Amount: 6686.08
+Receiver: Mon May 20 18:33:07 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST449885
+Name: Roland Hoppe
+Mobile: phil.beier@hotmail.com
+Email: (362) 793-1620
+Address: 7496 Leigh Route, North Montebury, ND 50467-2672
+Transaction ID: TXN820820098
+Timestamp: Mrs. Lashunda Spencer
+Amount: 3436.05
+Receiver: Mon May 20 11:32:16 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST407998
+Name: Tameka Ullrich
+Mobile: clarita.hegmann@gmail.com
+Email: 1-334-172-9614
+Address: 618 Hagenes Well, North Vivan, MI 80566
+Transaction ID: TXN705587780
+Timestamp: Chiquita Bartoletti
+Amount: 6686.08
+Receiver: Mon May 20 18:33:07 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST449885
+Name: Roland Hoppe
+Mobile: phil.beier@hotmail.com
+Email: (362) 793-1620
+Address: 7496 Leigh Route, North Montebury, ND 50467-2672
+Transaction ID: TXN820820098
+Timestamp: Mrs. Lashunda Spencer
+Amount: 3436.05
+Receiver: Mon May 20 11:32:16 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST407998
+Name: Tameka Ullrich
+Mobile: clarita.hegmann@gmail.com
+Email: 1-334-172-9614
+Address: 618 Hagenes Well, North Vivan, MI 80566
+Transaction ID: TXN705587780
+Timestamp: Chiquita Bartoletti
+Amount: 6686.08
+Receiver: Mon May 20 18:33:07 IST 2024
+Status: Failed
+-----------------------------

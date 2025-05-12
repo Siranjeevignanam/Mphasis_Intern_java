@@ -1,0 +1,165 @@
+Customer ID: CUST898525
+Name: Bethany Schuppe
+Mobile: wilber.ullrich@yahoo.com
+Email: 1-371-125-2029
+Address: Suite 926 808 Lynn Ways, Sporerside, UT 66891-3912
+Transaction ID: TXN768813519
+Timestamp: Flavia Hackett
+Amount: 4187.40
+Receiver: Fri Sep 20 01:00:38 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST783224
+Name: Ms. Gavin Quigley
+Mobile: geneva.walker@hotmail.com
+Email: 707-304-4369
+Address: 0009 O'Hara Valley, Miltonton, RI 54041
+Transaction ID: TXN248391544
+Timestamp: Percy Howell
+Amount: 5526.45
+Receiver: Thu Sep 19 23:08:38 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST168750
+Name: Robt Volkman
+Mobile: madonna.smith@gmail.com
+Email: (438) 071-8670
+Address: 13663 Margareta Dale, Dibbertshire, ME 33160-1247
+Transaction ID: TXN507958005
+Timestamp: Lael Farrell
+Amount: 9282.82
+Receiver: Thu Sep 19 07:38:14 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST755945
+Name: Ricardo Goyette
+Mobile: rico.block@hotmail.com
+Email: 1-512-927-5666
+Address: 471 McClure Summit, West Codi, OH 26021
+Transaction ID: TXN283421866
+Timestamp: Sonja Ruecker DVM
+Amount: 9985.01
+Receiver: Thu Sep 19 23:18:48 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST360494
+Name: Giuseppe Cassin V
+Mobile: elane.stoltenberg@hotmail.com
+Email: 1-334-002-7399
+Address: 175 Christiansen Forge, DuBuqueland, OR 81712-9127
+Transaction ID: TXN920069476
+Timestamp: Elvera Metz
+Amount: 3200.51
+Receiver: Thu Sep 19 06:32:04 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST898525
+Name: Bethany Schuppe
+Mobile: wilber.ullrich@yahoo.com
+Email: 1-371-125-2029
+Address: Suite 926 808 Lynn Ways, Sporerside, UT 66891-3912
+Transaction ID: TXN768813519
+Timestamp: Flavia Hackett
+Amount: 4187.40
+Receiver: Fri Sep 20 01:00:38 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST783224
+Name: Ms. Gavin Quigley
+Mobile: geneva.walker@hotmail.com
+Email: 707-304-4369
+Address: 0009 O'Hara Valley, Miltonton, RI 54041
+Transaction ID: TXN248391544
+Timestamp: Percy Howell
+Amount: 5526.45
+Receiver: Thu Sep 19 23:08:38 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST168750
+Name: Robt Volkman
+Mobile: madonna.smith@gmail.com
+Email: (438) 071-8670
+Address: 13663 Margareta Dale, Dibbertshire, ME 33160-1247
+Transaction ID: TXN507958005
+Timestamp: Lael Farrell
+Amount: 9282.82
+Receiver: Thu Sep 19 07:38:14 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST755945
+Name: Ricardo Goyette
+Mobile: rico.block@hotmail.com
+Email: 1-512-927-5666
+Address: 471 McClure Summit, West Codi, OH 26021
+Transaction ID: TXN283421866
+Timestamp: Sonja Ruecker DVM
+Amount: 9985.01
+Receiver: Thu Sep 19 23:18:48 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST360494
+Name: Giuseppe Cassin V
+Mobile: elane.stoltenberg@hotmail.com
+Email: 1-334-002-7399
+Address: 175 Christiansen Forge, DuBuqueland, OR 81712-9127
+Transaction ID: TXN920069476
+Timestamp: Elvera Metz
+Amount: 3200.51
+Receiver: Thu Sep 19 06:32:04 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST898525
+Name: Bethany Schuppe
+Mobile: wilber.ullrich@yahoo.com
+Email: 1-371-125-2029
+Address: Suite 926 808 Lynn Ways, Sporerside, UT 66891-3912
+Transaction ID: TXN768813519
+Timestamp: Flavia Hackett
+Amount: 4187.40
+Receiver: Fri Sep 20 01:00:38 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST783224
+Name: Ms. Gavin Quigley
+Mobile: geneva.walker@hotmail.com
+Email: 707-304-4369
+Address: 0009 O'Hara Valley, Miltonton, RI 54041
+Transaction ID: TXN248391544
+Timestamp: Percy Howell
+Amount: 5526.45
+Receiver: Thu Sep 19 23:08:38 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST168750
+Name: Robt Volkman
+Mobile: madonna.smith@gmail.com
+Email: (438) 071-8670
+Address: 13663 Margareta Dale, Dibbertshire, ME 33160-1247
+Transaction ID: TXN507958005
+Timestamp: Lael Farrell
+Amount: 9282.82
+Receiver: Thu Sep 19 07:38:14 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST755945
+Name: Ricardo Goyette
+Mobile: rico.block@hotmail.com
+Email: 1-512-927-5666
+Address: 471 McClure Summit, West Codi, OH 26021
+Transaction ID: TXN283421866
+Timestamp: Sonja Ruecker DVM
+Amount: 9985.01
+Receiver: Thu Sep 19 23:18:48 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST360494
+Name: Giuseppe Cassin V
+Mobile: elane.stoltenberg@hotmail.com
+Email: 1-334-002-7399
+Address: 175 Christiansen Forge, DuBuqueland, OR 81712-9127
+Transaction ID: TXN920069476
+Timestamp: Elvera Metz
+Amount: 3200.51
+Receiver: Thu Sep 19 06:32:04 IST 2024
+Status: Success
+-----------------------------

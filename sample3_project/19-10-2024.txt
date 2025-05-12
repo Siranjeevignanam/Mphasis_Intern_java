@@ -1,0 +1,33 @@
+Customer ID: CUST649606
+Name: Wilbur Weissnat
+Mobile: janel.becker@yahoo.com
+Email: (483) 945-2262
+Address: 771 Ricardo Street, North Lindseyfort, CA 55379-6509
+Transaction ID: TXN711269002
+Timestamp: Dena Streich
+Amount: 5224.24
+Receiver: Sun Oct 20 00:20:58 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST649606
+Name: Wilbur Weissnat
+Mobile: janel.becker@yahoo.com
+Email: (483) 945-2262
+Address: 771 Ricardo Street, North Lindseyfort, CA 55379-6509
+Transaction ID: TXN711269002
+Timestamp: Dena Streich
+Amount: 5224.24
+Receiver: Sun Oct 20 00:20:58 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST649606
+Name: Wilbur Weissnat
+Mobile: janel.becker@yahoo.com
+Email: (483) 945-2262
+Address: 771 Ricardo Street, North Lindseyfort, CA 55379-6509
+Transaction ID: TXN711269002
+Timestamp: Dena Streich
+Amount: 5224.24
+Receiver: Sun Oct 20 00:20:58 IST 2024
+Status: Failed
+-----------------------------

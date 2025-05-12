@@ -1,0 +1,99 @@
+Customer ID: CUST505258
+Name: Mr. Valentina Buckridge
+Mobile: reuben.thompson@hotmail.com
+Email: (563) 806-0952
+Address: Apt. 677 6840 Wilburn Well, Runolfsdottirburgh, FL 55245-3401
+Transaction ID: TXN718350635
+Timestamp: Anglea Terry
+Amount: 2783.08
+Receiver: Sun Jul 14 23:34:59 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST690997
+Name: Delbert Sporer
+Mobile: cyrus.stracke@hotmail.com
+Email: 319.376.5300
+Address: 055 Satterfield Heights, Marquisfurt, NY 69376-3311
+Transaction ID: TXN153861231
+Timestamp: Susie O'Hara
+Amount: 9945.99
+Receiver: Mon Jul 15 01:40:03 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST278880
+Name: Shannon Connelly
+Mobile: tricia.altenwerth@yahoo.com
+Email: 055.546.7088
+Address: 0390 Wendi Meadows, Blaineberg, SC 41181-8726
+Transaction ID: TXN413651357
+Timestamp: Wilfredo Lockman
+Amount: 6148.22
+Receiver: Mon Jul 15 05:23:50 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST505258
+Name: Mr. Valentina Buckridge
+Mobile: reuben.thompson@hotmail.com
+Email: (563) 806-0952
+Address: Apt. 677 6840 Wilburn Well, Runolfsdottirburgh, FL 55245-3401
+Transaction ID: TXN718350635
+Timestamp: Anglea Terry
+Amount: 2783.08
+Receiver: Sun Jul 14 23:34:59 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST690997
+Name: Delbert Sporer
+Mobile: cyrus.stracke@hotmail.com
+Email: 319.376.5300
+Address: 055 Satterfield Heights, Marquisfurt, NY 69376-3311
+Transaction ID: TXN153861231
+Timestamp: Susie O'Hara
+Amount: 9945.99
+Receiver: Mon Jul 15 01:40:03 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST278880
+Name: Shannon Connelly
+Mobile: tricia.altenwerth@yahoo.com
+Email: 055.546.7088
+Address: 0390 Wendi Meadows, Blaineberg, SC 41181-8726
+Transaction ID: TXN413651357
+Timestamp: Wilfredo Lockman
+Amount: 6148.22
+Receiver: Mon Jul 15 05:23:50 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST505258
+Name: Mr. Valentina Buckridge
+Mobile: reuben.thompson@hotmail.com
+Email: (563) 806-0952
+Address: Apt. 677 6840 Wilburn Well, Runolfsdottirburgh, FL 55245-3401
+Transaction ID: TXN718350635
+Timestamp: Anglea Terry
+Amount: 2783.08
+Receiver: Sun Jul 14 23:34:59 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST690997
+Name: Delbert Sporer
+Mobile: cyrus.stracke@hotmail.com
+Email: 319.376.5300
+Address: 055 Satterfield Heights, Marquisfurt, NY 69376-3311
+Transaction ID: TXN153861231
+Timestamp: Susie O'Hara
+Amount: 9945.99
+Receiver: Mon Jul 15 01:40:03 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST278880
+Name: Shannon Connelly
+Mobile: tricia.altenwerth@yahoo.com
+Email: 055.546.7088
+Address: 0390 Wendi Meadows, Blaineberg, SC 41181-8726
+Transaction ID: TXN413651357
+Timestamp: Wilfredo Lockman
+Amount: 6148.22
+Receiver: Mon Jul 15 05:23:50 IST 2024
+Status: Failed
+-----------------------------

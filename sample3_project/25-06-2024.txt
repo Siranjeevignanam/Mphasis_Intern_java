@@ -1,0 +1,132 @@
+Customer ID: CUST752806
+Name: Preston Luettgen II
+Mobile: lupe.labadie@hotmail.com
+Email: (150) 793-2949
+Address: Suite 576 12386 Krajcik Square, Wizamouth, FL 51104-0295
+Transaction ID: TXN474853618
+Timestamp: Deedra Mayert
+Amount: 4355.12
+Receiver: Tue Jun 25 17:25:40 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST788225
+Name: Walker Bailey
+Mobile: bertram.kunde@hotmail.com
+Email: 558-872-6516
+Address: Apt. 951 1068 Florrie Flat, New Un, ID 75119
+Transaction ID: TXN433955863
+Timestamp: Orval Huel
+Amount: 3341.65
+Receiver: Tue Jun 25 07:56:48 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST433404
+Name: Lon Prosacco I
+Mobile: arron.dare@hotmail.com
+Email: (346) 749-4669
+Address: Apt. 186 3868 Garry Springs, New Marcybury, KY 49704
+Transaction ID: TXN586761911
+Timestamp: Otelia Orn II
+Amount: 9082.00
+Receiver: Tue Jun 25 19:38:52 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST867550
+Name: Ramon Veum
+Mobile: booker.nienow@hotmail.com
+Email: 831.573.0267
+Address: Apt. 125 7961 Christiansen Skyway, New Terrilyn, MO 40615-3152
+Transaction ID: TXN953890517
+Timestamp: Tanya Tremblay
+Amount: 1315.09
+Receiver: Tue Jun 25 14:10:40 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST752806
+Name: Preston Luettgen II
+Mobile: lupe.labadie@hotmail.com
+Email: (150) 793-2949
+Address: Suite 576 12386 Krajcik Square, Wizamouth, FL 51104-0295
+Transaction ID: TXN474853618
+Timestamp: Deedra Mayert
+Amount: 4355.12
+Receiver: Tue Jun 25 17:25:40 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST788225
+Name: Walker Bailey
+Mobile: bertram.kunde@hotmail.com
+Email: 558-872-6516
+Address: Apt. 951 1068 Florrie Flat, New Un, ID 75119
+Transaction ID: TXN433955863
+Timestamp: Orval Huel
+Amount: 3341.65
+Receiver: Tue Jun 25 07:56:48 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST433404
+Name: Lon Prosacco I
+Mobile: arron.dare@hotmail.com
+Email: (346) 749-4669
+Address: Apt. 186 3868 Garry Springs, New Marcybury, KY 49704
+Transaction ID: TXN586761911
+Timestamp: Otelia Orn II
+Amount: 9082.00
+Receiver: Tue Jun 25 19:38:52 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST867550
+Name: Ramon Veum
+Mobile: booker.nienow@hotmail.com
+Email: 831.573.0267
+Address: Apt. 125 7961 Christiansen Skyway, New Terrilyn, MO 40615-3152
+Transaction ID: TXN953890517
+Timestamp: Tanya Tremblay
+Amount: 1315.09
+Receiver: Tue Jun 25 14:10:40 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST752806
+Name: Preston Luettgen II
+Mobile: lupe.labadie@hotmail.com
+Email: (150) 793-2949
+Address: Suite 576 12386 Krajcik Square, Wizamouth, FL 51104-0295
+Transaction ID: TXN474853618
+Timestamp: Deedra Mayert
+Amount: 4355.12
+Receiver: Tue Jun 25 17:25:40 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST788225
+Name: Walker Bailey
+Mobile: bertram.kunde@hotmail.com
+Email: 558-872-6516
+Address: Apt. 951 1068 Florrie Flat, New Un, ID 75119
+Transaction ID: TXN433955863
+Timestamp: Orval Huel
+Amount: 3341.65
+Receiver: Tue Jun 25 07:56:48 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST433404
+Name: Lon Prosacco I
+Mobile: arron.dare@hotmail.com
+Email: (346) 749-4669
+Address: Apt. 186 3868 Garry Springs, New Marcybury, KY 49704
+Transaction ID: TXN586761911
+Timestamp: Otelia Orn II
+Amount: 9082.00
+Receiver: Tue Jun 25 19:38:52 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST867550
+Name: Ramon Veum
+Mobile: booker.nienow@hotmail.com
+Email: 831.573.0267
+Address: Apt. 125 7961 Christiansen Skyway, New Terrilyn, MO 40615-3152
+Transaction ID: TXN953890517
+Timestamp: Tanya Tremblay
+Amount: 1315.09
+Receiver: Tue Jun 25 14:10:40 IST 2024
+Status: Success
+-----------------------------

@@ -1,0 +1,66 @@
+Customer ID: CUST680437
+Name: Evan Parker
+Mobile: darrell.bernier@yahoo.com
+Email: 1-569-746-7383
+Address: Apt. 252 23174 Edie Prairie, Port Kendricktown, KS 91850
+Transaction ID: TXN818262249
+Timestamp: Selina Okuneva
+Amount: 3131.40
+Receiver: Mon Dec 30 11:17:38 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST662883
+Name: Mr. Austin McLaughlin
+Mobile: nelson.schimmel@hotmail.com
+Email: 144-861-5046
+Address: 8703 Yvonne Islands, West Akilahport, IA 59349
+Transaction ID: TXN315683737
+Timestamp: Latrina Cummerata
+Amount: 8097.26
+Receiver: Mon Dec 30 13:55:23 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST680437
+Name: Evan Parker
+Mobile: darrell.bernier@yahoo.com
+Email: 1-569-746-7383
+Address: Apt. 252 23174 Edie Prairie, Port Kendricktown, KS 91850
+Transaction ID: TXN818262249
+Timestamp: Selina Okuneva
+Amount: 3131.40
+Receiver: Mon Dec 30 11:17:38 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST662883
+Name: Mr. Austin McLaughlin
+Mobile: nelson.schimmel@hotmail.com
+Email: 144-861-5046
+Address: 8703 Yvonne Islands, West Akilahport, IA 59349
+Transaction ID: TXN315683737
+Timestamp: Latrina Cummerata
+Amount: 8097.26
+Receiver: Mon Dec 30 13:55:23 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST680437
+Name: Evan Parker
+Mobile: darrell.bernier@yahoo.com
+Email: 1-569-746-7383
+Address: Apt. 252 23174 Edie Prairie, Port Kendricktown, KS 91850
+Transaction ID: TXN818262249
+Timestamp: Selina Okuneva
+Amount: 3131.40
+Receiver: Mon Dec 30 11:17:38 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST662883
+Name: Mr. Austin McLaughlin
+Mobile: nelson.schimmel@hotmail.com
+Email: 144-861-5046
+Address: 8703 Yvonne Islands, West Akilahport, IA 59349
+Transaction ID: TXN315683737
+Timestamp: Latrina Cummerata
+Amount: 8097.26
+Receiver: Mon Dec 30 13:55:23 IST 2024
+Status: Failed
+-----------------------------

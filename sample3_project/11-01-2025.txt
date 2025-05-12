@@ -1,0 +1,33 @@
+Customer ID: CUST552891
+Name: Owen Miller
+Mobile: brande.king@yahoo.com
+Email: (537) 991-5056
+Address: Apt. 653 1188 Lashon Bypass, New Alaina, NC 83554-8320
+Transaction ID: TXN261460567
+Timestamp: Luis Breitenberg III
+Amount: 6146.00
+Receiver: Sun Jan 12 01:10:58 IST 2025
+Status: Success
+-----------------------------
+Customer ID: CUST552891
+Name: Owen Miller
+Mobile: brande.king@yahoo.com
+Email: (537) 991-5056
+Address: Apt. 653 1188 Lashon Bypass, New Alaina, NC 83554-8320
+Transaction ID: TXN261460567
+Timestamp: Luis Breitenberg III
+Amount: 6146.00
+Receiver: Sun Jan 12 01:10:58 IST 2025
+Status: Success
+-----------------------------
+Customer ID: CUST552891
+Name: Owen Miller
+Mobile: brande.king@yahoo.com
+Email: (537) 991-5056
+Address: Apt. 653 1188 Lashon Bypass, New Alaina, NC 83554-8320
+Transaction ID: TXN261460567
+Timestamp: Luis Breitenberg III
+Amount: 6146.00
+Receiver: Sun Jan 12 01:10:58 IST 2025
+Status: Success
+-----------------------------

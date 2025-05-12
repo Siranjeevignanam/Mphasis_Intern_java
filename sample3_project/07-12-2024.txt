@@ -1,0 +1,165 @@
+Customer ID: CUST775979
+Name: Ms. Ricardo Doyle
+Mobile: jeanne.maggio@yahoo.com
+Email: 113-704-6880
+Address: Suite 512 5671 Abbey Port, Lake Chaseland, CO 24814
+Transaction ID: TXN683728384
+Timestamp: Edgardo Connelly V
+Amount: 9960.76
+Receiver: Sun Dec 08 02:34:10 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST872567
+Name: Armand Cremin III
+Mobile: virgil.rempel@hotmail.com
+Email: 1-389-903-3303
+Address: Apt. 001 5711 Witting Brook, Willettamouth, IL 03682-4997
+Transaction ID: TXN561666886
+Timestamp: Harry Emmerich Sr.
+Amount: 4728.54
+Receiver: Sun Dec 08 01:30:05 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST266091
+Name: Dr. Titus Ledner
+Mobile: ingrid.konopelski@hotmail.com
+Email: (816) 108-8315
+Address: 634 Hammes Light, East Deannahaven, CT 80012
+Transaction ID: TXN177504305
+Timestamp: Gearldine Schulist
+Amount: 3372.36
+Receiver: Sat Dec 07 09:22:07 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST334182
+Name: Rosario Jerde
+Mobile: terry.ziemann@yahoo.com
+Email: 1-206-284-6024
+Address: 4857 Randy Overpass, Port Sammie, MD 15089
+Transaction ID: TXN718835347
+Timestamp: Elbert Volkman PhD
+Amount: 8658.72
+Receiver: Sat Dec 07 19:31:51 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST468172
+Name: Danica Watsica
+Mobile: anderson.padberg@yahoo.com
+Email: 834-463-7302
+Address: 8696 Terry Skyway, Port Kermit, SC 49571-9310
+Transaction ID: TXN595579041
+Timestamp: Hugo Gorczany
+Amount: 3985.76
+Receiver: Sun Dec 08 04:41:16 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST775979
+Name: Ms. Ricardo Doyle
+Mobile: jeanne.maggio@yahoo.com
+Email: 113-704-6880
+Address: Suite 512 5671 Abbey Port, Lake Chaseland, CO 24814
+Transaction ID: TXN683728384
+Timestamp: Edgardo Connelly V
+Amount: 9960.76
+Receiver: Sun Dec 08 02:34:10 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST872567
+Name: Armand Cremin III
+Mobile: virgil.rempel@hotmail.com
+Email: 1-389-903-3303
+Address: Apt. 001 5711 Witting Brook, Willettamouth, IL 03682-4997
+Transaction ID: TXN561666886
+Timestamp: Harry Emmerich Sr.
+Amount: 4728.54
+Receiver: Sun Dec 08 01:30:05 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST266091
+Name: Dr. Titus Ledner
+Mobile: ingrid.konopelski@hotmail.com
+Email: (816) 108-8315
+Address: 634 Hammes Light, East Deannahaven, CT 80012
+Transaction ID: TXN177504305
+Timestamp: Gearldine Schulist
+Amount: 3372.36
+Receiver: Sat Dec 07 09:22:07 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST334182
+Name: Rosario Jerde
+Mobile: terry.ziemann@yahoo.com
+Email: 1-206-284-6024
+Address: 4857 Randy Overpass, Port Sammie, MD 15089
+Transaction ID: TXN718835347
+Timestamp: Elbert Volkman PhD
+Amount: 8658.72
+Receiver: Sat Dec 07 19:31:51 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST468172
+Name: Danica Watsica
+Mobile: anderson.padberg@yahoo.com
+Email: 834-463-7302
+Address: 8696 Terry Skyway, Port Kermit, SC 49571-9310
+Transaction ID: TXN595579041
+Timestamp: Hugo Gorczany
+Amount: 3985.76
+Receiver: Sun Dec 08 04:41:16 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST775979
+Name: Ms. Ricardo Doyle
+Mobile: jeanne.maggio@yahoo.com
+Email: 113-704-6880
+Address: Suite 512 5671 Abbey Port, Lake Chaseland, CO 24814
+Transaction ID: TXN683728384
+Timestamp: Edgardo Connelly V
+Amount: 9960.76
+Receiver: Sun Dec 08 02:34:10 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST872567
+Name: Armand Cremin III
+Mobile: virgil.rempel@hotmail.com
+Email: 1-389-903-3303
+Address: Apt. 001 5711 Witting Brook, Willettamouth, IL 03682-4997
+Transaction ID: TXN561666886
+Timestamp: Harry Emmerich Sr.
+Amount: 4728.54
+Receiver: Sun Dec 08 01:30:05 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST266091
+Name: Dr. Titus Ledner
+Mobile: ingrid.konopelski@hotmail.com
+Email: (816) 108-8315
+Address: 634 Hammes Light, East Deannahaven, CT 80012
+Transaction ID: TXN177504305
+Timestamp: Gearldine Schulist
+Amount: 3372.36
+Receiver: Sat Dec 07 09:22:07 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST334182
+Name: Rosario Jerde
+Mobile: terry.ziemann@yahoo.com
+Email: 1-206-284-6024
+Address: 4857 Randy Overpass, Port Sammie, MD 15089
+Transaction ID: TXN718835347
+Timestamp: Elbert Volkman PhD
+Amount: 8658.72
+Receiver: Sat Dec 07 19:31:51 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST468172
+Name: Danica Watsica
+Mobile: anderson.padberg@yahoo.com
+Email: 834-463-7302
+Address: 8696 Terry Skyway, Port Kermit, SC 49571-9310
+Transaction ID: TXN595579041
+Timestamp: Hugo Gorczany
+Amount: 3985.76
+Receiver: Sun Dec 08 04:41:16 IST 2024
+Status: Failed
+-----------------------------

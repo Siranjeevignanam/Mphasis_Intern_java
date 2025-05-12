@@ -1,0 +1,33 @@
+Customer ID: CUST489784
+Name: Miss Jamey Hackett
+Mobile: dewey.christiansen@hotmail.com
+Email: 839.727.7070
+Address: 69167 Judie Causeway, East Billyberg, CT 11815-5953
+Transaction ID: TXN443988157
+Timestamp: Alysia Powlowski
+Amount: 1468.71
+Receiver: Thu Aug 15 03:10:04 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST489784
+Name: Miss Jamey Hackett
+Mobile: dewey.christiansen@hotmail.com
+Email: 839.727.7070
+Address: 69167 Judie Causeway, East Billyberg, CT 11815-5953
+Transaction ID: TXN443988157
+Timestamp: Alysia Powlowski
+Amount: 1468.71
+Receiver: Thu Aug 15 03:10:04 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST489784
+Name: Miss Jamey Hackett
+Mobile: dewey.christiansen@hotmail.com
+Email: 839.727.7070
+Address: 69167 Judie Causeway, East Billyberg, CT 11815-5953
+Transaction ID: TXN443988157
+Timestamp: Alysia Powlowski
+Amount: 1468.71
+Receiver: Thu Aug 15 03:10:04 IST 2024
+Status: Failed
+-----------------------------

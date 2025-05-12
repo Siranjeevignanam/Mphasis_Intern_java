@@ -1,0 +1,165 @@
+Customer ID: CUST707881
+Name: Young Ryan
+Mobile: jacquelynn.corkery@hotmail.com
+Email: (792) 920-8546
+Address: 894 Sonya Ridge, North Alfredo, KS 44469
+Transaction ID: TXN749539355
+Timestamp: Berneice Brown
+Amount: 1681.34
+Receiver: Tue Aug 06 20:42:04 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST989173
+Name: Brett Jast I
+Mobile: ardella.effertz@yahoo.com
+Email: (258) 208-5386
+Address: Suite 567 022 Raynor Forks, South Gricelda, MD 35174-8726
+Transaction ID: TXN378252162
+Timestamp: Bernie Gorczany II
+Amount: 7131.42
+Receiver: Tue Aug 06 10:32:35 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST553794
+Name: Ileen Mann
+Mobile: dee.crona@hotmail.com
+Email: 895-209-6174
+Address: 817 Monahan Trafficway, Kraigtown, KY 86175-5087
+Transaction ID: TXN674978940
+Timestamp: Adeline Bergnaum I
+Amount: 411.09
+Receiver: Tue Aug 06 07:24:48 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST276399
+Name: Tawnya Will III
+Mobile: yaeko.feil@yahoo.com
+Email: (140) 605-6920
+Address: Suite 014 898 Lenny Haven, South Aidashire, HI 31893-5268
+Transaction ID: TXN156245545
+Timestamp: Manie Schneider
+Amount: 9357.91
+Receiver: Wed Aug 07 01:31:21 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST108074
+Name: Troy Fisher
+Mobile: fawn.rau@yahoo.com
+Email: 955-726-2777
+Address: Suite 397 10486 Nienow Fork, Windlerborough, WI 65886-6352
+Transaction ID: TXN721567083
+Timestamp: Marcell Upton
+Amount: 9271.01
+Receiver: Tue Aug 06 22:54:53 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST707881
+Name: Young Ryan
+Mobile: jacquelynn.corkery@hotmail.com
+Email: (792) 920-8546
+Address: 894 Sonya Ridge, North Alfredo, KS 44469
+Transaction ID: TXN749539355
+Timestamp: Berneice Brown
+Amount: 1681.34
+Receiver: Tue Aug 06 20:42:04 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST989173
+Name: Brett Jast I
+Mobile: ardella.effertz@yahoo.com
+Email: (258) 208-5386
+Address: Suite 567 022 Raynor Forks, South Gricelda, MD 35174-8726
+Transaction ID: TXN378252162
+Timestamp: Bernie Gorczany II
+Amount: 7131.42
+Receiver: Tue Aug 06 10:32:35 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST553794
+Name: Ileen Mann
+Mobile: dee.crona@hotmail.com
+Email: 895-209-6174
+Address: 817 Monahan Trafficway, Kraigtown, KY 86175-5087
+Transaction ID: TXN674978940
+Timestamp: Adeline Bergnaum I
+Amount: 411.09
+Receiver: Tue Aug 06 07:24:48 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST276399
+Name: Tawnya Will III
+Mobile: yaeko.feil@yahoo.com
+Email: (140) 605-6920
+Address: Suite 014 898 Lenny Haven, South Aidashire, HI 31893-5268
+Transaction ID: TXN156245545
+Timestamp: Manie Schneider
+Amount: 9357.91
+Receiver: Wed Aug 07 01:31:21 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST108074
+Name: Troy Fisher
+Mobile: fawn.rau@yahoo.com
+Email: 955-726-2777
+Address: Suite 397 10486 Nienow Fork, Windlerborough, WI 65886-6352
+Transaction ID: TXN721567083
+Timestamp: Marcell Upton
+Amount: 9271.01
+Receiver: Tue Aug 06 22:54:53 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST707881
+Name: Young Ryan
+Mobile: jacquelynn.corkery@hotmail.com
+Email: (792) 920-8546
+Address: 894 Sonya Ridge, North Alfredo, KS 44469
+Transaction ID: TXN749539355
+Timestamp: Berneice Brown
+Amount: 1681.34
+Receiver: Tue Aug 06 20:42:04 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST989173
+Name: Brett Jast I
+Mobile: ardella.effertz@yahoo.com
+Email: (258) 208-5386
+Address: Suite 567 022 Raynor Forks, South Gricelda, MD 35174-8726
+Transaction ID: TXN378252162
+Timestamp: Bernie Gorczany II
+Amount: 7131.42
+Receiver: Tue Aug 06 10:32:35 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST553794
+Name: Ileen Mann
+Mobile: dee.crona@hotmail.com
+Email: 895-209-6174
+Address: 817 Monahan Trafficway, Kraigtown, KY 86175-5087
+Transaction ID: TXN674978940
+Timestamp: Adeline Bergnaum I
+Amount: 411.09
+Receiver: Tue Aug 06 07:24:48 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST276399
+Name: Tawnya Will III
+Mobile: yaeko.feil@yahoo.com
+Email: (140) 605-6920
+Address: Suite 014 898 Lenny Haven, South Aidashire, HI 31893-5268
+Transaction ID: TXN156245545
+Timestamp: Manie Schneider
+Amount: 9357.91
+Receiver: Wed Aug 07 01:31:21 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST108074
+Name: Troy Fisher
+Mobile: fawn.rau@yahoo.com
+Email: 955-726-2777
+Address: Suite 397 10486 Nienow Fork, Windlerborough, WI 65886-6352
+Transaction ID: TXN721567083
+Timestamp: Marcell Upton
+Amount: 9271.01
+Receiver: Tue Aug 06 22:54:53 IST 2024
+Status: Failed
+-----------------------------

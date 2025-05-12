@@ -1,0 +1,33 @@
+Customer ID: CUST248759
+Name: Natashia Ferry
+Mobile: barbera.fritsch@yahoo.com
+Email: 314-105-0871
+Address: Suite 933 05742 Charley Village, New Cornellburgh, CO 50010
+Transaction ID: TXN296064741
+Timestamp: Earl Ratke
+Amount: 7790.74
+Receiver: Tue Apr 22 16:16:31 IST 2025
+Status: Success
+-----------------------------
+Customer ID: CUST248759
+Name: Natashia Ferry
+Mobile: barbera.fritsch@yahoo.com
+Email: 314-105-0871
+Address: Suite 933 05742 Charley Village, New Cornellburgh, CO 50010
+Transaction ID: TXN296064741
+Timestamp: Earl Ratke
+Amount: 7790.74
+Receiver: Tue Apr 22 16:16:31 IST 2025
+Status: Success
+-----------------------------
+Customer ID: CUST248759
+Name: Natashia Ferry
+Mobile: barbera.fritsch@yahoo.com
+Email: 314-105-0871
+Address: Suite 933 05742 Charley Village, New Cornellburgh, CO 50010
+Transaction ID: TXN296064741
+Timestamp: Earl Ratke
+Amount: 7790.74
+Receiver: Tue Apr 22 16:16:31 IST 2025
+Status: Success
+-----------------------------

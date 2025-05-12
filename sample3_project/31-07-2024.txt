@@ -1,0 +1,66 @@
+Customer ID: CUST105863
+Name: Lucas Abbott
+Mobile: charley.jakubowski@gmail.com
+Email: 949.643.1617
+Address: Apt. 399 53433 Rosendo Branch, Aureashire, ME 10402-4991
+Transaction ID: TXN596141977
+Timestamp: Peter Boyer
+Amount: 5577.44
+Receiver: Thu Aug 01 05:05:14 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST975580
+Name: Mr. Miquel Kassulke
+Mobile: sydney.rath@gmail.com
+Email: (228) 066-2387
+Address: Apt. 205 86997 Lemke Stream, Goyettemouth, ME 17259
+Transaction ID: TXN276490496
+Timestamp: Lane Williamson
+Amount: 5703.20
+Receiver: Wed Jul 31 23:51:32 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST105863
+Name: Lucas Abbott
+Mobile: charley.jakubowski@gmail.com
+Email: 949.643.1617
+Address: Apt. 399 53433 Rosendo Branch, Aureashire, ME 10402-4991
+Transaction ID: TXN596141977
+Timestamp: Peter Boyer
+Amount: 5577.44
+Receiver: Thu Aug 01 05:05:14 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST975580
+Name: Mr. Miquel Kassulke
+Mobile: sydney.rath@gmail.com
+Email: (228) 066-2387
+Address: Apt. 205 86997 Lemke Stream, Goyettemouth, ME 17259
+Transaction ID: TXN276490496
+Timestamp: Lane Williamson
+Amount: 5703.20
+Receiver: Wed Jul 31 23:51:32 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST105863
+Name: Lucas Abbott
+Mobile: charley.jakubowski@gmail.com
+Email: 949.643.1617
+Address: Apt. 399 53433 Rosendo Branch, Aureashire, ME 10402-4991
+Transaction ID: TXN596141977
+Timestamp: Peter Boyer
+Amount: 5577.44
+Receiver: Thu Aug 01 05:05:14 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST975580
+Name: Mr. Miquel Kassulke
+Mobile: sydney.rath@gmail.com
+Email: (228) 066-2387
+Address: Apt. 205 86997 Lemke Stream, Goyettemouth, ME 17259
+Transaction ID: TXN276490496
+Timestamp: Lane Williamson
+Amount: 5703.20
+Receiver: Wed Jul 31 23:51:32 IST 2024
+Status: Failed
+-----------------------------

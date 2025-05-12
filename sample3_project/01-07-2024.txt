@@ -1,0 +1,132 @@
+Customer ID: CUST250574
+Name: Nettie Parisian
+Mobile: andrew.connelly@gmail.com
+Email: 691-114-1065
+Address: 76744 Mills Mountain, North Viviennefurt, AK 20073
+Transaction ID: TXN436543518
+Timestamp: Darryl Upton
+Amount: 2107.71
+Receiver: Mon Jul 01 12:47:26 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST392124
+Name: Deandre Shanahan
+Mobile: porter.jacobs@yahoo.com
+Email: (834) 783-5695
+Address: 2045 McDermott Parks, West Hilario, FL 34887-2267
+Transaction ID: TXN328634795
+Timestamp: Tangela Daniel
+Amount: 7028.44
+Receiver: Tue Jul 02 00:06:15 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST432567
+Name: Dr. Luther Sawayn
+Mobile: selina.anderson@gmail.com
+Email: 665-608-6180
+Address: Apt. 906 859 Doyle Fall, Lake Francesstad, IA 75882
+Transaction ID: TXN509795056
+Timestamp: Daniella Jaskolski
+Amount: 5595.61
+Receiver: Mon Jul 01 11:34:45 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST848022
+Name: Gerardo Schaefer II
+Mobile: krysten.thiel@yahoo.com
+Email: 1-500-708-8127
+Address: 4899 Antonette Crest, Ernsermouth, MA 64316-7792
+Transaction ID: TXN985437584
+Timestamp: Rosalyn Metz
+Amount: 9219.35
+Receiver: Mon Jul 01 14:02:27 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST250574
+Name: Nettie Parisian
+Mobile: andrew.connelly@gmail.com
+Email: 691-114-1065
+Address: 76744 Mills Mountain, North Viviennefurt, AK 20073
+Transaction ID: TXN436543518
+Timestamp: Darryl Upton
+Amount: 2107.71
+Receiver: Mon Jul 01 12:47:26 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST392124
+Name: Deandre Shanahan
+Mobile: porter.jacobs@yahoo.com
+Email: (834) 783-5695
+Address: 2045 McDermott Parks, West Hilario, FL 34887-2267
+Transaction ID: TXN328634795
+Timestamp: Tangela Daniel
+Amount: 7028.44
+Receiver: Tue Jul 02 00:06:15 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST432567
+Name: Dr. Luther Sawayn
+Mobile: selina.anderson@gmail.com
+Email: 665-608-6180
+Address: Apt. 906 859 Doyle Fall, Lake Francesstad, IA 75882
+Transaction ID: TXN509795056
+Timestamp: Daniella Jaskolski
+Amount: 5595.61
+Receiver: Mon Jul 01 11:34:45 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST848022
+Name: Gerardo Schaefer II
+Mobile: krysten.thiel@yahoo.com
+Email: 1-500-708-8127
+Address: 4899 Antonette Crest, Ernsermouth, MA 64316-7792
+Transaction ID: TXN985437584
+Timestamp: Rosalyn Metz
+Amount: 9219.35
+Receiver: Mon Jul 01 14:02:27 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST250574
+Name: Nettie Parisian
+Mobile: andrew.connelly@gmail.com
+Email: 691-114-1065
+Address: 76744 Mills Mountain, North Viviennefurt, AK 20073
+Transaction ID: TXN436543518
+Timestamp: Darryl Upton
+Amount: 2107.71
+Receiver: Mon Jul 01 12:47:26 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST392124
+Name: Deandre Shanahan
+Mobile: porter.jacobs@yahoo.com
+Email: (834) 783-5695
+Address: 2045 McDermott Parks, West Hilario, FL 34887-2267
+Transaction ID: TXN328634795
+Timestamp: Tangela Daniel
+Amount: 7028.44
+Receiver: Tue Jul 02 00:06:15 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST432567
+Name: Dr. Luther Sawayn
+Mobile: selina.anderson@gmail.com
+Email: 665-608-6180
+Address: Apt. 906 859 Doyle Fall, Lake Francesstad, IA 75882
+Transaction ID: TXN509795056
+Timestamp: Daniella Jaskolski
+Amount: 5595.61
+Receiver: Mon Jul 01 11:34:45 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST848022
+Name: Gerardo Schaefer II
+Mobile: krysten.thiel@yahoo.com
+Email: 1-500-708-8127
+Address: 4899 Antonette Crest, Ernsermouth, MA 64316-7792
+Transaction ID: TXN985437584
+Timestamp: Rosalyn Metz
+Amount: 9219.35
+Receiver: Mon Jul 01 14:02:27 IST 2024
+Status: Success
+-----------------------------

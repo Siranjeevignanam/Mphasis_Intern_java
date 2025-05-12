@@ -1,0 +1,66 @@
+Customer ID: CUST572790
+Name: Jeffry Waelchi
+Mobile: dorie.powlowski@hotmail.com
+Email: 713-859-4910
+Address: 2817 Luna Village, Careytown, IA 35378
+Transaction ID: TXN694810878
+Timestamp: Lenna DuBuque
+Amount: 2667.86
+Receiver: Wed Mar 19 04:49:17 IST 2025
+Status: Failed
+-----------------------------
+Customer ID: CUST509358
+Name: Doretta Schroeder
+Mobile: paz.cormier@hotmail.com
+Email: 1-151-133-8101
+Address: Suite 840 62372 Kuhlman Village, Parkermouth, LA 90518
+Transaction ID: TXN800872158
+Timestamp: Loren Bernier
+Amount: 1090.86
+Receiver: Tue Mar 18 07:35:32 IST 2025
+Status: Failed
+-----------------------------
+Customer ID: CUST572790
+Name: Jeffry Waelchi
+Mobile: dorie.powlowski@hotmail.com
+Email: 713-859-4910
+Address: 2817 Luna Village, Careytown, IA 35378
+Transaction ID: TXN694810878
+Timestamp: Lenna DuBuque
+Amount: 2667.86
+Receiver: Wed Mar 19 04:49:17 IST 2025
+Status: Failed
+-----------------------------
+Customer ID: CUST509358
+Name: Doretta Schroeder
+Mobile: paz.cormier@hotmail.com
+Email: 1-151-133-8101
+Address: Suite 840 62372 Kuhlman Village, Parkermouth, LA 90518
+Transaction ID: TXN800872158
+Timestamp: Loren Bernier
+Amount: 1090.86
+Receiver: Tue Mar 18 07:35:32 IST 2025
+Status: Failed
+-----------------------------
+Customer ID: CUST572790
+Name: Jeffry Waelchi
+Mobile: dorie.powlowski@hotmail.com
+Email: 713-859-4910
+Address: 2817 Luna Village, Careytown, IA 35378
+Transaction ID: TXN694810878
+Timestamp: Lenna DuBuque
+Amount: 2667.86
+Receiver: Wed Mar 19 04:49:17 IST 2025
+Status: Failed
+-----------------------------
+Customer ID: CUST509358
+Name: Doretta Schroeder
+Mobile: paz.cormier@hotmail.com
+Email: 1-151-133-8101
+Address: Suite 840 62372 Kuhlman Village, Parkermouth, LA 90518
+Transaction ID: TXN800872158
+Timestamp: Loren Bernier
+Amount: 1090.86
+Receiver: Tue Mar 18 07:35:32 IST 2025
+Status: Failed
+-----------------------------

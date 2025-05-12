@@ -1,0 +1,66 @@
+Customer ID: CUST947896
+Name: Shon Osinski V
+Mobile: jame.wilderman@gmail.com
+Email: (802) 991-7474
+Address: Suite 028 279 Duncan Shoals, Framibury, MD 78470-6200
+Transaction ID: TXN222463331
+Timestamp: Idalia McDermott
+Amount: 4434.76
+Receiver: Sat Dec 21 21:48:40 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST812989
+Name: Cornelius Wisoky
+Mobile: kendall.heaney@hotmail.com
+Email: 856-933-9646
+Address: Apt. 082 6571 Lavone Spurs, Erikport, MD 37325
+Transaction ID: TXN525329279
+Timestamp: Tuan Bauch I
+Amount: 7357.26
+Receiver: Sat Dec 21 16:45:37 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST947896
+Name: Shon Osinski V
+Mobile: jame.wilderman@gmail.com
+Email: (802) 991-7474
+Address: Suite 028 279 Duncan Shoals, Framibury, MD 78470-6200
+Transaction ID: TXN222463331
+Timestamp: Idalia McDermott
+Amount: 4434.76
+Receiver: Sat Dec 21 21:48:40 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST812989
+Name: Cornelius Wisoky
+Mobile: kendall.heaney@hotmail.com
+Email: 856-933-9646
+Address: Apt. 082 6571 Lavone Spurs, Erikport, MD 37325
+Transaction ID: TXN525329279
+Timestamp: Tuan Bauch I
+Amount: 7357.26
+Receiver: Sat Dec 21 16:45:37 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST947896
+Name: Shon Osinski V
+Mobile: jame.wilderman@gmail.com
+Email: (802) 991-7474
+Address: Suite 028 279 Duncan Shoals, Framibury, MD 78470-6200
+Transaction ID: TXN222463331
+Timestamp: Idalia McDermott
+Amount: 4434.76
+Receiver: Sat Dec 21 21:48:40 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST812989
+Name: Cornelius Wisoky
+Mobile: kendall.heaney@hotmail.com
+Email: 856-933-9646
+Address: Apt. 082 6571 Lavone Spurs, Erikport, MD 37325
+Transaction ID: TXN525329279
+Timestamp: Tuan Bauch I
+Amount: 7357.26
+Receiver: Sat Dec 21 16:45:37 IST 2024
+Status: Failed
+-----------------------------

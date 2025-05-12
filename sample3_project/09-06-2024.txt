@@ -1,0 +1,99 @@
+Customer ID: CUST695551
+Name: Robbie Simonis
+Mobile: tomas.hamill@gmail.com
+Email: (852) 591-1731
+Address: 477 Lan Ford, New Efrainfurt, RI 36711-9162
+Transaction ID: TXN471141443
+Timestamp: Kacy Howell
+Amount: 6871.27
+Receiver: Mon Jun 10 02:18:01 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST646891
+Name: Gerard Bechtelar
+Mobile: lucienne.schulist@gmail.com
+Email: (467) 579-5633
+Address: 881 Klein Drives, Josueport, OR 42609
+Transaction ID: TXN749294861
+Timestamp: Verona Senger
+Amount: 9910.41
+Receiver: Sun Jun 09 16:23:53 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST742437
+Name: Lupe Sauer III
+Mobile: lamar.volkman@gmail.com
+Email: (700) 596-9367
+Address: 55375 Treutel Ramp, Batzhaven, CT 98548
+Transaction ID: TXN643255548
+Timestamp: Alishia Stoltenberg
+Amount: 2261.55
+Receiver: Sun Jun 09 09:26:51 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST695551
+Name: Robbie Simonis
+Mobile: tomas.hamill@gmail.com
+Email: (852) 591-1731
+Address: 477 Lan Ford, New Efrainfurt, RI 36711-9162
+Transaction ID: TXN471141443
+Timestamp: Kacy Howell
+Amount: 6871.27
+Receiver: Mon Jun 10 02:18:01 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST646891
+Name: Gerard Bechtelar
+Mobile: lucienne.schulist@gmail.com
+Email: (467) 579-5633
+Address: 881 Klein Drives, Josueport, OR 42609
+Transaction ID: TXN749294861
+Timestamp: Verona Senger
+Amount: 9910.41
+Receiver: Sun Jun 09 16:23:53 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST742437
+Name: Lupe Sauer III
+Mobile: lamar.volkman@gmail.com
+Email: (700) 596-9367
+Address: 55375 Treutel Ramp, Batzhaven, CT 98548
+Transaction ID: TXN643255548
+Timestamp: Alishia Stoltenberg
+Amount: 2261.55
+Receiver: Sun Jun 09 09:26:51 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST695551
+Name: Robbie Simonis
+Mobile: tomas.hamill@gmail.com
+Email: (852) 591-1731
+Address: 477 Lan Ford, New Efrainfurt, RI 36711-9162
+Transaction ID: TXN471141443
+Timestamp: Kacy Howell
+Amount: 6871.27
+Receiver: Mon Jun 10 02:18:01 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST646891
+Name: Gerard Bechtelar
+Mobile: lucienne.schulist@gmail.com
+Email: (467) 579-5633
+Address: 881 Klein Drives, Josueport, OR 42609
+Transaction ID: TXN749294861
+Timestamp: Verona Senger
+Amount: 9910.41
+Receiver: Sun Jun 09 16:23:53 IST 2024
+Status: Failed
+-----------------------------
+Customer ID: CUST742437
+Name: Lupe Sauer III
+Mobile: lamar.volkman@gmail.com
+Email: (700) 596-9367
+Address: 55375 Treutel Ramp, Batzhaven, CT 98548
+Transaction ID: TXN643255548
+Timestamp: Alishia Stoltenberg
+Amount: 2261.55
+Receiver: Sun Jun 09 09:26:51 IST 2024
+Status: Success
+-----------------------------

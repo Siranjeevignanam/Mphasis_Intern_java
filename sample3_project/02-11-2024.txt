@@ -1,0 +1,33 @@
+Customer ID: CUST130294
+Name: Layne Lueilwitz
+Mobile: columbus.cruickshank@hotmail.com
+Email: (703) 999-2233
+Address: Apt. 059 59770 Adelaide Meadows, Lake Mickiemouth, NC 55630
+Transaction ID: TXN653952147
+Timestamp: Dr. Ayako Hansen
+Amount: 3279.87
+Receiver: Sat Nov 02 15:43:49 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST130294
+Name: Layne Lueilwitz
+Mobile: columbus.cruickshank@hotmail.com
+Email: (703) 999-2233
+Address: Apt. 059 59770 Adelaide Meadows, Lake Mickiemouth, NC 55630
+Transaction ID: TXN653952147
+Timestamp: Dr. Ayako Hansen
+Amount: 3279.87
+Receiver: Sat Nov 02 15:43:49 IST 2024
+Status: Success
+-----------------------------
+Customer ID: CUST130294
+Name: Layne Lueilwitz
+Mobile: columbus.cruickshank@hotmail.com
+Email: (703) 999-2233
+Address: Apt. 059 59770 Adelaide Meadows, Lake Mickiemouth, NC 55630
+Transaction ID: TXN653952147
+Timestamp: Dr. Ayako Hansen
+Amount: 3279.87
+Receiver: Sat Nov 02 15:43:49 IST 2024
+Status: Success
+-----------------------------
