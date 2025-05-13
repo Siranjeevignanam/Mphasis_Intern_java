@@ -1,0 +1,16 @@
+Customer Name: Ms. Rusty Jones
+Transaction ID: 517988869
+Account Number: 559443904
+Email: darnell.oconner@gmail.com
+Amount: 52767.05
+Phone: 148.608.8205
+Timestamp: Fri Sep 20 15:03:34 IST 2024
+-----------------------------
+Customer Name: Denis Howe
+Transaction ID: 351344538
+Account Number: 414294296
+Email: theo.dare@yahoo.com
+Amount: 58046.00
+Phone: 553.536.5205
+Timestamp: Fri Sep 20 17:05:17 IST 2024
+-----------------------------

@@ -1,0 +1,8 @@
+Customer Name: Kali Wolf
+Transaction ID: 966764317
+Account Number: 560590371
+Email: katherin.schultz@yahoo.com
+Amount: 9821.26
+Phone: 1-982-810-8785
+Timestamp: Thu Oct 31 20:05:25 IST 2024
+-----------------------------

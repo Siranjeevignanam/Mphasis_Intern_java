@@ -1,0 +1,40 @@
+Customer Name: Jerrold Ward
+Transaction ID: 516918938
+Account Number: 936448879
+Email: adina.waters@yahoo.com
+Amount: 47361.63
+Phone: 867.115.1903
+Timestamp: Thu Jul 11 18:39:55 IST 2024
+-----------------------------
+Customer Name: Trinity Nikolaus
+Transaction ID: 229796894
+Account Number: 757361778
+Email: maryjo.jones@gmail.com
+Amount: 7964.69
+Phone: 1-290-894-2602
+Timestamp: Thu Jul 11 01:23:41 IST 2024
+-----------------------------
+Customer Name: Ms. Tammie Emard
+Transaction ID: 276256020
+Account Number: 180174854
+Email: rudy.parisian@hotmail.com
+Amount: 45023.00
+Phone: 681.306.6643
+Timestamp: Thu Jul 11 14:01:33 IST 2024
+-----------------------------
+Customer Name: Mr. Domenic Marquardt
+Transaction ID: 734749819
+Account Number: 780737961
+Email: cori.lesch@hotmail.com
+Amount: 83113.78
+Phone: 627.646.6417
+Timestamp: Thu Jul 11 02:52:43 IST 2024
+-----------------------------
+Customer Name: Delpha Abbott
+Transaction ID: 607741408
+Account Number: 694488784
+Email: candi.blick@yahoo.com
+Amount: 68987.61
+Phone: 852.692.8153
+Timestamp: Thu Jul 11 12:33:13 IST 2024
+-----------------------------

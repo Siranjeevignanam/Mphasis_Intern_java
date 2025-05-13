@@ -1,0 +1,24 @@
+Customer Name: Daren Renner
+Transaction ID: 439820293
+Account Number: 920557790
+Email: ethel.leuschke@gmail.com
+Amount: 32467.39
+Phone: 189.794.4082
+Timestamp: Wed Jul 03 04:32:36 IST 2024
+-----------------------------
+Customer Name: Miss Stewart Parker
+Transaction ID: 289715028
+Account Number: 494064104
+Email: dorathy.kertzmann@gmail.com
+Amount: 50028.18
+Phone: 550-127-6132
+Timestamp: Wed Jul 03 12:18:11 IST 2024
+-----------------------------
+Customer Name: Chrystal Huel
+Transaction ID: 737892118
+Account Number: 164119435
+Email: edris.simonis@gmail.com
+Amount: 87175.95
+Phone: 344-232-2677
+Timestamp: Wed Jul 03 23:23:47 IST 2024
+-----------------------------

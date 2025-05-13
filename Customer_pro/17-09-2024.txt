@@ -1,0 +1,24 @@
+Customer Name: Catina Zulauf
+Transaction ID: 683740985
+Account Number: 224110380
+Email: maye.yost@yahoo.com
+Amount: 62827.54
+Phone: (702) 955-2956
+Timestamp: Tue Sep 17 16:46:38 IST 2024
+-----------------------------
+Customer Name: Horace McDermott
+Transaction ID: 720222522
+Account Number: 257745715
+Email: murray.howell@yahoo.com
+Amount: 4624.62
+Phone: 1-887-220-2628
+Timestamp: Tue Sep 17 09:23:32 IST 2024
+-----------------------------
+Customer Name: Irving Haley Sr.
+Transaction ID: 970437779
+Account Number: 719663256
+Email: vance.thompson@yahoo.com
+Amount: 22081.63
+Phone: 1-319-402-3054
+Timestamp: Tue Sep 17 15:02:01 IST 2024
+-----------------------------

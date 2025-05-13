@@ -1,0 +1,24 @@
+Customer Name: Leeann Stark
+Transaction ID: 459383570
+Account Number: 197108554
+Email: loreen.ebert@hotmail.com
+Amount: 61829.11
+Phone: (323) 226-6334
+Timestamp: Mon Aug 19 21:04:09 IST 2024
+-----------------------------
+Customer Name: Cedrick Funk
+Transaction ID: 271627479
+Account Number: 809771125
+Email: mia.goodwin@yahoo.com
+Amount: 54337.93
+Phone: 1-555-166-7604
+Timestamp: Mon Aug 19 08:42:56 IST 2024
+-----------------------------
+Customer Name: Lina Feest Sr.
+Transaction ID: 396674654
+Account Number: 858019584
+Email: keven.murphy@yahoo.com
+Amount: 8693.59
+Phone: 008-390-5928
+Timestamp: Mon Aug 19 21:34:01 IST 2024
+-----------------------------

@@ -1,0 +1,16 @@
+Customer Name: Mr. Sondra Carter
+Transaction ID: 407274676
+Account Number: 782939343
+Email: ali.sawayn@gmail.com
+Amount: 2550.68
+Phone: 1-302-514-9729
+Timestamp: Mon Dec 23 22:23:20 IST 2024
+-----------------------------
+Customer Name: Kristyn Stracke
+Transaction ID: 930575751
+Account Number: 723936807
+Email: christene.farrell@yahoo.com
+Amount: 75420.71
+Phone: (618) 188-2325
+Timestamp: Mon Dec 23 19:26:31 IST 2024
+-----------------------------

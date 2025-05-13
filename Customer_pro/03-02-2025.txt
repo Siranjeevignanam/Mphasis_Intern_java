@@ -1,0 +1,8 @@
+Customer Name: Monty Wintheiser
+Transaction ID: 393106374
+Account Number: 224655848
+Email: elza.emard@yahoo.com
+Amount: 34036.91
+Phone: (986) 473-5901
+Timestamp: Mon Feb 03 19:23:47 IST 2025
+-----------------------------

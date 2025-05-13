@@ -1,0 +1,8 @@
+Customer Name: Jonathan Rice
+Transaction ID: 645480797
+Account Number: 728194267
+Email: lucio.mraz@gmail.com
+Amount: 10860.59
+Phone: (335) 012-5527
+Timestamp: Wed May 29 23:41:56 IST 2024
+-----------------------------

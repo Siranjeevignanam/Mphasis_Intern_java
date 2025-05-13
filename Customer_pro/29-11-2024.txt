@@ -1,0 +1,24 @@
+Customer Name: Maryjane Kirlin
+Transaction ID: 956640622
+Account Number: 474873231
+Email: arla.ondricka@gmail.com
+Amount: 21730.11
+Phone: 790.535.3243
+Timestamp: Fri Nov 29 03:29:29 IST 2024
+-----------------------------
+Customer Name: Joeann Barton
+Transaction ID: 946541233
+Account Number: 961103335
+Email: hilaria.mayer@yahoo.com
+Amount: 52482.85
+Phone: 410-930-8624
+Timestamp: Fri Nov 29 04:55:40 IST 2024
+-----------------------------
+Customer Name: Shawnee Stanton
+Transaction ID: 670990026
+Account Number: 615214055
+Email: ellsworth.zieme@yahoo.com
+Amount: 92744.65
+Phone: 560-710-7857
+Timestamp: Fri Nov 29 23:06:17 IST 2024
+-----------------------------

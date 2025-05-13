@@ -1,0 +1,24 @@
+Customer Name: Dr. Carmen Bernier
+Transaction ID: 372093675
+Account Number: 350161709
+Email: domitila.moen@gmail.com
+Amount: 58015.51
+Phone: 420-522-0349
+Timestamp: Fri May 02 07:43:27 IST 2025
+-----------------------------
+Customer Name: Jules Kovacek
+Transaction ID: 835620463
+Account Number: 599680127
+Email: elliott.gutmann@yahoo.com
+Amount: 65648.18
+Phone: 1-725-963-5486
+Timestamp: Fri May 02 23:24:01 IST 2025
+-----------------------------
+Customer Name: Leo Huels
+Transaction ID: 628272205
+Account Number: 380272522
+Email: trevor.thiel@yahoo.com
+Amount: 47117.41
+Phone: (705) 987-7691
+Timestamp: Fri May 02 03:18:27 IST 2025
+-----------------------------

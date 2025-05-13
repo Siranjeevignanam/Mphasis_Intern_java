@@ -1,0 +1,24 @@
+Customer Name: Jared Zemlak PhD
+Transaction ID: 554652404
+Account Number: 931004750
+Email: desire.windler@hotmail.com
+Amount: 43636.50
+Phone: 1-233-036-2170
+Timestamp: Sat Oct 26 05:59:57 IST 2024
+-----------------------------
+Customer Name: Denver Windler II
+Transaction ID: 775725785
+Account Number: 496980516
+Email: alvina.ortiz@gmail.com
+Amount: 17146.02
+Phone: 858-150-0929
+Timestamp: Sat Oct 26 16:13:07 IST 2024
+-----------------------------
+Customer Name: Stefani Abernathy PhD
+Transaction ID: 952005996
+Account Number: 714666750
+Email: hyon.ankunding@gmail.com
+Amount: 11930.55
+Phone: (505) 987-8525
+Timestamp: Sat Oct 26 10:35:09 IST 2024
+-----------------------------

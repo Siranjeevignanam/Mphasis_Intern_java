@@ -1,0 +1,24 @@
+Customer Name: Aiko Fisher
+Transaction ID: 424054197
+Account Number: 374310453
+Email: iesha.maggio@gmail.com
+Amount: 46551.80
+Phone: (248) 173-6898
+Timestamp: Tue Oct 29 18:26:48 IST 2024
+-----------------------------
+Customer Name: Mr. Tillie Romaguera
+Transaction ID: 833010252
+Account Number: 892523487
+Email: meryl.friesen@hotmail.com
+Amount: 27820.44
+Phone: 443-938-9011
+Timestamp: Tue Oct 29 16:32:24 IST 2024
+-----------------------------
+Customer Name: Abraham Murazik
+Transaction ID: 310903713
+Account Number: 378320042
+Email: gayle.ratke@hotmail.com
+Amount: 80528.76
+Phone: 1-805-681-3738
+Timestamp: Tue Oct 29 01:58:46 IST 2024
+-----------------------------

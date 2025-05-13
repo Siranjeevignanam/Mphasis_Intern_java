@@ -1,0 +1,24 @@
+Customer Name: Shirley Christiansen I
+Transaction ID: 617218651
+Account Number: 209036679
+Email: palmer.yost@yahoo.com
+Amount: 75934.51
+Phone: (279) 414-6173
+Timestamp: Fri Aug 02 16:32:08 IST 2024
+-----------------------------
+Customer Name: Shirlene Donnelly
+Transaction ID: 807191155
+Account Number: 777117422
+Email: savanna.daugherty@hotmail.com
+Amount: 50791.52
+Phone: 370-472-7103
+Timestamp: Fri Aug 02 01:29:42 IST 2024
+-----------------------------
+Customer Name: Jene Botsford
+Transaction ID: 457486462
+Account Number: 709770801
+Email: dexter.ortiz@gmail.com
+Amount: 86590.28
+Phone: 1-925-866-1459
+Timestamp: Fri Aug 02 01:51:44 IST 2024
+-----------------------------

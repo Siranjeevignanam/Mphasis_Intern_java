@@ -1,0 +1,8 @@
+Customer Name: Mr. Vincent Pfeffer
+Transaction ID: 603275887
+Account Number: 615855139
+Email: judith.stiedemann@yahoo.com
+Amount: 85232.80
+Phone: 616.439.3941
+Timestamp: Tue May 14 16:30:56 IST 2024
+-----------------------------

@@ -1,0 +1,16 @@
+Customer Name: Kevin Stanton
+Transaction ID: 107589671
+Account Number: 219740598
+Email: dan.mills@yahoo.com
+Amount: 97626.71
+Phone: (241) 475-6012
+Timestamp: Wed Mar 05 00:23:14 IST 2025
+-----------------------------
+Customer Name: Carter Daugherty
+Transaction ID: 263415237
+Account Number: 264142701
+Email: leroy.corkery@yahoo.com
+Amount: 73683.24
+Phone: (860) 991-1166
+Timestamp: Wed Mar 05 06:31:28 IST 2025
+-----------------------------

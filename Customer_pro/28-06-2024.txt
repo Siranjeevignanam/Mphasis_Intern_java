@@ -1,0 +1,16 @@
+Customer Name: Ms. Hollis Nicolas
+Transaction ID: 921827885
+Account Number: 814931245
+Email: marica.torphy@yahoo.com
+Amount: 46049.95
+Phone: 091.990.0022
+Timestamp: Fri Jun 28 10:28:10 IST 2024
+-----------------------------
+Customer Name: Wilfredo Fadel
+Transaction ID: 120341535
+Account Number: 948762319
+Email: barney.kuhn@gmail.com
+Amount: 1448.31
+Phone: (394) 531-4473
+Timestamp: Fri Jun 28 15:35:39 IST 2024
+-----------------------------

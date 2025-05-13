@@ -1,0 +1,16 @@
+Customer Name: Herma Rippin
+Transaction ID: 792695106
+Account Number: 173618299
+Email: sandee.okon@hotmail.com
+Amount: 50899.10
+Phone: 1-063-567-6041
+Timestamp: Tue Aug 06 10:47:43 IST 2024
+-----------------------------
+Customer Name: Edmund Satterfield
+Transaction ID: 757582822
+Account Number: 653726409
+Email: mohammad.kemmer@gmail.com
+Amount: 15698.58
+Phone: 066.454.1096
+Timestamp: Tue Aug 06 11:42:14 IST 2024
+-----------------------------

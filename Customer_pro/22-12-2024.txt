@@ -1,0 +1,8 @@
+Customer Name: Myrta Mills
+Transaction ID: 777604147
+Account Number: 887489530
+Email: brittani.frami@gmail.com
+Amount: 40857.13
+Phone: 254.540.4329
+Timestamp: Sun Dec 22 10:19:16 IST 2024
+-----------------------------

@@ -1,0 +1,8 @@
+Customer Name: Ms. Danna Hudson
+Transaction ID: 627026909
+Account Number: 543893918
+Email: melda.hane@gmail.com
+Amount: 23178.60
+Phone: 1-091-488-6792
+Timestamp: Mon Jul 15 11:16:54 IST 2024
+-----------------------------

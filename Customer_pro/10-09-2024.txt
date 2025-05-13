@@ -1,0 +1,8 @@
+Customer Name: Talia Stroman
+Transaction ID: 219453358
+Account Number: 943219450
+Email: garland.orn@gmail.com
+Amount: 57785.34
+Phone: (561) 065-3730
+Timestamp: Tue Sep 10 06:00:16 IST 2024
+-----------------------------

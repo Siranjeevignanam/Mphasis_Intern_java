@@ -1,0 +1,8 @@
+Customer Name: Leia Nitzsche
+Transaction ID: 274190589
+Account Number: 713428905
+Email: marion.gorczany@hotmail.com
+Amount: 71773.25
+Phone: 1-249-838-2129
+Timestamp: Mon Apr 28 03:31:27 IST 2025
+-----------------------------

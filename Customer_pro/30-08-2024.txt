@@ -1,0 +1,8 @@
+Customer Name: Marcella Bechtelar
+Transaction ID: 690989412
+Account Number: 949466768
+Email: wilburn.reichert@hotmail.com
+Amount: 3792.29
+Phone: 827-051-0865
+Timestamp: Fri Aug 30 15:53:20 IST 2024
+-----------------------------

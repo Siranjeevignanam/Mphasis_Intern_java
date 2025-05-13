@@ -1,0 +1,16 @@
+Customer Name: Emmanuel Reichert
+Transaction ID: 224552253
+Account Number: 807577856
+Email: cathrine.bartell@hotmail.com
+Amount: 77809.30
+Phone: 436-937-6982
+Timestamp: Tue Oct 22 13:42:06 IST 2024
+-----------------------------
+Customer Name: Idalia Crona
+Transaction ID: 238835478
+Account Number: 439802337
+Email: earnest.wilderman@yahoo.com
+Amount: 41007.80
+Phone: (085) 172-8031
+Timestamp: Tue Oct 22 11:33:56 IST 2024
+-----------------------------

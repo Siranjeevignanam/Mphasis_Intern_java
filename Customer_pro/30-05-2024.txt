@@ -1,0 +1,16 @@
+Customer Name: Julian Cartwright
+Transaction ID: 739966641
+Account Number: 456177643
+Email: jamison.bergstrom@yahoo.com
+Amount: 53754.79
+Phone: 598.041.8226
+Timestamp: Thu May 30 23:45:10 IST 2024
+-----------------------------
+Customer Name: Earle Murray
+Transaction ID: 216969565
+Account Number: 860911400
+Email: jonah.schulist@hotmail.com
+Amount: 20326.18
+Phone: (728) 375-3152
+Timestamp: Thu May 30 22:34:21 IST 2024
+-----------------------------

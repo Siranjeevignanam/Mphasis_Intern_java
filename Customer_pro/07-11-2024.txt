@@ -1,0 +1,8 @@
+Customer Name: Raymond Spencer
+Transaction ID: 371767754
+Account Number: 958353601
+Email: herminia.kovacek@yahoo.com
+Amount: 11869.85
+Phone: 152.007.9038
+Timestamp: Thu Nov 07 14:00:49 IST 2024
+-----------------------------

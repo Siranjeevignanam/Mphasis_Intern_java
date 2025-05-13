@@ -1,0 +1,8 @@
+Customer Name: Clinton Leannon
+Transaction ID: 305803980
+Account Number: 857556476
+Email: dee.west@gmail.com
+Amount: 91373.81
+Phone: 1-716-149-5995
+Timestamp: Tue Sep 24 01:22:08 IST 2024
+-----------------------------

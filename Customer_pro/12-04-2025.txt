@@ -1,0 +1,8 @@
+Customer Name: Lindsey Hills
+Transaction ID: 526937320
+Account Number: 469609000
+Email: lynna.bahringer@yahoo.com
+Amount: 8042.81
+Phone: 358-046-2077
+Timestamp: Sat Apr 12 16:02:36 IST 2025
+-----------------------------

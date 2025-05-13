@@ -1,0 +1,16 @@
+Customer Name: Dr. Augustus Crona
+Transaction ID: 728495396
+Account Number: 354024956
+Email: calvin.sporer@hotmail.com
+Amount: 48014.38
+Phone: 1-750-177-3306
+Timestamp: Sun Apr 20 21:57:58 IST 2025
+-----------------------------
+Customer Name: Mrs. Cherry Buckridge
+Transaction ID: 644058288
+Account Number: 706358549
+Email: faustino.tillman@gmail.com
+Amount: 75717.93
+Phone: 154-730-0179
+Timestamp: Sun Apr 20 19:04:26 IST 2025
+-----------------------------

@@ -1,0 +1,24 @@
+Customer Name: Fred DuBuque
+Transaction ID: 194390916
+Account Number: 525665273
+Email: bryant.leffler@hotmail.com
+Amount: 46724.42
+Phone: 099-365-2073
+Timestamp: Thu Apr 17 21:56:28 IST 2025
+-----------------------------
+Customer Name: Ray Romaguera
+Transaction ID: 717849252
+Account Number: 263916329
+Email: kelsie.strosin@yahoo.com
+Amount: 17910.88
+Phone: (839) 656-7709
+Timestamp: Thu Apr 17 14:26:27 IST 2025
+-----------------------------
+Customer Name: Misti Goodwin
+Transaction ID: 418122877
+Account Number: 155840166
+Email: elmer.schultz@yahoo.com
+Amount: 61149.00
+Phone: (189) 414-6466
+Timestamp: Thu Apr 17 18:50:19 IST 2025
+-----------------------------

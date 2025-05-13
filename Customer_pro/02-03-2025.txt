@@ -1,0 +1,16 @@
+Customer Name: Marya Erdman
+Transaction ID: 856689749
+Account Number: 483652041
+Email: pura.frami@gmail.com
+Amount: 8446.21
+Phone: 633.864.4452
+Timestamp: Sun Mar 02 21:48:55 IST 2025
+-----------------------------
+Customer Name: Thomas Murphy
+Transaction ID: 838719789
+Account Number: 467427875
+Email: traci.stiedemann@hotmail.com
+Amount: 23983.22
+Phone: 1-341-986-8683
+Timestamp: Sun Mar 02 22:03:40 IST 2025
+-----------------------------

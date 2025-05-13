@@ -1,0 +1,16 @@
+Customer Name: Son Nolan
+Transaction ID: 701862412
+Account Number: 703399827
+Email: archie.willms@hotmail.com
+Amount: 83208.00
+Phone: 797.576.3246
+Timestamp: Wed Jan 29 02:29:44 IST 2025
+-----------------------------
+Customer Name: Darell Donnelly
+Transaction ID: 858456273
+Account Number: 154977419
+Email: karl.sawayn@gmail.com
+Amount: 36541.38
+Phone: 971.113.1222
+Timestamp: Wed Jan 29 21:52:45 IST 2025
+-----------------------------

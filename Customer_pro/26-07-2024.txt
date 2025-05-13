@@ -1,0 +1,16 @@
+Customer Name: Brock Wilkinson
+Transaction ID: 388464441
+Account Number: 513878391
+Email: carylon.block@hotmail.com
+Amount: 5394.65
+Phone: (884) 510-0524
+Timestamp: Fri Jul 26 09:47:20 IST 2024
+-----------------------------
+Customer Name: Roosevelt Swaniawski
+Transaction ID: 899896296
+Account Number: 772611433
+Email: cyrus.swaniawski@gmail.com
+Amount: 60737.84
+Phone: 387.642.6071
+Timestamp: Fri Jul 26 10:38:51 IST 2024
+-----------------------------

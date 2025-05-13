@@ -1,0 +1,32 @@
+Customer Name: Winfred Koss
+Transaction ID: 849757720
+Account Number: 189256790
+Email: samual.buckridge@gmail.com
+Amount: 19515.70
+Phone: 314-351-6920
+Timestamp: Tue Dec 31 03:33:58 IST 2024
+-----------------------------
+Customer Name: Ali Feil
+Transaction ID: 873378220
+Account Number: 264851936
+Email: moon.sauer@gmail.com
+Amount: 91472.14
+Phone: (902) 642-0054
+Timestamp: Tue Dec 31 20:08:09 IST 2024
+-----------------------------
+Customer Name: Leroy Lynch
+Transaction ID: 932209308
+Account Number: 268026096
+Email: thaddeus.jaskolski@hotmail.com
+Amount: 48202.38
+Phone: (981) 708-9277
+Timestamp: Tue Dec 31 18:38:09 IST 2024
+-----------------------------
+Customer Name: Dr. Jackson Adams
+Transaction ID: 985463903
+Account Number: 147484966
+Email: alvin.bradtke@yahoo.com
+Amount: 66889.76
+Phone: 897-942-2048
+Timestamp: Tue Dec 31 07:54:48 IST 2024
+-----------------------------

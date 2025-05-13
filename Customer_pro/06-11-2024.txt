@@ -1,0 +1,16 @@
+Customer Name: Jessie Douglas
+Transaction ID: 392499931
+Account Number: 753571862
+Email: marlin.macejkovic@gmail.com
+Amount: 84676.75
+Phone: 549.388.4309
+Timestamp: Wed Nov 06 10:54:51 IST 2024
+-----------------------------
+Customer Name: Titus Green Jr.
+Transaction ID: 489521218
+Account Number: 521035038
+Email: merlin.howell@gmail.com
+Amount: 19648.70
+Phone: 737.824.6950
+Timestamp: Wed Nov 06 16:29:52 IST 2024
+-----------------------------

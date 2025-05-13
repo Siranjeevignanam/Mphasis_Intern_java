@@ -1,0 +1,48 @@
+Customer Name: Bok McLaughlin DDS
+Transaction ID: 780231255
+Account Number: 535893089
+Email: heath.stoltenberg@hotmail.com
+Amount: 666.77
+Phone: 1-291-488-2794
+Timestamp: Sun Jul 14 20:38:57 IST 2024
+-----------------------------
+Customer Name: Mr. Junior Bergstrom
+Transaction ID: 694003129
+Account Number: 997098184
+Email: malcom.gleason@yahoo.com
+Amount: 92887.28
+Phone: 472.636.1985
+Timestamp: Sun Jul 14 01:43:25 IST 2024
+-----------------------------
+Customer Name: Colton Kunde
+Transaction ID: 717677712
+Account Number: 456354440
+Email: oda.schimmel@gmail.com
+Amount: 70710.31
+Phone: 922.502.1887
+Timestamp: Sun Jul 14 14:25:59 IST 2024
+-----------------------------
+Customer Name: Avery Ondricka
+Transaction ID: 104460026
+Account Number: 755891682
+Email: leonarda.cormier@gmail.com
+Amount: 21763.48
+Phone: 250.486.1264
+Timestamp: Sun Jul 14 06:14:51 IST 2024
+-----------------------------
+Customer Name: Fallon Berge III
+Transaction ID: 580984295
+Account Number: 895465576
+Email: cristobal.schaden@yahoo.com
+Amount: 85691.63
+Phone: (120) 412-1443
+Timestamp: Sun Jul 14 03:31:33 IST 2024
+-----------------------------
+Customer Name: Osvaldo Maggio
+Transaction ID: 633692365
+Account Number: 697297306
+Email: maria.will@hotmail.com
+Amount: 52690.82
+Phone: 1-423-934-8830
+Timestamp: Sun Jul 14 23:21:24 IST 2024
+-----------------------------

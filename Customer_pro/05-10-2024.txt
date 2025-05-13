@@ -1,0 +1,8 @@
+Customer Name: Ms. Rudy Douglas
+Transaction ID: 694908929
+Account Number: 272974780
+Email: tracy.mayert@yahoo.com
+Amount: 624.32
+Phone: 1-293-692-9583
+Timestamp: Sat Oct 05 09:03:27 IST 2024
+-----------------------------

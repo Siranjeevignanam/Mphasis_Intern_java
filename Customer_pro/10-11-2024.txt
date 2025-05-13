@@ -1,0 +1,24 @@
+Customer Name: Garland Treutel
+Transaction ID: 867890783
+Account Number: 747927408
+Email: doretta.west@yahoo.com
+Amount: 16986.60
+Phone: (838) 828-7736
+Timestamp: Sun Nov 10 10:58:46 IST 2024
+-----------------------------
+Customer Name: Shanti Botsford
+Transaction ID: 413408288
+Account Number: 376860315
+Email: janee.torphy@gmail.com
+Amount: 52303.85
+Phone: 754.357.9573
+Timestamp: Sun Nov 10 09:13:17 IST 2024
+-----------------------------
+Customer Name: Jodee Dibbert
+Transaction ID: 985927824
+Account Number: 229647112
+Email: linh.tremblay@gmail.com
+Amount: 98041.40
+Phone: (290) 108-1384
+Timestamp: Sun Nov 10 04:35:06 IST 2024
+-----------------------------

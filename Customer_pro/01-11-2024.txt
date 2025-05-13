@@ -1,0 +1,16 @@
+Customer Name: Tobi Stroman
+Transaction ID: 642264307
+Account Number: 777916455
+Email: darnell.zboncak@gmail.com
+Amount: 26145.95
+Phone: 488.477.0397
+Timestamp: Fri Nov 01 01:51:59 IST 2024
+-----------------------------
+Customer Name: Tressa Spinka
+Transaction ID: 583211938
+Account Number: 750304721
+Email: agueda.tremblay@hotmail.com
+Amount: 60732.11
+Phone: 728-010-1964
+Timestamp: Fri Nov 01 16:41:29 IST 2024
+-----------------------------

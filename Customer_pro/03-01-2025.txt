@@ -1,0 +1,32 @@
+Customer Name: Lavern Marvin
+Transaction ID: 533968354
+Account Number: 495315137
+Email: van.price@gmail.com
+Amount: 10923.06
+Phone: 1-743-668-4112
+Timestamp: Fri Jan 03 12:38:16 IST 2025
+-----------------------------
+Customer Name: Loree Hoppe
+Transaction ID: 333906199
+Account Number: 844636525
+Email: somer.bradtke@hotmail.com
+Amount: 73132.74
+Phone: 1-722-948-7423
+Timestamp: Fri Jan 03 02:23:39 IST 2025
+-----------------------------
+Customer Name: Portia Denesik
+Transaction ID: 759035797
+Account Number: 124583083
+Email: orval.schiller@hotmail.com
+Amount: 49651.81
+Phone: (872) 118-9829
+Timestamp: Fri Jan 03 03:16:33 IST 2025
+-----------------------------
+Customer Name: Modesta Ritchie
+Transaction ID: 886000887
+Account Number: 593433634
+Email: lanita.torp@gmail.com
+Amount: 51579.61
+Phone: 185-360-4460
+Timestamp: Fri Jan 03 02:10:29 IST 2025
+-----------------------------

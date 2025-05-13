@@ -1,0 +1,8 @@
+Customer Name: Mamie Leuschke
+Transaction ID: 672718253
+Account Number: 867968447
+Email: garth.kessler@yahoo.com
+Amount: 59280.68
+Phone: 587.914.3781
+Timestamp: Mon Aug 05 09:58:20 IST 2024
+-----------------------------

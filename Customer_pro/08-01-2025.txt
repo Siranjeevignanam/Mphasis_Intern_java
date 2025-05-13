@@ -1,0 +1,24 @@
+Customer Name: Miss Carmelo Fritsch
+Transaction ID: 780599239
+Account Number: 376144916
+Email: benton.johnston@gmail.com
+Amount: 87978.02
+Phone: 124-537-0258
+Timestamp: Wed Jan 08 19:30:48 IST 2025
+-----------------------------
+Customer Name: Dana Schultz
+Transaction ID: 647308780
+Account Number: 250106820
+Email: sharla.runolfsson@hotmail.com
+Amount: 40832.07
+Phone: 1-660-474-8427
+Timestamp: Wed Jan 08 22:14:17 IST 2025
+-----------------------------
+Customer Name: Briana Cruickshank
+Transaction ID: 548404149
+Account Number: 164283214
+Email: long.hudson@gmail.com
+Amount: 72752.64
+Phone: 479.093.0723
+Timestamp: Wed Jan 08 16:48:02 IST 2025
+-----------------------------

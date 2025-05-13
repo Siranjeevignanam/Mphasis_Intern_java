@@ -1,0 +1,24 @@
+Customer Name: Silas Nicolas
+Transaction ID: 180312871
+Account Number: 535804035
+Email: cheri.blick@hotmail.com
+Amount: 71414.98
+Phone: (576) 108-1002
+Timestamp: Wed Dec 04 00:43:13 IST 2024
+-----------------------------
+Customer Name: Edward Mills
+Transaction ID: 959200333
+Account Number: 650918683
+Email: guadalupe.hartmann@yahoo.com
+Amount: 88533.14
+Phone: 450-473-2173
+Timestamp: Wed Dec 04 08:23:15 IST 2024
+-----------------------------
+Customer Name: Charlie Koepp I
+Transaction ID: 959475261
+Account Number: 763699931
+Email: barabara.luettgen@gmail.com
+Amount: 58773.89
+Phone: 867-889-7872
+Timestamp: Wed Dec 04 23:29:35 IST 2024
+-----------------------------

@@ -1,0 +1,24 @@
+Customer Name: Man Lowe
+Transaction ID: 390123039
+Account Number: 861965701
+Email: alexander.paucek@gmail.com
+Amount: 95712.13
+Phone: 992.273.0660
+Timestamp: Fri Sep 13 11:47:29 IST 2024
+-----------------------------
+Customer Name: Dr. Jose Quigley
+Transaction ID: 877055173
+Account Number: 936015472
+Email: jarrod.grimes@gmail.com
+Amount: 37904.01
+Phone: 1-497-074-0462
+Timestamp: Fri Sep 13 05:48:57 IST 2024
+-----------------------------
+Customer Name: Sammy Nitzsche Jr.
+Transaction ID: 316107420
+Account Number: 431595390
+Email: etha.adams@hotmail.com
+Amount: 451.61
+Phone: 1-019-437-1155
+Timestamp: Fri Sep 13 23:22:59 IST 2024
+-----------------------------

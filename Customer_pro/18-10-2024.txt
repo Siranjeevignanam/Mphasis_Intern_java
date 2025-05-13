@@ -1,0 +1,24 @@
+Customer Name: Magaret Hand
+Transaction ID: 950955853
+Account Number: 387264093
+Email: ryan.morissette@yahoo.com
+Amount: 11974.36
+Phone: 516-906-8163
+Timestamp: Fri Oct 18 18:29:06 IST 2024
+-----------------------------
+Customer Name: Brendon Torphy
+Transaction ID: 599969907
+Account Number: 332819876
+Email: clint.harber@hotmail.com
+Amount: 71831.35
+Phone: 633-155-5952
+Timestamp: Fri Oct 18 06:20:58 IST 2024
+-----------------------------
+Customer Name: Evelynn Crooks
+Transaction ID: 417440356
+Account Number: 812603711
+Email: joanie.lubowitz@gmail.com
+Amount: 87181.09
+Phone: 1-700-365-7448
+Timestamp: Fri Oct 18 22:57:58 IST 2024
+-----------------------------

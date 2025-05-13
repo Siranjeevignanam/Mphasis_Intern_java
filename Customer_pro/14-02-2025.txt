@@ -1,0 +1,24 @@
+Customer Name: Isidro Rempel
+Transaction ID: 940118528
+Account Number: 718348764
+Email: sara.fritsch@gmail.com
+Amount: 14494.46
+Phone: 179.301.7381
+Timestamp: Fri Feb 14 14:16:58 IST 2025
+-----------------------------
+Customer Name: Hank Fay
+Transaction ID: 276872115
+Account Number: 750790391
+Email: francisco.davis@yahoo.com
+Amount: 84091.64
+Phone: 1-302-552-2461
+Timestamp: Fri Feb 14 14:01:29 IST 2025
+-----------------------------
+Customer Name: Mariella Wyman
+Transaction ID: 692614813
+Account Number: 346073883
+Email: hollis.mann@hotmail.com
+Amount: 81966.72
+Phone: 464-292-3567
+Timestamp: Fri Feb 14 00:54:33 IST 2025
+-----------------------------

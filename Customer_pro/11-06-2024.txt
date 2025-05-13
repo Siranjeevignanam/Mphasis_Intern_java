@@ -1,0 +1,16 @@
+Customer Name: Mr. Linnea McKenzie
+Transaction ID: 750719074
+Account Number: 134084092
+Email: deadra.ziemann@hotmail.com
+Amount: 74637.03
+Phone: (119) 125-2919
+Timestamp: Tue Jun 11 14:25:12 IST 2024
+-----------------------------
+Customer Name: Arlie Huel
+Transaction ID: 855993311
+Account Number: 471782784
+Email: jayson.rowe@yahoo.com
+Amount: 12477.44
+Phone: 512.304.6865
+Timestamp: Tue Jun 11 06:05:30 IST 2024
+-----------------------------

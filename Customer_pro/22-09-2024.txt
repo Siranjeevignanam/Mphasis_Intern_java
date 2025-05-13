@@ -1,0 +1,16 @@
+Customer Name: Miss Jin Mertz
+Transaction ID: 882922270
+Account Number: 230700755
+Email: anh.kertzmann@yahoo.com
+Amount: 27063.21
+Phone: 479.061.1742
+Timestamp: Sun Sep 22 22:55:11 IST 2024
+-----------------------------
+Customer Name: Cassaundra Cummings
+Transaction ID: 571377753
+Account Number: 917140378
+Email: rigoberto.russel@hotmail.com
+Amount: 9444.98
+Phone: (677) 105-4978
+Timestamp: Sun Sep 22 11:42:07 IST 2024
+-----------------------------

@@ -1,0 +1,24 @@
+Customer Name: Jeremy Will
+Transaction ID: 589625672
+Account Number: 360943211
+Email: marhta.lueilwitz@yahoo.com
+Amount: 63230.36
+Phone: 1-407-993-5957
+Timestamp: Mon Aug 12 06:29:27 IST 2024
+-----------------------------
+Customer Name: Dr. Lekisha Kunze
+Transaction ID: 843137487
+Account Number: 746033604
+Email: michele.johnston@hotmail.com
+Amount: 70294.79
+Phone: 1-835-107-1245
+Timestamp: Mon Aug 12 21:54:21 IST 2024
+-----------------------------
+Customer Name: Charlsie Abernathy
+Transaction ID: 282886332
+Account Number: 337228803
+Email: elsy.cummings@gmail.com
+Amount: 9579.42
+Phone: 554-429-8459
+Timestamp: Mon Aug 12 10:01:16 IST 2024
+-----------------------------

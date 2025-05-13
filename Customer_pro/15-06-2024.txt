@@ -1,0 +1,8 @@
+Customer Name: Miss Darius Lubowitz
+Transaction ID: 621699816
+Account Number: 689072367
+Email: teddy.rice@hotmail.com
+Amount: 6192.13
+Phone: 125.358.1806
+Timestamp: Sat Jun 15 17:18:58 IST 2024
+-----------------------------

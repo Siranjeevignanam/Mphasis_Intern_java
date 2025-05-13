@@ -1,0 +1,8 @@
+Customer Name: Mr. Stevie Medhurst
+Transaction ID: 677780628
+Account Number: 919193265
+Email: camelia.little@hotmail.com
+Amount: 63109.28
+Phone: 230-826-2120
+Timestamp: Mon Jul 08 11:58:33 IST 2024
+-----------------------------

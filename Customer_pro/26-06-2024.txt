@@ -1,0 +1,24 @@
+Customer Name: Mose Hintz
+Transaction ID: 626875784
+Account Number: 308779971
+Email: desmond.reichert@yahoo.com
+Amount: 41880.00
+Phone: 787-622-8649
+Timestamp: Wed Jun 26 13:19:04 IST 2024
+-----------------------------
+Customer Name: Chance McCullough
+Transaction ID: 351629682
+Account Number: 899883531
+Email: lanora.wilkinson@yahoo.com
+Amount: 4635.14
+Phone: 892-588-0478
+Timestamp: Wed Jun 26 15:47:15 IST 2024
+-----------------------------
+Customer Name: Kum Windler
+Transaction ID: 640263388
+Account Number: 213417297
+Email: many.kertzmann@hotmail.com
+Amount: 97304.86
+Phone: 754-690-3074
+Timestamp: Wed Jun 26 15:45:53 IST 2024
+-----------------------------

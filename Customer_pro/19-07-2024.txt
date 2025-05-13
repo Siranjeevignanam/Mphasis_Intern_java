@@ -1,0 +1,56 @@
+Customer Name: Kenneth Fritsch
+Transaction ID: 358283305
+Account Number: 114107093
+Email: trevor.blick@yahoo.com
+Amount: 85560.10
+Phone: 889-079-2231
+Timestamp: Fri Jul 19 15:50:53 IST 2024
+-----------------------------
+Customer Name: Jeffie Tromp
+Transaction ID: 997529381
+Account Number: 115335472
+Email: rudolph.smith@hotmail.com
+Amount: 69689.85
+Phone: (565) 158-2031
+Timestamp: Fri Jul 19 06:37:45 IST 2024
+-----------------------------
+Customer Name: Rueben Crona
+Transaction ID: 980881802
+Account Number: 601553830
+Email: stella.russel@yahoo.com
+Amount: 56442.70
+Phone: (378) 893-8277
+Timestamp: Fri Jul 19 22:17:41 IST 2024
+-----------------------------
+Customer Name: Chong Marks
+Transaction ID: 699241957
+Account Number: 182624368
+Email: chad.rodriguez@hotmail.com
+Amount: 49580.50
+Phone: (683) 508-8769
+Timestamp: Fri Jul 19 15:23:04 IST 2024
+-----------------------------
+Customer Name: Herma Frami
+Transaction ID: 445622303
+Account Number: 726243048
+Email: solomon.marvin@hotmail.com
+Amount: 39415.51
+Phone: (080) 461-6562
+Timestamp: Fri Jul 19 01:48:23 IST 2024
+-----------------------------
+Customer Name: Denise Dibbert
+Transaction ID: 580999814
+Account Number: 155036944
+Email: milo.mann@yahoo.com
+Amount: 78878.13
+Phone: 280-414-9555
+Timestamp: Fri Jul 19 09:51:05 IST 2024
+-----------------------------
+Customer Name: Aaron Howell
+Transaction ID: 553542747
+Account Number: 577113605
+Email: isidro.hegmann@hotmail.com
+Amount: 34998.08
+Phone: 265-828-2104
+Timestamp: Fri Jul 19 08:48:15 IST 2024
+-----------------------------

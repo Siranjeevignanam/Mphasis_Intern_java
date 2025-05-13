@@ -1,0 +1,40 @@
+Customer Name: Dr. Freddie Rice
+Transaction ID: 948555918
+Account Number: 674829314
+Email: ava.cronin@hotmail.com
+Amount: 62766.30
+Phone: 1-162-613-9548
+Timestamp: Fri Dec 27 02:32:04 IST 2024
+-----------------------------
+Customer Name: Ramiro Heathcote
+Transaction ID: 527505717
+Account Number: 890326958
+Email: trinidad.hintz@hotmail.com
+Amount: 88731.82
+Phone: 709-758-6814
+Timestamp: Fri Dec 27 09:05:59 IST 2024
+-----------------------------
+Customer Name: Mr. Moriah Tillman
+Transaction ID: 564762925
+Account Number: 209933554
+Email: sherill.zulauf@gmail.com
+Amount: 75278.83
+Phone: 330.604.8803
+Timestamp: Fri Dec 27 10:26:11 IST 2024
+-----------------------------
+Customer Name: Jeromy Schimmel
+Transaction ID: 772419311
+Account Number: 685668448
+Email: derek.denesik@yahoo.com
+Amount: 8775.91
+Phone: 398-352-1560
+Timestamp: Fri Dec 27 06:51:09 IST 2024
+-----------------------------
+Customer Name: Earleen Dickinson
+Transaction ID: 526135487
+Account Number: 648286948
+Email: anamaria.bogisich@hotmail.com
+Amount: 45534.47
+Phone: 1-651-363-5751
+Timestamp: Fri Dec 27 12:41:26 IST 2024
+-----------------------------

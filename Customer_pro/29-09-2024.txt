@@ -1,0 +1,16 @@
+Customer Name: Claretha Raynor
+Transaction ID: 244127851
+Account Number: 299312930
+Email: morgan.damore@hotmail.com
+Amount: 32376.58
+Phone: 013.564.3949
+Timestamp: Sun Sep 29 10:12:32 IST 2024
+-----------------------------
+Customer Name: Jeremiah Lakin
+Transaction ID: 978675544
+Account Number: 400161492
+Email: nikki.prosacco@hotmail.com
+Amount: 61849.69
+Phone: 412.272.5837
+Timestamp: Sun Sep 29 21:26:57 IST 2024
+-----------------------------

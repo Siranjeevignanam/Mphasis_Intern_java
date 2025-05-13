@@ -1,0 +1,32 @@
+Customer Name: Rudolf Gusikowski
+Transaction ID: 897732675
+Account Number: 708862921
+Email: doyle.balistreri@hotmail.com
+Amount: 66160.97
+Phone: 1-369-625-1652
+Timestamp: Wed Aug 28 19:53:54 IST 2024
+-----------------------------
+Customer Name: Hollis Fritsch
+Transaction ID: 238599456
+Account Number: 269862296
+Email: robbie.wisozk@hotmail.com
+Amount: 49505.07
+Phone: 558-549-0548
+Timestamp: Wed Aug 28 02:46:51 IST 2024
+-----------------------------
+Customer Name: Dr. Edwin Ferry
+Transaction ID: 678155861
+Account Number: 396721456
+Email: wilbert.schimmel@hotmail.com
+Amount: 92303.25
+Phone: 937.718.7080
+Timestamp: Wed Aug 28 06:23:41 IST 2024
+-----------------------------
+Customer Name: Cherry Rolfson
+Transaction ID: 764304923
+Account Number: 824203828
+Email: antonette.frami@gmail.com
+Amount: 27110.19
+Phone: (232) 138-6907
+Timestamp: Wed Aug 28 05:57:25 IST 2024
+-----------------------------

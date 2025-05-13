@@ -1,0 +1,8 @@
+Customer Name: Billie Watsica Jr.
+Transaction ID: 104638242
+Account Number: 731119048
+Email: priscilla.veum@hotmail.com
+Amount: 15649.05
+Phone: 1-405-855-7671
+Timestamp: Fri Sep 27 16:35:27 IST 2024
+-----------------------------

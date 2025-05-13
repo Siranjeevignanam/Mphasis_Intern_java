@@ -1,0 +1,16 @@
+Customer Name: Lina Harris
+Transaction ID: 862271658
+Account Number: 315745732
+Email: willard.shanahan@gmail.com
+Amount: 24566.76
+Phone: (533) 068-1526
+Timestamp: Sun Sep 08 21:44:24 IST 2024
+-----------------------------
+Customer Name: Lory Lehner
+Transaction ID: 809063761
+Account Number: 431471251
+Email: gerda.kuhn@yahoo.com
+Amount: 48037.71
+Phone: 091-103-3048
+Timestamp: Sun Sep 08 18:18:06 IST 2024
+-----------------------------

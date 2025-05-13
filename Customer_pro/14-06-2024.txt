@@ -1,0 +1,24 @@
+Customer Name: Luci Bartoletti DVM
+Transaction ID: 277628412
+Account Number: 950871526
+Email: pennie.emard@hotmail.com
+Amount: 97490.84
+Phone: 1-924-450-9347
+Timestamp: Fri Jun 14 13:18:08 IST 2024
+-----------------------------
+Customer Name: Deborah Collins
+Transaction ID: 191822553
+Account Number: 942695245
+Email: vera.maggio@hotmail.com
+Amount: 71011.34
+Phone: 1-698-447-4094
+Timestamp: Fri Jun 14 02:23:33 IST 2024
+-----------------------------
+Customer Name: Bethel Feest
+Transaction ID: 167968099
+Account Number: 558211101
+Email: daryl.will@gmail.com
+Amount: 18501.24
+Phone: 1-446-826-7549
+Timestamp: Fri Jun 14 20:18:08 IST 2024
+-----------------------------

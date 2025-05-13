@@ -1,0 +1,24 @@
+Customer Name: Herman Donnelly
+Transaction ID: 382483211
+Account Number: 973287153
+Email: lewis.hane@gmail.com
+Amount: 7850.04
+Phone: 259-807-4538
+Timestamp: Thu Aug 08 08:17:20 IST 2024
+-----------------------------
+Customer Name: Frida Waters
+Transaction ID: 311253720
+Account Number: 784098047
+Email: barton.kulas@yahoo.com
+Amount: 32702.68
+Phone: 1-981-209-5060
+Timestamp: Thu Aug 08 18:53:24 IST 2024
+-----------------------------
+Customer Name: Fabian Wyman
+Transaction ID: 395998793
+Account Number: 155076742
+Email: antoine.krajcik@gmail.com
+Amount: 44501.21
+Phone: 331.280.6639
+Timestamp: Thu Aug 08 10:26:09 IST 2024
+-----------------------------

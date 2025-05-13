@@ -1,0 +1,8 @@
+Customer Name: Sandie Schmeler
+Transaction ID: 879062949
+Account Number: 435001820
+Email: kenyetta.mante@yahoo.com
+Amount: 3068.26
+Phone: 1-042-184-4901
+Timestamp: Mon Dec 02 08:39:26 IST 2024
+-----------------------------

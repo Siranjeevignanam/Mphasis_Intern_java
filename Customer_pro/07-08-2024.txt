@@ -1,0 +1,32 @@
+Customer Name: Ms. Josue Kuvalis
+Transaction ID: 692381921
+Account Number: 809708892
+Email: dreama.gibson@yahoo.com
+Amount: 41851.00
+Phone: 078-464-9240
+Timestamp: Wed Aug 07 14:36:03 IST 2024
+-----------------------------
+Customer Name: Eduardo Kassulke V
+Transaction ID: 117542303
+Account Number: 567865836
+Email: allene.runolfsdottir@hotmail.com
+Amount: 96149.14
+Phone: 1-124-983-8455
+Timestamp: Wed Aug 07 14:43:40 IST 2024
+-----------------------------
+Customer Name: Viviana Zieme III
+Transaction ID: 457360154
+Account Number: 885784221
+Email: ariana.smith@hotmail.com
+Amount: 36473.65
+Phone: 763-357-9233
+Timestamp: Wed Aug 07 21:44:02 IST 2024
+-----------------------------
+Customer Name: Manuel Stehr
+Transaction ID: 115132334
+Account Number: 741931684
+Email: bobbie.larkin@gmail.com
+Amount: 55578.16
+Phone: (657) 382-0258
+Timestamp: Wed Aug 07 08:14:21 IST 2024
+-----------------------------

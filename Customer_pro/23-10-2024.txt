@@ -1,0 +1,16 @@
+Customer Name: Tuan Sipes
+Transaction ID: 619129504
+Account Number: 888017163
+Email: georgianne.wisozk@gmail.com
+Amount: 11961.43
+Phone: 063-109-5104
+Timestamp: Wed Oct 23 11:19:49 IST 2024
+-----------------------------
+Customer Name: Shemeka Cronin
+Transaction ID: 306008670
+Account Number: 247152805
+Email: asa.schultz@gmail.com
+Amount: 79016.65
+Phone: 1-927-976-4974
+Timestamp: Wed Oct 23 21:47:06 IST 2024
+-----------------------------

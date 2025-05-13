@@ -1,0 +1,16 @@
+Customer Name: Marlin Buckridge
+Transaction ID: 496901658
+Account Number: 737396867
+Email: tesha.mante@yahoo.com
+Amount: 59759.33
+Phone: 256-885-0532
+Timestamp: Tue Apr 01 07:48:46 IST 2025
+-----------------------------
+Customer Name: Rudolph Brown
+Transaction ID: 602448399
+Account Number: 786125973
+Email: moses.grant@hotmail.com
+Amount: 5652.84
+Phone: 1-627-364-5543
+Timestamp: Tue Apr 01 13:46:27 IST 2025
+-----------------------------

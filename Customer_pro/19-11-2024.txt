@@ -1,0 +1,24 @@
+Customer Name: Maryanne Hermiston
+Transaction ID: 743949314
+Account Number: 144443031
+Email: julian.hilpert@hotmail.com
+Amount: 76905.95
+Phone: 225.021.4972
+Timestamp: Tue Nov 19 11:08:49 IST 2024
+-----------------------------
+Customer Name: Miss Garret Pfannerstill
+Transaction ID: 543166667
+Account Number: 879544150
+Email: adrian.beier@gmail.com
+Amount: 83261.39
+Phone: 549.358.9837
+Timestamp: Tue Nov 19 14:41:00 IST 2024
+-----------------------------
+Customer Name: Kraig Waters I
+Transaction ID: 171214539
+Account Number: 360546677
+Email: morris.gutmann@gmail.com
+Amount: 3505.94
+Phone: (264) 251-6508
+Timestamp: Tue Nov 19 11:05:24 IST 2024
+-----------------------------

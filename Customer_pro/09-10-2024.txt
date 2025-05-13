@@ -1,0 +1,16 @@
+Customer Name: Clyde Goodwin
+Transaction ID: 863895082
+Account Number: 700491916
+Email: gayla.damore@yahoo.com
+Amount: 24195.02
+Phone: 200.470.1373
+Timestamp: Wed Oct 09 21:20:17 IST 2024
+-----------------------------
+Customer Name: Mack Zboncak
+Transaction ID: 735224860
+Account Number: 384868972
+Email: erlene.balistreri@gmail.com
+Amount: 22246.97
+Phone: (658) 743-0636
+Timestamp: Wed Oct 09 14:31:27 IST 2024
+-----------------------------

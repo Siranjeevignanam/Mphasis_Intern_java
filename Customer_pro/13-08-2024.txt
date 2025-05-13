@@ -1,0 +1,24 @@
+Customer Name: Garret Daugherty
+Transaction ID: 742771511
+Account Number: 368810029
+Email: gilbert.kuvalis@yahoo.com
+Amount: 51559.26
+Phone: (295) 027-6118
+Timestamp: Tue Aug 13 12:27:00 IST 2024
+-----------------------------
+Customer Name: Lloyd Ziemann II
+Transaction ID: 815359937
+Account Number: 963369684
+Email: otha.turner@yahoo.com
+Amount: 83637.02
+Phone: 1-045-235-1440
+Timestamp: Tue Aug 13 01:29:06 IST 2024
+-----------------------------
+Customer Name: Dr. Gerald Koepp
+Transaction ID: 394033746
+Account Number: 735788817
+Email: mary.parker@yahoo.com
+Amount: 86407.78
+Phone: 302-606-5296
+Timestamp: Tue Aug 13 13:09:56 IST 2024
+-----------------------------

@@ -1,0 +1,8 @@
+Customer Name: Mel Osinski
+Transaction ID: 732185582
+Account Number: 616716255
+Email: joel.anderson@gmail.com
+Amount: 4382.61
+Phone: 638-241-4065
+Timestamp: Thu Jul 18 18:04:07 IST 2024
+-----------------------------

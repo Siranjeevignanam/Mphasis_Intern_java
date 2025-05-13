@@ -1,0 +1,24 @@
+Customer Name: Raymon Hartmann
+Transaction ID: 587102021
+Account Number: 640314733
+Email: mitch.white@gmail.com
+Amount: 14720.46
+Phone: 1-560-989-8735
+Timestamp: Thu Dec 26 19:04:51 IST 2024
+-----------------------------
+Customer Name: Norah Zemlak
+Transaction ID: 689755149
+Account Number: 640666662
+Email: chantell.hand@hotmail.com
+Amount: 63485.68
+Phone: 1-037-337-3091
+Timestamp: Thu Dec 26 21:48:41 IST 2024
+-----------------------------
+Customer Name: Jan Parisian
+Transaction ID: 383130945
+Account Number: 630389368
+Email: mallie.bogan@yahoo.com
+Amount: 94621.00
+Phone: (558) 903-4004
+Timestamp: Thu Dec 26 09:43:00 IST 2024
+-----------------------------

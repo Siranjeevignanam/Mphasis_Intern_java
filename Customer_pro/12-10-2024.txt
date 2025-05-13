@@ -1,0 +1,48 @@
+Customer Name: Vida Kshlerin
+Transaction ID: 404958826
+Account Number: 567389577
+Email: yung.cassin@yahoo.com
+Amount: 65646.02
+Phone: 1-216-639-5323
+Timestamp: Sat Oct 12 03:37:24 IST 2024
+-----------------------------
+Customer Name: Ms. Demetra Casper
+Transaction ID: 366127505
+Account Number: 618190501
+Email: izola.kerluke@gmail.com
+Amount: 11822.76
+Phone: 180-699-7301
+Timestamp: Sat Oct 12 08:02:42 IST 2024
+-----------------------------
+Customer Name: Ayako Schuster
+Transaction ID: 873872419
+Account Number: 819237071
+Email: larhonda.schowalter@yahoo.com
+Amount: 45041.08
+Phone: 741.538.4442
+Timestamp: Sat Oct 12 07:43:54 IST 2024
+-----------------------------
+Customer Name: Dr. Georgiann Renner
+Transaction ID: 209029935
+Account Number: 411441751
+Email: vickey.hilpert@yahoo.com
+Amount: 70127.40
+Phone: 1-338-128-0707
+Timestamp: Sat Oct 12 20:25:13 IST 2024
+-----------------------------
+Customer Name: Elois Marks
+Transaction ID: 272624111
+Account Number: 113957944
+Email: cori.kemmer@hotmail.com
+Amount: 29079.06
+Phone: 337.697.1149
+Timestamp: Sat Oct 12 08:14:31 IST 2024
+-----------------------------
+Customer Name: Keneth Kertzmann
+Transaction ID: 963719250
+Account Number: 276411954
+Email: tyler.kiehn@hotmail.com
+Amount: 77655.78
+Phone: (940) 903-6007
+Timestamp: Sat Oct 12 08:17:39 IST 2024
+-----------------------------

@@ -1,0 +1,24 @@
+Customer Name: Fritz Bartoletti
+Transaction ID: 899032583
+Account Number: 363184398
+Email: stuart.wiegand@yahoo.com
+Amount: 72346.75
+Phone: 1-563-306-2009
+Timestamp: Thu Mar 27 02:15:23 IST 2025
+-----------------------------
+Customer Name: Columbus Cole
+Transaction ID: 868929955
+Account Number: 423024856
+Email: marcelina.trantow@hotmail.com
+Amount: 90079.35
+Phone: (091) 358-0280
+Timestamp: Thu Mar 27 19:30:36 IST 2025
+-----------------------------
+Customer Name: Julietta Hilpert III
+Transaction ID: 723429233
+Account Number: 123002941
+Email: lynwood.mclaughlin@hotmail.com
+Amount: 7900.55
+Phone: (890) 173-5458
+Timestamp: Thu Mar 27 20:05:35 IST 2025
+-----------------------------

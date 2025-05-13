@@ -1,0 +1,16 @@
+Customer Name: Karl Lockman
+Transaction ID: 172633551
+Account Number: 817056185
+Email: tempie.kulas@hotmail.com
+Amount: 78240.68
+Phone: (694) 222-6695
+Timestamp: Wed Aug 21 20:38:30 IST 2024
+-----------------------------
+Customer Name: Meaghan Gleichner
+Transaction ID: 725742211
+Account Number: 756957277
+Email: freeda.kilback@yahoo.com
+Amount: 72492.73
+Phone: 297-241-5819
+Timestamp: Wed Aug 21 04:43:31 IST 2024
+-----------------------------

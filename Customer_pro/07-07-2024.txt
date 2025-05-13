@@ -1,0 +1,16 @@
+Customer Name: Miss Pablo Moen
+Transaction ID: 479011989
+Account Number: 189181976
+Email: miquel.borer@hotmail.com
+Amount: 71981.85
+Phone: 638-751-6207
+Timestamp: Sun Jul 07 06:09:31 IST 2024
+-----------------------------
+Customer Name: Mohammed Collins
+Transaction ID: 433505476
+Account Number: 994763217
+Email: carissa.ryan@gmail.com
+Amount: 89947.90
+Phone: (015) 557-3750
+Timestamp: Sun Jul 07 12:31:59 IST 2024
+-----------------------------

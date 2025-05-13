@@ -1,0 +1,8 @@
+Customer Name: Heath Rau
+Transaction ID: 617680002
+Account Number: 416592663
+Email: catherine.pagac@gmail.com
+Amount: 97792.92
+Phone: 924-653-3863
+Timestamp: Wed Jun 12 15:57:00 IST 2024
+-----------------------------

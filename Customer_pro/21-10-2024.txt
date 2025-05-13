@@ -1,0 +1,16 @@
+Customer Name: Albertina Fahey
+Transaction ID: 123113779
+Account Number: 759129492
+Email: quintin.glover@gmail.com
+Amount: 61945.76
+Phone: 1-969-208-0006
+Timestamp: Mon Oct 21 18:50:30 IST 2024
+-----------------------------
+Customer Name: Tim Heaney
+Transaction ID: 299423181
+Account Number: 451395548
+Email: kelsey.bechtelar@gmail.com
+Amount: 85976.77
+Phone: (818) 274-0198
+Timestamp: Mon Oct 21 17:56:36 IST 2024
+-----------------------------

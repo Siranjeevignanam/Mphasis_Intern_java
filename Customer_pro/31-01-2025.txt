@@ -1,0 +1,24 @@
+Customer Name: Ms. Cyril McCullough
+Transaction ID: 185987260
+Account Number: 237683256
+Email: mozella.torp@yahoo.com
+Amount: 56288.51
+Phone: 737-246-3869
+Timestamp: Fri Jan 31 19:57:45 IST 2025
+-----------------------------
+Customer Name: Gabriel Sipes
+Transaction ID: 931676792
+Account Number: 142550248
+Email: harrison.marquardt@hotmail.com
+Amount: 94609.23
+Phone: 331-340-6184
+Timestamp: Fri Jan 31 01:26:04 IST 2025
+-----------------------------
+Customer Name: Charlena Dickinson
+Transaction ID: 929042032
+Account Number: 478780847
+Email: ned.borer@yahoo.com
+Amount: 81050.12
+Phone: 083.426.7834
+Timestamp: Fri Jan 31 09:30:48 IST 2025
+-----------------------------

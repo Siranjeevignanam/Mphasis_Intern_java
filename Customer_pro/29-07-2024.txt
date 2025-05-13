@@ -1,0 +1,16 @@
+Customer Name: Young Collins
+Transaction ID: 514192692
+Account Number: 295566870
+Email: ayako.stokes@yahoo.com
+Amount: 37328.08
+Phone: (494) 175-6471
+Timestamp: Mon Jul 29 19:19:49 IST 2024
+-----------------------------
+Customer Name: Katrina Hegmann
+Transaction ID: 753004092
+Account Number: 155289566
+Email: shari.lynch@gmail.com
+Amount: 63875.06
+Phone: 967.266.0248
+Timestamp: Mon Jul 29 23:37:00 IST 2024
+-----------------------------

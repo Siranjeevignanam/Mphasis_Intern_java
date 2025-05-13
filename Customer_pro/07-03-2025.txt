@@ -1,0 +1,8 @@
+Customer Name: Lakeesha Raynor
+Transaction ID: 924986475
+Account Number: 236147938
+Email: bobbie.spinka@hotmail.com
+Amount: 98613.10
+Phone: 569-344-9092
+Timestamp: Fri Mar 07 13:05:28 IST 2025
+-----------------------------

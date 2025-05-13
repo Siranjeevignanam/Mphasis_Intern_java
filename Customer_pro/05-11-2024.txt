@@ -1,0 +1,8 @@
+Customer Name: Jeramy Kerluke
+Transaction ID: 890485237
+Account Number: 114282680
+Email: marnie.hagenes@hotmail.com
+Amount: 79970.42
+Phone: 725.437.7886
+Timestamp: Tue Nov 05 12:56:37 IST 2024
+-----------------------------

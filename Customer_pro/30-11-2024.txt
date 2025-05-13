@@ -1,0 +1,8 @@
+Customer Name: Newton Schamberger
+Transaction ID: 746470852
+Account Number: 535845933
+Email: katheleen.lowe@hotmail.com
+Amount: 56189.75
+Phone: 1-384-460-0163
+Timestamp: Sat Nov 30 09:32:23 IST 2024
+-----------------------------

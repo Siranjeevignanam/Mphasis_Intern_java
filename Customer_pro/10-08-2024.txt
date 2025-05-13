@@ -1,0 +1,24 @@
+Customer Name: Tillie Greenholt
+Transaction ID: 672099445
+Account Number: 891126862
+Email: max.hahn@yahoo.com
+Amount: 30503.96
+Phone: (478) 131-3653
+Timestamp: Sat Aug 10 17:17:07 IST 2024
+-----------------------------
+Customer Name: Conrad Watsica
+Transaction ID: 157974551
+Account Number: 413981462
+Email: charlie.heaney@gmail.com
+Amount: 65418.74
+Phone: (180) 548-5108
+Timestamp: Sat Aug 10 02:40:50 IST 2024
+-----------------------------
+Customer Name: Rubie Jerde Jr.
+Transaction ID: 222694741
+Account Number: 162280639
+Email: cynthia.raynor@hotmail.com
+Amount: 61789.82
+Phone: 1-842-992-8604
+Timestamp: Sat Aug 10 11:36:06 IST 2024
+-----------------------------

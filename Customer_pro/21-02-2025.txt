@@ -1,0 +1,16 @@
+Customer Name: Reina Morar
+Transaction ID: 405253942
+Account Number: 463589566
+Email: vicente.macgyver@yahoo.com
+Amount: 65874.64
+Phone: (351) 050-1360
+Timestamp: Fri Feb 21 05:25:58 IST 2025
+-----------------------------
+Customer Name: Nidia Tromp
+Transaction ID: 488457385
+Account Number: 472626684
+Email: jewel.wehner@gmail.com
+Amount: 51313.00
+Phone: (095) 196-9780
+Timestamp: Fri Feb 21 23:07:38 IST 2025
+-----------------------------

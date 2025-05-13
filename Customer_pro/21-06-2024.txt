@@ -1,0 +1,64 @@
+Customer Name: Darnell Stehr
+Transaction ID: 341893869
+Account Number: 436681192
+Email: charita.emmerich@gmail.com
+Amount: 20243.46
+Phone: (789) 311-7496
+Timestamp: Fri Jun 21 03:41:58 IST 2024
+-----------------------------
+Customer Name: Jeffry Rosenbaum IV
+Transaction ID: 305297803
+Account Number: 118250467
+Email: tony.price@gmail.com
+Amount: 12458.72
+Phone: (130) 143-2892
+Timestamp: Fri Jun 21 23:35:40 IST 2024
+-----------------------------
+Customer Name: Kortney Watsica
+Transaction ID: 969890384
+Account Number: 960303144
+Email: tonya.mitchell@hotmail.com
+Amount: 24090.61
+Phone: 647.178.3650
+Timestamp: Fri Jun 21 00:42:13 IST 2024
+-----------------------------
+Customer Name: Lonnie Schimmel
+Transaction ID: 574017033
+Account Number: 194507778
+Email: ronald.nader@gmail.com
+Amount: 5830.54
+Phone: 340.146.9044
+Timestamp: Fri Jun 21 23:48:27 IST 2024
+-----------------------------
+Customer Name: Christie Lindgren
+Transaction ID: 870573563
+Account Number: 153312659
+Email: don.little@hotmail.com
+Amount: 7638.33
+Phone: (829) 912-3263
+Timestamp: Fri Jun 21 08:03:02 IST 2024
+-----------------------------
+Customer Name: Reyna Cronin
+Transaction ID: 761962996
+Account Number: 153553271
+Email: brendan.dicki@gmail.com
+Amount: 41654.49
+Phone: 031-528-7275
+Timestamp: Fri Jun 21 10:10:27 IST 2024
+-----------------------------
+Customer Name: Dr. Omega Auer
+Transaction ID: 721943370
+Account Number: 353810832
+Email: loren.johns@gmail.com
+Amount: 62736.84
+Phone: 277-113-2042
+Timestamp: Fri Jun 21 18:24:45 IST 2024
+-----------------------------
+Customer Name: Belen Wisoky
+Transaction ID: 739685915
+Account Number: 136967509
+Email: heidi.white@yahoo.com
+Amount: 13188.30
+Phone: 475-455-9562
+Timestamp: Fri Jun 21 15:17:03 IST 2024
+-----------------------------

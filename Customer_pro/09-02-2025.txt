@@ -1,0 +1,40 @@
+Customer Name: Claude Corkery
+Transaction ID: 461798751
+Account Number: 331428942
+Email: jack.ernser@gmail.com
+Amount: 96502.21
+Phone: 1-649-962-2999
+Timestamp: Sun Feb 09 17:24:07 IST 2025
+-----------------------------
+Customer Name: Rubye Little
+Transaction ID: 682991760
+Account Number: 603074436
+Email: phillip.dibbert@hotmail.com
+Amount: 39512.18
+Phone: 1-499-492-7774
+Timestamp: Sun Feb 09 09:03:35 IST 2025
+-----------------------------
+Customer Name: Sylvester Lebsack
+Transaction ID: 838421275
+Account Number: 424152395
+Email: ambrose.spinka@gmail.com
+Amount: 84114.62
+Phone: 1-757-536-6633
+Timestamp: Sun Feb 09 00:13:55 IST 2025
+-----------------------------
+Customer Name: Ms. Carter West
+Transaction ID: 446396929
+Account Number: 601979616
+Email: douglas.schmidt@gmail.com
+Amount: 4801.62
+Phone: 220.118.5023
+Timestamp: Sun Feb 09 09:26:35 IST 2025
+-----------------------------
+Customer Name: Rudolph Moen
+Transaction ID: 675244122
+Account Number: 321348162
+Email: orval.kerluke@yahoo.com
+Amount: 91516.79
+Phone: (035) 672-5251
+Timestamp: Sun Feb 09 05:33:01 IST 2025
+-----------------------------

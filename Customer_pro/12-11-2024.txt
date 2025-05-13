@@ -1,0 +1,16 @@
+Customer Name: Eileen Cruickshank
+Transaction ID: 237040639
+Account Number: 307587809
+Email: roselee.witting@gmail.com
+Amount: 70032.46
+Phone: 718-665-0452
+Timestamp: Tue Nov 12 05:47:55 IST 2024
+-----------------------------
+Customer Name: Aundrea Kling
+Transaction ID: 604522008
+Account Number: 909141435
+Email: danilo.reichert@yahoo.com
+Amount: 1480.48
+Phone: 1-134-998-1077
+Timestamp: Tue Nov 12 11:53:26 IST 2024
+-----------------------------

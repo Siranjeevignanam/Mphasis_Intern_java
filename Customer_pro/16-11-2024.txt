@@ -1,0 +1,8 @@
+Customer Name: Dorian Rodriguez
+Transaction ID: 390365440
+Account Number: 765478310
+Email: robin.turner@hotmail.com
+Amount: 14034.08
+Phone: 994-450-7952
+Timestamp: Sat Nov 16 03:36:14 IST 2024
+-----------------------------

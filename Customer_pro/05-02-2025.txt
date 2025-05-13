@@ -1,0 +1,8 @@
+Customer Name: Thad Waters
+Transaction ID: 230020735
+Account Number: 649837044
+Email: janell.toy@hotmail.com
+Amount: 25277.22
+Phone: (457) 019-2278
+Timestamp: Wed Feb 05 11:17:28 IST 2025
+-----------------------------

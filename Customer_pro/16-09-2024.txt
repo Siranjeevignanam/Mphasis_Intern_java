@@ -1,0 +1,8 @@
+Customer Name: Cornelius Rohan
+Transaction ID: 182362243
+Account Number: 199245674
+Email: harold.dubuque@gmail.com
+Amount: 23450.31
+Phone: 1-741-346-5749
+Timestamp: Mon Sep 16 02:23:05 IST 2024
+-----------------------------

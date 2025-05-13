@@ -1,0 +1,16 @@
+Customer Name: Joel Kulas
+Transaction ID: 129141365
+Account Number: 308361436
+Email: maisha.roob@gmail.com
+Amount: 69417.74
+Phone: (916) 423-4910
+Timestamp: Mon Jun 03 07:06:25 IST 2024
+-----------------------------
+Customer Name: Olive Zieme
+Transaction ID: 605662792
+Account Number: 682454563
+Email: mitzi.mccullough@yahoo.com
+Amount: 85541.57
+Phone: 806.768.5893
+Timestamp: Mon Jun 03 21:07:19 IST 2024
+-----------------------------

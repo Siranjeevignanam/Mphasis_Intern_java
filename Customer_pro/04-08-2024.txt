@@ -1,0 +1,8 @@
+Customer Name: Miss See Trantow
+Transaction ID: 511801012
+Account Number: 325183454
+Email: loise.wisozk@yahoo.com
+Amount: 10799.14
+Phone: (931) 138-8169
+Timestamp: Sun Aug 04 18:30:03 IST 2024
+-----------------------------

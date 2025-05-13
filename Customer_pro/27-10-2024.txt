@@ -1,0 +1,40 @@
+Customer Name: Miss Inez West
+Transaction ID: 211963339
+Account Number: 254731290
+Email: lashaunda.mitchell@gmail.com
+Amount: 98459.74
+Phone: (805) 060-4711
+Timestamp: Sun Oct 27 10:11:57 IST 2024
+-----------------------------
+Customer Name: Jerrod Runolfsson
+Transaction ID: 350476028
+Account Number: 674885335
+Email: gidget.moore@hotmail.com
+Amount: 15073.71
+Phone: 844-042-4155
+Timestamp: Sun Oct 27 22:53:01 IST 2024
+-----------------------------
+Customer Name: Anderson Donnelly
+Transaction ID: 408395858
+Account Number: 652343735
+Email: tasha.reichert@yahoo.com
+Amount: 7439.00
+Phone: 396-996-6665
+Timestamp: Sun Oct 27 22:37:53 IST 2024
+-----------------------------
+Customer Name: Sherlyn Leannon Jr.
+Transaction ID: 144722924
+Account Number: 202208943
+Email: katrina.hintz@yahoo.com
+Amount: 2634.21
+Phone: 1-387-168-7264
+Timestamp: Sun Oct 27 16:24:46 IST 2024
+-----------------------------
+Customer Name: Dallas West Sr.
+Transaction ID: 750391938
+Account Number: 144313554
+Email: samual.lang@hotmail.com
+Amount: 65027.71
+Phone: 432.796.8483
+Timestamp: Sun Oct 27 07:51:21 IST 2024
+-----------------------------

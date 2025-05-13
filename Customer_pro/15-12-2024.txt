@@ -1,0 +1,24 @@
+Customer Name: Avery Powlowski MD
+Transaction ID: 973386900
+Account Number: 849285305
+Email: shella.runolfsson@hotmail.com
+Amount: 57312.47
+Phone: 1-861-418-0744
+Timestamp: Sun Dec 15 09:05:48 IST 2024
+-----------------------------
+Customer Name: Clay Howell
+Transaction ID: 385797739
+Account Number: 512936787
+Email: lance.cole@gmail.com
+Amount: 17145.15
+Phone: 068.550.0818
+Timestamp: Sun Dec 15 01:05:52 IST 2024
+-----------------------------
+Customer Name: Ruben Labadie IV
+Transaction ID: 124338381
+Account Number: 635991201
+Email: rhoda.fadel@gmail.com
+Amount: 37894.39
+Phone: 1-533-026-0846
+Timestamp: Sun Dec 15 23:15:11 IST 2024
+-----------------------------

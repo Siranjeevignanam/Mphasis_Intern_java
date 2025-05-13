@@ -1,0 +1,32 @@
+Customer Name: Candi Blanda DVM
+Transaction ID: 553133747
+Account Number: 888032187
+Email: bryce.smitham@gmail.com
+Amount: 81633.87
+Phone: 1-036-664-8106
+Timestamp: Sat Oct 19 15:17:53 IST 2024
+-----------------------------
+Customer Name: Avery Pacocha
+Transaction ID: 385109669
+Account Number: 198939006
+Email: antionette.willms@hotmail.com
+Amount: 45367.26
+Phone: (106) 520-3627
+Timestamp: Sat Oct 19 22:12:15 IST 2024
+-----------------------------
+Customer Name: Charlsie Gusikowski
+Transaction ID: 608228707
+Account Number: 527114176
+Email: zachery.swift@hotmail.com
+Amount: 43632.71
+Phone: 1-403-160-5181
+Timestamp: Sat Oct 19 16:00:18 IST 2024
+-----------------------------
+Customer Name: Waldo Schowalter
+Transaction ID: 210696298
+Account Number: 319511388
+Email: claudine.rowe@yahoo.com
+Amount: 76868.58
+Phone: 208-852-0509
+Timestamp: Sat Oct 19 03:09:26 IST 2024
+-----------------------------

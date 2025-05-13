@@ -1,0 +1,16 @@
+Customer Name: Nickolas O'Conner
+Transaction ID: 977394532
+Account Number: 192200285
+Email: princess.romaguera@gmail.com
+Amount: 59453.49
+Phone: 1-449-164-5967
+Timestamp: Tue Dec 10 15:26:00 IST 2024
+-----------------------------
+Customer Name: Gladys Bednar
+Transaction ID: 145856472
+Account Number: 739272852
+Email: omer.haley@gmail.com
+Amount: 71173.89
+Phone: 022.915.2409
+Timestamp: Tue Dec 10 06:11:50 IST 2024
+-----------------------------

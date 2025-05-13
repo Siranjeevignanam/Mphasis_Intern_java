@@ -1,0 +1,8 @@
+Customer Name: Alton White
+Transaction ID: 596131071
+Account Number: 650528154
+Email: miguel.schiller@gmail.com
+Amount: 59982.29
+Phone: 1-703-955-0183
+Timestamp: Sun Sep 01 23:40:53 IST 2024
+-----------------------------

@@ -1,0 +1,16 @@
+Customer Name: Dr. Alonzo Ritchie
+Transaction ID: 354951063
+Account Number: 175238541
+Email: britt.auer@hotmail.com
+Amount: 48223.81
+Phone: 1-752-862-5370
+Timestamp: Wed Nov 20 09:08:17 IST 2024
+-----------------------------
+Customer Name: Valentine Rau
+Transaction ID: 553164422
+Account Number: 786381839
+Email: kurtis.gulgowski@gmail.com
+Amount: 84263.24
+Phone: 423.413.7359
+Timestamp: Wed Nov 20 14:56:43 IST 2024
+-----------------------------

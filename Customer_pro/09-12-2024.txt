@@ -1,0 +1,24 @@
+Customer Name: Denny Cummerata
+Transaction ID: 975975014
+Account Number: 854204048
+Email: minda.marquardt@hotmail.com
+Amount: 11027.19
+Phone: 1-878-829-0183
+Timestamp: Mon Dec 09 06:31:03 IST 2024
+-----------------------------
+Customer Name: Larraine Cassin DDS
+Transaction ID: 613512777
+Account Number: 144555398
+Email: rocco.kris@hotmail.com
+Amount: 98276.19
+Phone: 1-547-701-1107
+Timestamp: Mon Dec 09 01:31:34 IST 2024
+-----------------------------
+Customer Name: Winnie Rutherford
+Transaction ID: 747510868
+Account Number: 234817861
+Email: letty.wuckert@gmail.com
+Amount: 24778.43
+Phone: 249-893-0340
+Timestamp: Mon Dec 09 02:27:34 IST 2024
+-----------------------------

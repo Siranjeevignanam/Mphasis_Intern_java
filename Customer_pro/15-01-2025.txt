@@ -1,0 +1,16 @@
+Customer Name: Chere Smith
+Transaction ID: 990787540
+Account Number: 271965798
+Email: leo.donnelly@gmail.com
+Amount: 6680.16
+Phone: 1-994-474-9665
+Timestamp: Wed Jan 15 07:16:55 IST 2025
+-----------------------------
+Customer Name: Nu Schultz
+Transaction ID: 470497678
+Account Number: 190744823
+Email: olevia.romaguera@gmail.com
+Amount: 97824.18
+Phone: 342-868-6003
+Timestamp: Wed Jan 15 04:50:23 IST 2025
+-----------------------------

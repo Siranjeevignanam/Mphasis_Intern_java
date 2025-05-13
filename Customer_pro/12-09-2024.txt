@@ -1,0 +1,64 @@
+Customer Name: Miss Bronwyn Reichel
+Transaction ID: 945741509
+Account Number: 640878994
+Email: amie.reinger@gmail.com
+Amount: 69361.14
+Phone: 128.792.8283
+Timestamp: Thu Sep 12 01:57:32 IST 2024
+-----------------------------
+Customer Name: Sid Williamson
+Transaction ID: 551659881
+Account Number: 648941518
+Email: justin.kuhic@yahoo.com
+Amount: 99066.88
+Phone: 1-929-699-6435
+Timestamp: Thu Sep 12 05:48:03 IST 2024
+-----------------------------
+Customer Name: Tyrell Grady
+Transaction ID: 975091999
+Account Number: 379851039
+Email: amee.murray@yahoo.com
+Amount: 34318.54
+Phone: 132.789.6154
+Timestamp: Thu Sep 12 08:02:35 IST 2024
+-----------------------------
+Customer Name: Clementine Ratke
+Transaction ID: 644572889
+Account Number: 724360071
+Email: trent.koch@yahoo.com
+Amount: 79085.47
+Phone: 068-415-9767
+Timestamp: Thu Sep 12 02:59:31 IST 2024
+-----------------------------
+Customer Name: Burt Kub
+Transaction ID: 152533771
+Account Number: 994749377
+Email: alex.bergnaum@yahoo.com
+Amount: 82212.97
+Phone: 359-197-8168
+Timestamp: Thu Sep 12 06:16:58 IST 2024
+-----------------------------
+Customer Name: My Cruickshank Sr.
+Transaction ID: 190767736
+Account Number: 731246716
+Email: elicia.block@yahoo.com
+Amount: 71268.13
+Phone: 527.167.9870
+Timestamp: Thu Sep 12 08:55:06 IST 2024
+-----------------------------
+Customer Name: Miss Felice Heaney
+Transaction ID: 987196735
+Account Number: 904277656
+Email: kittie.gaylord@yahoo.com
+Amount: 38525.29
+Phone: (665) 758-2782
+Timestamp: Thu Sep 12 19:31:01 IST 2024
+-----------------------------
+Customer Name: Concha Kreiger
+Transaction ID: 801334260
+Account Number: 136223771
+Email: rogelio.powlowski@hotmail.com
+Amount: 55683.59
+Phone: (140) 432-5028
+Timestamp: Thu Sep 12 14:15:11 IST 2024
+-----------------------------

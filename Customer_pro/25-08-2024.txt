@@ -1,0 +1,16 @@
+Customer Name: Ms. Blair Terry
+Transaction ID: 629758853
+Account Number: 378417437
+Email: quinn.romaguera@hotmail.com
+Amount: 29855.63
+Phone: 207.785.6860
+Timestamp: Sun Aug 25 20:51:49 IST 2024
+-----------------------------
+Customer Name: Jerry Rempel IV
+Transaction ID: 965615989
+Account Number: 217853171
+Email: hattie.leuschke@yahoo.com
+Amount: 5819.41
+Phone: 588.779.9472
+Timestamp: Sun Aug 25 05:35:45 IST 2024
+-----------------------------

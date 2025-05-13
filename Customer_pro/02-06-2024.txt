@@ -1,0 +1,8 @@
+Customer Name: Fiona Miller
+Transaction ID: 537600381
+Account Number: 108309796
+Email: terrell.wilderman@yahoo.com
+Amount: 75357.50
+Phone: (880) 876-8215
+Timestamp: Sun Jun 02 10:22:14 IST 2024
+-----------------------------

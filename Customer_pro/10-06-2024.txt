@@ -1,0 +1,32 @@
+Customer Name: Marion Welch
+Transaction ID: 874025112
+Account Number: 236701691
+Email: waldo.waelchi@gmail.com
+Amount: 26193.94
+Phone: (818) 649-5162
+Timestamp: Mon Jun 10 14:56:01 IST 2024
+-----------------------------
+Customer Name: Lewis Carter III
+Transaction ID: 455856645
+Account Number: 409841670
+Email: abel.crooks@gmail.com
+Amount: 64937.38
+Phone: (370) 009-5673
+Timestamp: Mon Jun 10 06:40:22 IST 2024
+-----------------------------
+Customer Name: Wanita Paucek
+Transaction ID: 550158490
+Account Number: 695342111
+Email: estela.kutch@gmail.com
+Amount: 39830.02
+Phone: (335) 666-5732
+Timestamp: Mon Jun 10 13:25:38 IST 2024
+-----------------------------
+Customer Name: Shawna Upton IV
+Transaction ID: 217355413
+Account Number: 421440771
+Email: jessi.collier@hotmail.com
+Amount: 89349.88
+Phone: 483.849.4125
+Timestamp: Mon Jun 10 00:51:03 IST 2024
+-----------------------------

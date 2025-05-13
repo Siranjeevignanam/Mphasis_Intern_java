@@ -1,0 +1,8 @@
+Customer Name: Mr. Wilford Zulauf
+Transaction ID: 520480339
+Account Number: 748218960
+Email: dallas.rowe@yahoo.com
+Amount: 79981.48
+Phone: 962-554-1499
+Timestamp: Tue May 28 11:48:41 IST 2024
+-----------------------------

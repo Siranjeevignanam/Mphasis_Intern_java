@@ -1,0 +1,8 @@
+Customer Name: Dr. Donetta West
+Transaction ID: 911524845
+Account Number: 568958011
+Email: rudolph.gulgowski@gmail.com
+Amount: 33890.55
+Phone: 151.904.0666
+Timestamp: Mon Jan 20 02:09:52 IST 2025
+-----------------------------

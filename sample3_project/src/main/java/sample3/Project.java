@@ -64,8 +64,9 @@ public class Project {
                 Transaction transaction = new Transaction(
                     doc.getString("transaction_id"),
                     amount,
-                    timestampStr,
                     doc.getString("receiver"),
+                    timestampStr,
+                 
                     doc.getString("status")
                 );
 

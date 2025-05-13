@@ -1,0 +1,8 @@
+Customer Name: Jake McClure
+Transaction ID: 275538496
+Account Number: 883552782
+Email: porfirio.keeling@yahoo.com
+Amount: 21207.15
+Phone: 764-179-5057
+Timestamp: Sun May 26 04:56:46 IST 2024
+-----------------------------

@@ -1,0 +1,24 @@
+Customer Name: Theo Dickinson
+Transaction ID: 134169484
+Account Number: 118593456
+Email: travis.conroy@gmail.com
+Amount: 65792.09
+Phone: 1-709-315-2498
+Timestamp: Sun Oct 20 18:52:54 IST 2024
+-----------------------------
+Customer Name: Delphia Douglas
+Transaction ID: 933381562
+Account Number: 966671545
+Email: merrilee.mitchell@hotmail.com
+Amount: 85153.22
+Phone: 1-451-100-5393
+Timestamp: Sun Oct 20 04:52:55 IST 2024
+-----------------------------
+Customer Name: Mrs. Evangeline Schimmel
+Transaction ID: 125964128
+Account Number: 980022005
+Email: rebecka.miller@hotmail.com
+Amount: 65587.17
+Phone: 451.258.9222
+Timestamp: Sun Oct 20 08:33:34 IST 2024
+-----------------------------

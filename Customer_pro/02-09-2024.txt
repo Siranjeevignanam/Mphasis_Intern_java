@@ -1,0 +1,48 @@
+Customer Name: Ms. Kurtis Effertz
+Transaction ID: 149514471
+Account Number: 177706254
+Email: dallas.lueilwitz@yahoo.com
+Amount: 77687.87
+Phone: 860.822.1358
+Timestamp: Mon Sep 02 21:13:59 IST 2024
+-----------------------------
+Customer Name: Sherrie Dach IV
+Transaction ID: 247420705
+Account Number: 430041594
+Email: lida.ward@gmail.com
+Amount: 82631.40
+Phone: 843.254.8068
+Timestamp: Mon Sep 02 03:22:35 IST 2024
+-----------------------------
+Customer Name: Lanny Ryan
+Transaction ID: 125098330
+Account Number: 251287223
+Email: renea.torphy@yahoo.com
+Amount: 96016.07
+Phone: 864-380-4539
+Timestamp: Mon Sep 02 20:14:58 IST 2024
+-----------------------------
+Customer Name: Laurel Schumm
+Transaction ID: 805995513
+Account Number: 841221649
+Email: carmelo.walter@gmail.com
+Amount: 14175.14
+Phone: 1-821-492-7376
+Timestamp: Mon Sep 02 23:42:08 IST 2024
+-----------------------------
+Customer Name: Gloria Moore
+Transaction ID: 507123279
+Account Number: 386632949
+Email: cory.cummerata@gmail.com
+Amount: 14078.44
+Phone: 521-119-0991
+Timestamp: Mon Sep 02 07:08:42 IST 2024
+-----------------------------
+Customer Name: Rosalia Schaden
+Transaction ID: 958438362
+Account Number: 761422980
+Email: wilfredo.nicolas@hotmail.com
+Amount: 41792.64
+Phone: (850) 844-9313
+Timestamp: Mon Sep 02 06:20:48 IST 2024
+-----------------------------

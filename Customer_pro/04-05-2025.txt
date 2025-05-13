@@ -1,0 +1,24 @@
+Customer Name: Mandie Doyle
+Transaction ID: 786386120
+Account Number: 802072187
+Email: drew.rogahn@hotmail.com
+Amount: 72498.63
+Phone: 397-497-7460
+Timestamp: Sun May 04 09:30:24 IST 2025
+-----------------------------
+Customer Name: Miquel Bashirian
+Transaction ID: 495699858
+Account Number: 411653957
+Email: carita.koch@gmail.com
+Amount: 93427.53
+Phone: 1-951-888-6397
+Timestamp: Sun May 04 10:59:51 IST 2025
+-----------------------------
+Customer Name: Lindsay Rempel
+Transaction ID: 241797623
+Account Number: 989035306
+Email: antonia.mckenzie@hotmail.com
+Amount: 14469.06
+Phone: 422.327.0824
+Timestamp: Sun May 04 01:11:23 IST 2025
+-----------------------------

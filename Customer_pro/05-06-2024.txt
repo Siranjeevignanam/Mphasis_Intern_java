@@ -1,0 +1,8 @@
+Customer Name: Dina Erdman
+Transaction ID: 667907226
+Account Number: 983880672
+Email: felipa.heidenreich@gmail.com
+Amount: 47118.72
+Phone: 031.186.6403
+Timestamp: Wed Jun 05 11:13:14 IST 2024
+-----------------------------

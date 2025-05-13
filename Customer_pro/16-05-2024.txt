@@ -1,0 +1,8 @@
+Customer Name: Lore Baumbach
+Transaction ID: 773288732
+Account Number: 645663077
+Email: ronny.hamill@yahoo.com
+Amount: 12303.56
+Phone: 1-225-846-2933
+Timestamp: Thu May 16 14:34:07 IST 2024
+-----------------------------

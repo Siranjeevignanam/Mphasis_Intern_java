@@ -1,0 +1,24 @@
+Customer Name: Brice Raynor
+Transaction ID: 713286976
+Account Number: 836878478
+Email: oliver.rutherford@yahoo.com
+Amount: 65791.23
+Phone: 1-660-142-9244
+Timestamp: Fri Jan 10 12:32:16 IST 2025
+-----------------------------
+Customer Name: Sharell Zulauf
+Transaction ID: 815788187
+Account Number: 258182659
+Email: jon.casper@gmail.com
+Amount: 25378.34
+Phone: 908-883-5434
+Timestamp: Fri Jan 10 02:20:02 IST 2025
+-----------------------------
+Customer Name: Joline Shields
+Transaction ID: 848118486
+Account Number: 867003555
+Email: randy.bailey@hotmail.com
+Amount: 41412.53
+Phone: (307) 681-7382
+Timestamp: Fri Jan 10 22:43:34 IST 2025
+-----------------------------

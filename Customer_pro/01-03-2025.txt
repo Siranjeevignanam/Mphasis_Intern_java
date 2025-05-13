@@ -1,0 +1,8 @@
+Customer Name: Randal Crooks
+Transaction ID: 549990056
+Account Number: 476008195
+Email: evalyn.rippin@hotmail.com
+Amount: 79029.58
+Phone: 454.500.0819
+Timestamp: Sat Mar 01 14:08:33 IST 2025
+-----------------------------

@@ -1,0 +1,32 @@
+Customer Name: Charity Hettinger
+Transaction ID: 890140161
+Account Number: 971231819
+Email: marty.hintz@hotmail.com
+Amount: 77000.90
+Phone: 022-077-7834
+Timestamp: Thu Oct 03 23:10:02 IST 2024
+-----------------------------
+Customer Name: Ocie Beier Jr.
+Transaction ID: 991924773
+Account Number: 183281543
+Email: garfield.considine@gmail.com
+Amount: 56318.21
+Phone: 937.028.9436
+Timestamp: Thu Oct 03 20:12:28 IST 2024
+-----------------------------
+Customer Name: Fredericka Kutch
+Transaction ID: 180563371
+Account Number: 827654571
+Email: chrystal.wyman@gmail.com
+Amount: 31509.25
+Phone: 681.577.0291
+Timestamp: Thu Oct 03 04:20:42 IST 2024
+-----------------------------
+Customer Name: Julius Rogahn
+Transaction ID: 510177505
+Account Number: 887255709
+Email: rhett.keeling@hotmail.com
+Amount: 97195.21
+Phone: 730-516-5018
+Timestamp: Thu Oct 03 14:25:19 IST 2024
+-----------------------------

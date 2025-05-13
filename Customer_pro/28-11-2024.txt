@@ -1,0 +1,24 @@
+Customer Name: Murray Bernier
+Transaction ID: 649738929
+Account Number: 706242468
+Email: brain.koss@yahoo.com
+Amount: 87613.58
+Phone: 630.948.2616
+Timestamp: Thu Nov 28 17:01:46 IST 2024
+-----------------------------
+Customer Name: Earl Bauch
+Transaction ID: 176694350
+Account Number: 135168752
+Email: darcel.nolan@hotmail.com
+Amount: 64928.04
+Phone: (422) 669-3241
+Timestamp: Thu Nov 28 07:15:13 IST 2024
+-----------------------------
+Customer Name: Josh Koch
+Transaction ID: 162938484
+Account Number: 667942496
+Email: yoshiko.sipes@hotmail.com
+Amount: 49859.66
+Phone: 950-149-1154
+Timestamp: Thu Nov 28 23:22:48 IST 2024
+-----------------------------

@@ -1,0 +1,16 @@
+Customer Name: Qiana Stracke
+Transaction ID: 603597825
+Account Number: 557477536
+Email: lucila.murphy@hotmail.com
+Amount: 21752.19
+Phone: 1-901-586-8092
+Timestamp: Tue Jul 09 05:14:35 IST 2024
+-----------------------------
+Customer Name: Yer Hills
+Transaction ID: 904554660
+Account Number: 398405310
+Email: cammie.daniel@gmail.com
+Amount: 81488.58
+Phone: 689-018-9966
+Timestamp: Tue Jul 09 00:51:15 IST 2024
+-----------------------------

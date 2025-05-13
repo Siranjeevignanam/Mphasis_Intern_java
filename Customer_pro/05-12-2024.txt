@@ -1,0 +1,24 @@
+Customer Name: Russel Carroll
+Transaction ID: 971991021
+Account Number: 502638405
+Email: ozzie.davis@hotmail.com
+Amount: 7090.92
+Phone: 161-231-2160
+Timestamp: Thu Dec 05 20:26:33 IST 2024
+-----------------------------
+Customer Name: Stanford Koepp
+Transaction ID: 569650365
+Account Number: 682661567
+Email: cyrus.zboncak@hotmail.com
+Amount: 60136.98
+Phone: (691) 281-4802
+Timestamp: Thu Dec 05 00:24:42 IST 2024
+-----------------------------
+Customer Name: Shirl Heidenreich
+Transaction ID: 990509914
+Account Number: 628169057
+Email: burton.cummings@hotmail.com
+Amount: 22360.80
+Phone: 169-188-3832
+Timestamp: Thu Dec 05 12:18:21 IST 2024
+-----------------------------

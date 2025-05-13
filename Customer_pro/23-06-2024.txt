@@ -1,0 +1,24 @@
+Customer Name: Mrs. Tod Kilback
+Transaction ID: 597024908
+Account Number: 238015461
+Email: joanna.hickle@yahoo.com
+Amount: 98311.66
+Phone: (360) 478-3158
+Timestamp: Sun Jun 23 15:18:32 IST 2024
+-----------------------------
+Customer Name: Brian Dare
+Transaction ID: 838598849
+Account Number: 609938621
+Email: giuseppe.veum@hotmail.com
+Amount: 88377.79
+Phone: 321.204.9328
+Timestamp: Sun Jun 23 10:45:50 IST 2024
+-----------------------------
+Customer Name: Sarai Bins Sr.
+Transaction ID: 406305923
+Account Number: 216939648
+Email: lasandra.heathcote@gmail.com
+Amount: 72100.02
+Phone: 1-127-416-8458
+Timestamp: Sun Jun 23 05:58:29 IST 2024
+-----------------------------

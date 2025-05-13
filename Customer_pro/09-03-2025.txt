@@ -1,0 +1,24 @@
+Customer Name: Maricruz Osinski
+Transaction ID: 426876174
+Account Number: 884012179
+Email: kareem.kozey@yahoo.com
+Amount: 5383.86
+Phone: (187) 248-5021
+Timestamp: Sun Mar 09 16:37:51 IST 2025
+-----------------------------
+Customer Name: Constance Smith III
+Transaction ID: 163725500
+Account Number: 903569810
+Email: socorro.halvorson@yahoo.com
+Amount: 35267.00
+Phone: 029.583.1456
+Timestamp: Sun Mar 09 01:53:06 IST 2025
+-----------------------------
+Customer Name: Alonzo Rau Sr.
+Transaction ID: 866295930
+Account Number: 730355101
+Email: jae.padberg@yahoo.com
+Amount: 78971.66
+Phone: (192) 064-2126
+Timestamp: Sun Mar 09 06:17:25 IST 2025
+-----------------------------

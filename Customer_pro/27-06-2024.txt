@@ -1,0 +1,16 @@
+Customer Name: Bradley Schimmel
+Transaction ID: 960014147
+Account Number: 561690520
+Email: del.lind@hotmail.com
+Amount: 1276.27
+Phone: 675.631.3561
+Timestamp: Thu Jun 27 03:18:35 IST 2024
+-----------------------------
+Customer Name: Timothy Turcotte
+Transaction ID: 357197816
+Account Number: 954684480
+Email: ligia.stracke@hotmail.com
+Amount: 98935.55
+Phone: (386) 368-3807
+Timestamp: Thu Jun 27 02:20:02 IST 2024
+-----------------------------

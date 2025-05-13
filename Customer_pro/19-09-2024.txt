@@ -1,0 +1,24 @@
+Customer Name: Reggie Reinger PhD
+Transaction ID: 357004562
+Account Number: 649235447
+Email: genna.bechtelar@hotmail.com
+Amount: 55348.45
+Phone: 414.361.8758
+Timestamp: Thu Sep 19 22:03:58 IST 2024
+-----------------------------
+Customer Name: Rolland Wintheiser
+Transaction ID: 428166025
+Account Number: 174570004
+Email: roxann.kunze@yahoo.com
+Amount: 98407.81
+Phone: 244.424.3598
+Timestamp: Thu Sep 19 13:46:30 IST 2024
+-----------------------------
+Customer Name: Demarcus Bosco DDS
+Transaction ID: 892493558
+Account Number: 570139071
+Email: ross.lebsack@gmail.com
+Amount: 27238.91
+Phone: (545) 655-9804
+Timestamp: Thu Sep 19 16:23:11 IST 2024
+-----------------------------

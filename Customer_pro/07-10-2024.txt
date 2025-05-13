@@ -1,0 +1,16 @@
+Customer Name: Branden Wilderman
+Transaction ID: 569497216
+Account Number: 120799418
+Email: boyd.predovic@gmail.com
+Amount: 4912.18
+Phone: (704) 269-6702
+Timestamp: Mon Oct 07 09:11:44 IST 2024
+-----------------------------
+Customer Name: Nelia Wiza
+Transaction ID: 755733662
+Account Number: 354452416
+Email: roscoe.franecki@yahoo.com
+Amount: 58181.48
+Phone: 1-947-175-2316
+Timestamp: Mon Oct 07 09:54:40 IST 2024
+-----------------------------

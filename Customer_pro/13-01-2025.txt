@@ -1,0 +1,8 @@
+Customer Name: Miss Valery Sanford
+Transaction ID: 879235035
+Account Number: 533993442
+Email: malia.strosin@hotmail.com
+Amount: 69861.14
+Phone: 201.777.9914
+Timestamp: Mon Jan 13 10:24:11 IST 2025
+-----------------------------

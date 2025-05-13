@@ -1,0 +1,16 @@
+Customer Name: Mohammed Stanton
+Transaction ID: 207687167
+Account Number: 709623937
+Email: vita.weissnat@gmail.com
+Amount: 10688.07
+Phone: 243.787.0308
+Timestamp: Mon Feb 24 06:26:33 IST 2025
+-----------------------------
+Customer Name: Wallace O'Kon
+Transaction ID: 276852401
+Account Number: 856487505
+Email: olga.ortiz@yahoo.com
+Amount: 76876.95
+Phone: 176.732.3380
+Timestamp: Mon Feb 24 14:28:14 IST 2025
+-----------------------------

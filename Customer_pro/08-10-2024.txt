@@ -1,0 +1,24 @@
+Customer Name: Warner Bednar
+Transaction ID: 627609740
+Account Number: 737995105
+Email: brett.hagenes@hotmail.com
+Amount: 85496.33
+Phone: 648-649-5958
+Timestamp: Tue Oct 08 20:51:51 IST 2024
+-----------------------------
+Customer Name: Salvatore Upton
+Transaction ID: 570208550
+Account Number: 567369777
+Email: travis.dubuque@yahoo.com
+Amount: 12120.40
+Phone: 1-407-616-5676
+Timestamp: Tue Oct 08 07:03:44 IST 2024
+-----------------------------
+Customer Name: Kiera Hoeger
+Transaction ID: 907519259
+Account Number: 246572979
+Email: eleanore.muller@hotmail.com
+Amount: 9621.17
+Phone: 874-561-6998
+Timestamp: Tue Oct 08 18:45:03 IST 2024
+-----------------------------

@@ -1,0 +1,24 @@
+Customer Name: Tori Beatty
+Transaction ID: 160710172
+Account Number: 398975454
+Email: tod.hyatt@gmail.com
+Amount: 14716.90
+Phone: (122) 517-6878
+Timestamp: Thu Aug 15 09:09:01 IST 2024
+-----------------------------
+Customer Name: Miss Pedro O'Hara
+Transaction ID: 719266026
+Account Number: 405704142
+Email: samuel.kub@yahoo.com
+Amount: 25320.29
+Phone: 723.503.8121
+Timestamp: Thu Aug 15 20:33:02 IST 2024
+-----------------------------
+Customer Name: Nichelle Nolan
+Transaction ID: 380904122
+Account Number: 548514970
+Email: dirk.reynolds@gmail.com
+Amount: 8655.36
+Phone: (965) 531-9431
+Timestamp: Thu Aug 15 08:30:18 IST 2024
+-----------------------------

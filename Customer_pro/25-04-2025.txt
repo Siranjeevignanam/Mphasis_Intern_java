@@ -1,0 +1,24 @@
+Customer Name: Williams Champlin
+Transaction ID: 324648433
+Account Number: 462683026
+Email: rick.rath@gmail.com
+Amount: 30619.48
+Phone: 133-444-3368
+Timestamp: Fri Apr 25 20:19:07 IST 2025
+-----------------------------
+Customer Name: Dr. Latrina Hettinger
+Transaction ID: 166466655
+Account Number: 814666660
+Email: kimberlee.metz@gmail.com
+Amount: 8170.41
+Phone: 154.305.6394
+Timestamp: Fri Apr 25 10:27:23 IST 2025
+-----------------------------
+Customer Name: Lucinda Sipes
+Transaction ID: 117471486
+Account Number: 963290661
+Email: connie.lehner@hotmail.com
+Amount: 84038.37
+Phone: 728-206-6991
+Timestamp: Fri Apr 25 14:41:13 IST 2025
+-----------------------------

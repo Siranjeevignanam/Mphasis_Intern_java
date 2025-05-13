@@ -1,0 +1,48 @@
+Customer Name: Dr. Becki McGlynn
+Transaction ID: 432512657
+Account Number: 686352772
+Email: augustus.raynor@yahoo.com
+Amount: 64638.65
+Phone: (964) 318-1725
+Timestamp: Mon Sep 30 18:35:56 IST 2024
+-----------------------------
+Customer Name: Augustus Shanahan
+Transaction ID: 651930295
+Account Number: 488902737
+Email: polly.bartoletti@gmail.com
+Amount: 90281.10
+Phone: (456) 580-5335
+Timestamp: Mon Sep 30 23:22:44 IST 2024
+-----------------------------
+Customer Name: Marisela West
+Transaction ID: 613595129
+Account Number: 360714463
+Email: leonardo.olson@gmail.com
+Amount: 37622.61
+Phone: (564) 413-2647
+Timestamp: Mon Sep 30 20:00:15 IST 2024
+-----------------------------
+Customer Name: Mac Hoeger
+Transaction ID: 697161537
+Account Number: 332094713
+Email: rana.mohr@hotmail.com
+Amount: 69273.15
+Phone: 1-829-156-5319
+Timestamp: Mon Sep 30 03:18:22 IST 2024
+-----------------------------
+Customer Name: Chasity Dooley
+Transaction ID: 659465541
+Account Number: 935123626
+Email: delphine.bernier@gmail.com
+Amount: 93297.16
+Phone: (350) 657-7601
+Timestamp: Mon Sep 30 18:01:43 IST 2024
+-----------------------------
+Customer Name: Graig Paucek III
+Transaction ID: 371362288
+Account Number: 429991259
+Email: hershel.sawayn@hotmail.com
+Amount: 6133.39
+Phone: 793-097-1341
+Timestamp: Mon Sep 30 14:04:39 IST 2024
+-----------------------------

@@ -1,0 +1,24 @@
+Customer Name: Miki Walsh
+Transaction ID: 396348814
+Account Number: 178955859
+Email: carey.stoltenberg@hotmail.com
+Amount: 6753.00
+Phone: (054) 859-8476
+Timestamp: Fri Oct 25 01:52:59 IST 2024
+-----------------------------
+Customer Name: Norman Kozey
+Transaction ID: 547576004
+Account Number: 317637010
+Email: johnson.hayes@hotmail.com
+Amount: 40439.19
+Phone: 1-874-759-2281
+Timestamp: Fri Oct 25 17:53:09 IST 2024
+-----------------------------
+Customer Name: Soon Jaskolski
+Transaction ID: 519951275
+Account Number: 941877255
+Email: leonie.abernathy@yahoo.com
+Amount: 49639.90
+Phone: 180-474-8465
+Timestamp: Fri Oct 25 16:22:49 IST 2024
+-----------------------------

@@ -1,0 +1,8 @@
+Customer Name: Nereida Jones
+Transaction ID: 920018778
+Account Number: 682048819
+Email: cody.abshire@gmail.com
+Amount: 18750.86
+Phone: 061.061.3553
+Timestamp: Sun Feb 23 06:21:45 IST 2025
+-----------------------------

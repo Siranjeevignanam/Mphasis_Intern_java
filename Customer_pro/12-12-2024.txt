@@ -1,0 +1,24 @@
+Customer Name: Dr. Rodrick Olson
+Transaction ID: 100070822
+Account Number: 557238251
+Email: betsey.streich@gmail.com
+Amount: 6040.32
+Phone: (386) 108-4716
+Timestamp: Thu Dec 12 01:10:23 IST 2024
+-----------------------------
+Customer Name: Karl Lubowitz
+Transaction ID: 787732510
+Account Number: 879637923
+Email: julianne.watsica@hotmail.com
+Amount: 57789.81
+Phone: 725.336.6240
+Timestamp: Thu Dec 12 03:09:44 IST 2024
+-----------------------------
+Customer Name: Ambrose Goyette DDS
+Transaction ID: 559501691
+Account Number: 413381262
+Email: keenan.larson@gmail.com
+Amount: 24997.76
+Phone: 1-945-007-7630
+Timestamp: Thu Dec 12 22:15:31 IST 2024
+-----------------------------

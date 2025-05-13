@@ -1,0 +1,32 @@
+Customer Name: Arielle Balistreri
+Transaction ID: 382626247
+Account Number: 261948095
+Email: mariana.conroy@gmail.com
+Amount: 65066.70
+Phone: 354.520.4289
+Timestamp: Tue Jun 25 07:37:42 IST 2024
+-----------------------------
+Customer Name: Paola Mills IV
+Transaction ID: 484616317
+Account Number: 967126749
+Email: bertram.fadel@hotmail.com
+Amount: 73272.98
+Phone: (385) 140-3549
+Timestamp: Tue Jun 25 16:20:41 IST 2024
+-----------------------------
+Customer Name: Victor White
+Transaction ID: 215679995
+Account Number: 660703985
+Email: kim.oreilly@yahoo.com
+Amount: 85253.56
+Phone: 1-359-760-2621
+Timestamp: Tue Jun 25 17:40:35 IST 2024
+-----------------------------
+Customer Name: Alphonse Berge
+Transaction ID: 357937855
+Account Number: 610050151
+Email: chrissy.satterfield@hotmail.com
+Amount: 97418.27
+Phone: 042-750-9457
+Timestamp: Tue Jun 25 11:37:54 IST 2024
+-----------------------------

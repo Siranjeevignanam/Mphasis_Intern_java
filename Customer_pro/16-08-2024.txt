@@ -1,0 +1,8 @@
+Customer Name: Mrs. Harry Stoltenberg
+Transaction ID: 337994587
+Account Number: 423107249
+Email: bradley.kemmer@gmail.com
+Amount: 86894.93
+Phone: 960.278.7004
+Timestamp: Fri Aug 16 17:16:27 IST 2024
+-----------------------------

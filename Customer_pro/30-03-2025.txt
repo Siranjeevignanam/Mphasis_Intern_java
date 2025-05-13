@@ -1,0 +1,8 @@
+Customer Name: Brendan Tillman
+Transaction ID: 981900042
+Account Number: 726067173
+Email: lovella.monahan@hotmail.com
+Amount: 31014.81
+Phone: 505.769.0959
+Timestamp: Sun Mar 30 13:22:47 IST 2025
+-----------------------------

@@ -1,0 +1,48 @@
+Customer Name: Jc Runolfsson
+Transaction ID: 669225044
+Account Number: 446447683
+Email: chana.moore@hotmail.com
+Amount: 23898.92
+Phone: 490-685-5653
+Timestamp: Wed Oct 30 21:11:44 IST 2024
+-----------------------------
+Customer Name: Mrs. Elvis Schuster
+Transaction ID: 456281310
+Account Number: 423738520
+Email: jere.russel@gmail.com
+Amount: 33801.92
+Phone: 1-135-002-3921
+Timestamp: Wed Oct 30 16:12:11 IST 2024
+-----------------------------
+Customer Name: Loraine Heller
+Transaction ID: 577977680
+Account Number: 303443995
+Email: orval.hilpert@yahoo.com
+Amount: 93409.13
+Phone: (068) 804-1028
+Timestamp: Wed Oct 30 14:25:22 IST 2024
+-----------------------------
+Customer Name: Lai Cartwright
+Transaction ID: 626893495
+Account Number: 566944534
+Email: wai.rau@hotmail.com
+Amount: 96376.59
+Phone: 391-994-4210
+Timestamp: Wed Oct 30 22:52:57 IST 2024
+-----------------------------
+Customer Name: Adrian Huels MD
+Transaction ID: 807793710
+Account Number: 436296244
+Email: doyle.wisozk@yahoo.com
+Amount: 82869.10
+Phone: 917.173.6759
+Timestamp: Wed Oct 30 22:12:12 IST 2024
+-----------------------------
+Customer Name: Wilbert Leffler
+Transaction ID: 500451195
+Account Number: 392259719
+Email: ruben.king@yahoo.com
+Amount: 35058.93
+Phone: 1-764-929-3490
+Timestamp: Wed Oct 30 08:00:21 IST 2024
+-----------------------------

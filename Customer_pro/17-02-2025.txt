@@ -1,0 +1,8 @@
+Customer Name: Elliott Murray
+Transaction ID: 565644599
+Account Number: 890419342
+Email: kip.rice@hotmail.com
+Amount: 30383.85
+Phone: 1-011-412-0727
+Timestamp: Mon Feb 17 21:47:16 IST 2025
+-----------------------------

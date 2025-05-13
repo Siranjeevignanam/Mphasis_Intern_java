@@ -1,0 +1,16 @@
+Customer Name: Randolph Tillman
+Transaction ID: 901748892
+Account Number: 674694014
+Email: erin.gottlieb@gmail.com
+Amount: 14221.31
+Phone: 180.628.2037
+Timestamp: Sat Jul 20 04:32:27 IST 2024
+-----------------------------
+Customer Name: Jeremiah Douglas
+Transaction ID: 641442990
+Account Number: 198685318
+Email: amado.torphy@gmail.com
+Amount: 40750.39
+Phone: (792) 559-8225
+Timestamp: Sat Jul 20 00:45:49 IST 2024
+-----------------------------

@@ -1,0 +1,24 @@
+Customer Name: Jacque Abshire
+Transaction ID: 386404331
+Account Number: 297132255
+Email: lawerence.wolff@yahoo.com
+Amount: 4645.96
+Phone: 806-520-6744
+Timestamp: Thu Aug 22 10:54:56 IST 2024
+-----------------------------
+Customer Name: Mr. Florrie McKenzie
+Transaction ID: 640377980
+Account Number: 247806221
+Email: leontine.kling@gmail.com
+Amount: 73446.46
+Phone: 402-507-6411
+Timestamp: Thu Aug 22 02:00:33 IST 2024
+-----------------------------
+Customer Name: Mauro Graham
+Transaction ID: 382668268
+Account Number: 536679596
+Email: maybell.roob@hotmail.com
+Amount: 97276.72
+Phone: 042.830.0233
+Timestamp: Thu Aug 22 20:27:12 IST 2024
+-----------------------------

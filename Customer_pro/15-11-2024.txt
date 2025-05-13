@@ -1,0 +1,16 @@
+Customer Name: Rudy Kunze
+Transaction ID: 876728697
+Account Number: 116151772
+Email: darlene.king@yahoo.com
+Amount: 37787.31
+Phone: (711) 088-7518
+Timestamp: Fri Nov 15 04:01:36 IST 2024
+-----------------------------
+Customer Name: Angelika Boyer
+Transaction ID: 472397180
+Account Number: 194963813
+Email: gilma.howell@yahoo.com
+Amount: 67648.40
+Phone: 996-005-8142
+Timestamp: Fri Nov 15 11:20:20 IST 2024
+-----------------------------

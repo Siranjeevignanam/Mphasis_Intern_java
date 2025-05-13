@@ -1,0 +1,24 @@
+Customer Name: Jeromy Hills
+Transaction ID: 691625108
+Account Number: 374572088
+Email: von.klein@hotmail.com
+Amount: 58907.39
+Phone: 098.560.6535
+Timestamp: Thu Jun 13 16:27:20 IST 2024
+-----------------------------
+Customer Name: Minnie Oberbrunner
+Transaction ID: 384883110
+Account Number: 170955741
+Email: kenya.batz@gmail.com
+Amount: 52485.37
+Phone: (451) 326-0212
+Timestamp: Thu Jun 13 12:32:40 IST 2024
+-----------------------------
+Customer Name: Dr. Ruben Schimmel
+Transaction ID: 573490227
+Account Number: 458786151
+Email: katherina.wintheiser@hotmail.com
+Amount: 50797.62
+Phone: (981) 259-5667
+Timestamp: Thu Jun 13 18:53:57 IST 2024
+-----------------------------

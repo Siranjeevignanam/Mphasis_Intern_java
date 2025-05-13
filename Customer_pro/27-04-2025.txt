@@ -1,0 +1,40 @@
+Customer Name: Loida McDermott PhD
+Transaction ID: 408007599
+Account Number: 695929625
+Email: margret.stracke@hotmail.com
+Amount: 93511.24
+Phone: 715.075.5953
+Timestamp: Sun Apr 27 14:15:04 IST 2025
+-----------------------------
+Customer Name: Maximo Pagac
+Transaction ID: 297829287
+Account Number: 754817295
+Email: jesus.smith@hotmail.com
+Amount: 80541.15
+Phone: 1-942-786-4246
+Timestamp: Sun Apr 27 12:00:58 IST 2025
+-----------------------------
+Customer Name: Arnulfo Bogan
+Transaction ID: 454582773
+Account Number: 507806210
+Email: jerlene.wilderman@gmail.com
+Amount: 14180.58
+Phone: 764.979.6850
+Timestamp: Sun Apr 27 05:22:04 IST 2025
+-----------------------------
+Customer Name: Candance Jones
+Transaction ID: 678347189
+Account Number: 267104359
+Email: rosette.schaden@gmail.com
+Amount: 87466.29
+Phone: 763-209-5479
+Timestamp: Sun Apr 27 09:20:16 IST 2025
+-----------------------------
+Customer Name: Francisca Russel
+Transaction ID: 211825763
+Account Number: 397750216
+Email: raye.herman@gmail.com
+Amount: 33659.60
+Phone: (558) 477-5617
+Timestamp: Sun Apr 27 09:30:39 IST 2025
+-----------------------------

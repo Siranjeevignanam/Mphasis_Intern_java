@@ -1,0 +1,16 @@
+Customer Name: Anastacia Crooks
+Transaction ID: 534790429
+Account Number: 934213174
+Email: rea.wunsch@hotmail.com
+Amount: 97018.21
+Phone: (993) 025-6338
+Timestamp: Mon Mar 24 19:20:30 IST 2025
+-----------------------------
+Customer Name: Madie Grant
+Transaction ID: 313288376
+Account Number: 267711564
+Email: wilford.sanford@yahoo.com
+Amount: 59942.81
+Phone: 1-977-614-4632
+Timestamp: Mon Mar 24 18:25:17 IST 2025
+-----------------------------

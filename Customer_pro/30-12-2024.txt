@@ -1,0 +1,8 @@
+Customer Name: Miss Dwight Spencer
+Transaction ID: 565648771
+Account Number: 437259188
+Email: frederick.wolf@hotmail.com
+Amount: 30091.42
+Phone: 517.042.4476
+Timestamp: Mon Dec 30 14:55:18 IST 2024
+-----------------------------
