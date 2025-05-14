@@ -11,7 +11,7 @@ public class MongoToPojo {
     public static  List<MongoTransaction> fetchTransactionsFromMongo() {
         String connectionString = "mongodb://localhost:27017"; // Your MongoDB URI
         String databaseName = "Example1";
-        String collectionName = "mutiple_pojo"; // MongoDB collection
+        String collectionName = "multiple_pojo"; // MongoDB collection
 
         List<MongoTransaction> transactions = new ArrayList<>();
 
