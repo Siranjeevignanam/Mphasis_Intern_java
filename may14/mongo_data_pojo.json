@@ -1,0 +1,926 @@
+[ {
+  "customer" : {
+    "id" : "1c29354e-cfc4-4822-886a-d93c54641223",
+    "name" : "Ariel Volkman",
+    "email" : "lucile.rosenbaum@yahoo.com",
+    "phone" : "1-594-784-7880",
+    "address" : "825 Fahey Square, West Buddy, HI 08288-5930",
+    "dob" : "Fri Apr 10 13:59:07 IST 1998",
+    "gender" : "Male",
+    "nationalId" : "474-40-4862",
+    "occupation" : "Real-Estate Agent",
+    "createdAt" : "Tue Aug 29 06:29:58 IST 2023"
+  },
+  "transaction" : {
+    "id" : "1bd3e0dc-bb87-42c3-8531-4e170178af45",
+    "type" : "withdrawal",
+    "amount" : 573.15,
+    "currency" : "USD",
+    "status" : "pending",
+    "timestamp" : "Wed Sep 18 20:41:59 IST 2024",
+    "description" : "Iusto aliquid accusamus minus.",
+    "method" : "branch",
+    "reference" : "f29337bc",
+    "fee" : 6.09
+  },
+  "bank" : {
+    "id" : "54435fa3-2ec7-4b47-81fe-953b63e4f212",
+    "name" : "White-Dickens",
+    "branch" : "Considine Shoals",
+    "branchCode" : "926505",
+    "swiftCode" : "ZTOQSW4N51L",
+    "country" : "Gibraltar",
+    "contact" : "125.373.4481",
+    "email" : "moshe.schmitt@gmail.com",
+    "established" : "Tue Jan 29 00:24:40 IST 2019",
+    "license" : "LIC-00139815"
+  }
+}, {
+  "customer" : {
+    "id" : "2573d2a0-494a-4f61-b9ab-09c9b7a476a9",
+    "name" : "Morton Wilderman",
+    "email" : "emanuel.breitenberg@yahoo.com",
+    "phone" : "428-132-3212",
+    "address" : "12376 Weimann Way, Port Alfredo, WA 73907-5115",
+    "dob" : "Fri Jul 22 11:42:43 IST 1988",
+    "gender" : "Female",
+    "nationalId" : "434-44-4710",
+    "occupation" : "Human Orchestrator",
+    "createdAt" : "Mon Sep 26 21:52:10 IST 2022"
+  },
+  "transaction" : {
+    "id" : "30ea7348-16b4-4034-9248-88435858c60b",
+    "type" : "transfer",
+    "amount" : 2783.6,
+    "currency" : "USD",
+    "status" : "completed",
+    "timestamp" : "Thu Nov 14 11:55:35 IST 2024",
+    "description" : "Voluptatibus consequatur ut est error est error.",
+    "method" : "branch",
+    "reference" : "d92c45ce",
+    "fee" : 7.23
+  },
+  "bank" : {
+    "id" : "fe3f25e1-1257-4b06-8511-576463642d80",
+    "name" : "McDermott, Schaden and Schuppe",
+    "branch" : "Leisha Rapid",
+    "branchCode" : "378600",
+    "swiftCode" : "TRVQBZK9",
+    "country" : "Finland",
+    "contact" : "921-442-3593 x23124",
+    "email" : "charmaine.reynolds@gmail.com",
+    "established" : "Thu Nov 24 06:51:43 IST 2016",
+    "license" : "LIC-22016127"
+  }
+}, {
+  "customer" : {
+    "id" : "fef4808e-9c57-4a00-8d0c-291b4b978357",
+    "name" : "Dr. Cristie Pagac",
+    "email" : "marilynn.casper@gmail.com",
+    "phone" : "(256) 034-8993",
+    "address" : "Suite 014 9100 Ahmed Gardens, North Gregoriafort, WI 57702",
+    "dob" : "Tue Aug 31 09:36:17 IST 2004",
+    "gender" : "Female",
+    "nationalId" : "863-86-9106",
+    "occupation" : "Dynamic Hospitality Assistant",
+    "createdAt" : "Tue Jan 02 08:12:18 IST 2024"
+  },
+  "transaction" : {
+    "id" : "f309d784-bd54-4c50-9dd7-2cdad8e4e537",
+    "type" : "transfer",
+    "amount" : 1134.95,
+    "currency" : "USD",
+    "status" : "failed",
+    "timestamp" : "Mon Mar 31 16:32:32 IST 2025",
+    "description" : "Nobis rerum optio sed mollitia.",
+    "method" : "online",
+    "reference" : "05c49be5",
+    "fee" : 6.73
+  },
+  "bank" : {
+    "id" : "c7a3fdfc-2eb8-463b-9e77-baf21c1bdeb5",
+    "name" : "Walter, Schmidt and Borer",
+    "branch" : "Halvorson Cliff",
+    "branchCode" : "812887",
+    "swiftCode" : "MWODHDF0",
+    "country" : "Svalbard & Jan Mayen Islands",
+    "contact" : "(170) 665-9301 x068",
+    "email" : "denver.davis@gmail.com",
+    "established" : "Mon May 28 04:54:37 IST 2018",
+    "license" : "LIC-14738031"
+  }
+}, {
+  "customer" : {
+    "id" : "7e082b2a-2bd7-4149-8595-88bf1e897d4c",
+    "name" : "China Walsh",
+    "email" : "lenna.feeney@yahoo.com",
+    "phone" : "1-767-726-5384",
+    "address" : "53966 Hudson Ranch, Prohaskaberg, IN 62815-5212",
+    "dob" : "Sun Oct 15 18:55:55 IST 2006",
+    "gender" : "Female",
+    "nationalId" : "543-45-0953",
+    "occupation" : "Future Facilitator",
+    "createdAt" : "Fri Dec 15 07:50:04 IST 2023"
+  },
+  "transaction" : {
+    "id" : "f7e4d2e4-6426-48e8-b3dc-7732c0300c80",
+    "type" : "withdrawal",
+    "amount" : 1072.01,
+    "currency" : "USD",
+    "status" : "pending",
+    "timestamp" : "Thu May 08 06:58:54 IST 2025",
+    "description" : "Veritatis mollitia qui.",
+    "method" : "online",
+    "reference" : "9263565a",
+    "fee" : 7.05
+  },
+  "bank" : {
+    "id" : "5f44bac6-3ba2-4331-802b-48115ab6f381",
+    "name" : "Stanton, Huels and Pagac",
+    "branch" : "Streich Inlet",
+    "branchCode" : "815654",
+    "swiftCode" : "VDGGNIZT107",
+    "country" : "Micronesia",
+    "contact" : "425.158.7541 x06908",
+    "email" : "micheal.nitzsche@gmail.com",
+    "established" : "Thu Mar 19 05:04:39 IST 1998",
+    "license" : "LIC-41011458"
+  }
+}, {
+  "customer" : {
+    "id" : "e427f9a1-dd77-4cee-81ca-c1f7d8b718e7",
+    "name" : "Mr. Michale Green",
+    "email" : "harley.reichert@yahoo.com",
+    "phone" : "919-186-1439",
+    "address" : "108 Hassan Parkway, Port Marhtafurt, PA 74429",
+    "dob" : "Tue Jul 13 05:09:43 IST 1993",
+    "gender" : "Female",
+    "nationalId" : "123-46-4521",
+    "occupation" : "Consulting Agent",
+    "createdAt" : "Thu Feb 23 01:26:16 IST 2023"
+  },
+  "transaction" : {
+    "id" : "b3c81bbe-63ea-4b7a-ab12-c7b3334737c2",
+    "type" : "transfer",
+    "amount" : 1174.86,
+    "currency" : "USD",
+    "status" : "pending",
+    "timestamp" : "Fri Dec 27 22:08:56 IST 2024",
+    "description" : "Quos tempora dolor aut temporibus quos quod aut.",
+    "method" : "online",
+    "reference" : "53019ba0",
+    "fee" : 5.7
+  },
+  "bank" : {
+    "id" : "23023410-4caa-4fed-9c28-c33b10756726",
+    "name" : "Ebert-Block",
+    "branch" : "Valentine Ford",
+    "branchCode" : "516920",
+    "swiftCode" : "BDHFPO65",
+    "country" : "Faroe Islands",
+    "contact" : "(467) 499-2432",
+    "email" : "valeri.schumm@hotmail.com",
+    "established" : "Sat Mar 13 00:14:40 IST 2010",
+    "license" : "LIC-35090604"
+  }
+}, {
+  "customer" : {
+    "id" : "71114db0-c241-4543-bbb9-8af4a7f47b96",
+    "name" : "Lianne Auer",
+    "email" : "felicidad.haley@hotmail.com",
+    "phone" : "009.431.5830",
+    "address" : "38274 Kuvalis Meadow, Kihnberg, SD 33462-6227",
+    "dob" : "Thu Aug 24 16:57:52 IST 1961",
+    "gender" : "Female",
+    "nationalId" : "119-99-7000",
+    "occupation" : "Direct Designer",
+    "createdAt" : "Fri Dec 02 00:05:43 IST 2022"
+  },
+  "transaction" : {
+    "id" : "2ebb8ba4-917c-41f1-91eb-e3bbcc352b5b",
+    "type" : "transfer",
+    "amount" : 6066.5,
+    "currency" : "USD",
+    "status" : "failed",
+    "timestamp" : "Fri Jan 10 22:29:56 IST 2025",
+    "description" : "Veritatis repudiandae animi.",
+    "method" : "ATM",
+    "reference" : "742c8ac2",
+    "fee" : 5.09
+  },
+  "bank" : {
+    "id" : "1c103fe5-e197-474c-b6d4-5a656636e8a1",
+    "name" : "McLaughlin LLC",
+    "branch" : "Britteny Parks",
+    "branchCode" : "925206",
+    "swiftCode" : "CUDMONVG1YO",
+    "country" : "Egypt",
+    "contact" : "(290) 925-0351 x7115",
+    "email" : "jeremiah.beier@hotmail.com",
+    "established" : "Sat Jun 05 04:06:30 IST 2004",
+    "license" : "LIC-88032547"
+  }
+}, {
+  "customer" : {
+    "id" : "1a492f2a-b89b-44df-8d45-cdbbcbaf707a",
+    "name" : "Hyon Labadie",
+    "email" : "nannie.cremin@yahoo.com",
+    "phone" : "(227) 326-5876",
+    "address" : "9268 Marks Circles, West Isaacberg, MT 30278-3804",
+    "dob" : "Wed May 09 05:22:38 IST 1990",
+    "gender" : "Female",
+    "nationalId" : "449-50-0784",
+    "occupation" : "Education Producer",
+    "createdAt" : "Tue May 14 06:36:20 IST 2024"
+  },
+  "transaction" : {
+    "id" : "0ac3835c-a68c-4814-91d9-ca5fc0006de4",
+    "type" : "payment",
+    "amount" : 5997.63,
+    "currency" : "USD",
+    "status" : "completed",
+    "timestamp" : "Sun Dec 08 10:42:08 IST 2024",
+    "description" : "Vel sed culpa quos et velit.",
+    "method" : "branch",
+    "reference" : "6fd2f22d",
+    "fee" : 1.14
+  },
+  "bank" : {
+    "id" : "82dc4c24-94f2-4483-a18c-d901ff9149f9",
+    "name" : "Corwin-Boehm",
+    "branch" : "Crist Mews",
+    "branchCode" : "370120",
+    "swiftCode" : "VNCBYX7D",
+    "country" : "Samoa",
+    "contact" : "416.863.3958",
+    "email" : "gilbert.simonis@yahoo.com",
+    "established" : "Sat Jun 01 17:59:35 IST 2002",
+    "license" : "LIC-05275167"
+  }
+}, {
+  "customer" : {
+    "id" : "410b6c09-9ef3-4c53-9e4f-28722a664abc",
+    "name" : "Mary Champlin",
+    "email" : "dwight.funk@hotmail.com",
+    "phone" : "1-304-587-2674",
+    "address" : "181 Cathleen Field, Port Frankie, NE 86084-4109",
+    "dob" : "Sun Oct 15 04:47:58 IST 2000",
+    "gender" : "Female",
+    "nationalId" : "013-87-3853",
+    "occupation" : "IT Executive",
+    "createdAt" : "Tue Sep 05 11:19:17 IST 2023"
+  },
+  "transaction" : {
+    "id" : "3c18b3f2-f82d-45f6-8beb-0fcc8741ab61",
+    "type" : "deposit",
+    "amount" : 1330.74,
+    "currency" : "USD",
+    "status" : "completed",
+    "timestamp" : "Fri Aug 02 21:47:12 IST 2024",
+    "description" : "Est ut reprehenderit fugit quia.",
+    "method" : "branch",
+    "reference" : "6af8c687",
+    "fee" : 0.98
+  },
+  "bank" : {
+    "id" : "926aab32-6943-4fd9-bc46-be1f59a57561",
+    "name" : "Runolfsson, Hackett and Gutmann",
+    "branch" : "Hagenes Locks",
+    "branchCode" : "426900",
+    "swiftCode" : "WWCKTE5E",
+    "country" : "Dominica",
+    "contact" : "749-206-9796",
+    "email" : "maximo.cassin@yahoo.com",
+    "established" : "Fri Aug 06 19:07:22 IST 2010",
+    "license" : "LIC-88828199"
+  }
+}, {
+  "customer" : {
+    "id" : "68128ddb-df0d-4a77-8e55-047223a81df7",
+    "name" : "Andra Schultz MD",
+    "email" : "stephani.spencer@gmail.com",
+    "phone" : "159.265.7146",
+    "address" : "Suite 430 57381 Dianna Spurs, Alfonsomouth, SC 20576",
+    "dob" : "Fri Oct 21 11:40:59 IST 1994",
+    "gender" : "Female",
+    "nationalId" : "364-77-7194",
+    "occupation" : "Retail Technician",
+    "createdAt" : "Tue Aug 13 22:08:27 IST 2024"
+  },
+  "transaction" : {
+    "id" : "d4c4c704-0503-48b5-af08-2b6b2cb95d4a",
+    "type" : "withdrawal",
+    "amount" : 4160.29,
+    "currency" : "USD",
+    "status" : "completed",
+    "timestamp" : "Sat Sep 21 03:52:06 IST 2024",
+    "description" : "Consequatur aspernatur eum amet rerum eum.",
+    "method" : "ATM",
+    "reference" : "27386cca",
+    "fee" : 7.46
+  },
+  "bank" : {
+    "id" : "467fd0ac-f75c-42d8-bc83-5fc3288739e3",
+    "name" : "Schuppe, Feeney and Cormier",
+    "branch" : "Bruen Drives",
+    "branchCode" : "265731",
+    "swiftCode" : "SWYDRC5Z005",
+    "country" : "South Africa",
+    "contact" : "164-879-5240 x78285",
+    "email" : "sam.orn@yahoo.com",
+    "established" : "Sun Dec 18 07:14:20 IST 2022",
+    "license" : "LIC-08178460"
+  }
+}, {
+  "customer" : {
+    "id" : "9513feaf-fc48-4e36-95f7-bdc8cc033dd9",
+    "name" : "Mrs. Romana Hoppe",
+    "email" : "stepanie.ledner@gmail.com",
+    "phone" : "922.188.4397",
+    "address" : "Suite 659 396 Tod Light, Port Columbus, LA 63134-0914",
+    "dob" : "Sun Mar 29 18:29:21 IST 1998",
+    "gender" : "Female",
+    "nationalId" : "014-96-9539",
+    "occupation" : "Advertising Consultant",
+    "createdAt" : "Sat Sep 21 13:53:15 IST 2024"
+  },
+  "transaction" : {
+    "id" : "a6605b95-9037-462e-8f88-65bde186f72e",
+    "type" : "transfer",
+    "amount" : 8545.0,
+    "currency" : "USD",
+    "status" : "pending",
+    "timestamp" : "Tue Dec 31 01:08:13 IST 2024",
+    "description" : "Debitis repudiandae expedita.",
+    "method" : "ATM",
+    "reference" : "59291876",
+    "fee" : 4.55
+  },
+  "bank" : {
+    "id" : "45514a85-5979-43ac-87cc-9772eb33dc61",
+    "name" : "Tillman, Spencer and Borer",
+    "branch" : "Jones Parkways",
+    "branchCode" : "201566",
+    "swiftCode" : "OPYXZXN9",
+    "country" : "Bangladesh",
+    "contact" : "371-918-9287",
+    "email" : "rene.kohler@yahoo.com",
+    "established" : "Sat Aug 11 08:08:35 IST 2001",
+    "license" : "LIC-52253808"
+  }
+}, {
+  "customer" : {
+    "id" : "52062063-3b17-4eb3-9c15-3b00a8509c7f",
+    "name" : "Damion Waelchi",
+    "email" : "vikki.blick@yahoo.com",
+    "phone" : "306.464.9154",
+    "address" : "Suite 323 0299 Stanton Station, Othaland, WV 94348-5299",
+    "dob" : "Wed Apr 16 03:56:42 IST 1980",
+    "gender" : "Female",
+    "nationalId" : "899-56-7200",
+    "occupation" : "Legacy Construction Strategist",
+    "createdAt" : "Sat Sep 28 15:12:39 IST 2024"
+  },
+  "transaction" : {
+    "id" : "85373a0c-25e4-43a0-9893-2eb6f68b06d1",
+    "type" : "payment",
+    "amount" : 1192.66,
+    "currency" : "USD",
+    "status" : "failed",
+    "timestamp" : "Wed Oct 16 07:22:57 IST 2024",
+    "description" : "Cum voluptatem velit accusamus enim.",
+    "method" : "online",
+    "reference" : "216409b2",
+    "fee" : 1.29
+  },
+  "bank" : {
+    "id" : "ff65179f-9d91-400d-bc9f-9e571cefb5bf",
+    "name" : "Schoen Group",
+    "branch" : "Charissa Estate",
+    "branchCode" : "179143",
+    "swiftCode" : "ZMEWTPOQ20C",
+    "country" : "Sao Tome and Principe",
+    "contact" : "1-155-384-2736 x740",
+    "email" : "dalton.krajcik@yahoo.com",
+    "established" : "Mon Jul 30 13:08:24 IST 2007",
+    "license" : "LIC-40145300"
+  }
+}, {
+  "customer" : {
+    "id" : "121b7e76-d6ed-4e3b-be10-ac20d9b12ba6",
+    "name" : "Miss Josefa Emard",
+    "email" : "noel.bernhard@yahoo.com",
+    "phone" : "(854) 993-7941",
+    "address" : "007 Streich Flats, Port Margarito, TX 55380",
+    "dob" : "Fri Mar 25 05:09:33 IST 1988",
+    "gender" : "Female",
+    "nationalId" : "101-68-4043",
+    "occupation" : "District Community-Services Architect",
+    "createdAt" : "Sun Apr 28 09:32:43 IST 2024"
+  },
+  "transaction" : {
+    "id" : "ee8fc058-db6e-4e3a-a4db-a62abc34443b",
+    "type" : "payment",
+    "amount" : 1979.98,
+    "currency" : "USD",
+    "status" : "failed",
+    "timestamp" : "Wed Oct 23 19:56:22 IST 2024",
+    "description" : "Exercitationem aliquam harum et ut odit officia.",
+    "method" : "branch",
+    "reference" : "c08b9755",
+    "fee" : 8.16
+  },
+  "bank" : {
+    "id" : "c1a3ee24-572a-4467-944d-1458dfbcf7f3",
+    "name" : "O'Keefe Inc",
+    "branch" : "Goodwin Valley",
+    "branchCode" : "760936",
+    "swiftCode" : "RLNICG089V8",
+    "country" : "Madagascar",
+    "contact" : "732.052.8821 x816",
+    "email" : "christi.doyle@hotmail.com",
+    "established" : "Sat Jan 25 22:17:20 IST 2014",
+    "license" : "LIC-62690716"
+  }
+}, {
+  "customer" : {
+    "id" : "b889913d-594f-43e9-a98c-9cd2e98ede03",
+    "name" : "Berta Monahan",
+    "email" : "dovie.huels@yahoo.com",
+    "phone" : "090-149-1966",
+    "address" : "327 Chester Junctions, Port Fidelborough, ID 98560-0827",
+    "dob" : "Thu Jul 30 15:36:18 IST 1981",
+    "gender" : "Male",
+    "nationalId" : "278-78-2323",
+    "occupation" : "Sales Technician",
+    "createdAt" : "Fri May 12 21:50:14 IST 2023"
+  },
+  "transaction" : {
+    "id" : "95fed50a-cd43-48d0-a6ef-9076701b80f8",
+    "type" : "payment",
+    "amount" : 4780.53,
+    "currency" : "USD",
+    "status" : "completed",
+    "timestamp" : "Tue Jul 23 19:50:50 IST 2024",
+    "description" : "Id hic in sed non debitis.",
+    "method" : "ATM",
+    "reference" : "71342a56",
+    "fee" : 0.99
+  },
+  "bank" : {
+    "id" : "afbb91bb-4e18-4283-ac44-c695e0b23df0",
+    "name" : "Pacocha, Medhurst and Hirthe",
+    "branch" : "Miquel Alley",
+    "branchCode" : "870252",
+    "swiftCode" : "ANTSLS8814A",
+    "country" : "South Georgia and the South Sandwich Islands",
+    "contact" : "224-632-3890",
+    "email" : "carmelo.lind@hotmail.com",
+    "established" : "Tue Mar 31 22:11:07 IST 2009",
+    "license" : "LIC-75533213"
+  }
+}, {
+  "customer" : {
+    "id" : "d697be9c-0d48-4e46-bc1e-415d8cebe710",
+    "name" : "Jere O'Connell",
+    "email" : "darron.pfannerstill@gmail.com",
+    "phone" : "008-922-4020",
+    "address" : "Apt. 092 0629 Wilton Views, Port Granvilleshire, MA 35046",
+    "dob" : "Thu Feb 08 20:26:53 IST 2001",
+    "gender" : "Male",
+    "nationalId" : "276-55-7941",
+    "occupation" : "Healthcare Developer",
+    "createdAt" : "Wed Dec 07 10:33:03 IST 2022"
+  },
+  "transaction" : {
+    "id" : "6ae17611-6a5a-419b-9f44-6b6504c110ea",
+    "type" : "payment",
+    "amount" : 7229.55,
+    "currency" : "USD",
+    "status" : "completed",
+    "timestamp" : "Wed Jan 29 17:58:55 IST 2025",
+    "description" : "Fuga velit earum est officiis aut consequatur sunt.",
+    "method" : "branch",
+    "reference" : "5eb73556",
+    "fee" : 5.46
+  },
+  "bank" : {
+    "id" : "accb71c6-8bb3-4fcd-ac93-ea7feda143c0",
+    "name" : "Nicolas and Sons",
+    "branch" : "Gislason Fords",
+    "branchCode" : "738902",
+    "swiftCode" : "YLIZWPQ7RFG",
+    "country" : "Argentina",
+    "contact" : "780.371.1649 x6012",
+    "email" : "jimmy.weimann@hotmail.com",
+    "established" : "Mon Aug 07 03:46:32 IST 2017",
+    "license" : "LIC-21246762"
+  }
+}, {
+  "customer" : {
+    "id" : "c46e2f03-53f5-4444-8005-1c4113786a49",
+    "name" : "Joey Murphy",
+    "email" : "aleisha.bogan@hotmail.com",
+    "phone" : "(491) 036-8041",
+    "address" : "00445 Kihn Path, Parkerstad, DE 03361-6168",
+    "dob" : "Fri Jun 30 10:07:43 IST 1978",
+    "gender" : "Female",
+    "nationalId" : "527-72-3616",
+    "occupation" : "Dynamic Analyst",
+    "createdAt" : "Thu Jan 04 03:55:04 IST 2024"
+  },
+  "transaction" : {
+    "id" : "25c7d963-b229-4bac-a57a-0297e1166ebf",
+    "type" : "withdrawal",
+    "amount" : 3144.26,
+    "currency" : "USD",
+    "status" : "failed",
+    "timestamp" : "Wed Feb 05 22:30:05 IST 2025",
+    "description" : "Perferendis et et delectus.",
+    "method" : "branch",
+    "reference" : "a50dd5a3",
+    "fee" : 4.08
+  },
+  "bank" : {
+    "id" : "52b7b43b-50a1-48a9-9ef4-acc92371a85c",
+    "name" : "Turcotte and Sons",
+    "branch" : "West Forest",
+    "branchCode" : "254326",
+    "swiftCode" : "LPAIIF4X58K",
+    "country" : "Lebanon",
+    "contact" : "253.310.6218 x70344",
+    "email" : "janey.hilpert@yahoo.com",
+    "established" : "Wed Apr 11 10:06:59 IST 2018",
+    "license" : "LIC-29104587"
+  }
+}, {
+  "customer" : {
+    "id" : "3337c08f-0dc9-4501-b027-856c18adb419",
+    "name" : "Gisela Nicolas",
+    "email" : "jaleesa.homenick@yahoo.com",
+    "phone" : "618.547.3544",
+    "address" : "Apt. 367 05552 Jess Forest, Marvinchester, OH 22209",
+    "dob" : "Sun Aug 08 00:17:07 IST 1993",
+    "gender" : "Female",
+    "nationalId" : "041-77-5918",
+    "occupation" : "Future Technology Executive",
+    "createdAt" : "Wed Sep 21 03:33:44 IST 2022"
+  },
+  "transaction" : {
+    "id" : "95e3df33-7703-4fcb-85a2-d3eac5e63751",
+    "type" : "payment",
+    "amount" : 635.86,
+    "currency" : "USD",
+    "status" : "failed",
+    "timestamp" : "Sat Oct 12 08:58:28 IST 2024",
+    "description" : "Harum voluptas magnam consequatur ducimus omnis.",
+    "method" : "online",
+    "reference" : "33ab1e65",
+    "fee" : 2.35
+  },
+  "bank" : {
+    "id" : "a6a8e9f3-5648-4eb8-a3c9-3360f974cf2a",
+    "name" : "Gutmann, Moore and Schimmel",
+    "branch" : "Jacobi Road",
+    "branchCode" : "871865",
+    "swiftCode" : "IKPJSJ9GGZ9",
+    "country" : "Lao People's Democratic Republic",
+    "contact" : "1-586-822-0985",
+    "email" : "margert.keebler@gmail.com",
+    "established" : "Fri Sep 28 02:12:08 IST 2001",
+    "license" : "LIC-60537871"
+  }
+}, {
+  "customer" : {
+    "id" : "1f7eab71-2c16-489d-a389-a9b7876b9efc",
+    "name" : "Sandy Kirlin",
+    "email" : "rosita.leuschke@gmail.com",
+    "phone" : "737.820.2140",
+    "address" : "Suite 277 129 Sammy Field, Mayertside, ID 33515",
+    "dob" : "Tue Jul 18 04:12:44 IST 2000",
+    "gender" : "Male",
+    "nationalId" : "320-48-5780",
+    "occupation" : "Farming Technician",
+    "createdAt" : "Wed Aug 02 04:39:11 IST 2023"
+  },
+  "transaction" : {
+    "id" : "f8f259ba-559d-4d6f-9b91-cf1e5f850acf",
+    "type" : "payment",
+    "amount" : 351.94,
+    "currency" : "USD",
+    "status" : "completed",
+    "timestamp" : "Mon Sep 23 13:12:21 IST 2024",
+    "description" : "Laboriosam alias autem cumque qui blanditiis maiores porro.",
+    "method" : "ATM",
+    "reference" : "ba2ecff1",
+    "fee" : 6.51
+  },
+  "bank" : {
+    "id" : "c9ac38ad-e590-47e6-9076-129bfa694bfd",
+    "name" : "McKenzie-Fisher",
+    "branch" : "Swift Spur",
+    "branchCode" : "859816",
+    "swiftCode" : "BKNCHUVEE1U",
+    "country" : "Mongolia",
+    "contact" : "(499) 279-0576 x9886",
+    "email" : "evette.franecki@yahoo.com",
+    "established" : "Sun Jul 25 03:45:57 IST 1999",
+    "license" : "LIC-23469032"
+  }
+}, {
+  "customer" : {
+    "id" : "f9bed9e5-ef20-4576-9e0a-4b8533845d2d",
+    "name" : "Kathleen Klein",
+    "email" : "erich.will@hotmail.com",
+    "phone" : "(225) 954-4732",
+    "address" : "Apt. 043 9963 Parisian Brook, Colettamouth, NY 86397-3148",
+    "dob" : "Wed Nov 18 03:01:05 IST 1987",
+    "gender" : "Male",
+    "nationalId" : "639-31-4967",
+    "occupation" : "Senior Legal Liaison",
+    "createdAt" : "Fri Sep 06 07:41:37 IST 2024"
+  },
+  "transaction" : {
+    "id" : "7fb90174-8bdd-456f-8573-735d797379c1",
+    "type" : "payment",
+    "amount" : 4886.02,
+    "currency" : "USD",
+    "status" : "pending",
+    "timestamp" : "Wed Aug 14 03:09:21 IST 2024",
+    "description" : "Quia odit tempore quos in.",
+    "method" : "online",
+    "reference" : "53ee9196",
+    "fee" : 8.73
+  },
+  "bank" : {
+    "id" : "07620726-cef6-4738-b3ab-0ebcfdd80f5e",
+    "name" : "Lockman-Kirlin",
+    "branch" : "Corkery Neck",
+    "branchCode" : "096234",
+    "swiftCode" : "AOCEHTAXCOU",
+    "country" : "Chad",
+    "contact" : "(632) 898-4645 x192",
+    "email" : "leopoldo.waelchi@gmail.com",
+    "established" : "Sun Oct 10 17:17:21 IST 1999",
+    "license" : "LIC-58043310"
+  }
+}, {
+  "customer" : {
+    "id" : "cebaaf57-ba53-4719-888e-f1857897a3e8",
+    "name" : "Winnifred Heathcote",
+    "email" : "raylene.hartmann@hotmail.com",
+    "phone" : "036.885.3169",
+    "address" : "Apt. 174 32192 Ferry Overpass, Schimmelhaven, PA 82314",
+    "dob" : "Sun Jan 25 10:33:44 IST 1976",
+    "gender" : "Male",
+    "nationalId" : "313-08-8322",
+    "occupation" : "Healthcare Officer",
+    "createdAt" : "Sun Mar 09 01:36:14 IST 2025"
+  },
+  "transaction" : {
+    "id" : "44dc649a-8ee3-40c8-a3b1-a8a4acebab71",
+    "type" : "withdrawal",
+    "amount" : 7091.35,
+    "currency" : "USD",
+    "status" : "pending",
+    "timestamp" : "Sun Nov 17 10:48:28 IST 2024",
+    "description" : "Soluta velit maxime praesentium aut est dolor sed.",
+    "method" : "ATM",
+    "reference" : "ec31baea",
+    "fee" : 6.92
+  },
+  "bank" : {
+    "id" : "9c3053e3-78f5-4cc5-84d4-795169bd0427",
+    "name" : "Kuhn, Nikolaus and Pagac",
+    "branch" : "Robel Keys",
+    "branchCode" : "983117",
+    "swiftCode" : "YHZFAK96",
+    "country" : "Brazil",
+    "contact" : "1-536-734-5842 x4298",
+    "email" : "chauncey.schoen@yahoo.com",
+    "established" : "Sat Feb 28 17:37:32 IST 1998",
+    "license" : "LIC-56590244"
+  }
+}, {
+  "customer" : {
+    "id" : "ecfbd931-c897-436d-be43-c5f8719c44c5",
+    "name" : "Mrs. Allie Rice",
+    "email" : "marcus.hammes@hotmail.com",
+    "phone" : "(935) 127-2694",
+    "address" : "28550 Stoltenberg Plaza, East Classie, NE 78080-7936",
+    "dob" : "Tue Jun 02 09:43:29 IST 1970",
+    "gender" : "Male",
+    "nationalId" : "801-09-7591",
+    "occupation" : "Forward Design Analyst",
+    "createdAt" : "Sun Mar 03 15:00:36 IST 2024"
+  },
+  "transaction" : {
+    "id" : "23c91a9a-40bd-4558-a596-071ae488bc47",
+    "type" : "deposit",
+    "amount" : 5382.23,
+    "currency" : "USD",
+    "status" : "pending",
+    "timestamp" : "Sat Jan 04 08:51:00 IST 2025",
+    "description" : "Placeat qui voluptatem qui autem non eum.",
+    "method" : "ATM",
+    "reference" : "17f7d878",
+    "fee" : 1.52
+  },
+  "bank" : {
+    "id" : "32fbd2a7-a77b-4c8a-9f82-b667ad4b92c0",
+    "name" : "Lynch and Sons",
+    "branch" : "Kertzmann Mount",
+    "branchCode" : "007726",
+    "swiftCode" : "DYAGSV54271",
+    "country" : "Cyprus",
+    "contact" : "(369) 425-7286 x090",
+    "email" : "donette.nienow@hotmail.com",
+    "established" : "Wed Dec 04 10:56:03 IST 2019",
+    "license" : "LIC-14933610"
+  }
+}, {
+  "customer" : {
+    "id" : "f0f6384d-3c62-4f45-a4f0-dd939ea4a3fb",
+    "name" : "Misti Kirlin",
+    "email" : "felisha.heller@yahoo.com",
+    "phone" : "1-444-865-8991",
+    "address" : "12813 Hirthe Walk, East Ira, MT 82623-0435",
+    "dob" : "Thu Mar 13 15:41:08 IST 1975",
+    "gender" : "Male",
+    "nationalId" : "224-56-9848",
+    "occupation" : "Banking Associate",
+    "createdAt" : "Sat Jul 06 17:20:35 IST 2024"
+  },
+  "transaction" : {
+    "id" : "0143744a-5fae-4f4f-9491-4303c4c15bbc",
+    "type" : "payment",
+    "amount" : 2723.04,
+    "currency" : "USD",
+    "status" : "failed",
+    "timestamp" : "Sat Oct 12 13:15:28 IST 2024",
+    "description" : "Aut quibusdam et alias adipisci.",
+    "method" : "ATM",
+    "reference" : "4de548ab",
+    "fee" : 1.62
+  },
+  "bank" : {
+    "id" : "a461b2ce-04a8-4a62-a50a-32ffa454d468",
+    "name" : "VonRueden-Breitenberg",
+    "branch" : "Klein Points",
+    "branchCode" : "045610",
+    "swiftCode" : "IUKOGTO5TEL",
+    "country" : "Singapore",
+    "contact" : "(530) 539-9242 x6404",
+    "email" : "joey.batz@yahoo.com",
+    "established" : "Fri May 12 08:52:27 IST 2000",
+    "license" : "LIC-06253556"
+  }
+}, {
+  "customer" : {
+    "id" : "7d329134-6a18-4de7-ae3e-3052431fa244",
+    "name" : "Thad Greenholt II",
+    "email" : "felica.stehr@yahoo.com",
+    "phone" : "499-072-5039",
+    "address" : "Apt. 902 698 Mildred Way, Lake Damien, OR 15644",
+    "dob" : "Tue Mar 20 01:09:02 IST 2007",
+    "gender" : "Male",
+    "nationalId" : "601-72-0684",
+    "occupation" : "District Marketing Architect",
+    "createdAt" : "Mon Dec 12 12:15:31 IST 2022"
+  },
+  "transaction" : {
+    "id" : "2f2363f0-a6d2-4745-a635-add98afe4b76",
+    "type" : "transfer",
+    "amount" : 7202.05,
+    "currency" : "USD",
+    "status" : "failed",
+    "timestamp" : "Sun Mar 02 06:29:49 IST 2025",
+    "description" : "Omnis quidem quis facere.",
+    "method" : "online",
+    "reference" : "fc03de5d",
+    "fee" : 1.8
+  },
+  "bank" : {
+    "id" : "06dfd448-90d8-49c2-93a2-e1cce155d8c4",
+    "name" : "Becker and Sons",
+    "branch" : "Beahan Street",
+    "branchCode" : "435127",
+    "swiftCode" : "BMRHFW5M957",
+    "country" : "India",
+    "contact" : "201-333-5126 x0839",
+    "email" : "rozella.bahringer@yahoo.com",
+    "established" : "Sat Feb 25 23:36:18 IST 2006",
+    "license" : "LIC-73512015"
+  }
+}, {
+  "customer" : {
+    "id" : "e75fb56e-9b67-4dd3-998e-16204294c603",
+    "name" : "Merlyn Hammes",
+    "email" : "ammie.luettgen@yahoo.com",
+    "phone" : "168.368.0430",
+    "address" : "02304 Vanda Harbors, Port Cheryllberg, OR 44548",
+    "dob" : "Sat Jan 28 16:40:50 IST 1995",
+    "gender" : "Male",
+    "nationalId" : "597-85-3500",
+    "occupation" : "Human Producer",
+    "createdAt" : "Mon Apr 28 05:49:35 IST 2025"
+  },
+  "transaction" : {
+    "id" : "036eef63-ffe0-4cf9-81f8-2fc27d770902",
+    "type" : "transfer",
+    "amount" : 9731.63,
+    "currency" : "USD",
+    "status" : "pending",
+    "timestamp" : "Fri Jan 31 22:40:00 IST 2025",
+    "description" : "Non dolorem voluptate error.",
+    "method" : "online",
+    "reference" : "8a87fca7",
+    "fee" : 0.92
+  },
+  "bank" : {
+    "id" : "6a9a8ab1-6520-4fbb-a820-7580228f5d56",
+    "name" : "Renner-Funk",
+    "branch" : "Lebsack Walk",
+    "branchCode" : "592517",
+    "swiftCode" : "YAFOKHZ39AY",
+    "country" : "Togo",
+    "contact" : "1-507-255-6241 x6488",
+    "email" : "moshe.schuster@yahoo.com",
+    "established" : "Sun Apr 04 14:24:05 IST 2021",
+    "license" : "LIC-30168881"
+  }
+}, {
+  "customer" : {
+    "id" : "6d9560cc-2653-4cbc-b691-6153d891a6e0",
+    "name" : "Carlos Graham",
+    "email" : "venita.swift@hotmail.com",
+    "phone" : "1-533-632-4550",
+    "address" : "367 Daniel Rapids, Port Majorieview, ID 21860",
+    "dob" : "Fri May 01 08:24:10 IST 1987",
+    "gender" : "Male",
+    "nationalId" : "116-55-7971",
+    "occupation" : "Design Supervisor",
+    "createdAt" : "Sun Aug 20 02:17:24 IST 2023"
+  },
+  "transaction" : {
+    "id" : "80dcca5b-bce7-4bc7-a124-6247d5603615",
+    "type" : "payment",
+    "amount" : 2292.31,
+    "currency" : "USD",
+    "status" : "failed",
+    "timestamp" : "Wed Nov 20 08:40:58 IST 2024",
+    "description" : "Maxime eum et et tempora.",
+    "method" : "branch",
+    "reference" : "0fc7672e",
+    "fee" : 6.29
+  },
+  "bank" : {
+    "id" : "0892d0e8-2764-4f0a-89f3-b4163b1c9906",
+    "name" : "Jast-Kreiger",
+    "branch" : "King Brook",
+    "branchCode" : "761665",
+    "swiftCode" : "AKUSTNRQ",
+    "country" : "Virgin Islands, U.S.",
+    "contact" : "1-521-520-2752",
+    "email" : "rudolph.corkery@gmail.com",
+    "established" : "Fri Feb 16 20:12:09 IST 2024",
+    "license" : "LIC-10048622"
+  }
+}, {
+  "customer" : {
+    "id" : "ef7ab475-f164-4cea-88ee-f7d6354df05e",
+    "name" : "Marvin Lemke II",
+    "email" : "dante.parker@hotmail.com",
+    "phone" : "140-619-6374",
+    "address" : "97874 Doyle Bypass, North Rosella, HI 08194",
+    "dob" : "Fri Sep 05 10:09:23 IST 1986",
+    "gender" : "Male",
+    "nationalId" : "544-63-2245",
+    "occupation" : "Marketing Coordinator",
+    "createdAt" : "Sun Feb 11 17:52:23 IST 2024"
+  },
+  "transaction" : {
+    "id" : "9b0c92eb-3d80-4cd6-9d49-1ed25f9c7b28",
+    "type" : "transfer",
+    "amount" : 4115.4,
+    "currency" : "USD",
+    "status" : "pending",
+    "timestamp" : "Sat Jul 20 01:37:05 IST 2024",
+    "description" : "Dignissimos quisquam odio.",
+    "method" : "branch",
+    "reference" : "82deb643",
+    "fee" : 0.31
+  },
+  "bank" : {
+    "id" : "7868d708-ef0c-4c5a-8879-1296a0ff29be",
+    "name" : "Wyman Group",
+    "branch" : "Kozey Mill",
+    "branchCode" : "401800",
+    "swiftCode" : "MHOTHN8C",
+    "country" : "Belarus",
+    "contact" : "1-580-967-6030",
+    "email" : "billy.fahey@yahoo.com",
+    "established" : "Thu Feb 10 19:38:19 IST 2005",
+    "license" : "LIC-02836323"
+  }
+} ]
