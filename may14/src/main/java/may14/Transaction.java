@@ -1,12 +1,12 @@
 package may14;
 
-import org.example.FixedWidth;
+
 
 public record Transaction(
-		  @FixedWidth(size = 10)  String id,
-		  @FixedWidth(size = 10)  String type,
-		  @FixedWidth(size = 10) double amount,
-	    @FixedWidth(size = 10) String currency,
+		  String id,
+		  String type,
+		) double amount,
+	   String currency,
 	    @FixedWidth(size = 10) String status,
 	    @FixedWidth(size = 10)  String timestamp,
 	    @FixedWidth(size = 10) String description,
