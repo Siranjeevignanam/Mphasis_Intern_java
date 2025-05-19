@@ -1,5 +1,5 @@
 cus_id                          name                email                          | trans_id        cus_id          am         timestamp           
-C021                           Ursula Kelly         ursula.kelly@example.com       | T022            C021            78.00      2025-01-04T18:00:00 
-C008                           Hannah Green         hannah.green@example.com       | T009            C008            199.00     2025-01-04T16:00:00 
-C006                           Fiona Davis          fiona.davis@example.com        | T007            C006            300.00     2025-01-04T12:00:00 
-C014                           Nina Evans           nina.evans@example.com         | T015            C014            120.00     2025-01-04T11:25:00 
+C021           Ursula Kelursula.kel | C021           T022                78.00          2025-01-04T18:00:00      
+C008           Hannah Grehannah.gre | C008           T009                199.00         2025-01-04T16:00:00      
+C006           Fiona Davifiona.davi | C006           T007                300.00         2025-01-04T12:00:00      
+C014           Nina Evansnina.evans | C014           T015                120.00         2025-01-04T11:25:00      

@@ -2,8 +2,14 @@ package pojo;
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 
+import FixedLength.FixedLength;
+import FixedLength.Formatter;
+
 @JsonIgnoreProperties(ignoreUnknown = true)
-public record Customer(String cus_id, String name, String email) {
+public record Customer(
+		@FixedLength(15) String cus_id,
+	    @FixedLength(10) String name,
+	    @FixedLength(10) String email) {
 	
 	public static String header()
 	{
@@ -12,6 +18,6 @@ public record Customer(String cus_id, String name, String email) {
 	}
     @Override
     public String toString() {
-        return String.format("%-30s %-20s %-30s", cus_id, name, email);
+    	return Formatter.formatRecord(this);
     }
 }
