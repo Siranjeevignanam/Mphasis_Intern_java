@@ -1,0 +1,4 @@
+C021,Ursula Kelly,ursula.kelly@example.com | C021,T022,78.0,2025-01-04T18:00:00
+C008,Hannah Green,hannah.green@example.com | C008,T009,199.0,2025-01-04T16:00:00
+C006,Fiona Davis,fiona.davis@example.com | C006,T007,300.0,2025-01-04T12:00:00
+C014,Nina Evans,nina.evans@example.com | C014,T015,120.0,2025-01-04T11:25:00

@@ -1,0 +1,5 @@
+C002,Bob Smith,bob.smith@example.com | C002,T003,500.0,2025-01-02T14:30:00
+C022,Victor Cooper,victor.cooper@example.com | C022,T023,450.0,2025-01-02T09:00:00
+C011,Kevin Hall,kevin.hall@example.com | C011,T012,540.0,2025-01-02T13:00:00
+C005,Ethan Clark,ethan.clark@example.com | C005,T006,45.75,2025-01-02T10:10:00
+C015,Oscar Hill,oscar.hill@example.com | C015,T016,312.5,2025-01-02T10:45:00

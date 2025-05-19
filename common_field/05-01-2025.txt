@@ -1,0 +1,4 @@
+C024,Xander Morgan,xander.morgan@example.com | C024,T025,92.0,2025-01-05T08:00:00
+C010,Jasmine White,jasmine.white@example.com | C010,T011,63.3,2025-01-05T09:30:00
+C019,Steve Baker,steve.baker@example.com | C019,T020,15.0,2025-01-05T17:45:00
+C016,Paula Allen,paula.allen@example.com | C016,T017,415.0,2025-01-05T13:20:00
