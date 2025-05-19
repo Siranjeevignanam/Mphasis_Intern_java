@@ -19,22 +19,21 @@ public class MongoToPojo {
 
     public static void main(String[] args) throws Exception {
         ObjectMapper mapper = new ObjectMapper();
-        mapper.configure(DeserializationFeature.FAIL_ON_UNKNOWN_PROPERTIES, true);
+        mapper.configure(DeserializationFeature.FAIL_ON_UNKNOWN_PROPERTIES, false);
 
         MongoClient mongoClient = MongoClients.create("mongodb://localhost:27017");
         MongoDatabase db = mongoClient.getDatabase("Example1");
 
-        MongoCollection<Document> customerCol = db.getCollection("Customer");
-        MongoCollection<Document> transactionCol = db.getCollection("Transaction");
-
         // Load customers into Map<cus_id, Customer>
+        MongoCollection<Document> customerCol = db.getCollection("Customer");
         Map<String, Customer> customerMap = new HashMap<>();
         for (Document doc : customerCol.find()) {
             Customer customer = mapper.readValue(doc.toJson(), Customer.class);
             customerMap.put(customer.cus_id(), customer);
         }
 
-        // Date formatter matching timestamp format: ISO_LOCAL_DATE_TIME
+        // Read transactions
+        MongoCollection<Document> transactionCol = db.getCollection("Transaction");
         DateTimeFormatter isoFormatter = DateTimeFormatter.ISO_LOCAL_DATE_TIME;
 
         // Group transactions by date and customer
@@ -51,28 +50,22 @@ public class MongoToPojo {
                 .add(tx);
         }
 
-        // Write to .txt files grouped by date
         DateTimeFormatter outputFormatter = DateTimeFormatter.ofPattern("dd-MM-yyyy");
 
         for (Map.Entry<LocalDate, Map<String, List<Transaction>>> dateEntry : groupedData.entrySet()) {
             String fileName = outputFormatter.format(dateEntry.getKey()) + ".txt";
 
             try (BufferedWriter writer = new BufferedWriter(new FileWriter(fileName))) {
+                // Print header line only once per file:
+                writer.write(Customer.header() + " | " + Transaction.header());
+                writer.newLine();
+
                 for (Map.Entry<String, List<Transaction>> custEntry : dateEntry.getValue().entrySet()) {
                     Customer customer = customerMap.get(custEntry.getKey());
 
                     if (customer != null) {
                         for (Transaction tx : custEntry.getValue()) {
-                            Map<String, Object> mapCustomer = mapper.convertValue(customer, Map.class);
-                            Map<String, Object> mapTransaction = mapper.convertValue(tx, Map.class);
-
-                            String customerValues = String.join(",", mapCustomer.values().stream()
-                                .map(String::valueOf).toList());
-
-                            String transactionValues = String.join(",", mapTransaction.values().stream()
-                                .map(String::valueOf).toList());
-
-                            writer.write(customerValues + " | " + transactionValues);
+                            writer.write(customer.toString() + " | " + tx.toString());
                             writer.newLine();
                         }
                     }
@@ -80,6 +73,6 @@ public class MongoToPojo {
             }
         }
 
-        System.out.println("Files written successfully with values-only output.");
+        System.out.println("Files written successfully with headers and formatted data.");
     }
 }

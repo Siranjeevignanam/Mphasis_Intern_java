@@ -1,5 +1,6 @@
-C013,Michael Scott,michael.scott@example.com | C013,T014,230.0,2025-01-03T10:10:00
-C023,Wendy Ross,wendy.ross@example.com | C023,T024,33.5,2025-01-03T20:10:00
-C012,Laura Adams,laura.adams@example.com | C012,T013,34.5,2025-01-03T15:45:00
-C017,Quincy Wright,quincy.wright@example.com | C017,T018,99.99,2025-01-03T14:50:00
-C004,Diana King,diana.king@example.com | C004,T005,600.0,2025-01-03T08:00:00
+cus_id                          name                email                          | trans_id        cus_id          am         timestamp           
+C013                           Michael Scott        michael.scott@example.com      | T014            C013            230.00     2025-01-03T10:10:00 
+C023                           Wendy Ross           wendy.ross@example.com         | T024            C023            33.50      2025-01-03T20:10:00 
+C012                           Laura Adams          laura.adams@example.com        | T013            C012            34.50      2025-01-03T15:45:00 
+C017                           Quincy Wright        quincy.wright@example.com      | T018            C017            99.99      2025-01-03T14:50:00 
+C004                           Diana King           diana.king@example.com         | T005            C004            600.00     2025-01-03T08:00:00 
