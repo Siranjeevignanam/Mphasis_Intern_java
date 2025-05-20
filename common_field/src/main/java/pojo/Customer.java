@@ -8,8 +8,8 @@ import FixedLength.Formatter;
 @JsonIgnoreProperties(ignoreUnknown = true)
 public record Customer(
 		@FixedLength(15) String cus_id,
-	    @FixedLength(10) String name,
-	    @FixedLength(10) String email) {
+	    @FixedLength(20) String name,
+	    @FixedLength(20) String email) {
 	
 	public static String header()
 	{

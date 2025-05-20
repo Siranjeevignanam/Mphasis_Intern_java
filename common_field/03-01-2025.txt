@@ -1,6 +1,6 @@
 cus_id                          name                email                          | trans_id        cus_id          am         timestamp           
-C013           Michael Scmichael.sc | C013           T014                230.00         2025-01-03T10:10:00      
-C023           Wendy Rosswendy.ross | C023           T024                33.50          2025-01-03T20:10:00      
-C012           Laura Adamlaura.adam | C012           T013                34.50          2025-01-03T15:45:00      
-C017           Quincy Wriquincy.wri | C017           T018                99.99          2025-01-03T14:50:00      
-C004           Diana Kingdiana.king | C004           T005                600.00         2025-01-03T08:00:00      
+C013           Michael Scott       michael.scott@exampl | C013           T014                230.00         2025-01-03T10:10:00      
+C023           Wendy Ross          wendy.ross@example.c | C023           T024                33.50          2025-01-03T20:10:00      
+C012           Laura Adams         laura.adams@example. | C012           T013                34.50          2025-01-03T15:45:00      
+C017           Quincy Wright       quincy.wright@exampl | C017           T018                99.99          2025-01-03T14:50:00      
+C004           Diana King          diana.king@example.c | C004           T005                600.00         2025-01-03T08:00:00      

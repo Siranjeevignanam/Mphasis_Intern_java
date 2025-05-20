@@ -1,8 +1,8 @@
 cus_id                          name                email                          | trans_id        cus_id          am         timestamp           
-C001           Alice Johnalice.john | C001           T001                250.00         2025-01-01T09:15:00      
-C001           Alice Johnalice.john | C001           T002                120.50         2025-01-01T11:45:00      
-C020           Tina Brooktina.brook | C020           T021                340.00         2025-01-01T13:25:00      
-C009           Ivan Mooreivan.moore | C009           T010                980.50         2025-01-01T19:30:00      
-C018           Rachel Torrachel.tor | C018           T019                820.00         2025-01-01T12:10:00      
-C007           George Yougeorge.you | C007           T008                89.99          2025-01-01T14:00:00      
-C003           Charlie Lecharlie.le | C003           T004                75.25          2025-01-01T17:00:00      
+C001           Alice Johnson       alice.johnson@exampl | C001           T001                250.00         2025-01-01T09:15:00      
+C001           Alice Johnson       alice.johnson@exampl | C001           T002                120.50         2025-01-01T11:45:00      
+C020           Tina Brooks         tina.brooks@example. | C020           T021                340.00         2025-01-01T13:25:00      
+C009           Ivan Moore          ivan.moore@example.c | C009           T010                980.50         2025-01-01T19:30:00      
+C018           Rachel Torres       rachel.torres@exampl | C018           T019                820.00         2025-01-01T12:10:00      
+C007           George Young        george.young@example | C007           T008                89.99          2025-01-01T14:00:00      
+C003           Charlie Lee         charlie.lee@example. | C003           T004                75.25          2025-01-01T17:00:00      

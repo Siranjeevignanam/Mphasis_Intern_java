@@ -1,5 +1,5 @@
 cus_id                          name                email                          | trans_id        cus_id          am         timestamp           
-C024           Xander Morxander.mor | C024           T025                92.00          2025-01-05T08:00:00      
-C010           Jasmine Whjasmine.wh | C010           T011                63.30          2025-01-05T09:30:00      
-C019           Steve Bakesteve.bake | C019           T020                15.00          2025-01-05T17:45:00      
-C016           Paula Allepaula.alle | C016           T017                415.00         2025-01-05T13:20:00      
+C024           Xander Morgan       xander.morgan@exampl | C024           T025                92.00          2025-01-05T08:00:00      
+C010           Jasmine White       jasmine.white@exampl | C010           T011                63.30          2025-01-05T09:30:00      
+C019           Steve Baker         steve.baker@example. | C019           T020                15.00          2025-01-05T17:45:00      
+C016           Paula Allen         paula.allen@example. | C016           T017                415.00         2025-01-05T13:20:00      
