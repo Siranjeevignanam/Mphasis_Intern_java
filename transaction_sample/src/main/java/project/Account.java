@@ -26,7 +26,7 @@ public record Account(
 ) {
     public static String header() {
         return String.format(
-            "%-20s %-20s %-20s %-10s %-20s %-15s %-15s %-15s %-15s %-15s %-20s %-20s %-20s %-20s %-10s %-15s %-20s",
+      
             "CustomerMMID", "AccountHolderNumber", "AccountScheme", "AccountSchemeCode",
             "AccountBranch", "AccountIFSC", "AccountBalance", "UnclearedFunds",
             "AmountOnHold", "SpendingLimit", "AccountBank", "CreditCard", "DebitCard",
